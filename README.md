@@ -1,4 +1,4 @@
-# information-Visualisation-Group-7-Assignment-
+# Information-Visualisation-Group-7-Assignment
 
 ## Datasets for visualisation
 The datasets can be found here 

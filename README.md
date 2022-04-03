@@ -4,11 +4,11 @@
 The datasets can be found here 
 https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-1822023714.1648566697
 
-##  Preprocesssing ideas
+#  Preprocesssing ideas
 ### Patrick's ideas
 1. Convert all provided salaries (CompTotal) to a common currency (Currency)
 
-## Visualisation ideas 
+# Visualisation ideas 
 ### Patrick's ideas
 1. compare career type to income 
 2. compare years of coding to income. (YearsCodePro, YearsCode) - What is the contribution of experience to income?

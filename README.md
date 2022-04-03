@@ -6,7 +6,10 @@ https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-18
 
 #  Preprocesssing ideas
 ### Patrick's ideas
-1. Convert all provided salaries (CompTotal) to a common currency (Currency)
+1. Convert all provided salaries (CompTotal) to a common currency (Currency) and scale it to the same payment frequency (CompFreq)
+2. Compute sets of tools used together eg (langauge, IDE, Database, framework)
+   - For each user collect a set of tools they use
+   - Compute popular sets 
 
 # Visualisation ideas 
 ### Patrick's ideas
@@ -16,11 +19,13 @@ https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-18
 4. Compare trends over the years (income, language popularity, average age of developers)
 
 ### Louise's ideas
-1. visualise developer location information on an actual map 
+1.Visualise developer location information on an actual map 
    * Number of delevolpers who participated in the survey per country 
    * Average income per country (or per profession per country)
    * Levels of education per country
 
 ### Aubin's ideas 
 1. Compute the most popular language (eg per profession? ).  (LanguageHaveWorkedWith, LanguageWantToWorkWith)
+2. Visuase the most popular frameworks, tools, databases, IDEs, OS, cloud frameworks, web frameworks 
+3. Visualise popular sets of tools (tool stack)
 

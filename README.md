@@ -15,12 +15,12 @@ https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-18
 3. Check the average number of languages used by a developer (LanguageHaveWorkedWith)
 4. Compare trends over the years (income, language popularity, average age of developers)
 
-### Luisa ideas
+### Louise's ideas
 1. visualise developer location information on an actual map 
    * Number of delevolpers who participated in the survey per country 
    * Average income per country (or per profession per country)
    * Levels of education per country
 
-### Aubin ideas 
+### Aubin's ideas 
 1. Compute the most popular language (eg per profession? ).  (LanguageHaveWorkedWith, LanguageWantToWorkWith)
 

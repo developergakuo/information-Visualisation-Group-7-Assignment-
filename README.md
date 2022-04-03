@@ -26,7 +26,7 @@ https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-18
 
 ### Aubin's ideas 
 1. Compute the most popular language (eg per profession? ).  (LanguageHaveWorkedWith, LanguageWantToWorkWith)
-  -  Allow visualisations to zoom years in and out - see this example xe.com/currencycharts/?from=RUB&to=EUR&view=10Y
+  -  Allow visualisations to zoom years in and out - see this example https://www.xe.com/currencycharts/?from=RUB&to=EUR&view=10Y
 3. Visuase the most popular frameworks, tools, databases, IDEs, OS, cloud frameworks, web frameworks 
 4. Visualise popular sets of tools (tool stack)
 

@@ -10,6 +10,7 @@ https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-18
 2. Compute sets of tools used together eg (langauge, IDE, Database, framework)
    - For each user collect a set of tools they use
    - Compute popular sets 
+3. Remove unneccessary columns, take care of N/A or NaN data values, ensure the data entered in the required data format
 
 # Visualisation ideas 
 ### Patrick's ideas
@@ -29,5 +30,9 @@ https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-18
   -  Allow visualisations to zoom years in and out - see this example https://www.xe.com/currencycharts/?from=RUB&to=EUR&view=10Y
 3. Visuase the most popular frameworks, tools, databases, IDEs, OS, cloud frameworks, web frameworks 
 4. Visualise popular sets of tools (tool stack)
+5. Interactive Visualision on a map (D3.js (Patrick and louise), plotly/tableau/plotly express(Aubin))
+
+# Sample visualisations
+https://datavizproject.com/
 
 

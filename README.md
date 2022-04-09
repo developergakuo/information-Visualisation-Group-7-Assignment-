@@ -5,12 +5,16 @@ The datasets can be found here
 https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-1822023714.1648566697
 
 #  Preprocesssing ideas
-### Patrick's ideas
+### Patrick's ideas 
+
 1. Convert all provided salaries (CompTotal) to a common currency (Currency) and scale it to the same payment frequency (CompFreq)
 2. Compute sets of tools used together eg (langauge, IDE, Database, framework)
    - For each user collect a set of tools they use
    - Compute popular sets 
-3. Remove unneccessary columns, take care of N/A or NaN data values, ensure the data entered in the required data format
+
+//patrick aren't we just suppose to clean the dataset at the preprocessing step? At least based from the lectures/WPO, 
+that is what is mentionned.....
+3. Remove unneccessary columns, take care of N/A or NaN data values, ensure the data entered is in the required data format....
 
 # Visualisation ideas 
 ### Patrick's ideas

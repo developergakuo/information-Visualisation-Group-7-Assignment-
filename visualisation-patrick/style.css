@@ -31,12 +31,11 @@ svg{
     min-width: 950px;
 }
 .country{
-    fill: #ccc;
     stroke: #999;
 }
 
 .country:hover{
-    fill: black
+    fill: whitesmoke
 }
 
 g{

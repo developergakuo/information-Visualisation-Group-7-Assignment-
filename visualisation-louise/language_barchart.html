@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bar Chart Groups</title>
+    <script type="text/javascript" src="d3.js"></script>
+    <style>
+        .bar {
+            fill: #07A0C3;
+        }
+        .bar:hover,
+        .bar:hover .language-name {
+            fill: #086788;
+            font-weight: bold;
+        }
+
+        .language-name {
+            font-family: sans-serif;
+            font-size: 15px;
+            cursor: default;
+            /*fill: black;*/
+        }
+
+        .bar-text {
+            fill: white;
+            font-size: 11px;
+            font-family: sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <script type="text/javascript">
+        const languageUrl = 'data/2021-LanguageWorkedWith_count_per_country.json'
+        let languageData;
+        d3.json(languageUrl)
+            .then((data, error) =>{
+                if (error) {
+                    throw 'Error reading language data: ' + error;
+                } else {
+                    languageData = data;
+                    console.log(languageData);
+                    const country = 'United States of America';
+                    // const country = 'Bangladesh';
+                    // const country = 'Bahamas';
+                    const unitedStatesData = languageData.filter(d => d.country === country)[0];
+                    // console.log(unitedStatesData);
+                    // makeDualBarChart(languageData.filter(d => d.country === 'Bahamas')[0].languageWorkedWith);
+                    makeDualBarChart(unitedStatesData.languageWorkedWith);
+                }
+            });
+
+        function makeDualBarChart(dataset) {
+            const topData = getTopData(dataset, 15);
+            console.log(topData);
+            const h = 500;
+            const w = 1000;
+            const middleWidth = 100;
+            const chartWidth = (w - middleWidth) / 2;
+            const xPadding = 50;
+            const xScaleRight = d3.scaleLinear()
+                .domain([0, d3.max(topData, d => d.count)])
+                .range([xPadding + chartWidth + middleWidth, w + xPadding])
+                .nice();
+            const xScaleLeft = d3.scaleLinear()
+                .domain([0, d3.max(topData, d => d.count)])
+                .range([chartWidth + xPadding, xPadding])
+                .nice();
+            const xAxisRight = d3.axisTop(xScaleRight);
+            const xAxisLeft = d3.axisTop(xScaleLeft);
+            const yScale = d3.scaleBand()
+                .domain(d3.range(topData.length))
+                .rangeRound([0, h])
+                .paddingOuter(0.75)
+                .paddingInner(0.25);
+            const svg = d3.select("body")
+                .append("svg")
+                .attr("height", h)
+                .attr("width", w + 2 * xPadding);
+            const groups = svg.selectAll("g")
+                .data(topData)
+                .enter()
+                .append("g")
+                .attr("class", "bar");
+
+            // Create bars for bar chart on the right
+            groups.append("rect")
+                .attr("x", xPadding + chartWidth + middleWidth)
+                .attr("y", (d, i) => yScale(i))
+                .attr("width", d => xScaleRight(d.count) - xScaleRight(0))
+                .attr("height", yScale.bandwidth())
+
+            // Create bars for bar chart on the left
+            groups.append("rect")
+                .attr("x", d => xScaleLeft(d.count))
+                .attr("y", (d, i) => yScale(i))
+                .attr("width", d => xScaleLeft(xScaleLeft.domain()[1] - d.count) - xScaleLeft(xScaleLeft.domain()[1]))
+                .attr("height", yScale.bandwidth())
+
+            // Create text for labels in the middle
+            groups.append("text")
+                .text(d => d.language)
+                .attr("x", xPadding + chartWidth + middleWidth / 2)
+                .attr("y", (d, i) => yScale(i) + yScale.bandwidth() / 2)
+                .attr("class", "language-name")
+                .attr("dominant-baseline", "middle")
+                .attr("text-anchor", "middle")
+
+            // Create axis
+            appendAxis(xAxisRight, svg, 0, 20);
+            appendAxis(xAxisLeft, svg, 0, 20);
+
+            // Create data labels on right side
+            const logScale = d3.scaleLog();
+            groups.append("text")
+                .text(d => d.count)
+                .attr("x", d => d.count !== 0 ? xScaleRight(d.count) - (14 + Math.floor(logScale(d.count)) * 5) : 0)
+                .attr("y", (d, i) => yScale(i) + yScale.bandwidth() / 2)
+                .attr("class", "bar-text")
+                .attr("dominant-baseline", "middle")
+
+            // Create data labels on left side
+            groups.append("text")
+                .text(d => d.count)
+                .attr("x", d => xScaleLeft(d.count) + 10)
+                .attr("y", (d, i) => yScale(i) + yScale.bandwidth() / 2)
+                .attr("class", "bar-text")
+                .attr("dominant-baseline", "middle")
+        }
+
+        function getTopData(dataset, n) {
+            return d3.sort(dataset, (a, b) => b.count - a.count).slice(0, n);
+        }
+
+        function appendAxis(axis, svg, x, y) {
+            svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", "translate(" + x +"," + y + ")")
+                .call(axis)
+        }
+    </script>
+</body>
+</html>

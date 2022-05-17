@@ -36,6 +36,12 @@ that is what is mentionned.....
 4. Visualise popular sets of tools (tool stack)
 5. Interactive Visualision on a map (D3.js (Patrick and louise), plotly/tableau/plotly express(Aubin))
 
+#### Thomas's ideas
+1. Visualise for each country the must use language by developer (The must popular language by country)
+2. The minimum salary and maximum salary for developers who use the(se) language(s)
+3. Visualise the must use sets of tools for the corresponding language (IDE, Database, framework)
+
+
 # Sample visualisations
 https://datavizproject.com/
 

@@ -1,0 +1,19 @@
+{
+  "Afghanistan": {
+    "Female": 1,
+    "Female; Gender non-conforming; Other": 1,
+    "Male": 9,
+    "Male; Other": 1
+  },
+  "Aland Islands": {
+    "Male": 2,
+    "Male; Female; Transgender": 1
+  },
+  "Albania": {
+    "Female": 3,
+    "Gender non-conforming": 1,
+    "Male": 28,
+    "Male; Other": 1,
+    "Other": 1
+  }
+}

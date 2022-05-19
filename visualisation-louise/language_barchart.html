@@ -26,6 +26,12 @@
             font-size: 11px;
             font-family: sans-serif;
         }
+
+        .title {
+            font-family: sans-serif;
+            font-weight: bold;
+            font-size: 25px;
+        }
     </style>
 </head>
 <body>
@@ -86,13 +92,25 @@
             const xAxisLeft = d3.axisTop(xScaleLeft);
             const yScale = d3.scaleBand()
                 .domain(d3.range(topData.length))
-                .rangeRound([0, h])
+                .rangeRound([50, h])
                 .paddingOuter(0.75)
                 .paddingInner(0.25);
             const svg = d3.select("body")
                 .append("svg")
                 .attr("height", h)
                 .attr("width", w + 2 * xPadding);
+
+            // Add title
+            svg.append('text')
+                .attr("x", 30)
+                .attr("y", 30)
+                .text('Programming languages used')
+                .classed('title', true)
+            svg.append('text')
+                .attr("x", xPadding + chartWidth + middleWidth)
+                .attr("y", 30)
+                .text('Programming languages desired in future')
+                .classed('title', true)
             const groups = svg.selectAll("g")
                 .data(topData)
                 .enter()
@@ -123,8 +141,8 @@
                 .attr("text-anchor", "middle")
 
             // Create axis
-            appendAxis(xAxisRight, svg, 0, 20);
-            appendAxis(xAxisLeft, svg, 0, 20);
+            appendAxis(xAxisRight, svg, 0, 70);
+            appendAxis(xAxisLeft, svg, 0, 70);
 
             // Create data labels on right side
             const logScale = d3.scaleLog();

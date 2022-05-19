@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Satisfaction</title>
+    <script type="text/javascript" src="d3.js"></script>
+    <style>
+        .svg-container {
+            display: inline-block;
+            position: relative;
+            width: 100%;
+            padding-bottom: 100%;
+            vertical-align: top;
+            overflow: hidden;
+        }
+        .svg-content {
+            display: inline-block;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .hide {
+            display: none;
+        }
+
+        .tick-text {
+            font-size: 16px;
+            font-family: sans-serif;
+            font-weight: bold;
+        }
+
+        .title {
+            font-family: sans-serif;
+            font-weight: bold;
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+    <script type="text/javascript">
+        const satisfactionUrl = 'data/2017-satisfaction_count_per_country.json'
+        let satisfactionData;
+        d3.json(satisfactionUrl)
+            .then((data, error) =>{
+                if (error) {
+                    throw 'Error reading job satisfaction data: ' + error;
+                } else {
+                    satisfactionData = data;
+                    const countryNames = Object.keys(satisfactionData);
+                    console.log(countryNames)
+                    // const country = 'United States';
+                    const country = countryNames[65];
+                    let countrySatisfactionObj = satisfactionData[country];
+                    let countySatisfactionList = [];
+                    const levels = [
+                        'Very dissatisfied',
+                        'Slightly dissatisfied',
+                        'Neither satisfied nor dissatisfied',
+                        'Slightly satisfied',
+                        'Very satisfied'
+                    ]
+                    for (const level of levels) {
+                        countySatisfactionList.push({
+                            'satisfactionLevel': level,
+                            'count': 100
+                            // 'count': countrySatisfactionObj.hasOwnProperty(level) ? countrySatisfactionObj[level] : 0
+                        })
+                    }
+                    makeDotVis(countySatisfactionList);
+                }
+            });
+
+        function makeDotVis(dataset) {
+            console.log(dataset)
+            const totalCount = dataset.reduce((prev, cur) => prev + cur.count, 0);
+            const h = 500;
+            const w = 1000;
+            const svg = d3.select("div#container")
+                .append("svg")
+                .attr("preserveAspectRatio", "xMinYMin meet")
+                .attr("viewBox", `0 0 ${w} ${h}`)
+                .classed("svg-content", true);
+            const xPadding = 25;
+            const yPadding = 50;
+            const maxRadius = 40;
+            const legendPadding = 78;  // Radius of legend
+            const xScale = d3.scaleBand()
+                .domain(d3.range(dataset.length))
+                .rangeRound([xPadding, w - xPadding - legendPadding])
+                .paddingOuter(0.1)
+                .paddingInner(0.1);
+            const areaScale = d3.scaleSqrt()
+                .domain([0, d3.max(dataset, d => d.count)])
+                .range([0, xScale.bandwidth()/2]);
+            const xAxis = d3.axisBottom(xScale)
+                .tickFormat(i => dataset[i].satisfactionLevel);
+            console.log('bw', xScale.bandwidth())
+            // Add bubbles
+            svg.selectAll("circle")
+                .data(dataset)
+                .enter()
+                .append("circle")
+                .attr("cx", (d, i) => xScale(i) + xScale.bandwidth()/2)
+                .attr("cy", h/2)
+                .attr("r", d => areaScale(d.count))
+                .attr("fill", "grey")
+                // .attr("stroke", "black")
+            appendAxis(xAxis, svg, 0, (h + xScale.bandwidth()) / 2 + 50);
+            const legendValues = getLegendValues(d3.min(dataset, d => d.count),
+                d3.max(dataset, d => d.count),
+                areaScale.invert(legendPadding));
+            console.log(legendValues)
+            const legendGroup = svg.append('g');
+            legendGroup.selectAll("circle")
+                .data(legendValues)
+                .enter()
+                .append('circle')
+                .attr("cx", w - xPadding - legendPadding)
+                .attr("cy", d => (2 * legendPadding + 40) - areaScale(d))
+                .attr("r", d => areaScale(d))
+                .attr("fill", "none")
+                .attr("stroke", "black");
+
+            legendGroup.selectAll("text")
+                .data(legendValues)
+                .enter()
+                .append('text')
+                .attr("x", w - xPadding - legendPadding)
+                .attr("y", d => (2 * legendPadding + 38) - 2 * areaScale(d))
+                .text(d => d)
+                .style("text-anchor", "middle")
+                .classed("tick-text", true)
+                .style("font-size", '14px');
+
+            svg.append('text')
+                .text('Job Satisfaction')
+                .attr("x", xPadding)
+                .attr("y", 40)
+                .classed('title', true);
+        }
+
+        function appendAxis(axis, svg, x, y){
+            svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", "translate(" + x +"," + y + ")")
+                .call(axis)
+                .selectAll('text')
+                .attr('dy', (d, i) => i % 2 === 0 ? 15 : 40)
+                .classed('tick-text', true)
+        }
+
+        function getLegendValues(min, max, maximumLegendValue) {
+            console.log('min-max', min, max)
+            const logScale = d3.scaleLog();
+            let minVal = transformLegendValue(min, Math.floor);
+            let maxVal = transformLegendValue(max, Math.round);
+            if (maxVal > maximumLegendValue) {
+                maxVal = transformLegendValue(maximumLegendValue, Math.floor)
+                if (maxVal < minVal) {
+                    minVal = maxVal;
+                }
+            }
+            if (maxVal - minVal > 10) {
+                const med = minVal + (maxVal - minVal) / 2;
+                const medVal = transformLegendValue(med, Math.round);
+                return [minVal, medVal, maxVal];
+            } else {
+                if (minVal === maxVal) {
+                    return maxVal === 1 ? [1] : [1, maxVal];
+                }
+                return [minVal, maxVal];
+            }
+        }
+
+        function transformLegendValue(value, f) {
+            if (value === 0) {
+                return 1
+            }
+            const logScale = d3.scaleLog();
+            const scaleNum = 10**(Math.floor(logScale(value)));
+            return f(value / scaleNum) * scaleNum
+        }
+    </script>
+    <div id="container" class="svg-container">
+    </div>
+</body>
+</html>

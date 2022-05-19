@@ -1,0 +1,115 @@
+ {
+	"data" : [
+
+							{ "key": "Afghanistan", "values":
+																		[
+																			{"grpName":"2017", "grpValue":9},
+																			{"grpName":"2018", "grpValue":1},
+																			{"grpName":"2019", "grpValue":3},
+																			{"grpName":"2020", "grpValue":6},
+																			{"grpName":"2021", "grpValue":10}
+																		]
+							},
+							{ "key": "Algeria", "values":
+																		[
+																			{"grpName":"2017", "grpValue":2},
+																			{"grpName":"2018", "grpValue":2},
+																			{"grpName":"2019", "grpValue":4},
+																			{"grpName":"2020", "grpValue":5},
+																			{"grpName":"2021", "grpValue":3}
+																		]
+							},
+							{ "key": "Bahrain", "values":
+																		[
+																			{"grpName":"2017", "grpValue":11},
+																			{"grpName":"2018", "grpValue":7},
+																			{"grpName":"2019", "grpValue":6},
+																			{"grpName":"2020", "grpValue":9},
+																			{"grpName":"2021", "grpValue":15}
+																		]
+							},
+							{ "key": "Peru", "values":
+																		[
+																			{"grpName":"2017", "grpValue":6},
+																			{"grpName":"2018", "grpValue":4},
+																			{"grpName":"2019", "grpValue":7},
+																			{"grpName":"2020", "grpValue":4},
+																			{"grpName":"2021", "grpValue":6}
+																		]
+							},
+							{ "key": "Malaysia", "values":
+																		[
+																			{"grpName":"2017", "grpValue":4},
+																			{"grpName":"2018", "grpValue":4},
+																			{"grpName":"2019", "grpValue":5},
+																			{"grpName":"2020", "grpValue":4},
+																			{"grpName":"2021", "grpValue":5}
+																		]
+							},
+							{ "key": "Lithuania", "values":
+																		[
+																			{"grpName":"2017", "grpValue":5},
+																			{"grpName":"2018", "grpValue":5},
+																			{"grpName":"2019", "grpValue":6},
+																			{"grpName":"2020", "grpValue":6},
+																			{"grpName":"2021", "grpValue":6}
+																		]
+							},
+							{ "key": "Lebanon", "values":
+																		[
+																			{"grpName":"2017", "grpValue":4},
+																			{"grpName":"2018", "grpValue":3},
+																			{"grpName":"2019", "grpValue":4},
+																			{"grpName":"2020", "grpValue":5},
+																			{"grpName":"2021", "grpValue":4}
+																		]
+							},
+							{ "key": "Kazakhstan", "values":
+																		[
+																			{"grpName":"2017", "grpValue":2},
+																			{"grpName":"2018", "grpValue":3},
+																			{"grpName":"2019", "grpValue":3},
+																			{"grpName":"2020", "grpValue":4},
+																			{"grpName":"2021", "grpValue":3}
+																		]
+							},
+							{ "key": "Jordan", "values":
+																		[
+																			{"grpName":"2017", "grpValue":7},
+																			{"grpName":"2018", "grpValue":5},
+																			{"grpName":"2019", "grpValue":6},
+																			{"grpName":"2020", "grpValue":5},
+																			{"grpName":"2021", "grpValue":6}
+																		]
+							},
+							{ "key": "Guatemala", "values":
+																		[
+																			{"grpName":"2017", "grpValue":6},
+																			{"grpName":"2018", "grpValue":7},
+																			{"grpName":"2019", "grpValue":8},
+																			{"grpName":"2020", "grpValue":7},
+																			{"grpName":"2021", "grpValue":8}
+																		]
+							},
+							{ "key": "Georgia", "values":
+																		[
+																			{"grpName":"2017", "grpValue":3},
+																			{"grpName":"2018", "grpValue":3},
+																			{"grpName":"2019", "grpValue":5},
+																			{"grpName":"2020", "grpValue":5},
+																			{"grpName":"2021", "grpValue":6}
+																		]
+							},
+							{ "key": "Cuba", "values":
+																		[
+																			{"grpName":"2017", "grpValue":4},
+																			{"grpName":"2018", "grpValue":4},
+																			{"grpName":"2019", "grpValue":7},
+																			{"grpName":"2020", "grpValue":6},
+																			{"grpName":"2021", "grpValue":8}
+																		]
+							}
+																	
+	]
+
+}

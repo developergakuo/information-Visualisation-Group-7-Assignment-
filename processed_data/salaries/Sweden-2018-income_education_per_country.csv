@@ -1,0 +1,644 @@
+,Country,Monthly_Sal_EUR,EdLevel
+17,Sweden,4787.6056,Master's degree
+26,Sweden,7256.864358333333,Master's degree
+116,Sweden,6359.088366666667,Bachelor's degree
+136,Sweden,5535.9688,Master's degree
+173,Sweden,5984.507,Secondary school
+270,Sweden,7481.233399999999,Bachelor's degree
+320,Sweden,5237.3431,Bachelor's degree
+796,Sweden,4189.1548999999995,Bachelor's degree
+927,Sweden,4264.7108,Bachelor's degree
+1069,Sweden,6732.870199999999,Bachelor's degree
+1164,Sweden,5984.507,Master's degree
+1381,Sweden,5087.4306,Master's degree
+1607,Sweden,6434.244500000001,Master's degree
+2094,Sweden,6434.244500000001,Bachelor's degree
+2116,Sweden,8229.5966,Bachelor's degree
+2376,Sweden,5835.7938,Bachelor's degree
+2539,Sweden,3666.2601,Secondary school
+2584,Sweden,7855.315058333334,Bachelor's degree
+3242,Sweden,6433.844733333333,Master's degree
+3414,Sweden,7181.4084,college/university without bachelor's degree
+3518,Sweden,7855.414999999999,Master's degree
+3558,Sweden,8229.5966,college/university without bachelor's degree
+3618,Sweden,6134.4195,college/university without bachelor's degree
+3667,Sweden,624.6354166666666,Bachelor's degree
+3673,Sweden,7032.6952,college/university without bachelor's degree
+3732,Sweden,5237.3431,Master's degree
+3769,Sweden,11970.013416666665,Bachelor's degree
+3842,Sweden,8752.491399999999,Bachelor's degree
+3925,Sweden,6134.4195,Master's degree
+4227,Sweden,5237.3431,college/university without bachelor's degree
+4259,Sweden,5535.9688,Bachelor's degree
+4441,Sweden,7107.051799999999,Master's degree
+4818,Sweden,5147.3956,Bachelor's degree
+4873,Sweden,5984.507,college/university without bachelor's degree
+4895,Sweden,6733.170025,Secondary school
+4986,Sweden,5984.507,Bachelor's degree
+5207,Sweden,4189.1548999999995,college/university without bachelor's degree
+5269,Sweden,5237.3431,Bachelor's degree
+5445,Sweden,8229.5966,Bachelor's degree
+5511,Sweden,6284.331999999999,Master's degree
+5533,Sweden,4863.1615,Master's degree
+5719,Sweden,2917.8969,Secondary school
+5970,Sweden,3292.0785,Secondary school
+5988,Sweden,2618.0719,Professional degree
+6070,Sweden,7481.233399999999,Associate degree
+6159,Sweden,7361.303400000001,Master's degree
+6197,Sweden,5087.4306,Master's degree
+6236,Sweden,4339.0674,Bachelor's degree
+6281,Sweden,4189.1548999999995,Bachelor's degree
+6392,Sweden,5984.507,Master's degree
+6480,Sweden,4937.518099999999,Master's degree
+6657,Sweden,7481.233399999999,college/university without bachelor's degree
+6793,Sweden,3243.1070833333333,Bachelor's degree
+6800,Sweden,1122.1450333333332,Bachelor's degree
+6922,Sweden,5535.9688,college/university without bachelor's degree
+7029,Sweden,4787.6056,Master's degree
+7184,Sweden,7481.233399999999,college/university without bachelor's degree
+7230,Sweden,5835.394033333334,Master's degree
+7232,Sweden,6733.170025,college/university without bachelor's degree
+7298,Sweden,5984.507,Primary/elementary school
+7454,Sweden,10024.9487,Master's degree
+7548,Sweden,7032.6952,Doctoral degree
+7722,Sweden,14962.466799999998,Bachelor's degree
+7871,Sweden,4488.9799,college/university without bachelor's degree
+7879,Sweden,4638.8924,Bachelor's degree
+7991,Sweden,5685.881299999999,Bachelor's degree
+8029,Sweden,3590.7042,college/university without bachelor's degree
+8148,Sweden,14962.466799999998,Master's degree
+8235,Sweden,7929.7716,Master's degree
+8352,Sweden,6284.331999999999,Master's degree
+8385,Sweden,4787.6056,college/university without bachelor's degree
+8389,Sweden,4600.5148,college/university without bachelor's degree
+8616,Sweden,13167.1147,college/university without bachelor's degree
+8640,Sweden,4787.6056,Master's degree
+8690,Sweden,9974.977866666666,Master's degree
+8710,Sweden,5476.0037999999995,Doctoral degree
+8913,Sweden,7481.233399999999,college/university without bachelor's degree
+9067,Sweden,5535.9688,Master's degree
+9079,Sweden,5685.781358333334,Master's degree
+9126,Sweden,7481.233399999999,college/university without bachelor's degree
+9476,Sweden,3366.4350999999997,college/university without bachelor's degree
+9581,Sweden,4488.780016666667,Associate degree
+9916,Sweden,7780.45875,Master's degree
+9989,Sweden,6582.9577,Master's degree
+10098,Sweden,7781.0584,Master's degree
+10189,Sweden,7331.3209,Associate degree
+10386,Sweden,14962.466799999998,Doctoral degree
+10389,Sweden,5984.507,college/university without bachelor's degree
+10546,Sweden,6434.244500000001,Bachelor's degree
+10733,Sweden,6732.870199999999,Master's degree
+10769,Sweden,4987.488933333333,Master's degree
+10778,Sweden,3740.6166999999996,college/university without bachelor's degree
+10867,Sweden,7481.233399999999,Bachelor's degree
+10952,Sweden,6434.244500000001,Associate degree
+11291,Sweden,5386.0563,Master's degree
+11414,Sweden,4937.518099999999,college/university without bachelor's degree
+11461,Sweden,6582.9577,Bachelor's degree
+11563,Sweden,5237.3431,college/university without bachelor's degree
+11597,Sweden,6434.244500000001,Master's degree
+11712,Sweden,6732.870199999999,college/university without bachelor's degree
+11760,Sweden,9725.1237,Bachelor's degree
+11903,Sweden,7481.233399999999,Master's degree
+11966,Sweden,5237.3431,Master's degree
+12357,Sweden,4787.6056,college/university without bachelor's degree
+12597,Sweden,5805.811299999999,Bachelor's degree
+12666,Sweden,7929.7716,Master's degree
+12681,Sweden,4114.7983,Bachelor's degree
+12902,Sweden,5984.507,college/university without bachelor's degree
+13168,Sweden,5237.3431,Bachelor's degree
+13468,Sweden,5535.9688,Master's degree
+13808,Sweden,4488.9799,Secondary school
+13988,Sweden,5237.3431,Bachelor's degree
+14019,Sweden,4937.518099999999,college/university without bachelor's degree
+14310,Sweden,5161.7872,college/university without bachelor's degree
+14603,Sweden,6284.331999999999,Master's degree
+15001,Sweden,6134.4195,Master's degree
+15131,Sweden,4937.518099999999,Master's degree
+15347,Sweden,6234.361166666667,Master's degree
+15454,Sweden,4339.0674,college/university without bachelor's degree
+15609,Sweden,5685.881299999999,Bachelor's degree
+15846,Sweden,6311.9159,Doctoral degree
+16066,Sweden,4364.052816666666,Bachelor's degree
+16213,Sweden,5685.881299999999,Doctoral degree
+16237,Sweden,6882.7827,Master's degree
+16242,Sweden,5610.92505,Bachelor's degree
+16247,Sweden,7631.1459,college/university without bachelor's degree
+16590,Sweden,8229.5966,college/university without bachelor's degree
+16684,Sweden,5910.1503999999995,college/university without bachelor's degree
+17064,Sweden,3666.2601,Master's degree
+17252,Sweden,6596.15,college/university without bachelor's degree
+17405,Sweden,6179.992899999999,Master's degree
+17479,Sweden,4987.488933333333,Secondary school
+17624,Sweden,7481.233399999999,Master's degree
+17822,Sweden,5087.4306,college/university without bachelor's degree
+17893,Sweden,4787.6056,Master's degree
+17902,Sweden,17456.211266666665,Secondary school
+18145,Sweden,5835.7938,college/university without bachelor's degree
+18164,Sweden,5237.3431,Master's degree
+18206,Sweden,4189.1548999999995,Master's degree
+18819,Sweden,5237.3431,Master's degree
+18836,Sweden,5685.881299999999,Primary/elementary school
+19190,Sweden,5461.6122,Bachelor's degree
+19236,Sweden,6434.244500000001,Bachelor's degree
+19254,Sweden,4189.1548999999995,Bachelor's degree
+19357,Sweden,6284.331999999999,Master's degree
+19368,Sweden,5985.006708333332,college/university without bachelor's degree
+19408,Sweden,9476.26895,college/university without bachelor's degree
+19506,Sweden,5984.507,Bachelor's degree
+19557,Sweden,5237.3431,college/university without bachelor's degree
+19650,Sweden,5760.2379,college/university without bachelor's degree
+19706,Sweden,6732.870199999999,Secondary school
+19714,Sweden,3408.0108333333337,Secondary school
+19893,Sweden,7781.0584,Bachelor's degree
+20288,Sweden,5535.9688,Doctoral degree
+20618,Sweden,5386.0563,Bachelor's degree
+20673,Sweden,8379.5091,Bachelor's degree
+21032,Sweden,5498.7905,college/university without bachelor's degree
+21034,Sweden,8678.1348,Bachelor's degree
+21175,Sweden,6358.6885999999995,college/university without bachelor's degree
+21214,Sweden,6732.870199999999,Master's degree
+21515,Sweden,4787.6056,Master's degree
+21578,Sweden,10473.786725,Master's degree
+21617,Sweden,8229.5966,Bachelor's degree
+21802,Sweden,3860.5467,Bachelor's degree
+21939,Sweden,4638.8924,No formal education
+22198,Sweden,6732.870199999999,Master's degree
+22367,Sweden,5011.8747,Secondary school
+22774,Sweden,7211.890608333333,Master's degree
+22827,Sweden,5685.881299999999,Bachelor's degree
+23200,Sweden,6732.870199999999,Master's degree
+23204,Sweden,5535.9688,Bachelor's degree
+23219,Sweden,4900.3398,Bachelor's degree
+23551,Sweden,5984.507,Master's degree
+23928,Sweden,5685.881299999999,Master's degree
+23980,Sweden,7481.233399999999,college/university without bachelor's degree
+24005,Sweden,2950.2780000000002,Master's degree
+24232,Sweden,3890.5292,Associate degree
+24456,Sweden,8528.2223,Master's degree
+24538,Sweden,4399.0324,Bachelor's degree
+24631,Sweden,4937.518099999999,Bachelor's degree
+24749,Sweden,299.825,Secondary school
+24852,Sweden,5984.507,Bachelor's degree
+24997,Sweden,8229.5966,college/university without bachelor's degree
+25026,Sweden,6982.524483333333,Master's degree
+25231,Sweden,4563.336499999999,college/university without bachelor's degree
+25236,Sweden,9351.54175,college/university without bachelor's degree
+25252,Sweden,7781.0584,Master's degree
+25322,Sweden,5984.507,college/university without bachelor's degree
+25346,Sweden,6732.870199999999,Bachelor's degree
+25443,Sweden,5984.507,Bachelor's degree
+25452,Sweden,5535.9688,Bachelor's degree
+25527,Sweden,4613.407275,Bachelor's degree
+25535,Sweden,6732.870199999999,Bachelor's degree
+25543,Sweden,5760.2379,Bachelor's degree
+25593,Sweden,6882.7827,Master's degree
+25681,Sweden,8828.0473,Master's degree
+25982,Sweden,6134.4195,college/university without bachelor's degree
+26199,Sweden,4738.134475,Master's degree
+26215,Sweden,4264.7108,college/university without bachelor's degree
+26530,Sweden,6882.7827,Master's degree
+26607,Sweden,5535.9688,college/university without bachelor's degree
+26831,Sweden,4040.4417,Professional degree
+26990,Sweden,6982.524483333333,Master's degree
+27043,Sweden,8678.1348,Doctoral degree
+27051,Sweden,5610.92505,Master's degree
+27407,Sweden,5237.3431,Bachelor's degree
+27511,Sweden,8977.9598,college/university without bachelor's degree
+27582,Sweden,4040.4417,Bachelor's degree
+27686,Sweden,7331.3209,Bachelor's degree
+27688,Sweden,5536.168683333333,Secondary school
+27690,Sweden,4713.249,Master's degree
+27860,Sweden,5611.5247,Master's degree
+27944,Sweden,5386.0563,Associate degree
+27959,Sweden,6284.232058333333,college/university without bachelor's degree
+27971,Sweden,8678.1348,Master's degree
+28377,Sweden,7481.233399999999,Master's degree
+28600,Sweden,4488.9799,Bachelor's degree
+29229,Sweden,5984.507,college/university without bachelor's degree
+29340,Sweden,7481.233399999999,college/university without bachelor's degree
+29557,Sweden,4488.9799,Master's degree
+29569,Sweden,4800.4980749999995,Bachelor's degree
+29592,Sweden,4339.0674,college/university without bachelor's degree
+29665,Sweden,5735.65225,college/university without bachelor's degree
+30472,Sweden,5685.881299999999,Master's degree
+30600,Sweden,5237.3431,college/university without bachelor's degree
+30674,Sweden,7231.878941666667,Master's degree
+30969,Sweden,7032.6952,Secondary school
+31018,Sweden,4696.4588,college/university without bachelor's degree
+31027,Sweden,4040.4417,Master's degree
+31106,Sweden,7481.233399999999,Master's degree
+31114,Sweden,4488.9799,Master's degree
+31254,Sweden,5297.3081,Master's degree
+31269,Sweden,8977.9598,Bachelor's degree
+31388,Sweden,6433.844733333333,college/university without bachelor's degree
+31619,Sweden,4264.7108,Bachelor's degree
+31740,Sweden,5984.507,Bachelor's degree
+31885,Sweden,4488.9799,Bachelor's degree
+32050,Sweden,8079.6840999999995,Master's degree
+32146,Sweden,7481.233399999999,college/university without bachelor's degree
+32187,Sweden,5835.7938,Master's degree
+32361,Sweden,5925.7413,Doctoral degree
+32512,Sweden,7481.233399999999,Bachelor's degree
+32538,Sweden,6882.7827,college/university without bachelor's degree
+32602,Sweden,4638.8924,Secondary school
+32885,Sweden,5087.4306,Associate degree
+33030,Sweden,7331.3209,Master's degree
+33043,Sweden,5237.3431,Master's degree
+33074,Sweden,6732.870199999999,Master's degree
+33076,Sweden,4736.0357,Bachelor's degree
+33094,Sweden,4990.2873,Master's degree
+33373,Sweden,6209.9754,Secondary school
+33475,Sweden,6882.7827,Associate degree
+33554,Sweden,7331.620725000001,Master's degree
+33574,Sweden,8828.0473,Bachelor's degree
+33576,Sweden,5984.507,college/university without bachelor's degree
+33653,Sweden,4787.6056,college/university without bachelor's degree
+33711,Sweden,4683.2665,Bachelor's degree
+34039,Sweden,5984.507,Master's degree
+34189,Sweden,4364.052816666666,Master's degree
+34334,Sweden,7481.233399999999,college/university without bachelor's degree
+34336,Sweden,9351.54175,Bachelor's degree
+34356,Sweden,4937.518099999999,Master's degree
+34364,Sweden,5984.507,Bachelor's degree
+34370,Sweden,5835.7938,college/university without bachelor's degree
+34514,Sweden,6434.244500000001,Secondary school
+34611,Sweden,3396.4175999999998,Secondary school
+34618,Sweden,4788.005366666666,Bachelor's degree
+34790,Sweden,13693.707341666668,Master's degree
+34833,Sweden,7338.5167,Master's degree
+34866,Sweden,5835.7938,Bachelor's degree
+34888,Sweden,7780.45875,college/university without bachelor's degree
+35015,Sweden,1496.7264,Secondary school
+35055,Sweden,5753.0421,Doctoral degree
+35569,Sweden,4787.6056,Secondary school
+35597,Sweden,8379.5091,college/university without bachelor's degree
+35796,Sweden,7705.5025,Master's degree
+36004,Sweden,5161.7872,Bachelor's degree
+36296,Sweden,7181.4084,Primary/elementary school
+36589,Sweden,5386.0563,Bachelor's degree
+36671,Sweden,8977.9598,Master's degree
+36696,Sweden,4937.518099999999,Bachelor's degree
+36828,Sweden,5087.4306,college/university without bachelor's degree
+36831,Sweden,4787.6056,Master's degree
+37152,Sweden,4488.9799,Secondary school
+37319,Sweden,7481.233399999999,college/university without bachelor's degree
+37347,Sweden,9426.498,Bachelor's degree
+37431,Sweden,6927.156800000001,Bachelor's degree
+37713,Sweden,5491.5947,Bachelor's degree
+37746,Sweden,8229.5966,Secondary school
+37761,Sweden,13777.958166666665,Master's degree
+38050,Sweden,5087.4306,Associate degree
+38169,Sweden,5835.7938,Professional degree
+38180,Sweden,7555.59,Bachelor's degree
+38203,Sweden,5386.0563,college/university without bachelor's degree
+38403,Sweden,5011.8747,Secondary school
+38923,Sweden,6732.870199999999,Bachelor's degree
+38952,Sweden,7481.233399999999,Bachelor's degree
+39117,Sweden,4787.6056,college/university without bachelor's degree
+39144,Sweden,4787.6056,Bachelor's degree
+39301,Sweden,3440.7917,college/university without bachelor's degree
+39532,Sweden,7403.278899999999,Master's degree
+39551,Sweden,7481.233399999999,Primary/elementary school
+39809,Sweden,8379.5091,Primary/elementary school
+39880,Sweden,6582.9577,Master's degree
+40021,Sweden,7032.6952,Master's degree
+40143,Sweden,4593.3189999999995,Bachelor's degree
+40195,Sweden,5386.0563,Master's degree
+40222,Sweden,5685.881299999999,Associate degree
+40226,Sweden,6732.870199999999,Bachelor's degree
+40308,Sweden,5984.507,Master's degree
+40712,Sweden,5611.5247,Bachelor's degree
+40918,Sweden,4787.6056,Master's degree
+40945,Sweden,8728.105633333333,Master's degree
+41059,Sweden,5237.3431,Bachelor's degree
+41218,Sweden,7032.6952,Bachelor's degree
+41398,Sweden,4787.6056,Bachelor's degree
+41445,Sweden,6732.870199999999,Master's degree
+41698,Sweden,4787.6056,college/university without bachelor's degree
+41770,Sweden,5386.0563,Bachelor's degree
+41850,Sweden,5237.3431,Master's degree
+41882,Sweden,5461.6122,Bachelor's degree
+41929,Sweden,5685.881299999999,Bachelor's degree
+42093,Sweden,6194.3845,Secondary school
+42358,Sweden,3830.5642,college/university without bachelor's degree
+42437,Sweden,6882.7827,Master's degree
+42476,Sweden,7481.233399999999,Master's degree
+42506,Sweden,5087.4306,Bachelor's degree
+42526,Sweden,6284.331999999999,college/university without bachelor's degree
+42540,Sweden,5267.3256,college/university without bachelor's degree
+42678,Sweden,6434.244500000001,Master's degree
+42740,Sweden,5611.5247,college/university without bachelor's degree
+42747,Sweden,9725.1237,Master's degree
+42897,Sweden,4787.6056,college/university without bachelor's degree
+43422,Sweden,5535.9688,Master's degree
+43443,Sweden,6234.361166666667,Master's degree
+43447,Sweden,7339.016408333333,Master's degree
+43467,Sweden,6284.331999999999,Professional degree
+43655,Sweden,5486.297791666666,Bachelor's degree
+43738,Sweden,5984.507,Primary/elementary school
+43814,Sweden,10473.4869,Master's degree
+43817,Sweden,5984.507,college/university without bachelor's degree
+43919,Sweden,4488.9799,Bachelor's degree
+44005,Sweden,5087.4306,Master's degree
+44165,Sweden,4787.6056,college/university without bachelor's degree
+44450,Sweden,8229.5966,college/university without bachelor's degree
+44513,Sweden,4638.8924,Bachelor's degree
+44663,Sweden,4339.0674,Master's degree
+44691,Sweden,9202.2289,Master's degree
+44743,Sweden,3740.6166999999996,Bachelor's degree
+44807,Sweden,4488.780016666667,Secondary school
+44977,Sweden,7481.233399999999,Bachelor's degree
+45169,Sweden,9336.5505,Bachelor's degree
+45359,Sweden,5535.9688,Bachelor's degree
+45390,Sweden,6582.9577,Secondary school
+45539,Sweden,4787.6056,Bachelor's degree
+45873,Sweden,4040.4417,Bachelor's degree
+46077,Sweden,6381.4753,Secondary school
+46197,Sweden,5087.230716666667,Bachelor's degree
+46290,Sweden,4040.4417,Master's degree
+46399,Sweden,5386.0563,college/university without bachelor's degree
+46449,Sweden,7181.4084,Secondary school
+46685,Sweden,2592.8866,college/university without bachelor's degree
+46790,Sweden,5984.507,college/university without bachelor's degree
+47034,Sweden,7032.6952,Secondary school
+47166,Sweden,4937.518099999999,Bachelor's degree
+47354,Sweden,6882.7827,college/university without bachelor's degree
+47786,Sweden,7181.4084,Bachelor's degree
+47838,Sweden,8005.3275,Secondary school
+47892,Sweden,4787.6056,Associate degree
+48054,Sweden,4787.6056,Master's degree
+48462,Sweden,7331.3209,Bachelor's degree
+48643,Sweden,4114.7983,Bachelor's degree
+48777,Sweden,4638.8924,Master's degree
+48985,Sweden,4488.9799,college/university without bachelor's degree
+49269,Sweden,7929.7716,Master's degree
+49385,Sweden,6732.870199999999,Master's degree
+49477,Sweden,7181.4084,Bachelor's degree
+49564,Sweden,7406.8768,Secondary school
+49607,Sweden,5685.881299999999,college/university without bachelor's degree
+49732,Sweden,6732.870199999999,Bachelor's degree
+49751,Sweden,6434.244500000001,Secondary school
+49784,Sweden,4787.6056,college/university without bachelor's degree
+50268,Sweden,5087.4306,Bachelor's degree
+50338,Sweden,6284.331999999999,Bachelor's degree
+50417,Sweden,6434.244500000001,Bachelor's degree
+50587,Sweden,5236.843391666666,college/university without bachelor's degree
+50652,Sweden,5625.916299999999,Master's degree
+50680,Sweden,7481.233399999999,Master's degree
+50681,Sweden,8728.105633333333,Master's degree
+50735,Sweden,4488.9799,college/university without bachelor's degree
+50742,Sweden,4339.0674,Bachelor's degree
+50965,Sweden,4697.6581,Master's degree
+51643,Sweden,6110.8332666666665,Bachelor's degree
+51840,Sweden,7481.233399999999,Master's degree
+52388,Sweden,7481.233399999999,Associate degree
+52475,Sweden,5446.0213,Master's degree
+52528,Sweden,4937.618041666667,Secondary school
+52638,Sweden,6957.1393,Master's degree
+52941,Sweden,6434.244500000001,college/university without bachelor's degree
+53052,Sweden,4189.1548999999995,Bachelor's degree
+53080,Sweden,448.5382,college/university without bachelor's degree
+53108,Sweden,4364.052816666666,Associate degree
+53318,Sweden,4697.6581,Bachelor's degree
+53572,Sweden,8229.5966,Master's degree
+53695,Sweden,4937.518099999999,Bachelor's degree
+53707,Sweden,4488.9799,Secondary school
+53729,Sweden,5984.507,Bachelor's degree
+53789,Sweden,4488.9799,Master's degree
+53863,Sweden,5386.0563,Bachelor's degree
+54425,Sweden,4488.9799,Associate degree
+54426,Sweden,5311.6997,Bachelor's degree
+54431,Sweden,5237.3431,college/university without bachelor's degree
+54680,Sweden,5112.216133333333,Doctoral degree
+54772,Sweden,5087.4306,Bachelor's degree
+54970,Sweden,5161.7872,college/university without bachelor's degree
+54988,Sweden,6582.9577,Doctoral degree
+55206,Sweden,5655.798858333333,Master's degree
+55280,Sweden,7781.0584,Bachelor's degree
+55281,Sweden,4863.1615,Bachelor's degree
+55390,Sweden,4389.438,Bachelor's degree
+55501,Sweden,4787.6056,Doctoral degree
+55555,Sweden,5565.951300000001,college/university without bachelor's degree
+55625,Sweden,9600.896208333334,Bachelor's degree
+55646,Sweden,7635.243508333333,Associate degree
+55734,Sweden,6284.331999999999,Master's degree
+55759,Sweden,4488.9799,Bachelor's degree
+56097,Sweden,6134.4195,Bachelor's degree
+56219,Sweden,7256.864358333333,college/university without bachelor's degree
+56224,Sweden,6762.8527,Master's degree
+56445,Sweden,5685.881299999999,Master's degree
+56544,Sweden,5386.0563,Associate degree
+56546,Sweden,6582.9577,college/university without bachelor's degree
+56565,Sweden,6882.7827,Master's degree
+56582,Sweden,6134.619383333333,Master's degree
+56633,Sweden,6732.870199999999,Bachelor's degree
+56813,Sweden,5685.881299999999,Bachelor's degree
+56902,Sweden,5237.3431,Bachelor's degree
+57061,Sweden,4638.8924,Bachelor's degree
+57373,Sweden,4787.6056,college/university without bachelor's degree
+57484,Sweden,4638.8924,Bachelor's degree
+57908,Sweden,8678.1348,Bachelor's degree
+58126,Sweden,5984.507,college/university without bachelor's degree
+58162,Sweden,4787.6056,Bachelor's degree
+58172,Sweden,6434.244500000001,Bachelor's degree
+58306,Sweden,8977.9598,Master's degree
+58343,Sweden,5760.2379,Master's degree
+58418,Sweden,6234.361166666667,Master's degree
+58471,Sweden,8229.5966,college/university without bachelor's degree
+58548,Sweden,5237.3431,college/university without bachelor's degree
+58559,Sweden,6882.7827,Bachelor's degree
+58619,Sweden,6358.6885999999995,Master's degree
+58677,Sweden,6732.870199999999,Master's degree
+58807,Sweden,6209.4756916666665,college/university without bachelor's degree
+58874,Sweden,4937.518099999999,Bachelor's degree
+59417,Sweden,4413.424,Master's degree
+59660,Sweden,4369.0499,Bachelor's degree
+59667,Sweden,7316.9293,Master's degree
+59997,Sweden,5760.2379,Bachelor's degree
+60034,Sweden,7630.8460749999995,Bachelor's degree
+60138,Sweden,5760.2379,Doctoral degree
+60243,Sweden,4787.6056,Bachelor's degree
+60312,Sweden,6882.7827,Bachelor's degree
+60370,Sweden,6284.232058333333,Bachelor's degree
+60467,Sweden,4040.4417,college/university without bachelor's degree
+60577,Sweden,7781.0584,Master's degree
+60757,Sweden,6234.361166666667,Master's degree
+61242,Sweden,8379.5091,Bachelor's degree
+61525,Sweden,5161.7872,Secondary school
+61591,Sweden,6732.870199999999,Master's degree
+61648,Sweden,4443.4065,Bachelor's degree
+61730,Sweden,7781.0584,Master's degree
+62044,Sweden,5685.881299999999,Master's degree
+62049,Sweden,13366.498325,Master's degree
+62117,Sweden,5790.520225,college/university without bachelor's degree
+62184,Sweden,6060.062899999999,Doctoral degree
+62506,Sweden,12268.839,Master's degree
+62525,Sweden,10111.298299999999,Master's degree
+62572,Sweden,4040.4417,Bachelor's degree
+62625,Sweden,7181.4084,Secondary school
+62820,Sweden,2992.2535,Primary/elementary school
+62882,Sweden,6284.331999999999,college/university without bachelor's degree
+63145,Sweden,4987.488933333333,Bachelor's degree
+63256,Sweden,6732.870199999999,Bachelor's degree
+63266,Sweden,6732.870199999999,college/university without bachelor's degree
+63421,Sweden,5984.507,college/university without bachelor's degree
+63475,Sweden,4638.8924,Master's degree
+63494,Sweden,6732.870199999999,Bachelor's degree
+63501,Sweden,6658.513599999999,college/university without bachelor's degree
+63611,Sweden,5237.3431,Secondary school
+63639,Sweden,5685.881299999999,Bachelor's degree
+63670,Sweden,5984.507,Bachelor's degree
+63796,Sweden,4488.9799,Primary/elementary school
+63933,Sweden,6733.170025,Bachelor's degree
+64082,Sweden,5984.507,Secondary school
+64227,Sweden,5685.781358333334,Master's degree
+64249,Sweden,5910.1503999999995,Bachelor's degree
+64417,Sweden,2872.3234999999995,Bachelor's degree
+64431,Sweden,6134.4195,Secondary school
+64473,Sweden,10863.259399999999,Doctoral degree
+64504,Sweden,8272.17175,college/university without bachelor's degree
+64557,Sweden,6464.227,No formal education
+64576,Sweden,5535.9688,Master's degree
+64753,Sweden,5984.507,Bachelor's degree
+64769,Sweden,5326.0913,Bachelor's degree
+64897,Sweden,2992.2535,college/university without bachelor's degree
+64937,Sweden,3890.5292,Bachelor's degree
+65147,Sweden,7481.233399999999,Master's degree
+65352,Sweden,6733.170025,Bachelor's degree
+65397,Sweden,4189.1548999999995,college/university without bachelor's degree
+65644,Sweden,6582.9577,Bachelor's degree
+65749,Sweden,7885.3975,Master's degree
+65757,Sweden,4488.9799,Bachelor's degree
+65763,Sweden,8229.5966,Master's degree
+65877,Sweden,5984.507,Master's degree
+65964,Sweden,5835.394033333334,Bachelor's degree
+66088,Sweden,8229.5966,Master's degree
+66361,Sweden,5835.7938,Associate degree
+66542,Sweden,5984.507,Bachelor's degree
+66615,Sweden,12468.722333333333,Master's degree
+66726,Sweden,5236.843391666666,Bachelor's degree
+66846,Sweden,8977.9598,Bachelor's degree
+66857,Sweden,6259.346583333333,Bachelor's degree
+67002,Sweden,6284.331999999999,Master's degree
+67269,Sweden,3441.39135,college/university without bachelor's degree
+67389,Sweden,5925.7413,Primary/elementary school
+67570,Sweden,4437.41,Bachelor's degree
+67584,Sweden,5237.3431,college/university without bachelor's degree
+67667,Sweden,5237.3431,college/university without bachelor's degree
+67745,Sweden,4937.518099999999,college/university without bachelor's degree
+67955,Sweden,4488.780016666667,college/university without bachelor's degree
+68163,Sweden,4040.4417,Bachelor's degree
+68192,Sweden,2243.8903,Primary/elementary school
+68225,Sweden,6434.244500000001,Bachelor's degree
+68400,Sweden,5112.216133333333,Master's degree
+68406,Sweden,1196.9014,Bachelor's degree
+68519,Sweden,5685.881299999999,Secondary school
+68624,Sweden,7855.315058333334,Bachelor's degree
+68753,Sweden,3860.5467,Bachelor's degree
+68783,Sweden,5237.3431,college/university without bachelor's degree
+68866,Sweden,5506.186183333333,Master's degree
+68950,Sweden,5685.881299999999,Secondary school
+69171,Sweden,6957.1393,Bachelor's degree
+69251,Sweden,7855.315058333334,Master's degree
+69374,Sweden,7181.4084,Doctoral degree
+69549,Sweden,7481.233399999999,Bachelor's degree
+69627,Sweden,7481.233399999999,Associate degree
+69782,Sweden,6882.7827,Secondary school
+69941,Sweden,4728.140308333333,Master's degree
+70238,Sweden,6134.4195,Master's degree
+70318,Sweden,5640.3079,Doctoral degree
+70346,Sweden,4339.0674,Bachelor's degree
+70382,Sweden,5984.507,Master's degree
+70832,Sweden,6284.331999999999,Bachelor's degree
+70839,Sweden,7481.233399999999,Secondary school
+70943,Sweden,6134.4195,Master's degree
+71116,Sweden,8229.5966,college/university without bachelor's degree
+71270,Sweden,4488.9799,college/university without bachelor's degree
+71347,Sweden,5535.9688,Master's degree
+71358,Sweden,3366.4350999999997,Secondary school
+71380,Sweden,5910.1503999999995,Master's degree
+71422,Sweden,8977.9598,Secondary school
+71487,Sweden,6284.331999999999,Bachelor's degree
+71573,Sweden,3914.1154333333334,Master's degree
+71632,Sweden,5087.4306,Secondary school
+71675,Sweden,7481.233399999999,Master's degree
+71865,Sweden,7781.0584,Associate degree
+72575,Sweden,5685.881299999999,Master's degree
+72847,Sweden,3740.6166999999996,Secondary school
+73129,Sweden,5984.507,No formal education
+73584,Sweden,6608.442825,Bachelor's degree
+73647,Sweden,4787.6056,Master's degree
+73660,Sweden,5087.4306,Master's degree
+73789,Sweden,5237.3431,college/university without bachelor's degree
+73868,Sweden,2992.2535,Bachelor's degree
+74012,Sweden,9276.5855,college/university without bachelor's degree
+74061,Sweden,5984.507,Master's degree
+74068,Sweden,5835.7938,Master's degree
+74209,Sweden,5984.507,Secondary school
+74296,Sweden,436.4452583333333,Secondary school
+74510,Sweden,8229.5966,Master's degree
+74578,Sweden,5237.3431,Master's degree
+74740,Sweden,6733.170025,college/university without bachelor's degree
+74773,Sweden,4488.9799,Master's degree
+74906,Sweden,6204.178783333334,college/university without bachelor's degree
+74990,Sweden,1496.2266916666667,Master's degree
+75024,Sweden,4488.9799,college/university without bachelor's degree
+75030,Sweden,5984.507,college/university without bachelor's degree
+75271,Sweden,9725.1237,Master's degree
+75317,Sweden,4743.2315,Master's degree
+75407,Sweden,7481.233399999999,college/university without bachelor's degree
+75666,Sweden,5985.006708333332,Master's degree
+75721,Sweden,6234.361166666667,Secondary school
+76061,Sweden,5685.881299999999,college/university without bachelor's degree
+76116,Sweden,8828.0473,Bachelor's degree
+76337,Sweden,5386.0563,Doctoral degree
+76466,Sweden,7481.233399999999,Bachelor's degree
+76491,Sweden,6582.9577,college/university without bachelor's degree
+76498,Sweden,5984.507,Master's degree
+76565,Sweden,11221.8501,Master's degree
+76607,Sweden,3666.2601,college/university without bachelor's degree
+76882,Sweden,374.08165833333334,Bachelor's degree
+77033,Sweden,10473.4869,Master's degree
+77335,Sweden,11970.2133,Bachelor's degree
+77396,Sweden,5491.5947,Bachelor's degree
+77776,Sweden,7481.233399999999,Bachelor's degree
+77841,Sweden,8977.9598,Master's degree
+77855,Sweden,10473.4869,Bachelor's degree
+77869,Sweden,8229.5966,No formal education
+77902,Sweden,7481.233399999999,college/university without bachelor's degree
+78055,Sweden,2243.8903,college/university without bachelor's degree
+78106,Sweden,5685.881299999999,Master's degree
+78258,Sweden,3740.6166999999996,Master's degree
+78381,Sweden,5611.5247,Master's degree
+78445,Sweden,8678.1348,Master's degree
+79027,Sweden,6882.7827,Associate degree
+79172,Sweden,1246.8722333333333,Bachelor's degree
+79592,Sweden,4488.9799,Master's degree
+79629,Sweden,5386.0563,Secondary school
+79704,Sweden,7481.233399999999,Master's degree
+80021,Sweden,4937.518099999999,Doctoral degree
+80384,Sweden,12718.5765,Bachelor's degree
+81163,Sweden,5237.3431,Secondary school
+81418,Sweden,4788.005366666666,college/university without bachelor's degree
+82877,Sweden,748.3632,Primary/elementary school
+83266,Sweden,1496.7264,Secondary school
+83694,Sweden,1496.7264,Secondary school
+83831,Sweden,4189.454725,No formal education
+83973,Sweden,3740.6166999999996,Secondary school
+84225,Sweden,5027.4655999999995,college/university without bachelor's degree
+84595,Sweden,6732.870199999999,Master's degree
+85007,Sweden,14962.466799999998,Master's degree
+85633,Sweden,1496.7264,Secondary school
+86026,Sweden,1761.7716999999998,Bachelor's degree
+86168,Sweden,1196.9014,Secondary school
+86706,Sweden,6284.331999999999,college/university without bachelor's degree
+87160,Sweden,149.9125,Secondary school
+88145,Sweden,249.35445833333335,Bachelor's degree
+88149,Sweden,1496.7264,college/university without bachelor's degree
+88360,Sweden,3292.0785,college/university without bachelor's degree
+88494,Sweden,4787.6056,college/university without bachelor's degree
+88816,Sweden,2243.8903,Master's degree
+89416,Sweden,6236.360000000001,Bachelor's degree
+89594,Sweden,261.4474,Primary/elementary school

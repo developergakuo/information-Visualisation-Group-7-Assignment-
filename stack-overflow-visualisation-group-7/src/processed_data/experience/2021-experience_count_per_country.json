@@ -1,0 +1,1382 @@
+{
+    "Afghanistan": {
+        "0-2 years": 6,
+        "12-14 years": 1,
+        "3-5 years": 10,
+        "6-8 years": 6,
+        "9-11 years": 1,
+        "> 20 years": 3
+    },
+    "Albania": {
+        "0-2 years": 16,
+        "12-14 years": 1,
+        "15-17 years": 4,
+        "3-5 years": 19,
+        "6-8 years": 7,
+        "9-11 years": 2
+    },
+    "Algeria": {
+        "0-2 years": 12,
+        "3-5 years": 9,
+        "6-8 years": 2,
+        "9-11 years": 1
+    },
+    "Andorra": {
+        "0-2 years": 2,
+        "3-5 years": 3,
+        "6-8 years": 2
+    },
+    "Angola": {
+        "0-2 years": 3,
+        "3-5 years": 10,
+        "6-8 years": 2,
+        "> 20 years": 1
+    },
+    "Argentina": {
+        "0-2 years": 93,
+        "12-14 years": 34,
+        "15-17 years": 47,
+        "18-20 years": 36,
+        "3-5 years": 98,
+        "6-8 years": 69,
+        "9-11 years": 47,
+        "> 20 years": 53
+    },
+    "Armenia": {
+        "0-2 years": 14,
+        "12-14 years": 4,
+        "15-17 years": 3,
+        "3-5 years": 27,
+        "6-8 years": 14,
+        "9-11 years": 8,
+        "> 20 years": 1
+    },
+    "Australia": {
+        "0-2 years": 140,
+        "12-14 years": 87,
+        "15-17 years": 134,
+        "18-20 years": 107,
+        "3-5 years": 235,
+        "6-8 years": 191,
+        "9-11 years": 131,
+        "> 20 years": 243
+    },
+    "Austria": {
+        "0-2 years": 97,
+        "12-14 years": 44,
+        "15-17 years": 41,
+        "18-20 years": 46,
+        "3-5 years": 151,
+        "6-8 years": 85,
+        "9-11 years": 81,
+        "> 20 years": 53
+    },
+    "Azerbaijan": {
+        "0-2 years": 13,
+        "12-14 years": 2,
+        "15-17 years": 1,
+        "3-5 years": 14,
+        "6-8 years": 6,
+        "9-11 years": 1
+    },
+    "Bahrain": {
+        "18-20 years": 1,
+        "3-5 years": 2,
+        "6-8 years": 2,
+        "9-11 years": 1,
+        "> 20 years": 4
+    },
+    "Bangladesh": {
+        "0-2 years": 136,
+        "12-14 years": 11,
+        "15-17 years": 3,
+        "18-20 years": 3,
+        "3-5 years": 160,
+        "6-8 years": 54,
+        "9-11 years": 24,
+        "> 20 years": 3
+    },
+    "Barbados": {
+        "3-5 years": 6,
+        "9-11 years": 2,
+        "> 20 years": 1
+    },
+    "Belarus": {
+        "0-2 years": 29,
+        "12-14 years": 8,
+        "15-17 years": 7,
+        "18-20 years": 5,
+        "3-5 years": 30,
+        "6-8 years": 20,
+        "9-11 years": 29,
+        "> 20 years": 8
+    },
+    "Belgium": {
+        "0-2 years": 91,
+        "12-14 years": 27,
+        "15-17 years": 37,
+        "18-20 years": 38,
+        "3-5 years": 124,
+        "6-8 years": 88,
+        "9-11 years": 77,
+        "> 20 years": 67
+    },
+    "Belize": {
+        "0-2 years": 2,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Benin": {
+        "0-2 years": 5,
+        "3-5 years": 2,
+        "6-8 years": 1,
+        "> 20 years": 2
+    },
+    "Bhutan": {
+        "0-2 years": 2,
+        "9-11 years": 1,
+        "> 20 years": 1
+    },
+    "Bolivia": {
+        "0-2 years": 4,
+        "12-14 years": 1,
+        "15-17 years": 4,
+        "18-20 years": 4,
+        "3-5 years": 13,
+        "6-8 years": 5,
+        "9-11 years": 6,
+        "> 20 years": 3
+    },
+    "Bosnia and Herzegovina": {
+        "0-2 years": 17,
+        "12-14 years": 3,
+        "15-17 years": 5,
+        "18-20 years": 2,
+        "3-5 years": 38,
+        "6-8 years": 17,
+        "9-11 years": 8,
+        "> 20 years": 3
+    },
+    "Botswana": {
+        "0-2 years": 3
+    },
+    "Brazil": {
+        "0-2 years": 332,
+        "12-14 years": 142,
+        "15-17 years": 114,
+        "18-20 years": 102,
+        "3-5 years": 515,
+        "6-8 years": 276,
+        "9-11 years": 249,
+        "> 20 years": 124
+    },
+    "Brunei Darussalam": {
+        "0-2 years": 1
+    },
+    "Bulgaria": {
+        "0-2 years": 67,
+        "12-14 years": 29,
+        "15-17 years": 33,
+        "18-20 years": 7,
+        "3-5 years": 82,
+        "6-8 years": 60,
+        "9-11 years": 37,
+        "> 20 years": 14
+    },
+    "Burkina Faso": {
+        "3-5 years": 1
+    },
+    "Burundi": {
+        "3-5 years": 1,
+        "6-8 years": 1
+    },
+    "Cambodia": {
+        "0-2 years": 7,
+        "12-14 years": 1,
+        "18-20 years": 1,
+        "3-5 years": 5,
+        "6-8 years": 1,
+        "9-11 years": 5
+    },
+    "Cameroon": {
+        "0-2 years": 7,
+        "12-14 years": 3,
+        "3-5 years": 7,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Canada": {
+        "0-2 years": 365,
+        "12-14 years": 147,
+        "15-17 years": 155,
+        "18-20 years": 149,
+        "3-5 years": 493,
+        "6-8 years": 331,
+        "9-11 years": 249,
+        "> 20 years": 307
+    },
+    "Cape Verde": {
+        "0-2 years": 1,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Central African Republic": {
+        "12-14 years": 1,
+        "9-11 years": 1
+    },
+    "Chile": {
+        "0-2 years": 39,
+        "12-14 years": 11,
+        "15-17 years": 9,
+        "18-20 years": 8,
+        "3-5 years": 36,
+        "6-8 years": 34,
+        "9-11 years": 23,
+        "> 20 years": 16
+    },
+    "China": {
+        "0-2 years": 157,
+        "12-14 years": 42,
+        "15-17 years": 15,
+        "18-20 years": 12,
+        "3-5 years": 201,
+        "6-8 years": 105,
+        "9-11 years": 70,
+        "> 20 years": 15
+    },
+    "Colombia": {
+        "0-2 years": 60,
+        "12-14 years": 22,
+        "15-17 years": 21,
+        "18-20 years": 7,
+        "3-5 years": 80,
+        "6-8 years": 64,
+        "9-11 years": 39,
+        "> 20 years": 16
+    },
+    "Congo, Republic of the...": {
+        "0-2 years": 2,
+        "12-14 years": 1,
+        "15-17 years": 1,
+        "3-5 years": 2,
+        "> 20 years": 1
+    },
+    "Costa Rica": {
+        "0-2 years": 10,
+        "12-14 years": 8,
+        "15-17 years": 5,
+        "18-20 years": 1,
+        "3-5 years": 14,
+        "6-8 years": 9,
+        "9-11 years": 8,
+        "> 20 years": 8
+    },
+    "Croatia": {
+        "0-2 years": 25,
+        "12-14 years": 18,
+        "15-17 years": 12,
+        "18-20 years": 13,
+        "3-5 years": 53,
+        "6-8 years": 30,
+        "9-11 years": 17,
+        "> 20 years": 18
+    },
+    "Cuba": {
+        "0-2 years": 4,
+        "12-14 years": 4,
+        "15-17 years": 2,
+        "18-20 years": 1,
+        "3-5 years": 10,
+        "6-8 years": 3,
+        "9-11 years": 6,
+        "> 20 years": 1
+    },
+    "Cyprus": {
+        "0-2 years": 9,
+        "12-14 years": 3,
+        "15-17 years": 3,
+        "18-20 years": 2,
+        "3-5 years": 6,
+        "6-8 years": 6,
+        "9-11 years": 9,
+        "> 20 years": 3
+    },
+    "Czech Republic": {
+        "0-2 years": 66,
+        "12-14 years": 47,
+        "15-17 years": 48,
+        "18-20 years": 40,
+        "3-5 years": 150,
+        "6-8 years": 110,
+        "9-11 years": 83,
+        "> 20 years": 45
+    },
+    "CÃ´te d'Ivoire": {
+        "0-2 years": 5,
+        "12-14 years": 2,
+        "3-5 years": 5,
+        "6-8 years": 2,
+        "9-11 years": 1
+    },
+    "Democratic Republic of the Congo": {
+        "0-2 years": 1,
+        "12-14 years": 1,
+        "3-5 years": 5,
+        "6-8 years": 2
+    },
+    "Denmark": {
+        "0-2 years": 71,
+        "12-14 years": 38,
+        "15-17 years": 25,
+        "18-20 years": 30,
+        "3-5 years": 119,
+        "6-8 years": 64,
+        "9-11 years": 54,
+        "> 20 years": 80
+    },
+    "Djibouti": {
+        "12-14 years": 1
+    },
+    "Dominica": {
+        "3-5 years": 1
+    },
+    "Dominican Republic": {
+        "0-2 years": 20,
+        "12-14 years": 2,
+        "15-17 years": 2,
+        "18-20 years": 2,
+        "3-5 years": 26,
+        "6-8 years": 18,
+        "9-11 years": 9,
+        "> 20 years": 1
+    },
+    "Ecuador": {
+        "0-2 years": 18,
+        "15-17 years": 2,
+        "18-20 years": 3,
+        "3-5 years": 25,
+        "6-8 years": 9,
+        "9-11 years": 13,
+        "> 20 years": 5
+    },
+    "Egypt": {
+        "0-2 years": 95,
+        "12-14 years": 7,
+        "15-17 years": 9,
+        "18-20 years": 1,
+        "3-5 years": 100,
+        "6-8 years": 36,
+        "9-11 years": 20,
+        "> 20 years": 5
+    },
+    "El Salvador": {
+        "0-2 years": 10,
+        "12-14 years": 2,
+        "18-20 years": 1,
+        "3-5 years": 4,
+        "6-8 years": 6,
+        "9-11 years": 1
+    },
+    "Estonia": {
+        "0-2 years": 18,
+        "12-14 years": 6,
+        "15-17 years": 12,
+        "18-20 years": 3,
+        "3-5 years": 23,
+        "6-8 years": 26,
+        "9-11 years": 12,
+        "> 20 years": 6
+    },
+    "Ethiopia": {
+        "0-2 years": 8,
+        "12-14 years": 1,
+        "18-20 years": 1,
+        "3-5 years": 23,
+        "6-8 years": 3,
+        "9-11 years": 3,
+        "> 20 years": 1
+    },
+    "Fiji": {
+        "3-5 years": 1
+    },
+    "Finland": {
+        "0-2 years": 68,
+        "12-14 years": 35,
+        "15-17 years": 44,
+        "18-20 years": 28,
+        "3-5 years": 104,
+        "6-8 years": 58,
+        "9-11 years": 50,
+        "> 20 years": 59
+    },
+    "France": {
+        "0-2 years": 355,
+        "12-14 years": 162,
+        "15-17 years": 138,
+        "18-20 years": 80,
+        "3-5 years": 546,
+        "6-8 years": 310,
+        "9-11 years": 243,
+        "> 20 years": 186
+    },
+    "Gambia": {
+        "0-2 years": 1,
+        "12-14 years": 1
+    },
+    "Georgia": {
+        "0-2 years": 32,
+        "12-14 years": 7,
+        "15-17 years": 1,
+        "18-20 years": 2,
+        "3-5 years": 34,
+        "6-8 years": 22,
+        "9-11 years": 10,
+        "> 20 years": 5
+    },
+    "Germany": {
+        "0-2 years": 543,
+        "12-14 years": 335,
+        "15-17 years": 309,
+        "18-20 years": 219,
+        "3-5 years": 1070,
+        "6-8 years": 696,
+        "9-11 years": 517,
+        "> 20 years": 443
+    },
+    "Ghana": {
+        "0-2 years": 14,
+        "12-14 years": 1,
+        "15-17 years": 1,
+        "3-5 years": 24,
+        "6-8 years": 6,
+        "9-11 years": 6
+    },
+    "Greece": {
+        "0-2 years": 98,
+        "12-14 years": 30,
+        "15-17 years": 19,
+        "18-20 years": 14,
+        "3-5 years": 114,
+        "6-8 years": 72,
+        "9-11 years": 33,
+        "> 20 years": 31
+    },
+    "Guatemala": {
+        "0-2 years": 8,
+        "12-14 years": 4,
+        "15-17 years": 1,
+        "18-20 years": 3,
+        "3-5 years": 16,
+        "6-8 years": 7,
+        "9-11 years": 3,
+        "> 20 years": 3
+    },
+    "Guinea": {
+        "3-5 years": 2
+    },
+    "Guyana": {
+        "0-2 years": 1,
+        "3-5 years": 1,
+        "6-8 years": 1
+    },
+    "Haiti": {
+        "0-2 years": 2,
+        "9-11 years": 2
+    },
+    "Honduras": {
+        "0-2 years": 6,
+        "3-5 years": 7,
+        "6-8 years": 5,
+        "9-11 years": 2
+    },
+    "Hong Kong (S.A.R.)": {
+        "0-2 years": 28,
+        "12-14 years": 3,
+        "15-17 years": 10,
+        "18-20 years": 6,
+        "3-5 years": 42,
+        "6-8 years": 22,
+        "9-11 years": 17,
+        "> 20 years": 11
+    },
+    "Hungary": {
+        "0-2 years": 35,
+        "12-14 years": 31,
+        "15-17 years": 34,
+        "18-20 years": 22,
+        "3-5 years": 87,
+        "6-8 years": 68,
+        "9-11 years": 54,
+        "> 20 years": 24
+    },
+    "Iceland": {
+        "0-2 years": 8,
+        "15-17 years": 2,
+        "18-20 years": 2,
+        "3-5 years": 9,
+        "6-8 years": 5,
+        "9-11 years": 7,
+        "> 20 years": 4
+    },
+    "India": {
+        "0-2 years": 1884,
+        "12-14 years": 236,
+        "15-17 years": 183,
+        "18-20 years": 72,
+        "3-5 years": 2173,
+        "6-8 years": 1220,
+        "9-11 years": 643,
+        "> 20 years": 57
+    },
+    "Indonesia": {
+        "0-2 years": 129,
+        "12-14 years": 9,
+        "15-17 years": 9,
+        "18-20 years": 11,
+        "3-5 years": 136,
+        "6-8 years": 43,
+        "9-11 years": 33,
+        "> 20 years": 8
+    },
+    "Iran, Islamic Republic of...": {
+        "0-2 years": 141,
+        "12-14 years": 41,
+        "15-17 years": 21,
+        "18-20 years": 16,
+        "3-5 years": 221,
+        "6-8 years": 131,
+        "9-11 years": 68,
+        "> 20 years": 6
+    },
+    "Iraq": {
+        "0-2 years": 16,
+        "12-14 years": 1,
+        "15-17 years": 1,
+        "18-20 years": 1,
+        "3-5 years": 10,
+        "6-8 years": 6,
+        "9-11 years": 3
+    },
+    "Ireland": {
+        "0-2 years": 46,
+        "12-14 years": 19,
+        "15-17 years": 29,
+        "18-20 years": 26,
+        "3-5 years": 62,
+        "6-8 years": 53,
+        "9-11 years": 41,
+        "> 20 years": 47
+    },
+    "Isle of Man": {
+        "3-5 years": 1,
+        "9-11 years": 1,
+        "> 20 years": 1
+    },
+    "Israel": {
+        "0-2 years": 78,
+        "12-14 years": 48,
+        "15-17 years": 64,
+        "18-20 years": 32,
+        "3-5 years": 184,
+        "6-8 years": 116,
+        "9-11 years": 99,
+        "> 20 years": 64
+    },
+    "Italy": {
+        "0-2 years": 187,
+        "12-14 years": 95,
+        "15-17 years": 111,
+        "18-20 years": 90,
+        "3-5 years": 268,
+        "6-8 years": 170,
+        "9-11 years": 153,
+        "> 20 years": 169
+    },
+    "Jamaica": {
+        "0-2 years": 6,
+        "12-14 years": 1,
+        "3-5 years": 1,
+        "6-8 years": 2,
+        "> 20 years": 1
+    },
+    "Japan": {
+        "0-2 years": 68,
+        "12-14 years": 27,
+        "15-17 years": 32,
+        "18-20 years": 23,
+        "3-5 years": 83,
+        "6-8 years": 63,
+        "9-11 years": 48,
+        "> 20 years": 31
+    },
+    "Jordan": {
+        "0-2 years": 8,
+        "12-14 years": 4,
+        "15-17 years": 2,
+        "3-5 years": 12,
+        "6-8 years": 8,
+        "9-11 years": 9
+    },
+    "Kazakhstan": {
+        "0-2 years": 15,
+        "12-14 years": 1,
+        "15-17 years": 6,
+        "3-5 years": 16,
+        "6-8 years": 7,
+        "9-11 years": 4,
+        "> 20 years": 1
+    },
+    "Kenya": {
+        "0-2 years": 52,
+        "15-17 years": 1,
+        "18-20 years": 1,
+        "3-5 years": 73,
+        "6-8 years": 27,
+        "9-11 years": 9,
+        "> 20 years": 1
+    },
+    "Kosovo": {
+        "0-2 years": 10,
+        "18-20 years": 1,
+        "3-5 years": 12,
+        "6-8 years": 3,
+        "9-11 years": 2
+    },
+    "Kuwait": {
+        "0-2 years": 3,
+        "12-14 years": 1,
+        "3-5 years": 5,
+        "6-8 years": 2,
+        "9-11 years": 2,
+        "> 20 years": 4
+    },
+    "Kyrgyzstan": {
+        "0-2 years": 5,
+        "3-5 years": 5,
+        "6-8 years": 5
+    },
+    "Lao People's Democratic Republic": {
+        "0-2 years": 1,
+        "3-5 years": 1,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Latvia": {
+        "0-2 years": 10,
+        "12-14 years": 7,
+        "15-17 years": 6,
+        "18-20 years": 5,
+        "3-5 years": 15,
+        "6-8 years": 17,
+        "9-11 years": 13,
+        "> 20 years": 6
+    },
+    "Lebanon": {
+        "0-2 years": 31,
+        "12-14 years": 2,
+        "15-17 years": 2,
+        "3-5 years": 22,
+        "6-8 years": 7,
+        "9-11 years": 4,
+        "> 20 years": 1
+    },
+    "Lesotho": {
+        "3-5 years": 1,
+        "6-8 years": 2
+    },
+    "Liberia": {
+        "3-5 years": 2
+    },
+    "Libyan Arab Jamahiriya": {
+        "0-2 years": 1,
+        "18-20 years": 1,
+        "3-5 years": 2,
+        "9-11 years": 1
+    },
+    "Lithuania": {
+        "0-2 years": 36,
+        "12-14 years": 8,
+        "15-17 years": 4,
+        "18-20 years": 10,
+        "3-5 years": 37,
+        "6-8 years": 31,
+        "9-11 years": 29,
+        "> 20 years": 4
+    },
+    "Luxembourg": {
+        "0-2 years": 4,
+        "12-14 years": 2,
+        "15-17 years": 3,
+        "18-20 years": 3,
+        "3-5 years": 8,
+        "6-8 years": 6,
+        "9-11 years": 5,
+        "> 20 years": 6
+    },
+    "Madagascar": {
+        "0-2 years": 6,
+        "3-5 years": 8,
+        "6-8 years": 1
+    },
+    "Malawi": {
+        "0-2 years": 3,
+        "3-5 years": 2,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Malaysia": {
+        "0-2 years": 61,
+        "12-14 years": 9,
+        "15-17 years": 8,
+        "18-20 years": 8,
+        "3-5 years": 61,
+        "6-8 years": 32,
+        "9-11 years": 26,
+        "> 20 years": 7
+    },
+    "Maldives": {
+        "0-2 years": 3,
+        "12-14 years": 1,
+        "3-5 years": 1,
+        "6-8 years": 3,
+        "9-11 years": 2
+    },
+    "Malta": {
+        "0-2 years": 5,
+        "15-17 years": 3,
+        "18-20 years": 1,
+        "3-5 years": 8,
+        "6-8 years": 3,
+        "9-11 years": 12,
+        "> 20 years": 1
+    },
+    "Mauritania": {
+        "0-2 years": 2,
+        "3-5 years": 1,
+        "6-8 years": 1
+    },
+    "Mauritius": {
+        "0-2 years": 5,
+        "12-14 years": 2,
+        "15-17 years": 5,
+        "3-5 years": 6,
+        "6-8 years": 1,
+        "9-11 years": 3
+    },
+    "Mexico": {
+        "0-2 years": 112,
+        "12-14 years": 29,
+        "15-17 years": 37,
+        "18-20 years": 17,
+        "3-5 years": 162,
+        "6-8 years": 93,
+        "9-11 years": 65,
+        "> 20 years": 35
+    },
+    "Monaco": {
+        "3-5 years": 1,
+        "> 20 years": 1
+    },
+    "Mongolia": {
+        "0-2 years": 4,
+        "12-14 years": 1,
+        "3-5 years": 5,
+        "9-11 years": 5
+    },
+    "Montenegro": {
+        "0-2 years": 1,
+        "12-14 years": 1,
+        "18-20 years": 1,
+        "3-5 years": 4,
+        "6-8 years": 4,
+        "9-11 years": 1,
+        "> 20 years": 2
+    },
+    "Morocco": {
+        "0-2 years": 38,
+        "12-14 years": 1,
+        "15-17 years": 2,
+        "3-5 years": 28,
+        "6-8 years": 15,
+        "9-11 years": 6
+    },
+    "Mozambique": {
+        "0-2 years": 2,
+        "3-5 years": 4,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Myanmar": {
+        "0-2 years": 7,
+        "12-14 years": 1,
+        "15-17 years": 1,
+        "3-5 years": 12,
+        "6-8 years": 4,
+        "9-11 years": 4
+    },
+    "Namibia": {
+        "0-2 years": 1,
+        "15-17 years": 2,
+        "18-20 years": 1,
+        "3-5 years": 3,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Nepal": {
+        "0-2 years": 58,
+        "12-14 years": 6,
+        "15-17 years": 1,
+        "3-5 years": 69,
+        "6-8 years": 19,
+        "9-11 years": 12
+    },
+    "Netherlands": {
+        "0-2 years": 170,
+        "12-14 years": 125,
+        "15-17 years": 110,
+        "18-20 years": 75,
+        "3-5 years": 283,
+        "6-8 years": 244,
+        "9-11 years": 169,
+        "> 20 years": 180
+    },
+    "New Zealand": {
+        "0-2 years": 47,
+        "12-14 years": 24,
+        "15-17 years": 30,
+        "18-20 years": 21,
+        "3-5 years": 80,
+        "6-8 years": 64,
+        "9-11 years": 47,
+        "> 20 years": 93
+    },
+    "Nicaragua": {
+        "0-2 years": 1,
+        "12-14 years": 1,
+        "15-17 years": 1,
+        "3-5 years": 4,
+        "6-8 years": 1,
+        "9-11 years": 4
+    },
+    "Niger": {
+        "12-14 years": 1,
+        "3-5 years": 1
+    },
+    "Nigeria": {
+        "0-2 years": 78,
+        "12-14 years": 6,
+        "15-17 years": 3,
+        "18-20 years": 4,
+        "3-5 years": 106,
+        "6-8 years": 27,
+        "9-11 years": 24,
+        "> 20 years": 2
+    },
+    "Nomadic": {
+        "0-2 years": 4,
+        "12-14 years": 2,
+        "15-17 years": 1,
+        "18-20 years": 3,
+        "3-5 years": 9,
+        "6-8 years": 4,
+        "9-11 years": 4,
+        "> 20 years": 10
+    },
+    "North Korea": {
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Norway": {
+        "0-2 years": 94,
+        "12-14 years": 36,
+        "15-17 years": 33,
+        "18-20 years": 37,
+        "3-5 years": 111,
+        "6-8 years": 67,
+        "9-11 years": 49,
+        "> 20 years": 67
+    },
+    "Oman": {
+        "0-2 years": 1,
+        "15-17 years": 1,
+        "3-5 years": 1,
+        "6-8 years": 3,
+        "9-11 years": 2,
+        "> 20 years": 1
+    },
+    "Pakistan": {
+        "0-2 years": 220,
+        "12-14 years": 11,
+        "15-17 years": 14,
+        "18-20 years": 4,
+        "3-5 years": 217,
+        "6-8 years": 61,
+        "9-11 years": 34,
+        "> 20 years": 3
+    },
+    "Palestine": {
+        "0-2 years": 5,
+        "12-14 years": 1,
+        "15-17 years": 1,
+        "3-5 years": 6,
+        "6-8 years": 3,
+        "9-11 years": 3,
+        "> 20 years": 2
+    },
+    "Panama": {
+        "0-2 years": 7,
+        "12-14 years": 3,
+        "15-17 years": 3,
+        "18-20 years": 1,
+        "3-5 years": 6,
+        "6-8 years": 1,
+        "9-11 years": 4,
+        "> 20 years": 4
+    },
+    "Paraguay": {
+        "0-2 years": 4,
+        "12-14 years": 2,
+        "15-17 years": 3,
+        "18-20 years": 2,
+        "3-5 years": 13,
+        "6-8 years": 9,
+        "9-11 years": 5,
+        "> 20 years": 1
+    },
+    "Peru": {
+        "0-2 years": 24,
+        "12-14 years": 4,
+        "15-17 years": 5,
+        "18-20 years": 2,
+        "3-5 years": 36,
+        "6-8 years": 13,
+        "9-11 years": 15,
+        "> 20 years": 4
+    },
+    "Philippines": {
+        "0-2 years": 63,
+        "12-14 years": 15,
+        "15-17 years": 5,
+        "18-20 years": 5,
+        "3-5 years": 85,
+        "6-8 years": 48,
+        "9-11 years": 23,
+        "> 20 years": 13
+    },
+    "Poland": {
+        "0-2 years": 268,
+        "12-14 years": 111,
+        "15-17 years": 77,
+        "18-20 years": 26,
+        "3-5 years": 395,
+        "6-8 years": 263,
+        "9-11 years": 159,
+        "> 20 years": 47
+    },
+    "Portugal": {
+        "0-2 years": 65,
+        "12-14 years": 34,
+        "15-17 years": 28,
+        "18-20 years": 10,
+        "3-5 years": 100,
+        "6-8 years": 68,
+        "9-11 years": 54,
+        "> 20 years": 32
+    },
+    "Qatar": {
+        "0-2 years": 1,
+        "12-14 years": 1,
+        "15-17 years": 1,
+        "3-5 years": 3,
+        "6-8 years": 2,
+        "9-11 years": 4
+    },
+    "Republic of Korea": {
+        "0-2 years": 16,
+        "18-20 years": 1,
+        "3-5 years": 9,
+        "6-8 years": 3,
+        "9-11 years": 4,
+        "> 20 years": 1
+    },
+    "Republic of Moldova": {
+        "0-2 years": 4,
+        "15-17 years": 2,
+        "18-20 years": 3,
+        "3-5 years": 13,
+        "6-8 years": 10,
+        "9-11 years": 8,
+        "> 20 years": 2
+    },
+    "Romania": {
+        "0-2 years": 97,
+        "12-14 years": 31,
+        "15-17 years": 35,
+        "18-20 years": 21,
+        "3-5 years": 128,
+        "6-8 years": 92,
+        "9-11 years": 68,
+        "> 20 years": 21
+    },
+    "Russian Federation": {
+        "0-2 years": 207,
+        "12-14 years": 87,
+        "15-17 years": 92,
+        "18-20 years": 46,
+        "3-5 years": 308,
+        "6-8 years": 186,
+        "9-11 years": 167,
+        "> 20 years": 70
+    },
+    "Rwanda": {
+        "0-2 years": 3,
+        "12-14 years": 1,
+        "3-5 years": 9,
+        "6-8 years": 2,
+        "9-11 years": 1
+    },
+    "Saint Kitts and Nevis": {
+        "0-2 years": 1
+    },
+    "Saint Lucia": {
+        "0-2 years": 1
+    },
+    "Saint Vincent and the Grenadines": {
+        "3-5 years": 1
+    },
+    "San Marino": {
+        "12-14 years": 1,
+        "> 20 years": 1
+    },
+    "Saudi Arabia": {
+        "0-2 years": 12,
+        "12-14 years": 5,
+        "15-17 years": 4,
+        "18-20 years": 2,
+        "3-5 years": 23,
+        "6-8 years": 13,
+        "9-11 years": 12,
+        "> 20 years": 2
+    },
+    "Senegal": {
+        "0-2 years": 4,
+        "12-14 years": 1,
+        "3-5 years": 7,
+        "6-8 years": 4,
+        "9-11 years": 1
+    },
+    "Serbia": {
+        "0-2 years": 45,
+        "12-14 years": 11,
+        "15-17 years": 20,
+        "18-20 years": 12,
+        "3-5 years": 69,
+        "6-8 years": 36,
+        "9-11 years": 24,
+        "> 20 years": 14
+    },
+    "Singapore": {
+        "0-2 years": 59,
+        "12-14 years": 18,
+        "15-17 years": 15,
+        "18-20 years": 4,
+        "3-5 years": 53,
+        "6-8 years": 28,
+        "9-11 years": 26,
+        "> 20 years": 13
+    },
+    "Slovakia": {
+        "0-2 years": 17,
+        "12-14 years": 17,
+        "15-17 years": 14,
+        "18-20 years": 10,
+        "3-5 years": 47,
+        "6-8 years": 32,
+        "9-11 years": 31,
+        "> 20 years": 15
+    },
+    "Slovenia": {
+        "0-2 years": 24,
+        "12-14 years": 12,
+        "15-17 years": 10,
+        "18-20 years": 11,
+        "3-5 years": 51,
+        "6-8 years": 28,
+        "9-11 years": 18,
+        "> 20 years": 20
+    },
+    "Somalia": {
+        "0-2 years": 1,
+        "3-5 years": 1
+    },
+    "South Africa": {
+        "0-2 years": 83,
+        "12-14 years": 33,
+        "15-17 years": 33,
+        "18-20 years": 35,
+        "3-5 years": 110,
+        "6-8 years": 70,
+        "9-11 years": 46,
+        "> 20 years": 55
+    },
+    "South Korea": {
+        "0-2 years": 39,
+        "12-14 years": 8,
+        "15-17 years": 6,
+        "18-20 years": 3,
+        "3-5 years": 39,
+        "6-8 years": 10,
+        "9-11 years": 11,
+        "> 20 years": 9
+    },
+    "Spain": {
+        "0-2 years": 201,
+        "12-14 years": 82,
+        "15-17 years": 92,
+        "18-20 years": 102,
+        "3-5 years": 274,
+        "6-8 years": 198,
+        "9-11 years": 147,
+        "> 20 years": 139
+    },
+    "Sri Lanka": {
+        "0-2 years": 73,
+        "12-14 years": 13,
+        "15-17 years": 2,
+        "18-20 years": 5,
+        "3-5 years": 103,
+        "6-8 years": 38,
+        "9-11 years": 21
+    },
+    "Sudan": {
+        "0-2 years": 3,
+        "3-5 years": 8,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Suriname": {
+        "0-2 years": 1,
+        "3-5 years": 1
+    },
+    "Swaziland": {
+        "0-2 years": 2,
+        "18-20 years": 2,
+        "3-5 years": 3,
+        "6-8 years": 1,
+        "9-11 years": 1
+    },
+    "Sweden": {
+        "0-2 years": 128,
+        "12-14 years": 87,
+        "15-17 years": 89,
+        "18-20 years": 61,
+        "3-5 years": 209,
+        "6-8 years": 131,
+        "9-11 years": 136,
+        "> 20 years": 135
+    },
+    "Switzerland": {
+        "0-2 years": 101,
+        "12-14 years": 66,
+        "15-17 years": 72,
+        "18-20 years": 41,
+        "3-5 years": 142,
+        "6-8 years": 123,
+        "9-11 years": 90,
+        "> 20 years": 80
+    },
+    "Syrian Arab Republic": {
+        "0-2 years": 9,
+        "12-14 years": 1,
+        "18-20 years": 1,
+        "3-5 years": 15,
+        "6-8 years": 6,
+        "9-11 years": 1
+    },
+    "Taiwan": {
+        "0-2 years": 52,
+        "12-14 years": 4,
+        "15-17 years": 11,
+        "18-20 years": 7,
+        "3-5 years": 68,
+        "6-8 years": 43,
+        "9-11 years": 31,
+        "> 20 years": 9
+    },
+    "Tajikistan": {
+        "0-2 years": 4,
+        "3-5 years": 1,
+        "9-11 years": 1
+    },
+    "Thailand": {
+        "0-2 years": 27,
+        "12-14 years": 6,
+        "15-17 years": 8,
+        "18-20 years": 7,
+        "3-5 years": 37,
+        "6-8 years": 23,
+        "9-11 years": 11,
+        "> 20 years": 11
+    },
+    "The former Yugoslav Republic of Macedonia": {
+        "0-2 years": 12,
+        "12-14 years": 5,
+        "15-17 years": 2,
+        "18-20 years": 1,
+        "3-5 years": 11,
+        "6-8 years": 11,
+        "9-11 years": 2,
+        "> 20 years": 1
+    },
+    "Togo": {
+        "0-2 years": 5,
+        "3-5 years": 1,
+        "6-8 years": 1
+    },
+    "Trinidad and Tobago": {
+        "0-2 years": 3,
+        "12-14 years": 2,
+        "15-17 years": 2,
+        "18-20 years": 1,
+        "3-5 years": 3,
+        "6-8 years": 2,
+        "9-11 years": 1,
+        "> 20 years": 1
+    },
+    "Tunisia": {
+        "0-2 years": 31,
+        "12-14 years": 3,
+        "3-5 years": 35,
+        "6-8 years": 13,
+        "9-11 years": 4
+    },
+    "Turkey": {
+        "0-2 years": 163,
+        "12-14 years": 61,
+        "15-17 years": 48,
+        "18-20 years": 23,
+        "3-5 years": 180,
+        "6-8 years": 117,
+        "9-11 years": 81,
+        "> 20 years": 25
+    },
+    "Turkmenistan": {
+        "0-2 years": 4,
+        "12-14 years": 1,
+        "3-5 years": 1,
+        "6-8 years": 1
+    },
+    "Uganda": {
+        "0-2 years": 8,
+        "12-14 years": 4,
+        "15-17 years": 1,
+        "3-5 years": 23,
+        "6-8 years": 8,
+        "9-11 years": 2
+    },
+    "Ukraine": {
+        "0-2 years": 118,
+        "12-14 years": 46,
+        "15-17 years": 41,
+        "18-20 years": 11,
+        "3-5 years": 171,
+        "6-8 years": 120,
+        "9-11 years": 83,
+        "> 20 years": 33
+    },
+    "United Arab Emirates": {
+        "0-2 years": 16,
+        "12-14 years": 12,
+        "15-17 years": 12,
+        "18-20 years": 5,
+        "3-5 years": 24,
+        "6-8 years": 29,
+        "9-11 years": 18,
+        "> 20 years": 6
+    },
+    "United Kingdom": {
+        "0-2 years": 465,
+        "12-14 years": 269,
+        "15-17 years": 291,
+        "18-20 years": 259,
+        "3-5 years": 710,
+        "6-8 years": 527,
+        "9-11 years": 435,
+        "> 20 years": 636
+    },
+    "United Republic of Tanzania": {
+        "0-2 years": 7,
+        "12-14 years": 1,
+        "3-5 years": 13,
+        "6-8 years": 7,
+        "9-11 years": 1
+    },
+    "United States of America": {
+        "0-2 years": 1635,
+        "12-14 years": 882,
+        "15-17 years": 910,
+        "18-20 years": 725,
+        "3-5 years": 2472,
+        "6-8 years": 1790,
+        "9-11 years": 1409,
+        "> 20 years": 2242
+    },
+    "Uruguay": {
+        "0-2 years": 20,
+        "12-14 years": 9,
+        "15-17 years": 7,
+        "18-20 years": 6,
+        "3-5 years": 34,
+        "6-8 years": 29,
+        "9-11 years": 15,
+        "> 20 years": 9
+    },
+    "Uzbekistan": {
+        "0-2 years": 26,
+        "3-5 years": 16,
+        "6-8 years": 2,
+        "9-11 years": 2
+    },
+    "Venezuela, Bolivarian Republic of...": {
+        "0-2 years": 25,
+        "12-14 years": 4,
+        "15-17 years": 4,
+        "18-20 years": 2,
+        "3-5 years": 25,
+        "6-8 years": 3,
+        "9-11 years": 6,
+        "> 20 years": 5
+    },
+    "Viet Nam": {
+        "0-2 years": 77,
+        "12-14 years": 6,
+        "15-17 years": 4,
+        "18-20 years": 2,
+        "3-5 years": 75,
+        "6-8 years": 40,
+        "9-11 years": 22,
+        "> 20 years": 4
+    },
+    "Yemen": {
+        "0-2 years": 6,
+        "3-5 years": 3,
+        "6-8 years": 3
+    },
+    "Zambia": {
+        "0-2 years": 4,
+        "12-14 years": 1,
+        "3-5 years": 2,
+        "6-8 years": 3,
+        "9-11 years": 2,
+        "> 20 years": 1
+    },
+    "Zimbabwe": {
+        "0-2 years": 6,
+        "12-14 years": 1,
+        "18-20 years": 1,
+        "3-5 years": 6,
+        "6-8 years": 3,
+        "9-11 years": 3,
+        "> 20 years": 1
+    }
+}

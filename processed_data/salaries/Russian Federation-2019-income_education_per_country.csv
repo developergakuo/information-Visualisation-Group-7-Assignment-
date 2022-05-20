@@ -1,0 +1,888 @@
+,Country,Monthly_Sal_EUR,EdLevel
+17,Russian Federation,11993.0,Master's degree
+134,Russian Federation,17549.756666666668,Associate degree
+221,Russian Federation,3497.958333333333,Bachelor's degree
+275,Russian Federation,12992.416666666666,Master's degree
+459,Russian Federation,8994.75,Master's degree
+464,Russian Federation,15990.666666666666,Bachelor's degree
+523,Russian Federation,11193.466666666667,Bachelor's degree
+610,Russian Federation,299.825,Master's degree
+665,Russian Federation,5646.704166666666,college/university without bachelor's degree
+739,Russian Federation,4497.375,college/university without bachelor's degree
+873,Russian Federation,9994.166666666666,Master's degree
+889,Russian Federation,6496.208333333333,Master's degree
+891,Russian Federation,7995.333333333333,college/university without bachelor's degree
+903,Russian Federation,14991.25,Master's degree
+1401,Russian Federation,199.88333333333333,Bachelor's degree
+1430,Russian Federation,17989.5,Professional degree
+1452,Russian Federation,5996.5,Associate degree
+1631,Russian Federation,4497.375,Master's degree
+1707,Russian Federation,18289.324999999997,college/university without bachelor's degree
+1822,Russian Federation,17189.966666666667,college/university without bachelor's degree
+1832,Russian Federation,5996.5,Master's degree
+1921,Russian Federation,16990.083333333332,college/university without bachelor's degree
+2079,Russian Federation,19988.333333333332,college/university without bachelor's degree
+2259,Russian Federation,12992.416666666666,college/university without bachelor's degree
+2373,Russian Federation,12892.475,Master's degree
+2402,Russian Federation,3997.6666666666665,Bachelor's degree
+2607,Russian Federation,14991.25,Professional degree
+2893,Russian Federation,12992.416666666666,Bachelor's degree
+2988,Russian Federation,9994.166666666666,Professional degree
+3009,Russian Federation,4497.375,Bachelor's degree
+3014,Russian Federation,4997.083333333333,college/university without bachelor's degree
+3034,Russian Federation,0.09994166666666666,Professional degree
+3064,Russian Federation,8495.041666666666,Bachelor's degree
+3066,Russian Federation,7995.333333333333,Master's degree
+3091,Russian Federation,5996.5,Master's degree
+3102,Russian Federation,14991.25,college/university without bachelor's degree
+3111,Russian Federation,1998.8333333333333,Bachelor's degree
+3124,Russian Federation,3597.9,college/university without bachelor's degree
+3318,Russian Federation,19988.333333333332,Master's degree
+3457,Russian Federation,259.84833333333336,Secondary school
+3560,Russian Federation,199.88333333333333,Bachelor's degree
+3929,Russian Federation,16990.083333333332,college/university without bachelor's degree
+4077,Russian Federation,6995.916666666666,Bachelor's degree
+4107,Russian Federation,12992.416666666666,Doctoral degree
+4264,Russian Federation,19388.683333333334,Master's degree
+4266,Russian Federation,17989.5,Master's degree
+4443,Russian Federation,5196.966666666666,Secondary school
+4485,Russian Federation,6995.916666666666,Bachelor's degree
+4509,Russian Federation,12492.708333333332,Bachelor's degree
+4625,Russian Federation,5596.733333333334,Master's degree
+4635,Russian Federation,5996.5,Master's degree
+4946,Russian Federation,229.8658333333333,Master's degree
+5073,Russian Federation,6496.208333333333,Master's degree
+5168,Russian Federation,7195.8,Bachelor's degree
+5229,Russian Federation,2.3986,Bachelor's degree
+5300,Russian Federation,19988.333333333332,Master's degree
+5313,Russian Federation,3997.6666666666665,Bachelor's degree
+5437,Russian Federation,7995.333333333333,Master's degree
+5449,Russian Federation,19988.333333333332,Master's degree
+5500,Russian Federation,15990.666666666666,Secondary school
+5537,Russian Federation,2998.25,Bachelor's degree
+5558,Russian Federation,14991.25,Master's degree
+5584,Russian Federation,12492.708333333332,Master's degree
+5720,Russian Federation,9994.166666666666,Bachelor's degree
+5757,Russian Federation,9494.458333333332,Bachelor's degree
+5760,Russian Federation,14991.25,college/university without bachelor's degree
+6056,Russian Federation,5496.791666666666,Master's degree
+6062,Russian Federation,7995.333333333333,Master's degree
+6149,Russian Federation,1998.8333333333333,college/university without bachelor's degree
+6172,Russian Federation,9994.166666666666,Master's degree
+6300,Russian Federation,5696.675,Bachelor's degree
+6329,Russian Federation,14991.25,Master's degree
+6440,Russian Federation,9994.166666666666,Master's degree
+6498,Russian Federation,14991.25,Master's degree
+6512,Russian Federation,13991.833333333332,college/university without bachelor's degree
+6738,Russian Federation,5996.5,Master's degree
+6804,Russian Federation,11993.0,college/university without bachelor's degree
+6971,Russian Federation,15990.666666666666,Doctoral degree
+6974,Russian Federation,5996.5,Secondary school
+6977,Russian Federation,9190.635666666665,Bachelor's degree
+7229,Russian Federation,6496.208333333333,Master's degree
+7298,Russian Federation,2998.25,Bachelor's degree
+7438,Russian Federation,7195.8,Master's degree
+7623,Russian Federation,1299.2416666666666,Secondary school
+7682,Russian Federation,11393.35,Master's degree
+7694,Russian Federation,6995.916666666666,Associate degree
+7705,Russian Federation,5996.5,Doctoral degree
+7741,Russian Federation,7995.333333333333,Master's degree
+7988,Russian Federation,5496.791666666666,Master's degree
+8013,Russian Federation,12992.416666666666,Master's degree
+8028,Russian Federation,9594.4,Master's degree
+8046,Russian Federation,14991.25,Bachelor's degree
+8481,Russian Federation,5996.5,Bachelor's degree
+9028,Russian Federation,2598.483333333333,Bachelor's degree
+9167,Russian Federation,479.72,Secondary school
+9189,Russian Federation,4997.083333333333,Master's degree
+9477,Russian Federation,7995.333333333333,Master's degree
+9542,Russian Federation,4997.083333333333,Bachelor's degree
+9567,Russian Federation,13791.949999999999,Master's degree
+9763,Russian Federation,14991.25,Bachelor's degree
+9782,Russian Federation,13991.833333333332,Bachelor's degree
+10298,Russian Federation,15291.074999999999,college/university without bachelor's degree
+10331,Russian Federation,4497.375,Bachelor's degree
+10340,Russian Federation,12992.416666666666,Bachelor's degree
+10361,Russian Federation,12992.416666666666,No formal education
+10522,Russian Federation,419.755,Bachelor's degree
+10792,Russian Federation,8994.75,Master's degree
+10837,Russian Federation,11993.0,Master's degree
+10889,Russian Federation,11493.291666666666,Master's degree
+11242,Russian Federation,5996.5,Secondary school
+11260,Russian Federation,5097.025,Master's degree
+11375,Russian Federation,799.5333333333333,Professional degree
+11501,Russian Federation,7495.625,Master's degree
+11514,Russian Federation,314.81624999999997,Master's degree
+11836,Russian Federation,11993.0,college/university without bachelor's degree
+12007,Russian Federation,13991.833333333332,Master's degree
+12051,Russian Federation,8495.041666666666,Master's degree
+12135,Russian Federation,3997.6666666666665,Associate degree
+12177,Russian Federation,12792.533333333333,college/university without bachelor's degree
+12245,Russian Federation,13442.154166666667,Master's degree
+12302,Russian Federation,16490.375,Professional degree
+12663,Russian Federation,18489.208333333332,Bachelor's degree
+12868,Russian Federation,5496.791666666666,Master's degree
+12948,Russian Federation,6796.033333333334,Master's degree
+13053,Russian Federation,159.90666666666667,Master's degree
+13155,Russian Federation,1499.125,Bachelor's degree
+13268,Russian Federation,14991.25,college/university without bachelor's degree
+13286,Russian Federation,12292.824999999999,Bachelor's degree
+13343,Russian Federation,4497.375,Bachelor's degree
+13365,Russian Federation,9394.516666666666,Master's degree
+13460,Russian Federation,19988.333333333332,college/university without bachelor's degree
+13501,Russian Federation,1998.8333333333333,Master's degree
+13622,Russian Federation,17489.791666666664,Professional degree
+13952,Russian Federation,11993.0,Bachelor's degree
+14126,Russian Federation,11993.0,Master's degree
+14142,Russian Federation,11393.35,college/university without bachelor's degree
+14342,Russian Federation,14991.25,Master's degree
+14443,Russian Federation,9994.166666666666,Bachelor's degree
+14490,Russian Federation,8994.75,Bachelor's degree
+14559,Russian Federation,9294.575,Master's degree
+14565,Russian Federation,11993.0,college/university without bachelor's degree
+14683,Russian Federation,5858.5805,Bachelor's degree
+14799,Russian Federation,12212.871666666666,Master's degree
+14898,Russian Federation,14991.25,Master's degree
+14977,Russian Federation,19988.333333333332,Master's degree
+15006,Russian Federation,13991.833333333332,Master's degree
+15069,Russian Federation,5496.791666666666,Master's degree
+15153,Russian Federation,6995.916666666666,Secondary school
+15171,Russian Federation,2998.25,Doctoral degree
+15192,Russian Federation,199.88333333333333,college/university without bachelor's degree
+15235,Russian Federation,8994.75,Bachelor's degree
+15348,Russian Federation,17989.5,Bachelor's degree
+15493,Russian Federation,4497.375,college/university without bachelor's degree
+15525,Russian Federation,18489.208333333332,Master's degree
+15548,Russian Federation,5996.5,Secondary school
+15587,Russian Federation,14991.25,Bachelor's degree
+15602,Russian Federation,14991.25,Secondary school
+15610,Russian Federation,16790.199999999997,Bachelor's degree
+15676,Russian Federation,2598.483333333333,Secondary school
+15677,Russian Federation,18689.091666666667,Bachelor's degree
+15838,Russian Federation,5496.791666666666,Associate degree
+15844,Russian Federation,9994.166666666666,college/university without bachelor's degree
+15933,Russian Federation,3497.958333333333,Bachelor's degree
+16106,Russian Federation,14991.25,Master's degree
+16284,Russian Federation,3997.6666666666665,Bachelor's degree
+16445,Russian Federation,16790.199999999997,Professional degree
+16532,Russian Federation,7395.6833333333325,Bachelor's degree
+16897,Russian Federation,14991.25,Master's degree
+16944,Russian Federation,399.76666666666665,Master's degree
+16957,Russian Federation,17789.616666666665,Professional degree
+17186,Russian Federation,11993.0,college/university without bachelor's degree
+17263,Russian Federation,11993.0,Bachelor's degree
+17275,Russian Federation,7495.625,Master's degree
+17450,Russian Federation,17989.5,Doctoral degree
+17498,Russian Federation,4997.083333333333,Bachelor's degree
+17560,Russian Federation,9994.166666666666,college/university without bachelor's degree
+17626,Russian Federation,14991.25,Bachelor's degree
+17701,Russian Federation,7295.741666666667,Professional degree
+17837,Russian Federation,12992.416666666666,Bachelor's degree
+17858,Russian Federation,2498.5416666666665,Bachelor's degree
+18032,Russian Federation,9994.166666666666,Doctoral degree
+18067,Russian Federation,4997.083333333333,college/university without bachelor's degree
+18084,Russian Federation,10194.05,Bachelor's degree
+18099,Russian Federation,14991.25,Master's degree
+18182,Russian Federation,3697.8416666666662,Master's degree
+18366,Russian Federation,5996.5,Bachelor's degree
+18454,Russian Federation,2498.5416666666665,Bachelor's degree
+18552,Russian Federation,17989.5,Professional degree
+18694,Russian Federation,19988.333333333332,college/university without bachelor's degree
+18870,Russian Federation,13991.833333333332,college/university without bachelor's degree
+18886,Russian Federation,14991.25,Master's degree
+18904,Russian Federation,17989.5,Master's degree
+19042,Russian Federation,14091.775000000001,Bachelor's degree
+19113,Russian Federation,8994.75,Bachelor's degree
+19187,Russian Federation,16990.083333333332,Primary/elementary school
+19209,Russian Federation,13492.125,Master's degree
+19378,Russian Federation,19988.333333333332,Bachelor's degree
+19416,Russian Federation,2648.4541666666664,Bachelor's degree
+19514,Russian Federation,4997.083333333333,Master's degree
+19557,Russian Federation,14991.25,Master's degree
+19650,Russian Federation,19988.333333333332,Master's degree
+19913,Russian Federation,7995.333333333333,Bachelor's degree
+20052,Russian Federation,16940.1125,Master's degree
+20098,Russian Federation,17489.791666666664,college/university without bachelor's degree
+20119,Russian Federation,13492.125,Bachelor's degree
+20260,Russian Federation,119.93,Master's degree
+20326,Russian Federation,16990.083333333332,Bachelor's degree
+20435,Russian Federation,18489.208333333332,Master's degree
+20830,Russian Federation,6995.916666666666,college/university without bachelor's degree
+20871,Russian Federation,19488.625,Bachelor's degree
+20919,Russian Federation,12492.708333333332,Bachelor's degree
+20985,Russian Federation,17989.5,Master's degree
+21005,Russian Federation,6995.916666666666,college/university without bachelor's degree
+21020,Russian Federation,6496.208333333333,Master's degree
+21111,Russian Federation,7995.333333333333,Bachelor's degree
+21205,Russian Federation,19988.333333333332,Bachelor's degree
+21428,Russian Federation,17389.85,Master's degree
+21527,Russian Federation,5496.791666666666,Bachelor's degree
+21622,Russian Federation,4997.083333333333,Professional degree
+21681,Russian Federation,10993.583333333332,Professional degree
+21692,Russian Federation,13991.833333333332,Bachelor's degree
+22002,Russian Federation,15490.958333333332,Professional degree
+22012,Russian Federation,8255.181666666667,Master's degree
+22013,Russian Federation,10593.816666666666,Master's degree
+22043,Russian Federation,4497.375,Master's degree
+22111,Russian Federation,19988.333333333332,Master's degree
+22134,Russian Federation,4197.549999999999,college/university without bachelor's degree
+22298,Russian Federation,149.9125,No formal education
+22521,Russian Federation,17989.5,Master's degree
+22581,Russian Federation,17989.5,Master's degree
+22632,Russian Federation,14991.25,Bachelor's degree
+22713,Russian Federation,9994.166666666666,Master's degree
+22792,Russian Federation,19988.333333333332,Master's degree
+22804,Russian Federation,7995.333333333333,Master's degree
+22839,Russian Federation,9494.458333333332,Bachelor's degree
+23068,Russian Federation,13991.833333333332,Secondary school
+23071,Russian Federation,11493.291666666666,college/university without bachelor's degree
+23074,Russian Federation,15990.666666666666,Professional degree
+23097,Russian Federation,14991.25,Doctoral degree
+23144,Russian Federation,4997.083333333333,Master's degree
+23163,Russian Federation,3997.6666666666665,Secondary school
+23280,Russian Federation,14991.25,Bachelor's degree
+23286,Russian Federation,9994.166666666666,Bachelor's degree
+23483,Russian Federation,6995.916666666666,college/university without bachelor's degree
+23523,Russian Federation,8994.75,Master's degree
+23537,Russian Federation,12492.708333333332,Master's degree
+23784,Russian Federation,6995.916666666666,Bachelor's degree
+23809,Russian Federation,13492.125,Master's degree
+23938,Russian Federation,14991.25,Bachelor's degree
+24083,Russian Federation,577.163125,Bachelor's degree
+24224,Russian Federation,3997.6666666666665,Primary/elementary school
+24268,Russian Federation,4497.375,college/university without bachelor's degree
+24470,Russian Federation,1998.8333333333333,Bachelor's degree
+24471,Russian Federation,15990.666666666666,Master's degree
+24906,Russian Federation,10993.583333333332,Master's degree
+25078,Russian Federation,7495.625,Bachelor's degree
+25113,Russian Federation,15990.666666666666,Associate degree
+25218,Russian Federation,12992.416666666666,Master's degree
+25231,Russian Federation,8994.75,Bachelor's degree
+25240,Russian Federation,599.65,Master's degree
+25297,Russian Federation,7995.333333333333,Master's degree
+25301,Russian Federation,9994.166666666666,college/university without bachelor's degree
+25382,Russian Federation,9694.341666666667,college/university without bachelor's degree
+25597,Russian Federation,11993.0,college/university without bachelor's degree
+25652,Russian Federation,17989.5,Bachelor's degree
+25663,Russian Federation,6995.916666666666,Master's degree
+25838,Russian Federation,19988.333333333332,college/university without bachelor's degree
+26033,Russian Federation,12992.416666666666,college/university without bachelor's degree
+26048,Russian Federation,10993.583333333332,Master's degree
+26200,Russian Federation,6596.15,Master's degree
+26331,Russian Federation,9994.166666666666,Bachelor's degree
+26378,Russian Federation,11993.0,Bachelor's degree
+26517,Russian Federation,19988.333333333332,Professional degree
+26520,Russian Federation,3447.9874999999997,Bachelor's degree
+26580,Russian Federation,8495.041666666666,Master's degree
+26705,Russian Federation,17.9895,Master's degree
+26788,Russian Federation,15990.666666666666,college/university without bachelor's degree
+26800,Russian Federation,19988.333333333332,Master's degree
+27096,Russian Federation,11993.0,Bachelor's degree
+27134,Russian Federation,4497.375,Bachelor's degree
+27291,Russian Federation,5596.733333333334,Master's degree
+27315,Russian Federation,14991.25,Master's degree
+27432,Russian Federation,2398.6,Associate degree
+27465,Russian Federation,7495.625,Master's degree
+27582,Russian Federation,13991.833333333332,Master's degree
+27623,Russian Federation,8994.75,Bachelor's degree
+27665,Russian Federation,7495.625,Bachelor's degree
+27697,Russian Federation,12992.416666666666,Doctoral degree
+27788,Russian Federation,5996.5,Bachelor's degree
+27846,Russian Federation,10993.583333333332,Associate degree
+28057,Russian Federation,14991.25,college/university without bachelor's degree
+28077,Russian Federation,17809.605,Master's degree
+28086,Russian Federation,12692.591666666667,Master's degree
+28243,Russian Federation,19988.333333333332,Bachelor's degree
+28445,Russian Federation,7995.333333333333,Bachelor's degree
+28662,Russian Federation,6496.208333333333,college/university without bachelor's degree
+28906,Russian Federation,10993.583333333332,Master's degree
+28958,Russian Federation,4947.112499999999,Bachelor's degree
+28968,Russian Federation,4497.375,Master's degree
+29005,Russian Federation,11993.0,Bachelor's degree
+29083,Russian Federation,19988.333333333332,Professional degree
+29218,Russian Federation,6496.208333333333,college/university without bachelor's degree
+29232,Russian Federation,17989.5,Master's degree
+29303,Russian Federation,9994.166666666666,Bachelor's degree
+29662,Russian Federation,17989.5,college/university without bachelor's degree
+29721,Russian Federation,18988.916666666664,Professional degree
+29744,Russian Federation,79.95333333333333,Bachelor's degree
+29840,Russian Federation,1728.9908333333333,Primary/elementary school
+29878,Russian Federation,17.289908333333333,Master's degree
+29951,Russian Federation,9994.166666666666,Associate degree
+29988,Russian Federation,14991.25,Master's degree
+30019,Russian Federation,13991.833333333332,Master's degree
+30224,Russian Federation,2098.7749999999996,Doctoral degree
+30339,Russian Federation,12492.708333333332,Bachelor's degree
+30547,Russian Federation,13991.833333333332,Bachelor's degree
+30691,Russian Federation,3497.958333333333,Bachelor's degree
+30729,Russian Federation,3997.6666666666665,Bachelor's degree
+31133,Russian Federation,18988.916666666664,Bachelor's degree
+31152,Russian Federation,14991.25,Master's degree
+31267,Russian Federation,3997.6666666666665,college/university without bachelor's degree
+31270,Russian Federation,4497.375,Master's degree
+31301,Russian Federation,5796.616666666667,Secondary school
+31541,Russian Federation,7895.391666666666,Professional degree
+31609,Russian Federation,11993.0,Bachelor's degree
+31824,Russian Federation,7995.333333333333,Bachelor's degree
+32082,Russian Federation,19988.333333333332,Bachelor's degree
+32168,Russian Federation,329.8075,Master's degree
+32353,Russian Federation,19988.333333333332,Master's degree
+32466,Russian Federation,19188.8,Master's degree
+32760,Russian Federation,299.825,Master's degree
+32808,Russian Federation,4097.608333333334,Bachelor's degree
+32972,Russian Federation,14991.25,Bachelor's degree
+33104,Russian Federation,9994.166666666666,Master's degree
+33127,Russian Federation,17989.5,Master's degree
+33168,Russian Federation,14991.25,Master's degree
+33242,Russian Federation,12492.708333333332,Professional degree
+33317,Russian Federation,2998.25,Master's degree
+33462,Russian Federation,17489.791666666664,Bachelor's degree
+33483,Russian Federation,199.88333333333333,college/university without bachelor's degree
+33608,Russian Federation,13991.833333333332,Master's degree
+33648,Russian Federation,5196.966666666666,Professional degree
+33772,Russian Federation,2998.25,Secondary school
+33816,Russian Federation,3897.7250000000004,Master's degree
+33888,Russian Federation,449.7375,college/university without bachelor's degree
+34386,Russian Federation,14991.25,Master's degree
+34471,Russian Federation,12692.591666666667,college/university without bachelor's degree
+34477,Russian Federation,11993.0,Bachelor's degree
+34497,Russian Federation,17989.5,Bachelor's degree
+34548,Russian Federation,12492.708333333332,Bachelor's degree
+34885,Russian Federation,3298.075,Bachelor's degree
+34947,Russian Federation,19988.333333333332,college/university without bachelor's degree
+34950,Russian Federation,9994.166666666666,Master's degree
+35209,Russian Federation,9994.166666666666,Master's degree
+35355,Russian Federation,7495.625,Master's degree
+35436,Russian Federation,4997.083333333333,Secondary school
+35550,Russian Federation,19988.333333333332,Master's degree
+35892,Russian Federation,4797.2,Bachelor's degree
+35959,Russian Federation,4997.083333333333,college/university without bachelor's degree
+35994,Russian Federation,10993.583333333332,college/university without bachelor's degree
+36021,Russian Federation,599.65,Professional degree
+36041,Russian Federation,19988.333333333332,Bachelor's degree
+36142,Russian Federation,18389.266666666666,Bachelor's degree
+36266,Russian Federation,7995.333333333333,college/university without bachelor's degree
+36310,Russian Federation,11993.0,Master's degree
+36511,Russian Federation,19988.333333333332,Master's degree
+36516,Russian Federation,5996.5,Master's degree
+36671,Russian Federation,5996.5,Bachelor's degree
+36684,Russian Federation,11993.0,Bachelor's degree
+36711,Russian Federation,15590.900000000001,college/university without bachelor's degree
+36727,Russian Federation,16990.083333333332,Professional degree
+36827,Russian Federation,1499.125,Bachelor's degree
+36881,Russian Federation,249.85416666666666,Bachelor's degree
+37103,Russian Federation,5996.5,Secondary school
+37300,Russian Federation,2998.25,Bachelor's degree
+37375,Russian Federation,15990.666666666666,Master's degree
+37422,Russian Federation,3997.6666666666665,Bachelor's degree
+37485,Russian Federation,7495.625,Associate degree
+37542,Russian Federation,14991.25,Bachelor's degree
+37550,Russian Federation,12992.416666666666,Master's degree
+37708,Russian Federation,4997.083333333333,Bachelor's degree
+37790,Russian Federation,11993.0,Bachelor's degree
+37816,Russian Federation,8994.75,Bachelor's degree
+37853,Russian Federation,14991.25,college/university without bachelor's degree
+38153,Russian Federation,11993.0,college/university without bachelor's degree
+38234,Russian Federation,4997.083333333333,Master's degree
+38304,Russian Federation,7995.333333333333,Bachelor's degree
+38363,Russian Federation,10993.583333333332,Secondary school
+38435,Russian Federation,69.95916666666666,Bachelor's degree
+38436,Russian Federation,17989.5,Master's degree
+38511,Russian Federation,5496.791666666666,Associate degree
+38726,Russian Federation,224.86875,Bachelor's degree
+38811,Russian Federation,12492.708333333332,Professional degree
+38859,Russian Federation,18689.091666666667,Master's degree
+38881,Russian Federation,49.97083333333333,Bachelor's degree
+38963,Russian Federation,15990.666666666666,Master's degree
+39061,Russian Federation,5996.5,Professional degree
+39077,Russian Federation,19038.887499999997,Primary/elementary school
+39079,Russian Federation,6995.916666666666,college/university without bachelor's degree
+39094,Russian Federation,14991.25,college/university without bachelor's degree
+39266,Russian Federation,5996.5,Bachelor's degree
+39306,Russian Federation,7995.333333333333,Master's degree
+39351,Russian Federation,9994.166666666666,Master's degree
+39411,Russian Federation,19488.625,Master's degree
+39461,Russian Federation,7995.333333333333,Bachelor's degree
+39517,Russian Federation,18489.208333333332,Secondary school
+39552,Russian Federation,12992.416666666666,Master's degree
+39670,Russian Federation,11993.0,college/university without bachelor's degree
+39835,Russian Federation,299.825,Bachelor's degree
+40022,Russian Federation,11993.0,Secondary school
+40147,Russian Federation,7995.333333333333,Doctoral degree
+40152,Russian Federation,14991.25,Master's degree
+40178,Russian Federation,19988.333333333332,Professional degree
+40423,Russian Federation,11993.0,Master's degree
+40707,Russian Federation,14491.541666666666,Master's degree
+40803,Russian Federation,14991.25,Bachelor's degree
+40892,Russian Federation,4997.083333333333,Bachelor's degree
+40937,Russian Federation,3497.958333333333,Bachelor's degree
+41089,Russian Federation,10993.583333333332,college/university without bachelor's degree
+41124,Russian Federation,16990.083333333332,Secondary school
+41434,Russian Federation,8994.75,Doctoral degree
+41928,Russian Federation,16990.083333333332,Master's degree
+41987,Russian Federation,19988.333333333332,college/university without bachelor's degree
+42041,Russian Federation,9994.166666666666,Master's degree
+42444,Russian Federation,9494.458333333332,Secondary school
+42497,Russian Federation,7995.333333333333,Bachelor's degree
+42828,Russian Federation,19988.333333333332,Master's degree
+42899,Russian Federation,17989.5,Master's degree
+42913,Russian Federation,3497.958333333333,college/university without bachelor's degree
+43053,Russian Federation,16990.083333333332,college/university without bachelor's degree
+43366,Russian Federation,5996.5,Master's degree
+43413,Russian Federation,2998.25,Professional degree
+43415,Russian Federation,9994.166666666666,Master's degree
+43488,Russian Federation,3098.1916666666666,Professional degree
+43503,Russian Federation,19988.333333333332,Master's degree
+43552,Russian Federation,9994.166666666666,Master's degree
+43646,Russian Federation,299.825,Secondary school
+43798,Russian Federation,7495.625,Bachelor's degree
+43849,Russian Federation,9994.166666666666,Bachelor's degree
+43922,Russian Federation,19988.333333333332,Master's degree
+43936,Russian Federation,19988.333333333332,Master's degree
+43957,Russian Federation,2498.5416666666665,Bachelor's degree
+44001,Russian Federation,16940.1125,Master's degree
+44036,Russian Federation,12992.416666666666,Professional degree
+44064,Russian Federation,18987.91725,Master's degree
+44125,Russian Federation,9694.341666666667,Secondary school
+44189,Russian Federation,10993.583333333332,college/university without bachelor's degree
+44244,Russian Federation,15990.666666666666,Master's degree
+44857,Russian Federation,19988.333333333332,Master's degree
+44927,Russian Federation,14391.6,Bachelor's degree
+44932,Russian Federation,5496.791666666666,Master's degree
+44990,Russian Federation,19988.333333333332,college/university without bachelor's degree
+45024,Russian Federation,13991.833333333332,Bachelor's degree
+45027,Russian Federation,8994.75,Bachelor's degree
+45373,Russian Federation,5496.791666666666,Bachelor's degree
+45788,Russian Federation,10293.991666666667,Bachelor's degree
+46083,Russian Federation,9694.341666666667,college/university without bachelor's degree
+46168,Russian Federation,19688.50833333333,Bachelor's degree
+46232,Russian Federation,10993.583333333332,Bachelor's degree
+46422,Russian Federation,19988.333333333332,Master's degree
+46424,Russian Federation,12992.416666666666,Master's degree
+46429,Russian Federation,5996.5,Professional degree
+46588,Russian Federation,5996.5,Professional degree
+46743,Russian Federation,7495.625,college/university without bachelor's degree
+46759,Russian Federation,8994.75,Bachelor's degree
+46770,Russian Federation,10893.641666666666,Master's degree
+46844,Russian Federation,14991.25,Secondary school
+46877,Russian Federation,6496.208333333333,Master's degree
+46957,Russian Federation,9694.341666666667,Bachelor's degree
+46977,Russian Federation,6995.916666666666,Bachelor's degree
+47010,Russian Federation,10993.583333333332,Master's degree
+47081,Russian Federation,2998.25,Master's degree
+47165,Russian Federation,7735.485000000001,Master's degree
+47200,Russian Federation,19988.333333333332,Bachelor's degree
+47273,Russian Federation,9994.166666666666,college/university without bachelor's degree
+47313,Russian Federation,7995.333333333333,Professional degree
+47435,Russian Federation,5680.684333333333,Master's degree
+47444,Russian Federation,6995.916666666666,Master's degree
+47612,Russian Federation,10993.583333333332,Master's degree
+47615,Russian Federation,12992.416666666666,college/university without bachelor's degree
+47663,Russian Federation,17289.908333333333,Bachelor's degree
+47754,Russian Federation,14791.366666666665,Master's degree
+48009,Russian Federation,15990.666666666666,Master's degree
+48035,Russian Federation,12992.416666666666,Master's degree
+48329,Russian Federation,10893.641666666666,Bachelor's degree
+48369,Russian Federation,4497.375,Master's degree
+48394,Russian Federation,17589.733333333334,Master's degree
+48421,Russian Federation,10993.583333333332,college/university without bachelor's degree
+48480,Russian Federation,5996.5,Master's degree
+48807,Russian Federation,15990.666666666666,Master's degree
+48844,Russian Federation,149.9125,Bachelor's degree
+49368,Russian Federation,19988.333333333332,Master's degree
+49685,Russian Federation,5996.5,Professional degree
+49699,Russian Federation,4597.316666666667,Master's degree
+49746,Russian Federation,19988.333333333332,Master's degree
+49873,Russian Federation,4497.375,Master's degree
+49921,Russian Federation,8495.041666666666,Bachelor's degree
+49928,Russian Federation,6496.208333333333,Bachelor's degree
+50040,Russian Federation,8994.75,Master's degree
+50068,Russian Federation,299.825,Bachelor's degree
+50122,Russian Federation,3997.6666666666665,college/university without bachelor's degree
+50347,Russian Federation,19988.333333333332,Associate degree
+50368,Russian Federation,6995.916666666666,Master's degree
+50403,Russian Federation,3997.6666666666665,college/university without bachelor's degree
+50575,Russian Federation,2498.5416666666665,college/university without bachelor's degree
+50586,Russian Federation,14991.25,Bachelor's degree
+50779,Russian Federation,12992.416666666666,Bachelor's degree
+50781,Russian Federation,8994.75,Bachelor's degree
+50799,Russian Federation,19.988333333333333,Master's degree
+50830,Russian Federation,11993.0,Master's degree
+50957,Russian Federation,279.83666666666664,Master's degree
+50980,Russian Federation,19988.333333333332,Professional degree
+50996,Russian Federation,16490.375,Master's degree
+51297,Russian Federation,479.72,college/university without bachelor's degree
+51342,Russian Federation,15990.666666666666,Bachelor's degree
+51394,Russian Federation,13791.949999999999,Bachelor's degree
+51413,Russian Federation,7995.333333333333,Bachelor's degree
+51716,Russian Federation,3997.6666666666665,Secondary school
+51790,Russian Federation,9994.166666666666,Master's degree
+51903,Russian Federation,4497.375,Master's degree
+52241,Russian Federation,4497.375,Master's degree
+52342,Russian Federation,12992.416666666666,Bachelor's degree
+52357,Russian Federation,17989.5,Master's degree
+52521,Russian Federation,11993.0,Master's degree
+52553,Russian Federation,3997.6666666666665,college/university without bachelor's degree
+52612,Russian Federation,10993.583333333332,Master's degree
+52727,Russian Federation,8994.75,Master's degree
+52787,Russian Federation,119.93,Master's degree
+52841,Russian Federation,14991.25,college/university without bachelor's degree
+53005,Russian Federation,4997.083333333333,Master's degree
+53037,Russian Federation,1529.1075,Bachelor's degree
+53085,Russian Federation,14991.25,Bachelor's degree
+53134,Russian Federation,13991.833333333332,Bachelor's degree
+53199,Russian Federation,9994.166666666666,Associate degree
+53388,Russian Federation,5696.675,college/university without bachelor's degree
+53468,Russian Federation,2998.25,Bachelor's degree
+53893,Russian Federation,9994.166666666666,Master's degree
+53948,Russian Federation,18988.916666666664,Master's degree
+54065,Russian Federation,13991.833333333332,Professional degree
+54079,Russian Federation,169.9008333333333,Secondary school
+54082,Russian Federation,17989.5,Master's degree
+54108,Russian Federation,8994.75,Bachelor's degree
+54325,Russian Federation,4997.083333333333,Master's degree
+54362,Russian Federation,19988.333333333332,Master's degree
+54454,Russian Federation,11487.49505,college/university without bachelor's degree
+54475,Russian Federation,9034.726666666666,Bachelor's degree
+54706,Russian Federation,11993.0,Master's degree
+54754,Russian Federation,7995.333333333333,Master's degree
+54849,Russian Federation,12992.416666666666,Master's degree
+55150,Russian Federation,9994.166666666666,Bachelor's degree
+55187,Russian Federation,5996.5,Bachelor's degree
+55241,Russian Federation,9994.166666666666,Bachelor's degree
+55690,Russian Federation,11993.0,Primary/elementary school
+55706,Russian Federation,4997.083333333333,Bachelor's degree
+55754,Russian Federation,2998.25,Master's degree
+55760,Russian Federation,13991.833333333332,Doctoral degree
+56050,Russian Federation,5996.5,Bachelor's degree
+56056,Russian Federation,7995.333333333333,Master's degree
+56078,Russian Federation,99.94166666666666,Primary/elementary school
+56279,Russian Federation,9994.166666666666,Bachelor's degree
+56349,Russian Federation,6496.208333333333,Bachelor's degree
+56354,Russian Federation,3997.6666666666665,Professional degree
+56428,Russian Federation,19988.333333333332,Master's degree
+56581,Russian Federation,9994.166666666666,Master's degree
+56697,Russian Federation,5696.675,college/university without bachelor's degree
+56992,Russian Federation,14991.25,Master's degree
+56994,Russian Federation,13991.833333333332,Master's degree
+57012,Russian Federation,7995.333333333333,Professional degree
+57119,Russian Federation,7495.625,Bachelor's degree
+57310,Russian Federation,8994.75,Professional degree
+57380,Russian Federation,9994.166666666666,Master's degree
+57417,Russian Federation,10.993583333333333,Master's degree
+57419,Russian Federation,16990.083333333332,Master's degree
+57523,Russian Federation,12.992416666666665,Master's degree
+57541,Russian Federation,19988.333333333332,Secondary school
+57664,Russian Federation,7905.385833333334,Bachelor's degree
+57710,Russian Federation,8994.75,Master's degree
+57732,Russian Federation,11993.0,Master's degree
+57827,Russian Federation,4497.375,Associate degree
+57879,Russian Federation,4997.083333333333,Primary/elementary school
+57961,Russian Federation,4997.083333333333,Bachelor's degree
+58053,Russian Federation,7995.333333333333,Professional degree
+58089,Russian Federation,12992.416666666666,Master's degree
+58117,Russian Federation,13492.125,Bachelor's degree
+58156,Russian Federation,1998.8333333333333,college/university without bachelor's degree
+58203,Russian Federation,1499.125,Secondary school
+58301,Russian Federation,199.88333333333333,Master's degree
+58357,Russian Federation,269.8425,Master's degree
+58364,Russian Federation,16990.083333333332,college/university without bachelor's degree
+58414,Russian Federation,5996.5,Master's degree
+58507,Russian Federation,11993.0,Associate degree
+58525,Russian Federation,16990.083333333332,Master's degree
+58719,Russian Federation,8994.75,Master's degree
+58930,Russian Federation,7995.333333333333,college/university without bachelor's degree
+59013,Russian Federation,11993.0,Master's degree
+59111,Russian Federation,10993.583333333332,Master's degree
+59260,Russian Federation,13891.891666666666,Master's degree
+59261,Russian Federation,5196.966666666666,Master's degree
+59629,Russian Federation,11993.0,Professional degree
+59781,Russian Federation,12192.883333333333,Secondary school
+59830,Russian Federation,19988.333333333332,Bachelor's degree
+59976,Russian Federation,9994.166666666666,Master's degree
+60180,Russian Federation,1499.125,Primary/elementary school
+60184,Russian Federation,349.79583333333335,Bachelor's degree
+60244,Russian Federation,11993.0,Master's degree
+60478,Russian Federation,299.825,Master's degree
+60741,Russian Federation,13.79195,Bachelor's degree
+60773,Russian Federation,10993.583333333332,college/university without bachelor's degree
+60903,Russian Federation,5996.5,Bachelor's degree
+61093,Russian Federation,10993.583333333332,Master's degree
+61196,Russian Federation,17489.791666666664,Master's degree
+61236,Russian Federation,3997.6666666666665,Bachelor's degree
+61263,Russian Federation,13991.833333333332,Bachelor's degree
+61343,Russian Federation,15990.666666666666,Bachelor's degree
+61446,Russian Federation,19988.333333333332,Master's degree
+61463,Russian Federation,19188.8,Master's degree
+61506,Russian Federation,17989.5,Master's degree
+61690,Russian Federation,14991.25,Bachelor's degree
+61724,Russian Federation,3497.958333333333,Bachelor's degree
+61900,Russian Federation,18988.916666666664,Master's degree
+62003,Russian Federation,3298.075,Bachelor's degree
+62030,Russian Federation,17989.5,Master's degree
+62211,Russian Federation,2598.483333333333,Bachelor's degree
+62380,Russian Federation,14991.25,Master's degree
+62444,Russian Federation,10993.583333333332,Master's degree
+62530,Russian Federation,19988.333333333332,Secondary school
+62702,Russian Federation,15990.666666666666,Master's degree
+62764,Russian Federation,3997.6666666666665,Bachelor's degree
+62798,Russian Federation,17489.791666666664,Bachelor's degree
+62816,Russian Federation,16990.083333333332,Bachelor's degree
+62838,Russian Federation,2302.656,Secondary school
+62875,Russian Federation,10993.583333333332,Doctoral degree
+62884,Russian Federation,19988.333333333332,Master's degree
+62966,Russian Federation,15990.666666666666,Bachelor's degree
+63252,Russian Federation,16990.083333333332,Bachelor's degree
+63324,Russian Federation,7995.333333333333,Master's degree
+63491,Russian Federation,799.5333333333333,Secondary school
+63587,Russian Federation,3997.6666666666665,Master's degree
+63637,Russian Federation,1998.8333333333333,Bachelor's degree
+63748,Russian Federation,19988.333333333332,college/university without bachelor's degree
+63766,Russian Federation,2998.25,Primary/elementary school
+63825,Russian Federation,18988.916666666664,Master's degree
+63897,Russian Federation,6995.916666666666,Doctoral degree
+63951,Russian Federation,9994.166666666666,Master's degree
+64077,Russian Federation,19988.333333333332,Master's degree
+64089,Russian Federation,16990.083333333332,Master's degree
+64156,Russian Federation,3597.9,Bachelor's degree
+64163,Russian Federation,17989.5,Master's degree
+64242,Russian Federation,17989.5,Master's degree
+64499,Russian Federation,7495.625,Master's degree
+64586,Russian Federation,11993.0,Primary/elementary school
+64775,Russian Federation,5996.5,Bachelor's degree
+64863,Russian Federation,9994.166666666666,Bachelor's degree
+64872,Russian Federation,12392.766666666666,college/university without bachelor's degree
+65274,Russian Federation,7995.333333333333,Master's degree
+65340,Russian Federation,269.8425,college/university without bachelor's degree
+65567,Russian Federation,4997.083333333333,Bachelor's degree
+65579,Russian Federation,11593.233333333334,Master's degree
+65623,Russian Federation,11993.0,Master's degree
+65641,Russian Federation,7995.333333333333,college/university without bachelor's degree
+65758,Russian Federation,9994.166666666666,Professional degree
+65782,Russian Federation,2498.5416666666665,Bachelor's degree
+65885,Russian Federation,9994.166666666666,Doctoral degree
+65964,Russian Federation,5996.5,Bachelor's degree
+66138,Russian Federation,10593.816666666666,Master's degree
+66155,Russian Federation,17989.5,college/university without bachelor's degree
+66159,Russian Federation,19988.333333333332,Master's degree
+66188,Russian Federation,9994.166666666666,college/university without bachelor's degree
+66294,Russian Federation,14991.25,Bachelor's degree
+66297,Russian Federation,9994.166666666666,Master's degree
+66330,Russian Federation,9494.458333333332,Bachelor's degree
+66341,Russian Federation,14991.25,Bachelor's degree
+66343,Russian Federation,19988.333333333332,Bachelor's degree
+66356,Russian Federation,19988.333333333332,Master's degree
+66372,Russian Federation,7995.333333333333,college/university without bachelor's degree
+66553,Russian Federation,2598.483333333333,Professional degree
+66810,Russian Federation,389.77250000000004,college/university without bachelor's degree
+67125,Russian Federation,5496.791666666666,Bachelor's degree
+67334,Russian Federation,6995.916666666666,Bachelor's degree
+67576,Russian Federation,17989.5,Master's degree
+67666,Russian Federation,15990.666666666666,Secondary school
+67753,Russian Federation,3997.6666666666665,Bachelor's degree
+67846,Russian Federation,4997.083333333333,Master's degree
+67901,Russian Federation,16090.608333333334,Bachelor's degree
+67945,Russian Federation,17489.791666666664,Master's degree
+67971,Russian Federation,11993.0,Secondary school
+67982,Russian Federation,239.86,college/university without bachelor's degree
+68037,Russian Federation,6496.208333333333,college/university without bachelor's degree
+68342,Russian Federation,8594.983333333334,Bachelor's degree
+68396,Russian Federation,14991.25,Professional degree
+68523,Russian Federation,5996.5,Master's degree
+68719,Russian Federation,49.97083333333333,Associate degree
+68733,Russian Federation,5996.5,Bachelor's degree
+68890,Russian Federation,9994.166666666666,Master's degree
+68902,Russian Federation,13791.949999999999,Bachelor's degree
+68967,Russian Federation,11993.0,Bachelor's degree
+69064,Russian Federation,6995.916666666666,Master's degree
+69186,Russian Federation,14991.25,college/university without bachelor's degree
+69333,Russian Federation,16990.083333333332,college/university without bachelor's degree
+69395,Russian Federation,17989.5,Master's degree
+69397,Russian Federation,5996.5,Master's degree
+69736,Russian Federation,4997.083333333333,Bachelor's degree
+69763,Russian Federation,9994.166666666666,Professional degree
+69836,Russian Federation,13991.833333333332,Bachelor's degree
+69854,Russian Federation,4497.375,Associate degree
+70030,Russian Federation,5996.5,Bachelor's degree
+70221,Russian Federation,3997.6666666666665,Master's degree
+70260,Russian Federation,9994.166666666666,Bachelor's degree
+70311,Russian Federation,8545.0125,Master's degree
+70484,Russian Federation,4997.083333333333,Primary/elementary school
+70517,Russian Federation,10993.583333333332,Bachelor's degree
+70561,Russian Federation,9994.166666666666,Bachelor's degree
+70699,Russian Federation,4997.083333333333,Bachelor's degree
+70752,Russian Federation,999.4166666666666,Master's degree
+70774,Russian Federation,7995.333333333333,Bachelor's degree
+71114,Russian Federation,9994.166666666666,college/university without bachelor's degree
+71202,Russian Federation,14991.25,Master's degree
+71364,Russian Federation,1499.125,Primary/elementary school
+71437,Russian Federation,19988.333333333332,Master's degree
+71460,Russian Federation,19988.333333333332,Doctoral degree
+71634,Russian Federation,4197.549999999999,Bachelor's degree
+71663,Russian Federation,9994.166666666666,Master's degree
+71723,Russian Federation,17989.5,Master's degree
+71742,Russian Federation,8994.75,Master's degree
+71768,Russian Federation,4497.375,Associate degree
+71849,Russian Federation,19988.333333333332,Master's degree
+71856,Russian Federation,19988.333333333332,Master's degree
+71976,Russian Federation,7995.333333333333,Professional degree
+72013,Russian Federation,11993.0,Master's degree
+72165,Russian Federation,6895.974999999999,Bachelor's degree
+72166,Russian Federation,9260.594833333333,Master's degree
+72201,Russian Federation,9994.166666666666,Bachelor's degree
+72221,Russian Federation,17489.791666666664,Bachelor's degree
+72384,Russian Federation,1998.8333333333333,Secondary school
+72394,Russian Federation,6995.916666666666,Master's degree
+72413,Russian Federation,1998.8333333333333,Master's degree
+72869,Russian Federation,11493.291666666666,Master's degree
+72936,Russian Federation,7995.333333333333,Master's degree
+73320,Russian Federation,13991.833333333332,Bachelor's degree
+73446,Russian Federation,9994.166666666666,Bachelor's degree
+73537,Russian Federation,7995.333333333333,Associate degree
+73557,Russian Federation,4997.083333333333,Master's degree
+73600,Russian Federation,9994.166666666666,Master's degree
+73693,Russian Federation,19988.333333333332,college/university without bachelor's degree
+73717,Russian Federation,8994.75,Bachelor's degree
+73917,Russian Federation,10493.875,Master's degree
+74213,Russian Federation,9994.166666666666,college/university without bachelor's degree
+74241,Russian Federation,7495.625,Bachelor's degree
+74334,Russian Federation,8295.158333333333,Bachelor's degree
+74370,Russian Federation,6496.208333333333,Master's degree
+74390,Russian Federation,13991.833333333332,Primary/elementary school
+74434,Russian Federation,549.6791666666667,college/university without bachelor's degree
+74436,Russian Federation,4997.083333333333,Master's degree
+74502,Russian Federation,11993.0,Master's degree
+74551,Russian Federation,5996.5,Bachelor's degree
+74622,Russian Federation,14991.25,Bachelor's degree
+74654,Russian Federation,24.485708333333335,Associate degree
+74668,Russian Federation,13991.833333333332,Secondary school
+75019,Russian Federation,8994.75,Master's degree
+75035,Russian Federation,18489.208333333332,Bachelor's degree
+75067,Russian Federation,8045.304166666667,Bachelor's degree
+75190,Russian Federation,19988.333333333332,Master's degree
+75261,Russian Federation,4997.083333333333,college/university without bachelor's degree
+75358,Russian Federation,6096.441666666667,Bachelor's degree
+75383,Russian Federation,4997.083333333333,college/university without bachelor's degree
+75425,Russian Federation,3997.6666666666665,Master's degree
+75524,Russian Federation,15990.666666666666,Master's degree
+75565,Russian Federation,14991.25,Master's degree
+75583,Russian Federation,4497.375,Master's degree
+75603,Russian Federation,6995.916666666666,Master's degree
+75639,Russian Federation,18988.916666666664,Master's degree
+75754,Russian Federation,14991.25,Master's degree
+75912,Russian Federation,5736.651666666667,Bachelor's degree
+75933,Russian Federation,8095.275,Master's degree
+75992,Russian Federation,14991.25,Professional degree
+76044,Russian Federation,4097.608333333334,Bachelor's degree
+76255,Russian Federation,8994.75,Bachelor's degree
+76297,Russian Federation,17589.733333333334,Bachelor's degree
+76553,Russian Federation,12492.708333333332,Associate degree
+76561,Russian Federation,9994.166666666666,Secondary school
+76636,Russian Federation,2998.25,college/university without bachelor's degree
+76663,Russian Federation,9494.458333333332,college/university without bachelor's degree
+76679,Russian Federation,4747.229166666666,Bachelor's degree
+76868,Russian Federation,18988.916666666664,Master's degree
+77031,Russian Federation,14991.25,Professional degree
+77032,Russian Federation,13592.066666666668,Master's degree
+77102,Russian Federation,4997.083333333333,Bachelor's degree
+77226,Russian Federation,3997.6666666666665,college/university without bachelor's degree
+77233,Russian Federation,17989.5,Bachelor's degree
+77435,Russian Federation,1998.8333333333333,Master's degree
+77473,Russian Federation,9494.458333333332,Master's degree
+77508,Russian Federation,12692.591666666667,Professional degree
+77510,Russian Federation,17489.791666666664,Master's degree
+77542,Russian Federation,2998.25,Professional degree
+77554,Russian Federation,4997.083333333333,college/university without bachelor's degree
+77642,Russian Federation,12992.416666666666,Professional degree
+77757,Russian Federation,7495.625,Associate degree
+77799,Russian Federation,15990.666666666666,Master's degree
+77910,Russian Federation,17989.5,Bachelor's degree
+77949,Russian Federation,3497.958333333333,Secondary school
+78055,Russian Federation,11993.0,Master's degree
+78145,Russian Federation,7995.333333333333,Bachelor's degree
+78248,Russian Federation,15990.666666666666,Bachelor's degree
+78485,Russian Federation,749.5625,Doctoral degree
+78636,Russian Federation,11993.0,Professional degree
+78674,Russian Federation,2998.25,Bachelor's degree
+78730,Russian Federation,7495.625,Primary/elementary school
+78762,Russian Federation,399.76666666666665,Master's degree
+78796,Russian Federation,9994.166666666666,Bachelor's degree
+78839,Russian Federation,9994.166666666666,college/university without bachelor's degree
+78974,Russian Federation,10993.583333333332,No formal education
+78981,Russian Federation,5996.5,Primary/elementary school
+79024,Russian Federation,13492.125,Bachelor's degree
+79064,Russian Federation,499.7083333333333,Master's degree
+79222,Russian Federation,14991.25,Bachelor's degree
+79252,Russian Federation,19988.333333333332,Master's degree
+79575,Russian Federation,3497.958333333333,Master's degree
+79630,Russian Federation,3997.6666666666665,college/university without bachelor's degree
+79673,Russian Federation,19988.333333333332,Master's degree
+79789,Russian Federation,5996.5,Bachelor's degree
+79804,Russian Federation,15590.900000000001,Professional degree
+80212,Russian Federation,16990.083333333332,college/university without bachelor's degree
+80422,Russian Federation,17289.908333333333,Master's degree
+80705,Russian Federation,12492.708333333332,Master's degree
+80840,Russian Federation,18489.208333333332,Master's degree
+80953,Russian Federation,14991.25,Master's degree
+81078,Russian Federation,9494.458333333332,college/university without bachelor's degree
+81311,Russian Federation,2398.6,Master's degree
+81326,Russian Federation,7995.333333333333,college/university without bachelor's degree
+81358,Russian Federation,11993.0,Professional degree
+81741,Russian Federation,16490.375,Doctoral degree
+81758,Russian Federation,5996.5,Bachelor's degree
+81879,Russian Federation,3997.6666666666665,Bachelor's degree
+81883,Russian Federation,9294.575,Bachelor's degree
+82000,Russian Federation,16990.083333333332,Master's degree
+82046,Russian Federation,17989.5,Secondary school
+82111,Russian Federation,8594.983333333334,college/university without bachelor's degree
+82361,Russian Federation,399.76666666666665,Bachelor's degree
+82586,Russian Federation,9994.166666666666,college/university without bachelor's degree
+82610,Russian Federation,129.92416666666668,Bachelor's degree
+82990,Russian Federation,6995.916666666666,Bachelor's degree
+83205,Russian Federation,16990.083333333332,Master's degree
+83223,Russian Federation,15490.958333333332,Bachelor's degree
+83227,Russian Federation,13991.833333333332,college/university without bachelor's degree
+83653,Russian Federation,5496.791666666666,Bachelor's degree
+84096,Russian Federation,19988.333333333332,Primary/elementary school
+84359,Russian Federation,4297.491666666667,Bachelor's degree
+84529,Russian Federation,13991.833333333332,Master's degree
+84537,Russian Federation,19488.625,Bachelor's degree
+84540,Russian Federation,9994.166666666666,Master's degree
+84542,Russian Federation,11493.291666666666,Master's degree
+84557,Russian Federation,5996.5,Bachelor's degree
+84580,Russian Federation,2498.5416666666665,Master's degree
+84599,Russian Federation,19658.525833333333,Bachelor's degree
+84707,Russian Federation,11993.0,Bachelor's degree
+84708,Russian Federation,12992.416666666666,college/university without bachelor's degree
+85078,Russian Federation,11393.35,college/university without bachelor's degree
+85511,Russian Federation,9994.166666666666,Master's degree
+85680,Russian Federation,19988.333333333332,Professional degree
+85689,Russian Federation,8994.75,Bachelor's degree
+85903,Russian Federation,11993.0,Bachelor's degree
+85955,Russian Federation,11993.0,Master's degree
+86066,Russian Federation,1499.125,Bachelor's degree
+86236,Russian Federation,15990.666666666666,Master's degree
+86241,Russian Federation,17989.5,college/university without bachelor's degree
+86313,Russian Federation,6096.441666666667,Master's degree
+86350,Russian Federation,14991.25,Bachelor's degree
+86453,Russian Federation,8594.983333333334,Master's degree
+86480,Russian Federation,11993.0,Bachelor's degree
+86488,Russian Federation,14991.25,college/university without bachelor's degree
+86594,Russian Federation,8495.041666666666,college/university without bachelor's degree
+86602,Russian Federation,6995.916666666666,Bachelor's degree
+86811,Russian Federation,7995.333333333333,Bachelor's degree
+87014,Russian Federation,12692.591666666667,Master's degree
+87045,Russian Federation,9994.166666666666,Bachelor's degree
+87444,Russian Federation,13991.833333333332,Master's degree
+87571,Russian Federation,13492.125,Secondary school
+87670,Russian Federation,17989.5,Master's degree
+87676,Russian Federation,17989.5,Master's degree
+87743,Russian Federation,4997.083333333333,Bachelor's degree
+87950,Russian Federation,17989.5,Master's degree
+87980,Russian Federation,1199.3,Secondary school
+88035,Russian Federation,11993.0,college/university without bachelor's degree
+88093,Russian Federation,3497.958333333333,Primary/elementary school
+88142,Russian Federation,4997.083333333333,college/university without bachelor's degree
+88179,Russian Federation,13991.833333333332,Master's degree
+88219,Russian Federation,6796.033333333334,Master's degree
+88256,Russian Federation,12992.416666666666,Professional degree

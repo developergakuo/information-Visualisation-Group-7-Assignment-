@@ -1,0 +1,898 @@
+{
+    "Afghanistan": {
+        "Female": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 17
+    },
+    "Albania": {
+        "Female": 4,
+        "Male": 45
+    },
+    "Algeria": {
+        "Female": 3,
+        "Female;Male": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 55,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Andorra": {
+        "Female": 1,
+        "Male": 5
+    },
+    "Angola": {
+        "Male": 2
+    },
+    "Antigua and Barbuda": {
+        "Male": 1
+    },
+    "Argentina": {
+        "Female": 41,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 1,
+        "Male": 369,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Non-binary, genderqueer, or gender non-conforming": 3
+    },
+    "Armenia": {
+        "Female": 8,
+        "Female;Male;Transgender": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 51,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 1
+    },
+    "Australia": {
+        "Female": 85,
+        "Female;Male": 2,
+        "Female;Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Female;Transgender": 5,
+        "Female;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 1389,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 5,
+        "Non-binary, genderqueer, or gender non-conforming": 2,
+        "Transgender": 1,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 2
+    },
+    "Austria": {
+        "Female": 25,
+        "Male": 513,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 2,
+        "Transgender": 2,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Azerbaijan": {
+        "Male": 44,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Bahamas": {
+        "Male": 2
+    },
+    "Bahrain": {
+        "Male": 9
+    },
+    "Bangladesh": {
+        "Female": 13,
+        "Female;Male": 2,
+        "Female;Male;Transgender": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 357,
+        "Transgender": 1
+    },
+    "Barbados": {
+        "Male": 3
+    },
+    "Belarus": {
+        "Female": 13,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 175,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Belgium": {
+        "Female": 17,
+        "Female;Male": 1,
+        "Female;Transgender": 2,
+        "Male": 518,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 1
+    },
+    "Belize": {
+        "Male": 1
+    },
+    "Benin": {
+        "Male": 4
+    },
+    "Bhutan": {
+        "Female;Male": 1,
+        "Male": 2
+    },
+    "Bolivia": {
+        "Female": 2,
+        "Male": 21
+    },
+    "Bosnia and Herzegovina": {
+        "Female": 3,
+        "Male": 77,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 1
+    },
+    "Botswana": {
+        "Male": 3
+    },
+    "Brazil": {
+        "Female": 58,
+        "Female;Male": 1,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 2,
+        "Male": 1513,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 4,
+        "Transgender": 1,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Bulgaria": {
+        "Female": 17,
+        "Male": 275
+    },
+    "Burkina Faso": {
+        "Male": 1
+    },
+    "Burundi": {
+        "Male": 1
+    },
+    "Cambodia": {
+        "Female": 1,
+        "Male": 23,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Cameroon": {
+        "Female": 1,
+        "Female;Male": 1,
+        "Male": 21,
+        "Male;Transgender": 1
+    },
+    "Canada": {
+        "Female": 208,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 3,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 4,
+        "Female;Transgender": 8,
+        "Female;Transgender;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Male": 2201,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 6,
+        "Non-binary, genderqueer, or gender non-conforming": 17,
+        "Transgender": 4,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 3
+    },
+    "Cape Verde": {
+        "Male": 1
+    },
+    "Chile": {
+        "Female": 13,
+        "Male": 128,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "China": {
+        "Female": 28,
+        "Female;Male": 7,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 1,
+        "Female;Transgender;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Male": 368,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 3,
+        "Non-binary, genderqueer, or gender non-conforming": 4,
+        "Transgender": 4,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Colombia": {
+        "Female": 12,
+        "Female;Male": 1,
+        "Male": 228
+    },
+    "Congo, Republic of the...": {
+        "Male": 5
+    },
+    "Costa Rica": {
+        "Female": 2,
+        "Male": 64,
+        "Transgender": 1
+    },
+    "Croatia": {
+        "Female": 6,
+        "Male": 147
+    },
+    "Cuba": {
+        "Female": 2,
+        "Male": 41,
+        "Transgender": 1
+    },
+    "Cyprus": {
+        "Female": 1,
+        "Male": 35
+    },
+    "Czech Republic": {
+        "Female": 13,
+        "Male": 524,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 2
+    },
+    "CÃ´te d'Ivoire": {
+        "Male": 5
+    },
+    "Democratic Republic of the Congo": {
+        "Male": 2
+    },
+    "Denmark": {
+        "Female": 18,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 1,
+        "Male": 442,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 2
+    },
+    "Dominica": {
+        "Male": 1
+    },
+    "Dominican Republic": {
+        "Male": 69
+    },
+    "Ecuador": {
+        "Female": 1,
+        "Male": 36
+    },
+    "Egypt": {
+        "Female": 17,
+        "Female;Male": 1,
+        "Male": 188,
+        "Transgender": 1
+    },
+    "El Salvador": {
+        "Female": 2,
+        "Male": 28
+    },
+    "Eritrea": {
+        "Male": 1
+    },
+    "Estonia": {
+        "Female": 5,
+        "Female;Male": 1,
+        "Male": 134
+    },
+    "Ethiopia": {
+        "Female": 3,
+        "Male": 24
+    },
+    "Fiji": {
+        "Female": 1,
+        "Male": 5
+    },
+    "Finland": {
+        "Female": 21,
+        "Female;Male;Transgender": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 350,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 2
+    },
+    "France": {
+        "Female": 83,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 3,
+        "Male": 1629,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 4,
+        "Non-binary, genderqueer, or gender non-conforming": 7,
+        "Transgender": 2,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 3
+    },
+    "Gabon": {
+        "Male": 1
+    },
+    "Gambia": {
+        "Male": 2
+    },
+    "Georgia": {
+        "Female": 2,
+        "Male": 36
+    },
+    "Germany": {
+        "Female": 193,
+        "Female;Male": 6,
+        "Female;Male;Transgender": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 3,
+        "Female;Transgender": 8,
+        "Male": 4205,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 12,
+        "Male;Transgender": 2,
+        "Non-binary, genderqueer, or gender non-conforming": 22,
+        "Transgender": 8,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 5
+    },
+    "Ghana": {
+        "Female": 3,
+        "Male": 41,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Greece": {
+        "Female": 15,
+        "Male": 343,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Grenada": {
+        "Male": 1
+    },
+    "Guatemala": {
+        "Female": 2,
+        "Female;Male": 1,
+        "Male": 27,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Guyana": {
+        "Male": 2
+    },
+    "Haiti": {
+        "Male": 2
+    },
+    "Honduras": {
+        "Male": 15
+    },
+    "Hong Kong (S.A.R.)": {
+        "Female": 13,
+        "Female;Transgender": 2,
+        "Male": 128,
+        "Transgender": 1
+    },
+    "Hungary": {
+        "Female": 13,
+        "Male": 298
+    },
+    "Iceland": {
+        "Female": 2,
+        "Male": 29,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "India": {
+        "Female": 440,
+        "Female;Male": 24,
+        "Female;Male;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Female;Male;Transgender": 8,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 6213,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 6,
+        "Male;Transgender": 1,
+        "Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 11,
+        "Transgender": 11
+    },
+    "Indonesia": {
+        "Female": 14,
+        "Female;Male": 2,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 308
+    },
+    "Iran, Islamic Republic of...": {
+        "Female": 27,
+        "Female;Male": 6,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 454,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 5,
+        "Transgender": 1
+    },
+    "Iraq": {
+        "Female": 2,
+        "Female;Male": 1,
+        "Male": 14
+    },
+    "Ireland": {
+        "Female": 26,
+        "Male": 347,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 3
+    },
+    "Israel": {
+        "Female": 45,
+        "Male": 607,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 3
+    },
+    "Italy": {
+        "Female": 24,
+        "Female;Male": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 1017,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 4,
+        "Non-binary, genderqueer, or gender non-conforming": 3
+    },
+    "Jamaica": {
+        "Female": 2,
+        "Male": 9,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Japan": {
+        "Female": 15,
+        "Female;Male": 1,
+        "Female;Transgender": 1,
+        "Male": 223,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Jordan": {
+        "Female": 7,
+        "Female;Male": 1,
+        "Male": 38
+    },
+    "Kazakhstan": {
+        "Female": 1,
+        "Male": 56
+    },
+    "Kenya": {
+        "Female": 6,
+        "Male": 113
+    },
+    "Kuwait": {
+        "Male": 14
+    },
+    "Kyrgyzstan": {
+        "Male": 13
+    },
+    "Latvia": {
+        "Female": 5,
+        "Male": 101
+    },
+    "Lebanon": {
+        "Female": 8,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 59
+    },
+    "Lesotho": {
+        "Male": 2
+    },
+    "Liberia": {
+        "Male": 1
+    },
+    "Libyan Arab Jamahiriya": {
+        "Female": 1,
+        "Male": 6
+    },
+    "Liechtenstein": {
+        "Male": 3
+    },
+    "Lithuania": {
+        "Female": 4,
+        "Male": 167
+    },
+    "Luxembourg": {
+        "Female": 2,
+        "Male": 45
+    },
+    "Madagascar": {
+        "Female": 1,
+        "Male": 11
+    },
+    "Malawi": {
+        "Female": 1,
+        "Male": 2
+    },
+    "Malaysia": {
+        "Female": 27,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 198,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 2
+    },
+    "Maldives": {
+        "Female": 1,
+        "Male": 6
+    },
+    "Mali": {
+        "Male": 1
+    },
+    "Malta": {
+        "Female": 3,
+        "Male": 43
+    },
+    "Mauritius": {
+        "Female": 2,
+        "Male": 17
+    },
+    "Mexico": {
+        "Female": 25,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Female;Transgender": 2,
+        "Male": 433,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 3,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 1,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Monaco": {
+        "Male": 1
+    },
+    "Mongolia": {
+        "Male": 10
+    },
+    "Montenegro": {
+        "Male": 8
+    },
+    "Morocco": {
+        "Female": 11,
+        "Male": 99
+    },
+    "Mozambique": {
+        "Male": 13
+    },
+    "Myanmar": {
+        "Female": 5,
+        "Male": 18,
+        "Male;Transgender": 1
+    },
+    "Namibia": {
+        "Male": 4,
+        "Transgender": 1
+    },
+    "Nauru": {
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Nepal": {
+        "Female": 7,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 152
+    },
+    "Netherlands": {
+        "Female": 66,
+        "Female;Male": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 3,
+        "Male": 1212,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 5,
+        "Non-binary, genderqueer, or gender non-conforming": 5,
+        "Transgender": 1,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "New Zealand": {
+        "Female": 22,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 2,
+        "Male": 385,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 2,
+        "Transgender": 1
+    },
+    "Nicaragua": {
+        "Female": 1,
+        "Male": 16
+    },
+    "Niger": {
+        "Male": 1
+    },
+    "Nigeria": {
+        "Female": 18,
+        "Female;Male": 3,
+        "Male": 211
+    },
+    "Norway": {
+        "Female": 19,
+        "Female;Transgender": 2,
+        "Male": 392,
+        "Transgender": 2
+    },
+    "Oman": {
+        "Male": 15
+    },
+    "Other Country (Not Listed Above)": {
+        "Female": 5,
+        "Female;Male": 1,
+        "Male": 45,
+        "Non-binary, genderqueer, or gender non-conforming": 2
+    },
+    "Pakistan": {
+        "Female": 35,
+        "Female;Male": 8,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 514,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 1
+    },
+    "Panama": {
+        "Male": 23
+    },
+    "Paraguay": {
+        "Female": 3,
+        "Male": 29
+    },
+    "Peru": {
+        "Female": 4,
+        "Female;Male": 2,
+        "Female;Transgender": 1,
+        "Male": 64,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Philippines": {
+        "Female": 39,
+        "Female;Male": 2,
+        "Female;Male;Transgender": 1,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 235,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Poland": {
+        "Female": 73,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 1310,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male;Transgender": 1,
+        "Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 2,
+        "Transgender": 1
+    },
+    "Portugal": {
+        "Female": 12,
+        "Male": 355,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Qatar": {
+        "Male": 7
+    },
+    "Republic of Korea": {
+        "Female": 2,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 22,
+        "Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 1
+    },
+    "Republic of Moldova": {
+        "Female": 2,
+        "Male": 45,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Romania": {
+        "Female": 47,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 507
+    },
+    "Russian Federation": {
+        "Female": 95,
+        "Female;Male": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 1,
+        "Male": 1632,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Male;Transgender": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 6,
+        "Transgender": 5
+    },
+    "Rwanda": {
+        "Female": 1,
+        "Male": 5
+    },
+    "Saint Lucia": {
+        "Male": 1
+    },
+    "Saudi Arabia": {
+        "Female": 8,
+        "Male": 59
+    },
+    "Senegal": {
+        "Male": 8
+    },
+    "Serbia": {
+        "Female": 15,
+        "Female;Male": 1,
+        "Male": 230,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 1
+    },
+    "Sierra Leone": {
+        "Male": 1
+    },
+    "Singapore": {
+        "Female": 22,
+        "Male": 209,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Slovakia": {
+        "Female": 3,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 161
+    },
+    "Slovenia": {
+        "Female": 4,
+        "Male": 158
+    },
+    "Somalia": {
+        "Male": 5
+    },
+    "South Africa": {
+        "Female": 25,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 2,
+        "Male": 425,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 3,
+        "Transgender": 1,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "South Korea": {
+        "Female": 8,
+        "Male": 77,
+        "Non-binary, genderqueer, or gender non-conforming": 3
+    },
+    "Spain": {
+        "Female": 58,
+        "Female;Male": 1,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 1080,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 3
+    },
+    "Sri Lanka": {
+        "Female": 24,
+        "Female;Male": 3,
+        "Female;Male;Transgender": 1,
+        "Male": 223,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Transgender": 1
+    },
+    "Sudan": {
+        "Female": 1,
+        "Male": 12
+    },
+    "Suriname": {
+        "Male": 1
+    },
+    "Swaziland": {
+        "Male": 2
+    },
+    "Sweden": {
+        "Female": 32,
+        "Female;Transgender": 2,
+        "Male": 814,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 3,
+        "Non-binary, genderqueer, or gender non-conforming": 4,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Switzerland": {
+        "Female": 20,
+        "Male": 672,
+        "Non-binary, genderqueer, or gender non-conforming": 3,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Syrian Arab Republic": {
+        "Female": 1,
+        "Male": 21
+    },
+    "Taiwan": {
+        "Female": 12,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 80,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Tajikistan": {
+        "Male": 3
+    },
+    "Thailand": {
+        "Female": 7,
+        "Male": 107,
+        "Non-binary, genderqueer, or gender non-conforming": 3,
+        "Transgender": 1
+    },
+    "The former Yugoslav Republic of Macedonia": {
+        "Female": 4,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 31
+    },
+    "Togo": {
+        "Male": 2,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Trinidad and Tobago": {
+        "Female": 1,
+        "Male": 15
+    },
+    "Tunisia": {
+        "Female": 9,
+        "Female;Male": 1,
+        "Male": 60
+    },
+    "Turkey": {
+        "Female": 29,
+        "Female;Male": 3,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Female;Transgender": 2,
+        "Male": 529,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Transgender": 1
+    },
+    "Turkmenistan": {
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Male": 1
+    },
+    "Uganda": {
+        "Female;Male": 1,
+        "Male": 37
+    },
+    "Ukraine": {
+        "Female": 43,
+        "Female;Male": 3,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Male": 656,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 2,
+        "Transgender": 1
+    },
+    "United Arab Emirates": {
+        "Female": 3,
+        "Male": 116,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "United Kingdom": {
+        "Female": 256,
+        "Female;Male": 1,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 7,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 6,
+        "Female;Transgender": 15,
+        "Female;Transgender;Non-binary, genderqueer, or gender non-conforming": 2,
+        "Male": 4260,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 8,
+        "Male;Transgender": 2,
+        "Non-binary, genderqueer, or gender non-conforming": 34,
+        "Transgender": 5,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 3
+    },
+    "United Republic of Tanzania": {
+        "Female;Male": 1,
+        "Male": 26
+    },
+    "United States": {
+        "Female": 1288,
+        "Female;Male": 2,
+        "Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 6,
+        "Female;Non-binary, genderqueer, or gender non-conforming": 25,
+        "Female;Transgender": 79,
+        "Female;Transgender;Non-binary, genderqueer, or gender non-conforming": 17,
+        "Male": 13914,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 36,
+        "Male;Transgender": 20,
+        "Male;Transgender;Non-binary, genderqueer, or gender non-conforming": 3,
+        "Non-binary, genderqueer, or gender non-conforming": 104,
+        "Transgender": 30,
+        "Transgender;Non-binary, genderqueer, or gender non-conforming": 27
+    },
+    "Uruguay": {
+        "Female": 7,
+        "Male": 56,
+        "Male;Non-binary, genderqueer, or gender non-conforming": 1,
+        "Non-binary, genderqueer, or gender non-conforming": 1
+    },
+    "Uzbekistan": {
+        "Male": 29
+    },
+    "Venezuela, Bolivarian Republic of...": {
+        "Female": 6,
+        "Male": 75
+    },
+    "Viet Nam": {
+        "Female": 9,
+        "Female;Male": 1,
+        "Male": 131
+    },
+    "Yemen": {
+        "Male": 7
+    },
+    "Zambia": {
+        "Male": 5
+    },
+    "Zimbabwe": {
+        "Female": 2,
+        "Male": 25
+    }
+}

@@ -1,0 +1,909 @@
+,Country,Monthly_Sal_EUR,EdLevel
+30,Poland,2998.25,college/university without bachelor's degree
+90,Poland,2998.25,Master's degree
+131,Poland,4232.3297,Master's degree
+241,Poland,3350.8442,Master's degree
+606,Poland,1057.7826,Master's degree
+730,Poland,4937.518099999999,Bachelor's degree
+854,Poland,4232.3297,Bachelor's degree
+864,Poland,3174.1473333333333,Bachelor's degree
+909,Poland,4584.9239,Professional degree
+1430,Poland,5290.1123,Master's degree
+1451,Poland,8814.855,Master's degree
+1463,Poland,4056.0325999999995,Bachelor's degree
+1507,Poland,2468.1594,Master's degree
+1756,Poland,3527.1413,Bachelor's degree
+1829,Poland,987.0238999999999,college/university without bachelor's degree
+1956,Poland,3527.1413,Master's degree
+2001,Poland,5995.3007,Bachelor's degree
+2407,Poland,3527.1413,Bachelor's degree
+2436,Poland,2527.52475,Bachelor's degree
+2470,Poland,3033.0297,Master's degree
+2657,Poland,1410.3768,Bachelor's degree
+2665,Poland,3820.669975,Bachelor's degree
+2701,Poland,3703.4384,Master's degree
+2803,Poland,6347.8949,Master's degree
+2851,Poland,3526.741533333333,Bachelor's degree
+3329,Poland,4232.3297,Master's degree
+3381,Poland,4232.3297,Bachelor's degree
+3388,Poland,1586.6739,Bachelor's degree
+3409,Poland,4584.9239,Master's degree
+3451,Poland,5297.507983333333,Master's degree
+3598,Poland,2821.9529,Master's degree
+3646,Poland,4232.3297,Master's degree
+3746,Poland,3527.1413,Bachelor's degree
+3794,Poland,2010.0267999999999,Master's degree
+3849,Poland,1339.6181,Bachelor's degree
+3894,Poland,4584.9239,Bachelor's degree
+4103,Poland,7053.083299999999,Master's degree
+4183,Poland,3385.6238999999996,Secondary school
+4339,Poland,2222.3028999999997,Bachelor's degree
+4388,Poland,4232.3297,Master's degree
+4683,Poland,6604.5451,Bachelor's degree
+4712,Poland,1551.8942,college/university without bachelor's degree
+4773,Poland,3703.4384,Bachelor's degree
+4840,Poland,2468.1594,Secondary school
+4859,Poland,881.4855,Secondary school
+5240,Poland,564.8703,Bachelor's degree
+5317,Poland,3456.3826,Master's degree
+5360,Poland,4408.6268,Bachelor's degree
+5467,Poland,1234.0797,college/university without bachelor's degree
+5515,Poland,1199.3,Secondary school
+5583,Poland,4584.9239,Master's degree
+5645,Poland,2645.05615,Associate degree
+5865,Poland,2115.5652,Bachelor's degree
+5936,Poland,1649.0375,Bachelor's degree
+6012,Poland,2046.0058,Master's degree
+6149,Poland,1904.4884000000002,Bachelor's degree
+6275,Poland,4232.3297,college/university without bachelor's degree
+6276,Poland,2821.9529,Master's degree
+6305,Poland,881.4855,Secondary school
+6361,Poland,3174.5471000000002,Secondary school
+6607,Poland,2468.1594,Bachelor's degree
+6708,Poland,1234.0797,Secondary school
+6714,Poland,7935.768099999999,Bachelor's degree
+6739,Poland,1693.4116,Secondary school
+6749,Poland,1693.4116,college/university without bachelor's degree
+6782,Poland,1410.3768,Bachelor's degree
+7079,Poland,1481.1354999999999,Bachelor's degree
+7144,Poland,1762.971,Master's degree
+7145,Poland,3903.7215,Secondary school
+7188,Poland,3085.898841666666,Master's degree
+7371,Poland,5290.1123,Master's degree
+7376,Poland,5113.8152,Bachelor's degree
+7413,Poland,3879.7355,college/university without bachelor's degree
+7479,Poland,4232.3297,Master's degree
+7731,Poland,2173.73125,college/university without bachelor's degree
+7734,Poland,1234.0797,Bachelor's degree
+7751,Poland,4020.0535999999997,Master's degree
+7872,Poland,4584.9239,Master's degree
+8040,Poland,1499.125,Master's degree
+8062,Poland,1270.0587,Bachelor's degree
+8257,Poland,2538.9181,Bachelor's degree
+8446,Poland,5877.969183333333,Master's degree
+8556,Poland,3527.1413,college/university without bachelor's degree
+8613,Poland,4584.9239,college/university without bachelor's degree
+8619,Poland,1762.971,Bachelor's degree
+8684,Poland,1234.0797,Bachelor's degree
+8715,Poland,2468.1594,Master's degree
+8782,Poland,5290.1123,Master's degree
+8921,Poland,3262.096,Master's degree
+8932,Poland,1057.7826,college/university without bachelor's degree
+9027,Poland,1639.4431,Secondary school
+9087,Poland,5877.969183333333,Master's degree
+9149,Poland,4232.3297,Bachelor's degree
+9302,Poland,6318.811875,Bachelor's degree
+9364,Poland,3174.5471000000002,Bachelor's degree
+9437,Poland,3174.5471000000002,Master's degree
+9781,Poland,1057.7826,Secondary school
+9886,Poland,8464.259633333333,Master's degree
+9922,Poland,2115.5652,Master's degree
+9958,Poland,1762.971,Bachelor's degree
+10026,Poland,4937.518099999999,college/university without bachelor's degree
+10253,Poland,881.4855,Secondary school
+10342,Poland,2291.8623,Master's degree
+10703,Poland,2115.5652,Secondary school
+10831,Poland,2821.9529,Master's degree
+10951,Poland,2115.5652,Bachelor's degree
+10969,Poland,2115.5652,Bachelor's degree
+11058,Poland,2998.25,Bachelor's degree
+11239,Poland,5854.9826,Master's degree
+11326,Poland,5290.1123,Master's degree
+11369,Poland,775.9471,Secondary school
+11441,Poland,4584.9239,Master's degree
+11468,Poland,1586.6739,Bachelor's degree
+11518,Poland,1410.3768,college/university without bachelor's degree
+11610,Poland,1339.6181,Bachelor's degree
+11863,Poland,2538.9181,college/university without bachelor's degree
+12066,Poland,1762.971,Bachelor's degree
+12067,Poland,3879.7355,Master's degree
+12083,Poland,2115.5652,Bachelor's degree
+12328,Poland,2115.5652,Bachelor's degree
+12341,Poland,1163.321,Secondary school
+12444,Poland,3174.5471000000002,Master's degree
+12488,Poland,2821.9529,Master's degree
+12559,Poland,5027.4655999999995,Bachelor's degree
+12592,Poland,4232.3297,Associate degree
+12620,Poland,2468.1594,Master's degree
+12879,Poland,2821.9529,Bachelor's degree
+13296,Poland,3527.1413,college/university without bachelor's degree
+13371,Poland,3879.7355,Master's degree
+13444,Poland,5290.1123,college/university without bachelor's degree
+13564,Poland,793.5368333333333,Master's degree
+13868,Poland,3879.7355,Master's degree
+13905,Poland,3879.7355,Master's degree
+13930,Poland,4584.9239,Master's degree
+13960,Poland,2821.9529,Bachelor's degree
+14126,Poland,5642.7065,Master's degree
+14130,Poland,3527.1413,Master's degree
+14256,Poland,3703.4384,Master's degree
+14618,Poland,4761.221,college/university without bachelor's degree
+14872,Poland,4858.364299999999,Secondary school
+14913,Poland,4937.518099999999,Bachelor's degree
+14935,Poland,3525.942,Master's degree
+14945,Poland,1762.971,Master's degree
+14988,Poland,3879.7355,Bachelor's degree
+15326,Poland,4408.6268,college/university without bachelor's degree
+15473,Poland,4937.518099999999,Master's degree
+15668,Poland,4584.9239,Master's degree
+15714,Poland,4443.4065,Master's degree
+15908,Poland,2010.0267999999999,Bachelor's degree
+16053,Poland,3527.1413,Master's degree
+16231,Poland,1939.2680999999998,Secondary school
+16435,Poland,6347.8949,Master's degree
+16603,Poland,2257.0825999999997,Master's degree
+16617,Poland,3879.7355,Master's degree
+16704,Poland,2468.1594,Master's degree
+16718,Poland,3879.4356749999997,Bachelor's degree
+16804,Poland,1469.5422666666666,Bachelor's degree
+16881,Poland,3879.7355,Master's degree
+17513,Poland,3174.5471000000002,Master's degree
+17578,Poland,4584.9239,Master's degree
+17602,Poland,3174.5471000000002,Bachelor's degree
+17668,Poland,1481.1354999999999,college/university without bachelor's degree
+17846,Poland,3209.3268,Master's degree
+17906,Poland,2821.9529,Master's degree
+17916,Poland,2609.6768,Bachelor's degree
+17923,Poland,2821.9529,Bachelor's degree
+18000,Poland,7068.274433333333,Bachelor's degree
+18132,Poland,5819.0036,Master's degree
+18259,Poland,2821.9529,college/university without bachelor's degree
+18387,Poland,1234.0797,Bachelor's degree
+18627,Poland,1410.3768,college/university without bachelor's degree
+18635,Poland,3527.1413,Master's degree
+18692,Poland,2327.8413,Bachelor's degree
+18863,Poland,2115.5652,Bachelor's degree
+19059,Poland,2115.5652,Master's degree
+19100,Poland,3174.5471000000002,Primary/elementary school
+19186,Poland,10580.2246,Master's degree
+19568,Poland,3174.5471000000002,college/university without bachelor's degree
+19621,Poland,2204.3134,college/university without bachelor's degree
+19795,Poland,2468.7590499999997,Master's degree
+19840,Poland,3527.1413,Master's degree
+20009,Poland,3879.7355,Master's degree
+20160,Poland,1939.2680999999998,Secondary school
+20213,Poland,5713.4652,Master's degree
+20281,Poland,12931.552191666666,Master's degree
+20330,Poland,6912.7652,Bachelor's degree
+20372,Poland,1481.1354999999999,Bachelor's degree
+20436,Poland,1234.0797,Bachelor's degree
+20638,Poland,6171.5978000000005,Master's degree
+20795,Poland,317.81449999999995,Bachelor's degree
+20840,Poland,1446.3557999999998,Bachelor's degree
+21045,Poland,2291.8623,college/university without bachelor's degree
+21213,Poland,952.2442000000001,Secondary school
+21356,Poland,3527.1413,Master's degree
+21390,Poland,2115.5652,Master's degree
+21477,Poland,2538.9181,Master's degree
+21487,Poland,2239.0931,Master's degree
+21564,Poland,2186.3239,Master's degree
+21568,Poland,3350.8442,Master's degree
+21620,Poland,1410.3768,college/university without bachelor's degree
+21677,Poland,4056.0325999999995,Master's degree
+21711,Poland,4232.3297,Bachelor's degree
+21759,Poland,1234.0797,Bachelor's degree
+21916,Poland,5642.7065,Master's degree
+21942,Poland,3174.5471000000002,Bachelor's degree
+22003,Poland,2998.25,Master's degree
+22183,Poland,2821.9529,Secondary school
+22205,Poland,3879.7355,Bachelor's degree
+22252,Poland,3385.6238999999996,Secondary school
+22396,Poland,3808.9768000000004,Bachelor's degree
+22424,Poland,4232.3297,Master's degree
+22523,Poland,5877.969183333333,Master's degree
+22539,Poland,528.8913,Secondary school
+22548,Poland,1234.0797,Bachelor's degree
+22572,Poland,4584.9239,Bachelor's degree
+22717,Poland,1586.6739,Master's degree
+22794,Poland,4056.0325999999995,Master's degree
+22863,Poland,4232.3297,Secondary school
+22912,Poland,1410.3768,college/university without bachelor's degree
+23130,Poland,3527.1413,college/university without bachelor's degree
+23151,Poland,1057.7826,Bachelor's degree
+23358,Poland,4443.4065,Master's degree
+23460,Poland,3703.4384,Master's degree
+23618,Poland,1939.2680999999998,college/university without bachelor's degree
+23664,Poland,4056.0325999999995,Master's degree
+23817,Poland,5642.7065,college/university without bachelor's degree
+23976,Poland,2998.25,Bachelor's degree
+23978,Poland,2821.9529,college/university without bachelor's degree
+24097,Poland,1869.7087000000001,Bachelor's degree
+24125,Poland,4232.3297,Master's degree
+24210,Poland,2574.8971,college/university without bachelor's degree
+24770,Poland,5290.212241666666,Secondary school
+25029,Poland,3879.7355,Bachelor's degree
+25430,Poland,6700.4891,Master's degree
+25507,Poland,4197.549999999999,Secondary school
+25802,Poland,1939.2680999999998,college/university without bachelor's degree
+25809,Poland,2115.5652,Master's degree
+26398,Poland,3879.7355,Bachelor's degree
+26593,Poland,4514.1651999999995,Master's degree
+26719,Poland,4937.518099999999,Master's degree
+26720,Poland,2468.1594,Master's degree
+26784,Poland,5290.1123,Master's degree
+26878,Poland,1410.3768,Bachelor's degree
+26931,Poland,5290.1123,college/university without bachelor's degree
+26991,Poland,2010.0267999999999,college/university without bachelor's degree
+27271,Poland,4761.221,Bachelor's degree
+27281,Poland,3879.7355,Associate degree
+27313,Poland,3774.1971,Professional degree
+27440,Poland,3527.1413,Bachelor's degree
+27443,Poland,1701.8067,Bachelor's degree
+27727,Poland,2821.9529,Master's degree
+27790,Poland,1762.971,Bachelor's degree
+27862,Poland,2998.25,Bachelor's degree
+27891,Poland,2526.9251,Bachelor's degree
+27899,Poland,2398.6,Bachelor's degree
+28155,Poland,2115.5652,Bachelor's degree
+28184,Poland,2821.9529,Master's degree
+28205,Poland,4232.3297,Bachelor's degree
+28350,Poland,1904.4884000000002,Bachelor's degree
+28412,Poland,670.4087,Bachelor's degree
+28449,Poland,2380.6105,Bachelor's degree
+28482,Poland,2398.6,Bachelor's degree
+28503,Poland,5290.1123,Master's degree
+28590,Poland,2327.8413,Bachelor's degree
+28620,Poland,4232.3297,Master's degree
+28867,Poland,4232.3297,college/university without bachelor's degree
+28921,Poland,3350.8442,Master's degree
+28925,Poland,2468.1594,Bachelor's degree
+29001,Poland,3244.1065,college/university without bachelor's degree
+29089,Poland,5027.4655999999995,Secondary school
+29222,Poland,2115.5652,Bachelor's degree
+29246,Poland,1057.7826,Bachelor's degree
+29388,Poland,881.4855,Secondary school
+29423,Poland,987.0238999999999,Associate degree
+29474,Poland,2115.5652,college/university without bachelor's degree
+29518,Poland,1586.6739,Secondary school
+29729,Poland,6331.1047,Secondary school
+29840,Poland,2468.1594,college/university without bachelor's degree
+29868,Poland,917.4645,Associate degree
+29885,Poland,8817.2536,Bachelor's degree
+29951,Poland,3174.5471000000002,Secondary school
+30127,Poland,5466.4094000000005,Master's degree
+30169,Poland,7045.887500000001,Master's degree
+30177,Poland,2186.3239,Master's degree
+30295,Poland,5819.0036,Master's degree
+30332,Poland,5290.1123,college/university without bachelor's degree
+30429,Poland,2327.8413,Secondary school
+30608,Poland,2115.5652,Master's degree
+30748,Poland,3526.741533333333,Master's degree
+30758,Poland,1128.5412999999999,Bachelor's degree
+30862,Poland,2489.7468,Master's degree
+31387,Poland,3015.0402,Bachelor's degree
+31491,Poland,3174.5471000000002,Secondary school
+31690,Poland,1762.971,college/university without bachelor's degree
+31812,Poland,3738.2181,Master's degree
+31841,Poland,1693.4116,Bachelor's degree
+31927,Poland,2345.8307999999997,Secondary school
+31928,Poland,2607.2781999999997,college/university without bachelor's degree
+31953,Poland,775.9471,college/university without bachelor's degree
+32052,Poland,4937.518099999999,Bachelor's degree
+32344,Poland,4937.518099999999,Bachelor's degree
+32395,Poland,5584.040741666666,Master's degree
+32506,Poland,1762.971,college/university without bachelor's degree
+32525,Poland,4232.3297,Master's degree
+32630,Poland,1679.02,Secondary school
+32661,Poland,5995.3007,Master's degree
+32669,Poland,1057.7826,college/university without bachelor's degree
+32674,Poland,6700.4891,college/university without bachelor's degree
+32839,Poland,3703.4384,Bachelor's degree
+33145,Poland,1762.971,Secondary school
+33218,Poland,2468.1594,Bachelor's degree
+33333,Poland,5995.3007,Master's degree
+33381,Poland,1762.971,Master's degree
+33390,Poland,1066.1777,college/university without bachelor's degree
+33530,Poland,1693.4116,Bachelor's degree
+33543,Poland,1975.2471,Bachelor's degree
+33644,Poland,2151.5442,Secondary school
+33687,Poland,2680.4355,Master's degree
+34035,Poland,1057.7826,college/university without bachelor's degree
+34093,Poland,2204.3134,Secondary school
+34159,Poland,1762.971,Master's degree
+34266,Poland,10283.9975,Master's degree
+34310,Poland,3527.1413,Master's degree
+34616,Poland,3527.1413,Master's degree
+34631,Poland,5290.1123,Master's degree
+34948,Poland,5642.7065,Master's degree
+34970,Poland,3782.5922,college/university without bachelor's degree
+35008,Poland,1163.321,Bachelor's degree
+35054,Poland,2821.9529,Master's degree
+35171,Poland,1762.971,Master's degree
+35254,Poland,5995.3007,Master's degree
+35504,Poland,4110.0010999999995,Master's degree
+35657,Poland,1410.3768,Bachelor's degree
+35704,Poland,3808.9768000000004,Master's degree
+35958,Poland,3527.1413,Bachelor's degree
+36264,Poland,3879.7355,Secondary school
+36465,Poland,2222.3028999999997,Master's degree
+36613,Poland,7935.2683916666665,Bachelor's degree
+36727,Poland,1990.838,Bachelor's degree
+36777,Poland,5642.7065,Master's degree
+36853,Poland,7347.51145,Master's degree
+37083,Poland,3526.741533333333,Bachelor's degree
+37117,Poland,5515.5806999999995,Master's degree
+37140,Poland,1975.2471,Bachelor's degree
+37168,Poland,3527.1413,Master's degree
+37213,Poland,2574.8971,Bachelor's degree
+37405,Poland,7053.583008333333,Master's degree
+37573,Poland,1939.2680999999998,Master's degree
+37592,Poland,2751.1942,Bachelor's degree
+37624,Poland,1181.3105,Secondary school
+37960,Poland,1762.971,Bachelor's degree
+38041,Poland,1481.1354999999999,Bachelor's degree
+38052,Poland,2115.5652,college/university without bachelor's degree
+38077,Poland,8562.102524999998,Bachelor's degree
+38243,Poland,2998.25,Bachelor's degree
+38376,Poland,2645.6558,Master's degree
+38630,Poland,4056.0325999999995,Master's degree
+38656,Poland,2291.8623,Master's degree
+38660,Poland,4584.9239,Bachelor's degree
+38728,Poland,4937.518099999999,Bachelor's degree
+38976,Poland,2715.2151999999996,college/university without bachelor's degree
+39055,Poland,5466.4094000000005,Master's degree
+39422,Poland,4114.598416666667,Bachelor's degree
+39693,Poland,987.0238999999999,college/university without bachelor's degree
+39903,Poland,3067.8094,Master's degree
+40156,Poland,2751.1942,Master's degree
+40162,Poland,2468.1594,Master's degree
+40198,Poland,7345.7125,Bachelor's degree
+40326,Poland,5995.3007,Master's degree
+40332,Poland,5290.1123,Master's degree
+40474,Poland,2115.5652,college/university without bachelor's degree
+40542,Poland,846.7058,Master's degree
+40560,Poland,11168.181424999999,Bachelor's degree
+40598,Poland,2409.9933499999997,Bachelor's degree
+40767,Poland,4232.3297,Bachelor's degree
+40778,Poland,528.8913,Bachelor's degree
+41056,Poland,2186.3239,Bachelor's degree
+41060,Poland,5584.040741666666,Bachelor's degree
+41303,Poland,2821.9529,Bachelor's degree
+41515,Poland,13901.386124999999,Secondary school
+41524,Poland,5877.969183333333,Bachelor's degree
+41744,Poland,4584.9239,college/university without bachelor's degree
+41752,Poland,2186.3239,Secondary school
+41801,Poland,3174.5471000000002,Master's degree
+41852,Poland,4232.3297,Bachelor's degree
+42129,Poland,7935.2683916666665,Master's degree
+42154,Poland,7053.083299999999,college/university without bachelor's degree
+42235,Poland,1057.7826,college/university without bachelor's degree
+42337,Poland,7347.51145,Master's degree
+42489,Poland,2821.9529,Master's degree
+42591,Poland,1762.971,college/university without bachelor's degree
+42601,Poland,4408.6268,Master's degree
+42622,Poland,2998.25,Bachelor's degree
+42804,Poland,3879.7355,Secondary school
+42978,Poland,2291.8623,Bachelor's degree
+43013,Poland,1833.7297,Master's degree
+43134,Poland,2715.2151999999996,Master's degree
+43179,Poland,1023.0029,Bachelor's degree
+43186,Poland,5642.7065,Master's degree
+43193,Poland,3703.4384,college/university without bachelor's degree
+43232,Poland,2821.9529,Master's degree
+43330,Poland,1234.0797,Bachelor's degree
+43473,Poland,3527.1413,Master's degree
+43523,Poland,3067.8094,Bachelor's degree
+43630,Poland,7759.471,Bachelor's degree
+43760,Poland,3350.8442,Bachelor's degree
+43810,Poland,4232.129816666667,Master's degree
+43813,Poland,2504.1384,Master's degree
+43847,Poland,4232.3297,Master's degree
+44096,Poland,5642.7065,Master's degree
+44221,Poland,2821.9529,Bachelor's degree
+44299,Poland,1762.971,college/university without bachelor's degree
+44331,Poland,1410.3768,Bachelor's degree
+44452,Poland,2998.25,Master's degree
+44565,Poland,1517.1145,Master's degree
+44655,Poland,2468.1594,Bachelor's degree
+44923,Poland,211.0768,college/university without bachelor's degree
+44947,Poland,1939.2680999999998,Master's degree
+45000,Poland,6560.170999999999,Bachelor's degree
+45013,Poland,7347.51145,college/university without bachelor's degree
+45174,Poland,1762.971,Bachelor's degree
+45246,Poland,4937.518099999999,Bachelor's degree
+45279,Poland,4937.518099999999,Master's degree
+45536,Poland,2538.9181,Associate degree
+45637,Poland,3879.7355,Bachelor's degree
+45652,Poland,5642.7065,college/university without bachelor's degree
+45665,Poland,2115.5652,Master's degree
+45856,Poland,2914.299,college/university without bachelor's degree
+45862,Poland,5642.7065,Bachelor's degree
+45973,Poland,4090.8123,Bachelor's degree
+46030,Poland,3879.7355,Master's degree
+46199,Poland,1088.9643999999998,college/university without bachelor's degree
+46381,Poland,2821.9529,Bachelor's degree
+46534,Poland,8817.2536,Master's degree
+46576,Poland,6347.8949,Master's degree
+46689,Poland,7641.33995,college/university without bachelor's degree
+46731,Poland,3879.7355,Master's degree
+46930,Poland,1833.7297,Bachelor's degree
+46931,Poland,5290.212241666666,college/university without bachelor's degree
+47480,Poland,1586.6739,Bachelor's degree
+47585,Poland,3879.7355,Master's degree
+47586,Poland,634.4296999999999,Secondary school
+47703,Poland,6524.192,Master's degree
+47715,Poland,1762.971,Bachelor's degree
+47731,Poland,3732.521425,Bachelor's degree
+47830,Poland,2891.5123000000003,college/university without bachelor's degree
+47932,Poland,3350.8442,Bachelor's degree
+47958,Poland,1586.6739,Master's degree
+48211,Poland,3174.5471000000002,Master's degree
+48314,Poland,3527.1413,Master's degree
+48319,Poland,1939.2680999999998,Master's degree
+48480,Poland,5501.1891,Master's degree
+48522,Poland,3350.8442,Bachelor's degree
+48651,Poland,1762.971,college/university without bachelor's degree
+48656,Poland,2291.8623,Master's degree
+48770,Poland,2115.5652,Bachelor's degree
+48828,Poland,2821.9529,Master's degree
+48837,Poland,1270.0587,Bachelor's degree
+49080,Poland,4056.0325999999995,Master's degree
+49092,Poland,1410.3768,Master's degree
+49097,Poland,3174.5471000000002,Bachelor's degree
+49309,Poland,3527.1413,Master's degree
+49481,Poland,2591.6873,college/university without bachelor's degree
+49516,Poland,1517.1145,Master's degree
+49561,Poland,4232.3297,Bachelor's degree
+49587,Poland,2468.1594,college/university without bachelor's degree
+49633,Poland,4584.9239,Bachelor's degree
+49687,Poland,2243.8903,Master's degree
+50100,Poland,4232.3297,Master's degree
+50144,Poland,1551.8942,Bachelor's degree
+50156,Poland,5642.7065,Master's degree
+50163,Poland,3174.5471000000002,Bachelor's degree
+50224,Poland,1762.971,college/university without bachelor's degree
+50227,Poland,705.1884,Bachelor's degree
+50287,Poland,1586.6739,Bachelor's degree
+50328,Poland,1762.971,Master's degree
+50351,Poland,4232.3297,Master's degree
+50549,Poland,3879.7355,Master's degree
+50733,Poland,4408.6268,Master's degree
+50852,Poland,2468.1594,Master's degree
+50986,Poland,741.1673999999999,Bachelor's degree
+51001,Poland,2998.25,Master's degree
+51015,Poland,1517.1145,college/university without bachelor's degree
+51069,Poland,1163.321,Bachelor's degree
+51392,Poland,3527.1413,Bachelor's degree
+51614,Poland,1586.6739,Master's degree
+51740,Poland,4937.518099999999,Bachelor's degree
+52192,Poland,2891.5123000000003,college/university without bachelor's degree
+52232,Poland,2468.1594,Bachelor's degree
+52282,Poland,4443.4065,Master's degree
+52395,Poland,2821.9529,Doctoral degree
+52441,Poland,4831.9797,Master's degree
+52491,Poland,387.37389999999994,Bachelor's degree
+52840,Poland,3910.5175333333336,Bachelor's degree
+52845,Poland,2115.5652,Bachelor's degree
+52863,Poland,4761.221,Master's degree
+52865,Poland,6347.8949,Master's degree
+52990,Poland,5995.3007,Master's degree
+53060,Poland,1869.7087000000001,Master's degree
+53171,Poland,2821.9529,college/university without bachelor's degree
+53259,Poland,1904.4884000000002,college/university without bachelor's degree
+53457,Poland,2821.9529,Secondary school
+53689,Poland,5995.5005833333325,Master's degree
+53787,Poland,4179.960266666667,college/university without bachelor's degree
+53958,Poland,2821.4531916666665,college/university without bachelor's degree
+54095,Poland,2468.1594,Bachelor's degree
+54201,Poland,6465.726124999999,Master's degree
+54212,Poland,648.8213,Bachelor's degree
+54374,Poland,2421.3867,college/university without bachelor's degree
+54475,Poland,2116.0649083333333,Master's degree
+54499,Poland,952.2442000000001,Secondary school
+54581,Poland,2645.6558,college/university without bachelor's degree
+54591,Poland,6347.8949,Bachelor's degree
+54638,Poland,1057.7826,Primary/elementary school
+54646,Poland,2468.1594,college/university without bachelor's degree
+54698,Poland,877.8876,Bachelor's degree
+54726,Poland,5642.7065,Master's degree
+54795,Poland,4761.221,Master's degree
+54920,Poland,3527.1413,Master's degree
+55103,Poland,2821.9529,college/university without bachelor's degree
+55106,Poland,3174.5471000000002,Master's degree
+55165,Poland,1762.971,Master's degree
+55315,Poland,7828.230866666667,Master's degree
+55594,Poland,2998.25,Master's degree
+55657,Poland,3350.8442,Master's degree
+55693,Poland,1057.7826,Bachelor's degree
+55778,Poland,528.8913,Bachelor's degree
+56246,Poland,1057.7826,Master's degree
+56386,Poland,5995.3007,Master's degree
+56451,Poland,2698.425,Bachelor's degree
+56458,Poland,2115.5652,Bachelor's degree
+56578,Poland,5854.9826,Master's degree
+56671,Poland,1270.0587,Bachelor's degree
+56679,Poland,1918.88,Master's degree
+56911,Poland,5672.289233333333,Master's degree
+57138,Poland,6347.8949,Master's degree
+57327,Poland,2468.1594,Bachelor's degree
+57520,Poland,3174.5471000000002,college/university without bachelor's degree
+57537,Poland,2468.1594,Bachelor's degree
+57597,Poland,9875.036199999999,Master's degree
+57622,Poland,4367.8506,Secondary school
+57714,Poland,705.1884,Bachelor's degree
+57807,Poland,2468.1594,Bachelor's degree
+57910,Poland,1586.6739,Associate degree
+57970,Poland,2821.4531916666665,Bachelor's degree
+57976,Poland,3174.5471000000002,Master's degree
+58074,Poland,3527.1413,Master's degree
+58194,Poland,2115.5652,Secondary school
+58383,Poland,4232.3297,Master's degree
+58529,Poland,3527.1413,Master's degree
+58604,Poland,1286.8489,Secondary school
+58649,Poland,4461.396,Master's degree
+58673,Poland,2609.6768,Master's degree
+58792,Poland,3272.8897,college/university without bachelor's degree
+58861,Poland,1128.5412999999999,Secondary school
+58953,Poland,3879.7355,Bachelor's degree
+59043,Poland,2909.5018,Secondary school
+59065,Poland,4937.518099999999,college/university without bachelor's degree
+59088,Poland,2327.8413,Bachelor's degree
+59100,Poland,2645.6558,Master's degree
+59318,Poland,2645.6558,Master's degree
+59472,Poland,3350.8442,Bachelor's degree
+59483,Poland,1586.6739,Secondary school
+59684,Poland,1762.971,Secondary school
+59745,Poland,4232.3297,Master's degree
+59808,Poland,7053.083299999999,Master's degree
+59832,Poland,2916.6976,Bachelor's degree
+59874,Poland,4232.3297,college/university without bachelor's degree
+59876,Poland,2115.5652,Secondary school
+60171,Poland,2821.9529,Master's degree
+60225,Poland,247.0558,Secondary school
+60428,Poland,3879.7355,Master's degree
+60696,Poland,1762.971,college/university without bachelor's degree
+60760,Poland,3174.5471000000002,college/university without bachelor's degree
+60830,Poland,881.4855,Master's degree
+60919,Poland,4232.3297,Master's degree
+60942,Poland,5642.7065,Master's degree
+60968,Poland,1234.0797,Bachelor's degree
+61066,Poland,2645.6558,Master's degree
+61249,Poland,4584.9239,Master's degree
+61297,Poland,5466.4094000000005,college/university without bachelor's degree
+61557,Poland,1762.971,college/university without bachelor's degree
+61791,Poland,2645.6558,Master's degree
+61838,Poland,5290.1123,college/university without bachelor's degree
+61841,Poland,2821.9529,Bachelor's degree
+61917,Poland,1163.321,college/university without bachelor's degree
+61979,Poland,3967.5842249999996,Master's degree
+62134,Poland,1586.6739,Master's degree
+62140,Poland,3703.4384,college/university without bachelor's degree
+62256,Poland,3385.6238999999996,Master's degree
+62345,Poland,2998.25,Master's degree
+62371,Poland,6347.8949,college/university without bachelor's degree
+62549,Poland,1502.7229,Secondary school
+62558,Poland,1586.6739,Secondary school
+62611,Poland,3820.669975,Master's degree
+62720,Poland,1720.9955,Bachelor's degree
+62841,Poland,1586.6739,Bachelor's degree
+62884,Poland,4849.369549999999,Secondary school
+62962,Poland,2751.1942,Master's degree
+63056,Poland,3879.7355,Master's degree
+63058,Poland,4232.3297,Master's degree
+63185,Poland,1762.971,college/university without bachelor's degree
+63190,Poland,2645.6558,Master's degree
+63324,Poland,2291.8623,Bachelor's degree
+63409,Poland,1939.2680999999998,college/university without bachelor's degree
+63451,Poland,1410.3768,Master's degree
+63640,Poland,5290.1123,Master's degree
+63861,Poland,3350.8442,Master's degree
+63928,Poland,2291.8623,Bachelor's degree
+64111,Poland,3703.4384,Secondary school
+64160,Poland,4408.526858333333,Master's degree
+64242,Poland,1410.3768,college/university without bachelor's degree
+64246,Poland,3526.741533333333,Bachelor's degree
+64293,Poland,3703.4384,Bachelor's degree
+64372,Poland,4996.283799999999,Master's degree
+64407,Poland,6700.4891,Bachelor's degree
+64592,Poland,2115.5652,No formal education
+64723,Poland,5642.7065,Master's degree
+64724,Poland,2645.6558,Master's degree
+64854,Poland,6700.4891,Master's degree
+64910,Poland,2821.9529,Master's degree
+65125,Poland,6796.033333333334,Master's degree
+65135,Poland,5466.509341666666,Master's degree
+65256,Poland,1057.7826,college/university without bachelor's degree
+65945,Poland,2115.5652,Master's degree
+65966,Poland,4937.518099999999,Master's degree
+66022,Poland,4937.518099999999,Master's degree
+66235,Poland,2821.9529,Bachelor's degree
+66309,Poland,2538.9181,Bachelor's degree
+66321,Poland,1234.0797,Master's degree
+66355,Poland,5113.8152,college/university without bachelor's degree
+66486,Poland,2821.9529,Master's degree
+66511,Poland,2821.9529,Bachelor's degree
+66736,Poland,4196.3507,Master's degree
+66777,Poland,881.4855,Secondary school
+66924,Poland,3879.7355,Bachelor's degree
+67089,Poland,1869.7087000000001,Bachelor's degree
+67198,Poland,917.4645,Secondary school
+67494,Poland,3314.8652,college/university without bachelor's degree
+67501,Poland,4584.9239,Master's degree
+67560,Poland,2821.9529,Bachelor's degree
+67748,Poland,3567.9175,college/university without bachelor's degree
+67764,Poland,2115.5652,Secondary school
+67814,Poland,3527.1413,college/university without bachelor's degree
+67842,Poland,2504.1384,Bachelor's degree
+67882,Poland,2645.05615,Master's degree
+67926,Poland,5995.3007,college/university without bachelor's degree
+67978,Poland,1975.2471,Bachelor's degree
+68021,Poland,2362.621,Bachelor's degree
+68031,Poland,3174.5471000000002,Master's degree
+68342,Poland,4584.9239,Bachelor's degree
+68380,Poland,3879.7355,Secondary school
+68442,Poland,1410.3768,Secondary school
+68617,Poland,2821.9529,Bachelor's degree
+68644,Poland,9549.42625,Master's degree
+68755,Poland,2645.6558,Master's degree
+68797,Poland,4937.518099999999,college/university without bachelor's degree
+68855,Poland,3509.1518,Bachelor's degree
+68864,Poland,2998.25,Master's degree
+68972,Poland,1939.2680999999998,college/university without bachelor's degree
+69181,Poland,2821.9529,Master's degree
+69247,Poland,1657.4326,Master's degree
+69299,Poland,1322.8279,No formal education
+69351,Poland,4584.9239,Master's degree
+69389,Poland,1939.2680999999998,Bachelor's degree
+69428,Poland,4690.462299999999,Master's degree
+69708,Poland,2645.6558,Master's degree
+69803,Poland,1410.3768,Bachelor's degree
+69891,Poland,1904.4884000000002,Master's degree
+69943,Poland,10286.496041666665,college/university without bachelor's degree
+69953,Poland,5290.1123,Master's degree
+69958,Poland,705.1884,Secondary school
+70007,Poland,2821.9529,Bachelor's degree
+70151,Poland,2115.5652,Master's degree
+70153,Poland,2222.3028999999997,Master's degree
+70182,Poland,4232.3297,Bachelor's degree
+70275,Poland,1939.2680999999998,Bachelor's degree
+70302,Poland,2821.9529,Master's degree
+70463,Poland,1833.7297,Bachelor's degree
+70548,Poland,2938.9845916666663,Bachelor's degree
+70612,Poland,1234.0797,college/university without bachelor's degree
+70724,Poland,634.4296999999999,Bachelor's degree
+70761,Poland,3103.7884,Master's degree
+71051,Poland,2115.5652,college/university without bachelor's degree
+71054,Poland,2600.981875,college/university without bachelor's degree
+71098,Poland,3907.3194000000003,Master's degree
+71250,Poland,2115.5652,Bachelor's degree
+71305,Poland,1586.6739,Secondary school
+71427,Poland,881.4855,college/university without bachelor's degree
+71516,Poland,2010.0267999999999,college/university without bachelor's degree
+71550,Poland,6347.8949,Bachelor's degree
+71619,Poland,1410.3768,college/university without bachelor's degree
+71668,Poland,4232.3297,Master's degree
+71700,Poland,4407.4275,college/university without bachelor's degree
+71701,Poland,11728.154583333333,college/university without bachelor's degree
+71877,Poland,5143.19805,Master's degree
+71926,Poland,2058.798333333333,Bachelor's degree
+72061,Poland,4937.518099999999,Bachelor's degree
+72068,Poland,7405.6775,Master's degree
+72146,Poland,2821.9529,college/university without bachelor's degree
+72160,Poland,881.4855,college/university without bachelor's degree
+72170,Poland,7045.387791666666,college/university without bachelor's degree
+72176,Poland,3258.4981,Bachelor's degree
+72224,Poland,1762.971,Bachelor's degree
+72237,Poland,5290.212241666666,Master's degree
+72359,Poland,8888.012299999999,Master's degree
+72428,Poland,9939.19875,Bachelor's degree
+72453,Poland,17280.7137,Bachelor's degree
+72534,Poland,4761.221,Bachelor's degree
+72587,Poland,7053.083299999999,Doctoral degree
+72610,Poland,7053.583008333333,Master's degree
+72615,Poland,15191.133333333333,Master's degree
+72633,Poland,3527.1413,Master's degree
+72646,Poland,5290.1123,Bachelor's degree
+72666,Poland,7053.583008333333,Master's degree
+72700,Poland,4056.0325999999995,Master's degree
+72726,Poland,5642.7065,Bachelor's degree
+72850,Poland,4702.355358333333,college/university without bachelor's degree
+72877,Poland,5282.916499999999,Master's degree
+72941,Poland,3527.940833333333,Master's degree
+72958,Poland,3526.741533333333,Bachelor's degree
+72973,Poland,5876.57,Master's degree
+72995,Poland,1763.3707666666664,college/university without bachelor's degree
+73054,Poland,3879.7355,Master's degree
+73103,Poland,1410.3768,college/university without bachelor's degree
+73126,Poland,7053.583008333333,Master's degree
+73134,Poland,5290.1123,Bachelor's degree
+73247,Poland,5290.1123,Bachelor's degree
+73254,Poland,2998.25,Bachelor's degree
+73260,Poland,5290.1123,Bachelor's degree
+73293,Poland,7053.583008333333,college/university without bachelor's degree
+73344,Poland,5113.8152,Bachelor's degree
+73389,Poland,1755.7752,Secondary school
+73505,Poland,5466.4094000000005,Master's degree
+73508,Poland,2186.3239,college/university without bachelor's degree
+73529,Poland,5642.7065,Master's degree
+73542,Poland,4232.3297,Master's degree
+73650,Poland,6347.8949,Bachelor's degree
+73810,Poland,4403.8296,Master's degree
+73848,Poland,3879.7355,Master's degree
+73882,Poland,5995.3007,Master's degree
+73885,Poland,4232.3297,Master's degree
+73890,Poland,2645.6558,Master's degree
+73937,Poland,4584.9239,college/university without bachelor's degree
+74046,Poland,6347.8949,Master's degree
+74122,Poland,6524.192,Master's degree
+74126,Poland,5290.1123,Master's degree
+74141,Poland,5290.1123,Master's degree
+74245,Poland,4761.221,Bachelor's degree
+74257,Poland,3879.7355,college/university without bachelor's degree
+74344,Poland,4232.3297,Master's degree
+74353,Poland,7053.083299999999,Master's degree
+74363,Poland,4584.9239,Master's degree
+74385,Poland,3456.3826,college/university without bachelor's degree
+74433,Poland,4937.518099999999,Bachelor's degree
+74516,Poland,2821.9529,Bachelor's degree
+74556,Poland,4232.3297,Master's degree
+74588,Poland,3527.1413,Bachelor's degree
+74595,Poland,5290.1123,Master's degree
+74599,Poland,810.7268,college/university without bachelor's degree
+74600,Poland,2468.1594,Master's degree
+74664,Poland,2856.7326,Master's degree
+74698,Poland,6318.911816666667,Bachelor's degree
+74703,Poland,2891.5123000000003,college/university without bachelor's degree
+74705,Poland,3879.7355,Secondary school
+74726,Poland,4408.526858333333,college/university without bachelor's degree
+74737,Poland,4937.518099999999,Master's degree
+74768,Poland,10274.4031,Master's degree
+74770,Poland,4937.518099999999,Master's degree
+74803,Poland,1762.971,Bachelor's degree
+74805,Poland,5290.212241666666,Bachelor's degree
+74829,Poland,2578.994708333333,college/university without bachelor's degree
+74876,Poland,2468.1594,Master's degree
+74919,Poland,1057.7826,Master's degree
+75069,Poland,2327.8413,Master's degree
+75087,Poland,1410.3768,Bachelor's degree
+75190,Poland,5290.1123,Bachelor's degree
+75191,Poland,3526.741533333333,Master's degree
+75206,Poland,3527.1413,Bachelor's degree
+75365,Poland,5995.3007,Bachelor's degree
+75406,Poland,7345.7125,college/university without bachelor's degree
+75445,Poland,1762.971,Bachelor's degree
+75466,Poland,2821.9529,Master's degree
+75547,Poland,6700.4891,Master's degree
+75612,Poland,5642.7065,Master's degree
+75613,Poland,5290.1123,Master's degree
+75619,Poland,5995.3007,Master's degree
+75705,Poland,4232.3297,Master's degree
+75749,Poland,13754.7717,Master's degree
+75761,Poland,1410.3768,Master's degree
+75966,Poland,2468.1594,No formal education
+76006,Poland,7405.6775,Master's degree
+76046,Poland,6347.8949,Bachelor's degree
+76079,Poland,6347.8949,Bachelor's degree
+76109,Poland,9346.1449,Master's degree
+76124,Poland,1012.2092,Master's degree
+76133,Poland,2856.7326,Master's degree
+76136,Poland,5995.3007,Bachelor's degree
+76179,Poland,7652.7333,college/university without bachelor's degree
+76180,Poland,6912.7652,Master's degree
+76189,Poland,8198.414799999999,Master's degree
+76200,Poland,7788.354141666667,Bachelor's degree
+76204,Poland,9451.6833,Master's degree
+76354,Poland,15870.336899999998,Master's degree
+76381,Poland,6594.950699999999,Master's degree
+76386,Poland,4232.3297,Master's degree
+76452,Poland,4337.8681,college/university without bachelor's degree
+76484,Poland,5290.212241666666,Master's degree
+76519,Poland,2645.05615,Bachelor's degree
+76534,Poland,1517.1145,Bachelor's degree
+76597,Poland,1234.0797,college/university without bachelor's degree
+76601,Poland,3526.741533333333,Master's degree
+76643,Poland,5332.087799999999,college/university without bachelor's degree
+76675,Poland,7338.5167,Bachelor's degree
+76690,Poland,1481.1354999999999,college/university without bachelor's degree
+76745,Poland,4728.8399,Bachelor's degree
+76748,Poland,3174.5471000000002,Master's degree
+76760,Poland,2821.9529,Master's degree
+76785,Poland,3350.8442,Bachelor's degree
+76874,Poland,3174.5471000000002,college/university without bachelor's degree
+76878,Poland,9627.9804,Master's degree
+76932,Poland,3527.1413,Bachelor's degree
+76939,Poland,5995.3007,Master's degree
+76952,Poland,17614.1191,Master's degree
+76974,Poland,2115.5652,college/university without bachelor's degree
+77047,Poland,1939.2680999999998,Bachelor's degree
+77091,Poland,528.8913,Secondary school
+77141,Poland,1234.0797,Master's degree
+77159,Poland,8217.603599999999,Bachelor's degree
+77197,Poland,2821.9529,Bachelor's degree
+77210,Poland,8817.2536,Master's degree
+77221,Poland,11008.474641666668,Bachelor's degree
+77227,Poland,10932.818800000001,Master's degree
+77350,Poland,2821.9529,Master's degree
+77358,Poland,7345.7125,Secondary school
+77411,Poland,2998.25,college/university without bachelor's degree
+77541,Poland,1163.321,Bachelor's degree
+77568,Poland,1762.971,Master's degree
+77578,Poland,176.2971,Secondary school
+77645,Poland,1410.3768,college/university without bachelor's degree
+77668,Poland,7053.083299999999,Master's degree
+77675,Poland,2821.9529,college/university without bachelor's degree
+77895,Poland,4937.518099999999,Master's degree
+77901,Poland,2468.1594,college/university without bachelor's degree
+77904,Poland,387.37389999999994,Secondary school
+78013,Poland,5642.7065,Master's degree
+78043,Poland,7295.741666666667,Bachelor's degree
+78072,Poland,5642.7065,Master's degree
+78129,Poland,4937.518099999999,Master's degree
+78165,Poland,4584.9239,Secondary school
+78301,Poland,3703.4384,Bachelor's degree
+78334,Poland,12232.86,college/university without bachelor's degree
+78361,Poland,4584.9239,Master's degree
+78426,Poland,5249.3361,Master's degree
+78451,Poland,8806.4599,Bachelor's degree
+78560,Poland,2058.798333333333,Master's degree
+78590,Poland,1410.3768,Bachelor's degree
+78617,Poland,4584.9239,Secondary school
+78636,Poland,2233.596308333333,college/university without bachelor's degree
+78673,Poland,2115.5652,Bachelor's degree
+78754,Poland,2821.9529,Bachelor's degree
+78873,Poland,7759.471,college/university without bachelor's degree
+79014,Poland,3527.1413,Master's degree
+79214,Poland,281.8355,college/university without bachelor's degree
+79239,Poland,2680.4355,Secondary school
+79302,Poland,5642.7065,Master's degree
+79377,Poland,4232.3297,Bachelor's degree
+79426,Poland,1762.971,Secondary school
+79437,Poland,2821.9529,Master's degree
+79459,Poland,4232.3297,college/university without bachelor's degree
+79614,Poland,3820.669975,Bachelor's degree
+79667,Poland,15590.900000000001,Master's degree
+79717,Poland,5642.7065,Bachelor's degree
+79778,Poland,3774.1971,Bachelor's degree
+79795,Poland,5396.85,Master's degree
+79813,Poland,2468.1594,college/university without bachelor's degree
+79868,Poland,5290.1123,Bachelor's degree
+79883,Poland,5290.1123,college/university without bachelor's degree
+79903,Poland,10580.2246,Bachelor's degree
+79904,Poland,3527.1413,Secondary school
+79944,Poland,4584.823958333333,Master's degree
+80140,Poland,8464.6594,Bachelor's degree
+80145,Poland,2291.8623,Master's degree
+80186,Poland,4937.518099999999,Master's degree
+80195,Poland,5642.7065,Master's degree
+80362,Poland,11902.852616666665,Master's degree
+80560,Poland,846.7058,Secondary school
+80770,Poland,1469.1425,Secondary school
+80979,Poland,3703.4384,Bachelor's degree
+81986,Poland,2821.9529,Bachelor's degree
+82393,Poland,2998.25,Bachelor's degree
+82477,Poland,741.1673999999999,Secondary school
+82633,Poland,281.8355,Secondary school
+83475,Poland,1469.1425,Master's degree
+83594,Poland,17.9895,Primary/elementary school
+83836,Poland,1833.7297,Secondary school
+84354,Poland,1057.7826,Secondary school
+84478,Poland,564.8703,Secondary school
+84636,Poland,599.65,Primary/elementary school
+85001,Poland,1481.1354999999999,Bachelor's degree
+85213,Poland,1410.3768,Bachelor's degree
+85253,Poland,1270.0587,college/university without bachelor's degree
+85486,Poland,1586.6739,Bachelor's degree
+85597,Poland,2190.3215666666665,Master's degree
+85869,Poland,1057.7826,Secondary school
+86104,Poland,810.7268,Secondary school
+86146,Poland,528.8913,Bachelor's degree
+87513,Poland,14.99125,Secondary school

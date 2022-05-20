@@ -1,0 +1,934 @@
+,Country,Monthly_Sal_EUR,EdLevel
+57,Italy,4997.083333333333,Master's degree
+114,Italy,109.93583333333333,Master's degree
+172,Italy,4997.083333333333,college/university without bachelor's degree
+392,Italy,149.9125,Bachelor's degree
+456,Italy,134.92125,Bachelor's degree
+512,Italy,3298.075,Bachelor's degree
+565,Italy,4397.433333333333,Associate degree
+582,Italy,5496.791666666666,Master's degree
+607,Italy,3298.075,Master's degree
+682,Italy,3059.8140666666663,Doctoral degree
+717,Italy,4197.549999999999,college/university without bachelor's degree
+796,Italy,2998.25,Secondary school
+797,Italy,209.8775,Master's degree
+804,Italy,2998.25,Master's degree
+808,Italy,2498.5416666666665,Secondary school
+873,Italy,7495.625,Secondary school
+1003,Italy,5097.025,Associate degree
+1115,Italy,299.825,Bachelor's degree
+1151,Italy,399.76666666666665,Doctoral degree
+1200,Italy,1798.95,Secondary school
+1230,Italy,5996.5,Master's degree
+1270,Italy,129.92416666666668,Secondary school
+1330,Italy,2398.6,Master's degree
+1372,Italy,3797.7833333333333,Bachelor's degree
+1379,Italy,4197.549999999999,Master's degree
+1415,Italy,5296.908333333333,Master's degree
+1421,Italy,3597.9,Secondary school
+1544,Italy,3198.133333333333,college/university without bachelor's degree
+1562,Italy,2398.6,Master's degree
+1627,Italy,179.895,Secondary school
+1651,Italy,999.4166666666666,Master's degree
+1660,Italy,2198.7166666666667,Master's degree
+1720,Italy,4997.083333333333,Bachelor's degree
+1729,Italy,4997.083333333333,Master's degree
+1967,Italy,11993.0,Bachelor's degree
+1973,Italy,4197.549999999999,Doctoral degree
+2020,Italy,139.91833333333332,Secondary school
+2037,Italy,7995.333333333333,college/university without bachelor's degree
+2176,Italy,7495.625,Master's degree
+2371,Italy,4997.083333333333,Secondary school
+2414,Italy,3198.133333333333,Bachelor's degree
+2417,Italy,164.90375,Doctoral degree
+2667,Italy,3997.6666666666665,Master's degree
+2675,Italy,3497.958333333333,Master's degree
+2738,Italy,2998.25,Secondary school
+2875,Italy,4997.083333333333,Master's degree
+2878,Italy,7995.333333333333,Bachelor's degree
+2887,Italy,169.9008333333333,Secondary school
+2892,Italy,199.88333333333333,Secondary school
+3040,Italy,3198.133333333333,Master's degree
+3046,Italy,2998.25,Bachelor's degree
+3199,Italy,2998.25,college/university without bachelor's degree
+3206,Italy,249.85416666666666,Bachelor's degree
+3224,Italy,184.89208333333332,college/university without bachelor's degree
+3349,Italy,224.86875,Master's degree
+3441,Italy,2998.25,Master's degree
+3579,Italy,3797.7833333333333,college/university without bachelor's degree
+3596,Italy,3997.6666666666665,Bachelor's degree
+3635,Italy,2298.6583333333333,Master's degree
+3680,Italy,5196.966666666666,college/university without bachelor's degree
+3772,Italy,4997.083333333333,Master's degree
+3886,Italy,999.4166666666666,Secondary school
+4118,Italy,149.9125,Secondary school
+4450,Italy,2898.3083333333334,Secondary school
+4746,Italy,164.90375,Secondary school
+4959,Italy,4997.083333333333,college/university without bachelor's degree
+4981,Italy,3797.7833333333333,college/university without bachelor's degree
+5005,Italy,259.84833333333336,Doctoral degree
+5377,Italy,2498.5416666666665,Master's degree
+5495,Italy,109.93583333333333,college/university without bachelor's degree
+5680,Italy,5596.733333333334,college/university without bachelor's degree
+5726,Italy,11793.116666666665,college/university without bachelor's degree
+5730,Italy,4897.141666666666,Master's degree
+5845,Italy,249.85416666666666,Professional degree
+5965,Italy,114.93291666666666,Master's degree
+6003,Italy,3797.7833333333333,Bachelor's degree
+6009,Italy,221.8705,Bachelor's degree
+6137,Italy,6995.916666666666,Secondary school
+6218,Italy,4797.2,college/university without bachelor's degree
+6661,Italy,3997.6666666666665,Doctoral degree
+6704,Italy,3098.1916666666666,Master's degree
+6801,Italy,4097.608333333334,Master's degree
+6825,Italy,3198.133333333333,Master's degree
+7225,Italy,2248.6875,college/university without bachelor's degree
+7570,Italy,4497.375,Bachelor's degree
+7577,Italy,199.88333333333333,college/university without bachelor's degree
+7801,Italy,119.93,Master's degree
+7828,Italy,79.95333333333333,Bachelor's degree
+7937,Italy,3997.6666666666665,college/university without bachelor's degree
+8110,Italy,1.3991833333333332,Bachelor's degree
+8320,Italy,4997.083333333333,Bachelor's degree
+8710,Italy,449.7375,college/university without bachelor's degree
+10758,Italy,3497.958333333333,Secondary school
+11534,Italy,4497.375,Doctoral degree
+11636,Italy,649.6208333333333,Bachelor's degree
+11738,Italy,269.8425,Master's degree
+11857,Italy,3497.958333333333,Master's degree
+11912,Italy,2998.25,Doctoral degree
+11937,Italy,4497.375,Secondary school
+12084,Italy,299.825,Master's degree
+12112,Italy,3198.133333333333,Bachelor's degree
+12183,Italy,3198.133333333333,Master's degree
+12351,Italy,349.79583333333335,Master's degree
+12364,Italy,169.9008333333333,college/university without bachelor's degree
+12396,Italy,169.9008333333333,Associate degree
+12502,Italy,4997.083333333333,Associate degree
+12508,Italy,5097.025,Master's degree
+12511,Italy,249.85416666666666,Master's degree
+12557,Italy,4497.375,Bachelor's degree
+12575,Italy,2598.483333333333,Master's degree
+12651,Italy,2098.7749999999996,Bachelor's degree
+12653,Italy,2298.6583333333333,Master's degree
+12667,Italy,2898.3083333333334,Bachelor's degree
+12708,Italy,2098.7749999999996,Master's degree
+12748,Italy,1533.4049916666665,Master's degree
+12776,Italy,174.89791666666667,Secondary school
+12788,Italy,159.90666666666667,Master's degree
+12881,Italy,176.2971,Bachelor's degree
+12979,Italy,3747.8125,college/university without bachelor's degree
+13042,Italy,2398.6,Bachelor's degree
+13187,Italy,3997.6666666666665,college/university without bachelor's degree
+13199,Italy,2498.5416666666665,Master's degree
+13205,Italy,6496.208333333333,Doctoral degree
+13206,Italy,9994.166666666666,Master's degree
+13231,Italy,3198.133333333333,Bachelor's degree
+13250,Italy,139.91833333333332,Master's degree
+13265,Italy,3398.016666666667,Secondary school
+13331,Italy,199.88333333333333,Master's degree
+13415,Italy,3447.9874999999997,Secondary school
+13478,Italy,3997.6666666666665,college/university without bachelor's degree
+13581,Italy,4497.375,Master's degree
+13614,Italy,11993.0,Master's degree
+13625,Italy,69.95916666666666,Bachelor's degree
+13634,Italy,11993.0,Master's degree
+13644,Italy,1998.8333333333333,Master's degree
+13649,Italy,199.88333333333333,Professional degree
+13784,Italy,49.97083333333333,college/university without bachelor's degree
+13787,Italy,4497.375,Master's degree
+13822,Italy,209.8775,Master's degree
+13827,Italy,399.76666666666665,Bachelor's degree
+13953,Italy,1499.125,college/university without bachelor's degree
+14021,Italy,159.90666666666667,Master's degree
+14055,Italy,3497.958333333333,Bachelor's degree
+14089,Italy,3497.958333333333,Doctoral degree
+14144,Italy,109.93583333333333,Professional degree
+14162,Italy,3997.6666666666665,Bachelor's degree
+14181,Italy,5496.791666666666,Master's degree
+14195,Italy,199.88333333333333,Master's degree
+14200,Italy,169.9008333333333,college/university without bachelor's degree
+14245,Italy,5496.791666666666,Doctoral degree
+14262,Italy,189.88916666666665,Master's degree
+14278,Italy,2498.5416666666665,Master's degree
+14366,Italy,6196.383333333333,Doctoral degree
+14381,Italy,134.92125,college/university without bachelor's degree
+14419,Italy,189.88916666666665,college/university without bachelor's degree
+14465,Italy,3697.8416666666662,Bachelor's degree
+14542,Italy,549.6791666666667,Secondary school
+14567,Italy,2198.7166666666667,Professional degree
+14591,Italy,2998.25,Secondary school
+14698,Italy,249.85416666666666,Something else
+14720,Italy,5996.5,college/university without bachelor's degree
+14796,Italy,4247.520833333333,Doctoral degree
+14804,Italy,3597.9,Secondary school
+14871,Italy,7495.625,Bachelor's degree
+14919,Italy,222.86991666666665,Secondary school
+14958,Italy,3797.7833333333333,Master's degree
+14981,Italy,3298.075,Master's degree
+15042,Italy,8195.216666666667,Master's degree
+15129,Italy,5996.5,Master's degree
+15143,Italy,5996.5,Master's degree
+15168,Italy,6496.208333333333,Bachelor's degree
+15243,Italy,184.89208333333332,college/university without bachelor's degree
+15337,Italy,129.92416666666668,Master's degree
+15489,Italy,179.895,Bachelor's degree
+15510,Italy,189.88916666666665,Bachelor's degree
+15604,Italy,4297.491666666667,Master's degree
+15632,Italy,3298.075,Master's degree
+15648,Italy,3697.8416666666662,college/university without bachelor's degree
+15694,Italy,199.88333333333333,Secondary school
+15700,Italy,4997.083333333333,Doctoral degree
+15708,Italy,1998.8333333333333,college/university without bachelor's degree
+15731,Italy,2498.5416666666665,Secondary school
+15877,Italy,229.8658333333333,Bachelor's degree
+16057,Italy,3997.6666666666665,Master's degree
+16184,Italy,199.88333333333333,Master's degree
+16290,Italy,129.92416666666668,Secondary school
+16314,Italy,3198.133333333333,Master's degree
+16333,Italy,399.76666666666665,Secondary school
+16558,Italy,119.93,Bachelor's degree
+16559,Italy,459.7316666666666,Bachelor's degree
+16573,Italy,3997.6666666666665,college/university without bachelor's degree
+16672,Italy,3298.075,Master's degree
+16712,Italy,2548.5125,Professional degree
+16833,Italy,2998.25,Bachelor's degree
+16847,Italy,124.92708333333333,Bachelor's degree
+16959,Italy,5996.5,Master's degree
+17008,Italy,139.91833333333332,Master's degree
+17019,Italy,3497.958333333333,Bachelor's degree
+17139,Italy,5996.5,Secondary school
+17151,Italy,3198.133333333333,Bachelor's degree
+17161,Italy,259.84833333333336,Secondary school
+17187,Italy,159.90666666666667,Bachelor's degree
+17322,Italy,149.9125,Bachelor's degree
+17507,Italy,3198.133333333333,Secondary school
+17532,Italy,2698.425,Secondary school
+17571,Italy,3198.133333333333,Bachelor's degree
+17638,Italy,139.91833333333332,college/university without bachelor's degree
+17650,Italy,249.85416666666666,Secondary school
+17696,Italy,3797.7833333333333,Secondary school
+17809,Italy,1898.8916666666667,Bachelor's degree
+17850,Italy,2998.25,Bachelor's degree
+17869,Italy,139.91833333333332,Master's degree
+17913,Italy,159.90666666666667,Bachelor's degree
+17925,Italy,69.95916666666666,Bachelor's degree
+17996,Italy,4097.608333333334,college/university without bachelor's degree
+18161,Italy,5996.5,Doctoral degree
+18214,Italy,3098.1916666666666,Secondary school
+18239,Italy,3797.7833333333333,Secondary school
+18284,Italy,1998.8333333333333,Primary/elementary school
+18300,Italy,139.91833333333332,Secondary school
+18313,Italy,4297.491666666667,Bachelor's degree
+18334,Italy,2598.483333333333,Bachelor's degree
+18346,Italy,3298.075,Master's degree
+18407,Italy,79.95333333333333,Secondary school
+18451,Italy,179.895,Bachelor's degree
+18542,Italy,3198.133333333333,Master's degree
+18612,Italy,3822.7687499999997,Master's degree
+18742,Italy,199.88333333333333,Bachelor's degree
+18777,Italy,3298.075,Secondary school
+18810,Italy,4497.375,Master's degree
+18833,Italy,4397.433333333333,Master's degree
+18871,Italy,2798.366666666667,Secondary school
+18994,Italy,239.86,college/university without bachelor's degree
+19095,Italy,6296.325000000001,Master's degree
+19158,Italy,4097.608333333334,Professional degree
+19192,Italy,169.9008333333333,Master's degree
+19294,Italy,2658.4483333333333,Master's degree
+19469,Italy,149.9125,college/university without bachelor's degree
+19569,Italy,599.65,Secondary school
+19578,Italy,4997.083333333333,college/university without bachelor's degree
+19620,Italy,4197.549999999999,Master's degree
+19634,Italy,219.87166666666667,college/university without bachelor's degree
+19820,Italy,4597.316666666667,college/university without bachelor's degree
+19911,Italy,3098.1916666666666,college/university without bachelor's degree
+19924,Italy,124.92708333333333,Secondary school
+19966,Italy,4197.549999999999,Master's degree
+20097,Italy,149.9125,Secondary school
+20141,Italy,2198.7166666666667,Master's degree
+20177,Italy,3997.6666666666665,Bachelor's degree
+20179,Italy,10993.583333333332,Bachelor's degree
+20428,Italy,229.8658333333333,college/university without bachelor's degree
+20591,Italy,2998.25,Secondary school
+20600,Italy,139.91833333333332,Secondary school
+20637,Italy,199.88333333333333,Professional degree
+20656,Italy,3597.9,Master's degree
+20993,Italy,3198.133333333333,college/university without bachelor's degree
+21117,Italy,149.9125,Something else
+21229,Italy,69.95916666666666,Bachelor's degree
+21356,Italy,11993.0,Doctoral degree
+21481,Italy,3997.6666666666665,college/university without bachelor's degree
+21529,Italy,3098.1916666666666,Doctoral degree
+21624,Italy,169.9008333333333,college/university without bachelor's degree
+21724,Italy,2498.5416666666665,college/university without bachelor's degree
+22301,Italy,349.79583333333335,Secondary school
+23064,Italy,299.825,Secondary school
+23086,Italy,209.8775,Secondary school
+23245,Italy,69.95916666666666,Secondary school
+23315,Italy,2798.366666666667,Master's degree
+23320,Italy,2498.5416666666665,Bachelor's degree
+23322,Italy,399.76666666666665,Master's degree
+23329,Italy,2998.25,Master's degree
+23338,Italy,2598.483333333333,Bachelor's degree
+23377,Italy,8994.75,Secondary school
+23448,Italy,149.9125,Bachelor's degree
+23464,Italy,3797.7833333333333,Bachelor's degree
+23493,Italy,4897.141666666666,Master's degree
+23500,Italy,219.87166666666667,Bachelor's degree
+23538,Italy,184.89208333333332,Bachelor's degree
+23539,Italy,4997.083333333333,Master's degree
+23546,Italy,379.7783333333333,Secondary school
+23571,Italy,179.895,college/university without bachelor's degree
+23590,Italy,199.88333333333333,Secondary school
+23665,Italy,4497.375,Doctoral degree
+23690,Italy,4397.433333333333,Doctoral degree
+23710,Italy,399.76666666666665,college/university without bachelor's degree
+23736,Italy,3497.958333333333,Master's degree
+23754,Italy,2598.483333333333,Secondary school
+23780,Italy,2798.366666666667,Bachelor's degree
+23789,Italy,124.92708333333333,Bachelor's degree
+23792,Italy,199.88333333333333,Bachelor's degree
+23864,Italy,149.9125,Secondary school
+23868,Italy,3897.7250000000004,Master's degree
+24013,Italy,3497.958333333333,college/university without bachelor's degree
+24372,Italy,249.85416666666666,Doctoral degree
+24398,Italy,5196.966666666666,Bachelor's degree
+24551,Italy,3298.075,Bachelor's degree
+24612,Italy,5196.966666666666,Secondary school
+24654,Italy,149.9125,Secondary school
+24685,Italy,3298.075,Master's degree
+24715,Italy,14191.716666666667,Master's degree
+24754,Italy,159.90666666666667,Something else
+24773,Italy,179.895,Doctoral degree
+24790,Italy,3497.958333333333,Bachelor's degree
+24816,Italy,211.87633333333332,Bachelor's degree
+24897,Italy,11993.0,Master's degree
+25128,Italy,2898.3083333333334,Master's degree
+25217,Italy,499.7083333333333,Secondary school
+25218,Italy,209.8775,Bachelor's degree
+25272,Italy,3597.9,Bachelor's degree
+25343,Italy,199.88333333333333,college/university without bachelor's degree
+25401,Italy,7995.333333333333,Master's degree
+25404,Italy,3497.958333333333,Doctoral degree
+25413,Italy,5996.5,Secondary school
+25536,Italy,4997.083333333333,Bachelor's degree
+25563,Italy,159.90666666666667,Bachelor's degree
+25579,Italy,139.91833333333332,Master's degree
+25590,Italy,10993.583333333332,college/university without bachelor's degree
+25609,Italy,2498.5416666666665,college/university without bachelor's degree
+25631,Italy,3497.958333333333,Bachelor's degree
+25642,Italy,4297.491666666667,Secondary school
+25652,Italy,3597.9,Secondary school
+25860,Italy,159.90666666666667,Secondary school
+25867,Italy,6995.916666666666,Professional degree
+25874,Italy,124.92708333333333,Master's degree
+25920,Italy,4397.433333333333,college/university without bachelor's degree
+25969,Italy,1199.3,Master's degree
+26040,Italy,4397.433333333333,Master's degree
+26095,Italy,2369.317091666667,Master's degree
+26132,Italy,2998.25,Master's degree
+26260,Italy,4597.316666666667,Professional degree
+26331,Italy,239.86,college/university without bachelor's degree
+26339,Italy,324.81041666666664,Bachelor's degree
+26419,Italy,162.70503333333335,Master's degree
+26460,Italy,209.37779166666667,Associate degree
+26569,Italy,139.91833333333332,Secondary school
+26769,Italy,1199.3,college/university without bachelor's degree
+26771,Italy,6496.208333333333,Master's degree
+26788,Italy,4097.608333333334,college/university without bachelor's degree
+26933,Italy,3198.133333333333,Bachelor's degree
+26937,Italy,134.92125,Something else
+26940,Italy,2498.5416666666665,Secondary school
+27056,Italy,139.91833333333332,Secondary school
+27075,Italy,349.79583333333335,college/university without bachelor's degree
+27110,Italy,299.825,Secondary school
+27136,Italy,4997.083333333333,Master's degree
+27252,Italy,89.9475,Something else
+27256,Italy,2998.25,Professional degree
+27332,Italy,3997.6666666666665,Bachelor's degree
+27341,Italy,499.7083333333333,Doctoral degree
+27370,Italy,199.88333333333333,Doctoral degree
+27449,Italy,2998.25,Bachelor's degree
+27511,Italy,5496.791666666666,Bachelor's degree
+27513,Italy,3198.133333333333,Secondary school
+27521,Italy,3398.016666666667,college/university without bachelor's degree
+27616,Italy,159.90666666666667,Master's degree
+27642,Italy,3398.016666666667,college/university without bachelor's degree
+27649,Italy,3497.958333333333,Master's degree
+27682,Italy,3997.6666666666665,Bachelor's degree
+27709,Italy,4097.608333333334,college/university without bachelor's degree
+27730,Italy,3697.8416666666662,Bachelor's degree
+27770,Italy,199.88333333333333,college/university without bachelor's degree
+28042,Italy,1998.8333333333333,college/university without bachelor's degree
+28067,Italy,149.9125,Master's degree
+28071,Italy,3198.133333333333,Bachelor's degree
+28086,Italy,6995.916666666666,Professional degree
+28101,Italy,139.91833333333332,Bachelor's degree
+28157,Italy,2898.3083333333334,Secondary school
+28163,Italy,599.65,Master's degree
+28240,Italy,4497.375,Bachelor's degree
+28314,Italy,3997.6666666666665,Master's degree
+28588,Italy,3797.7833333333333,Bachelor's degree
+28629,Italy,5996.5,Bachelor's degree
+28636,Italy,2998.25,college/university without bachelor's degree
+28650,Italy,4197.549999999999,Bachelor's degree
+28687,Italy,199.88333333333333,Master's degree
+29054,Italy,5496.791666666666,Master's degree
+29104,Italy,4497.375,college/university without bachelor's degree
+29373,Italy,4997.083333333333,Bachelor's degree
+29429,Italy,129.92416666666668,Associate degree
+29571,Italy,3497.958333333333,college/university without bachelor's degree
+29657,Italy,9994.166666666666,Secondary school
+29668,Italy,3997.6666666666665,Bachelor's degree
+29738,Italy,3997.6666666666665,Master's degree
+29745,Italy,4497.375,Doctoral degree
+29794,Italy,2998.25,Bachelor's degree
+29819,Italy,2598.483333333333,Secondary school
+29985,Italy,2298.6583333333333,Master's degree
+29988,Italy,149.9125,Bachelor's degree
+30027,Italy,2498.5416666666665,Master's degree
+30036,Italy,3398.016666666667,Master's degree
+30058,Italy,199.88333333333333,Bachelor's degree
+30097,Italy,4497.375,Master's degree
+30109,Italy,209.8775,Secondary school
+30227,Italy,99.94166666666666,Secondary school
+30275,Italy,6496.208333333333,Secondary school
+31270,Italy,99.94166666666666,Secondary school
+31306,Italy,599.65,Master's degree
+31404,Italy,3497.958333333333,college/university without bachelor's degree
+31485,Italy,4797.2,college/university without bachelor's degree
+31506,Italy,5196.966666666666,Secondary school
+31641,Italy,151.91133333333335,Bachelor's degree
+31778,Italy,3997.5667249999997,Master's degree
+31815,Italy,349.79583333333335,Bachelor's degree
+31848,Italy,249.85416666666666,Secondary school
+31851,Italy,309.81916666666666,Master's degree
+31859,Italy,2998.25,Master's degree
+31863,Italy,299.825,Master's degree
+31935,Italy,179.895,Bachelor's degree
+31942,Italy,3497.958333333333,Professional degree
+31946,Italy,199.88333333333333,Master's degree
+31959,Italy,4197.549999999999,Bachelor's degree
+31969,Italy,6396.266666666666,college/university without bachelor's degree
+31981,Italy,4797.2,college/university without bachelor's degree
+32032,Italy,2998.25,college/university without bachelor's degree
+32035,Italy,9994.166666666666,Professional degree
+32045,Italy,1998.8333333333333,college/university without bachelor's degree
+32049,Italy,259.84833333333336,Master's degree
+32075,Italy,199.88333333333333,college/university without bachelor's degree
+32095,Italy,299.825,Bachelor's degree
+32099,Italy,3997.6666666666665,Bachelor's degree
+32119,Italy,3997.6666666666665,Doctoral degree
+32174,Italy,126.92591666666667,Bachelor's degree
+32177,Italy,3997.6666666666665,college/university without bachelor's degree
+32185,Italy,149.9125,Doctoral degree
+32248,Italy,4997.083333333333,Secondary school
+32250,Italy,209.8775,Bachelor's degree
+32261,Italy,129.92416666666668,Master's degree
+32298,Italy,159.90666666666667,college/university without bachelor's degree
+32299,Italy,299.825,Bachelor's degree
+32324,Italy,3497.958333333333,college/university without bachelor's degree
+32328,Italy,1499.125,Bachelor's degree
+32333,Italy,299.825,Master's degree
+32335,Italy,3497.958333333333,Secondary school
+32435,Italy,159.90666666666667,Bachelor's degree
+32454,Italy,149.9125,college/university without bachelor's degree
+32480,Italy,9994.166666666666,Bachelor's degree
+32504,Italy,3997.6666666666665,Bachelor's degree
+32505,Italy,4497.375,Master's degree
+32506,Italy,119.93,college/university without bachelor's degree
+32521,Italy,134.92125,Secondary school
+32539,Italy,249.85416666666666,college/university without bachelor's degree
+32580,Italy,157.90783333333331,college/university without bachelor's degree
+32647,Italy,4997.083333333333,Bachelor's degree
+32664,Italy,4797.2,Secondary school
+32671,Italy,6496.208333333333,Master's degree
+32694,Italy,199.88333333333333,college/university without bachelor's degree
+32724,Italy,4197.549999999999,Secondary school
+32729,Italy,299.825,Bachelor's degree
+32736,Italy,139.91833333333332,Secondary school
+32826,Italy,4797.2,college/university without bachelor's degree
+32856,Italy,4197.549999999999,Master's degree
+32950,Italy,4597.316666666667,Bachelor's degree
+33023,Italy,4997.083333333333,college/university without bachelor's degree
+33084,Italy,3298.075,Bachelor's degree
+33099,Italy,119.93,Secondary school
+33161,Italy,2398.6,college/university without bachelor's degree
+33235,Italy,2798.366666666667,Something else
+33287,Italy,2998.25,Doctoral degree
+33304,Italy,159.90666666666667,college/university without bachelor's degree
+33374,Italy,214.8745833333333,Secondary school
+33382,Italy,139.91833333333332,Bachelor's degree
+33428,Italy,279.83666666666664,Master's degree
+33561,Italy,149.9125,Secondary school
+33565,Italy,7495.625,Doctoral degree
+33694,Italy,3497.958333333333,Doctoral degree
+33887,Italy,129.92416666666668,Secondary school
+33900,Italy,4.19755,Secondary school
+34056,Italy,134.92125,Bachelor's degree
+34154,Italy,3497.958333333333,Master's degree
+34220,Italy,4573.330666666667,Secondary school
+34234,Italy,3997.6666666666665,college/university without bachelor's degree
+34264,Italy,139.91833333333332,Master's degree
+34266,Italy,3598.899416666666,Master's degree
+34319,Italy,1998.8333333333333,college/university without bachelor's degree
+34321,Italy,149.9125,college/university without bachelor's degree
+34358,Italy,5996.5,Secondary school
+34442,Italy,4497.375,Master's degree
+34587,Italy,5264.927,Master's degree
+34592,Italy,4697.258333333333,Bachelor's degree
+34707,Italy,5196.966666666666,Master's degree
+34733,Italy,2698.425,Bachelor's degree
+34817,Italy,3597.9,Bachelor's degree
+34824,Italy,11993.0,college/university without bachelor's degree
+34888,Italy,2898.3083333333334,Master's degree
+35269,Italy,349.79583333333335,Secondary school
+35607,Italy,499.7083333333333,Primary/elementary school
+35617,Italy,4497.375,Bachelor's degree
+35731,Italy,5996.5,Secondary school
+35769,Italy,142.81664166666667,Master's degree
+35928,Italy,199.88333333333333,college/university without bachelor's degree
+36764,Italy,5496.791666666666,Master's degree
+36819,Italy,3198.133333333333,Bachelor's degree
+36926,Italy,99.94166666666666,Master's degree
+36997,Italy,3298.075,Bachelor's degree
+37071,Italy,3198.133333333333,Master's degree
+37153,Italy,6995.916666666666,Bachelor's degree
+37216,Italy,419.755,Doctoral degree
+37256,Italy,319.81333333333333,Master's degree
+37268,Italy,195.186075,college/university without bachelor's degree
+37308,Italy,3098.1916666666666,Bachelor's degree
+37339,Italy,2698.425,college/university without bachelor's degree
+37432,Italy,3198.133333333333,Bachelor's degree
+37706,Italy,349.79583333333335,college/university without bachelor's degree
+37722,Italy,139.91833333333332,Secondary school
+37927,Italy,5196.966666666666,college/university without bachelor's degree
+38092,Italy,6296.325000000001,Bachelor's degree
+38174,Italy,3697.8416666666662,Master's degree
+38308,Italy,2898.3083333333334,Master's degree
+38334,Italy,4697.258333333333,Secondary school
+38455,Italy,109.93583333333333,Secondary school
+38584,Italy,3098.1916666666666,Secondary school
+38699,Italy,2098.7749999999996,college/university without bachelor's degree
+38930,Italy,179.895,Associate degree
+39448,Italy,5996.5,Doctoral degree
+39476,Italy,1998.8333333333333,Professional degree
+39559,Italy,3697.8416666666662,college/university without bachelor's degree
+39904,Italy,3497.958333333333,Secondary school
+40115,Italy,2898.3083333333334,Bachelor's degree
+40184,Italy,449.7375,Secondary school
+40378,Italy,4797.2,Doctoral degree
+40446,Italy,7995.333333333333,Master's degree
+40469,Italy,3997.6666666666665,Master's degree
+40851,Italy,4097.608333333334,Doctoral degree
+40932,Italy,4797.2,Associate degree
+41245,Italy,199.88333333333333,Secondary school
+41649,Italy,159.90666666666667,Master's degree
+41803,Italy,209.8775,Master's degree
+41830,Italy,4297.491666666667,Secondary school
+41876,Italy,159.90666666666667,Secondary school
+41879,Italy,169.9008333333333,Bachelor's degree
+41885,Italy,179.895,college/university without bachelor's degree
+41949,Italy,2998.25,Bachelor's degree
+41953,Italy,3497.958333333333,Bachelor's degree
+41954,Italy,199.88333333333333,Bachelor's degree
+42008,Italy,4497.375,Master's degree
+42053,Italy,6496.208333333333,Secondary school
+42082,Italy,4997.083333333333,Associate degree
+42098,Italy,109.93583333333333,Secondary school
+42140,Italy,2598.483333333333,Bachelor's degree
+42156,Italy,139.91833333333332,Bachelor's degree
+42237,Italy,8495.041666666666,Master's degree
+42310,Italy,119.93,college/university without bachelor's degree
+42345,Italy,3497.958333333333,Bachelor's degree
+42351,Italy,129.92416666666668,college/university without bachelor's degree
+42449,Italy,5996.5,Bachelor's degree
+42471,Italy,6796.033333333334,college/university without bachelor's degree
+42641,Italy,159.90666666666667,Master's degree
+42881,Italy,5596.733333333334,Master's degree
+42931,Italy,144.91541666666666,Bachelor's degree
+42951,Italy,2698.425,Bachelor's degree
+43000,Italy,99.94166666666666,Master's degree
+43042,Italy,119.93,college/university without bachelor's degree
+43072,Italy,2390.3048416666666,Bachelor's degree
+43074,Italy,89.9475,Secondary school
+43116,Italy,5496.791666666666,Secondary school
+43120,Italy,5496.791666666666,college/university without bachelor's degree
+43143,Italy,339.8016666666666,Master's degree
+43296,Italy,3597.9,Bachelor's degree
+43317,Italy,3797.7833333333333,Bachelor's degree
+43338,Italy,3398.016666666667,college/university without bachelor's degree
+43495,Italy,5196.966666666666,Master's degree
+43767,Italy,2798.366666666667,Doctoral degree
+43806,Italy,399.76666666666665,Doctoral degree
+43849,Italy,209.8775,Doctoral degree
+43945,Italy,9994.166666666666,Bachelor's degree
+43949,Italy,3497.958333333333,Master's degree
+44256,Italy,5996.5,Bachelor's degree
+44288,Italy,4997.083333333333,Bachelor's degree
+44826,Italy,4.497375,Bachelor's degree
+44878,Italy,1998.8333333333333,Bachelor's degree
+45041,Italy,199.88333333333333,Bachelor's degree
+45079,Italy,3997.6666666666665,Master's degree
+45080,Italy,179.895,Secondary school
+45121,Italy,3298.075,Master's degree
+45147,Italy,6995.916666666666,Master's degree
+45422,Italy,119.93,college/university without bachelor's degree
+45462,Italy,149.9125,Master's degree
+45521,Italy,199.88333333333333,Master's degree
+45560,Italy,3997.6666666666665,Secondary school
+45600,Italy,4297.491666666667,college/university without bachelor's degree
+45799,Italy,6995.916666666666,Bachelor's degree
+45918,Italy,129.92416666666668,Secondary school
+45919,Italy,2998.25,Master's degree
+45958,Italy,8495.041666666666,Bachelor's degree
+46005,Italy,1299.2416666666666,Bachelor's degree
+46036,Italy,4.997083333333333,Bachelor's degree
+46120,Italy,3198.133333333333,Master's degree
+46192,Italy,16990.083333333332,Secondary school
+46684,Italy,5996.5,Master's degree
+46688,Italy,2998.25,college/university without bachelor's degree
+46890,Italy,2298.6583333333333,Bachelor's degree
+46930,Italy,6496.208333333333,Master's degree
+46975,Italy,149.9125,Secondary school
+47000,Italy,3497.958333333333,Doctoral degree
+47288,Italy,279.83666666666664,college/university without bachelor's degree
+47316,Italy,4197.549999999999,Bachelor's degree
+47376,Italy,2498.5416666666665,Master's degree
+47378,Italy,4497.375,Master's degree
+47639,Italy,1998.8333333333333,Secondary school
+48664,Italy,3597.9,Master's degree
+48709,Italy,4497.375,Secondary school
+48725,Italy,2534.0209583333335,Master's degree
+48812,Italy,2998.25,college/university without bachelor's degree
+48911,Italy,4797.2,Master's degree
+49077,Italy,4197.549999999999,college/university without bachelor's degree
+49079,Italy,4597.316666666667,Bachelor's degree
+49188,Italy,3398.016666666667,Master's degree
+49209,Italy,149.9125,college/university without bachelor's degree
+49216,Italy,2198.7166666666667,Bachelor's degree
+49261,Italy,11993.0,Master's degree
+49305,Italy,3597.9,college/university without bachelor's degree
+49355,Italy,2478.5533333333333,Master's degree
+49372,Italy,2598.483333333333,Bachelor's degree
+49384,Italy,184.89208333333332,Master's degree
+49432,Italy,519.6966666666667,college/university without bachelor's degree
+49512,Italy,29.9825,college/university without bachelor's degree
+49587,Italy,3897.7250000000004,Bachelor's degree
+49592,Italy,4997.083333333333,Master's degree
+49644,Italy,3897.7250000000004,college/university without bachelor's degree
+49839,Italy,3997.6666666666665,Master's degree
+49846,Italy,179.895,Bachelor's degree
+49988,Italy,899.475,Master's degree
+50187,Italy,149.9125,Master's degree
+50224,Italy,169.9008333333333,Secondary school
+50403,Italy,299.825,college/university without bachelor's degree
+51451,Italy,3997.6666666666665,Bachelor's degree
+51584,Italy,389.77250000000004,Doctoral degree
+51809,Italy,3997.6666666666665,Bachelor's degree
+52099,Italy,2398.6,Master's degree
+52342,Italy,2998.25,Bachelor's degree
+52433,Italy,3398.016666666667,college/university without bachelor's degree
+52445,Italy,2898.3083333333334,Secondary school
+52497,Italy,999.4166666666666,Bachelor's degree
+52525,Italy,104.93875,Bachelor's degree
+52534,Italy,3797.7833333333333,Secondary school
+52576,Italy,3607.894166666667,college/university without bachelor's degree
+53237,Italy,399.76666666666665,Master's degree
+53328,Italy,3398.016666666667,Bachelor's degree
+53386,Italy,599.65,Bachelor's degree
+53390,Italy,3298.075,Bachelor's degree
+53427,Italy,3298.075,college/university without bachelor's degree
+53519,Italy,3298.075,Bachelor's degree
+53523,Italy,4497.375,Master's degree
+53573,Italy,3103.18875,Associate degree
+53579,Italy,92.94574999999999,Secondary school
+53612,Italy,299.825,college/university without bachelor's degree
+53619,Italy,4497.375,Secondary school
+53633,Italy,179.895,Master's degree
+53815,Italy,9994.166666666666,college/university without bachelor's degree
+53931,Italy,3997.6666666666665,college/university without bachelor's degree
+53935,Italy,3797.7833333333333,Master's degree
+53986,Italy,157.90783333333331,Bachelor's degree
+54008,Italy,3997.6666666666665,Bachelor's degree
+54088,Italy,239.86,Bachelor's degree
+54160,Italy,89.9475,Bachelor's degree
+54204,Italy,4497.375,Secondary school
+54356,Italy,4197.549999999999,Bachelor's degree
+54413,Italy,1998.8333333333333,Secondary school
+54426,Italy,49.97083333333333,college/university without bachelor's degree
+54478,Italy,349.79583333333335,Associate degree
+54525,Italy,7795.450000000001,Master's degree
+54567,Italy,242.85825,Secondary school
+54603,Italy,4297.491666666667,Secondary school
+54667,Italy,3298.075,college/university without bachelor's degree
+54696,Italy,499.7083333333333,Secondary school
+54712,Italy,499.7083333333333,Master's degree
+54753,Italy,3997.6666666666665,Secondary school
+54880,Italy,3198.133333333333,Secondary school
+54902,Italy,2498.5416666666665,Secondary school
+54996,Italy,164.90375,Secondary school
+55019,Italy,4497.375,Bachelor's degree
+55028,Italy,159.90666666666667,college/university without bachelor's degree
+55056,Italy,209.8775,Secondary school
+55170,Italy,7995.333333333333,Secondary school
+55171,Italy,6496.208333333333,Master's degree
+55193,Italy,144.91541666666666,Bachelor's degree
+55398,Italy,99.94166666666666,Bachelor's degree
+55402,Italy,6995.916666666666,Professional degree
+55664,Italy,3897.7250000000004,Bachelor's degree
+56073,Italy,4297.491666666667,Master's degree
+56090,Italy,299.825,college/university without bachelor's degree
+56124,Italy,349.79583333333335,college/university without bachelor's degree
+56137,Italy,2798.366666666667,Master's degree
+56202,Italy,5196.966666666666,Secondary school
+56328,Italy,4797.2,college/university without bachelor's degree
+56346,Italy,2998.25,Bachelor's degree
+56497,Italy,229.8658333333333,college/university without bachelor's degree
+56511,Italy,5496.791666666666,Associate degree
+57569,Italy,5996.5,Bachelor's degree
+57735,Italy,6796.033333333334,Master's degree
+57770,Italy,4197.549999999999,Doctoral degree
+57855,Italy,3098.1916666666666,Bachelor's degree
+57875,Italy,3847.7541666666666,Bachelor's degree
+57876,Italy,139.91833333333332,college/university without bachelor's degree
+57917,Italy,3997.6666666666665,college/university without bachelor's degree
+57928,Italy,177.89616666666666,college/university without bachelor's degree
+57965,Italy,1998.8333333333333,Secondary school
+57978,Italy,3298.075,college/university without bachelor's degree
+57988,Italy,6995.916666666666,college/university without bachelor's degree
+58151,Italy,109.93583333333333,Bachelor's degree
+58202,Italy,74.95625,college/university without bachelor's degree
+58284,Italy,6995.916666666666,Doctoral degree
+58299,Italy,169.9008333333333,Master's degree
+58383,Italy,4697.258333333333,Bachelor's degree
+58499,Italy,11543.262499999999,college/university without bachelor's degree
+58533,Italy,79.95333333333333,Secondary school
+58570,Italy,9994.166666666666,college/university without bachelor's degree
+58624,Italy,6788.0380000000005,Doctoral degree
+58661,Italy,139.91833333333332,Bachelor's degree
+58666,Italy,2728.4075,Secondary school
+58740,Italy,4247.520833333333,Secondary school
+58759,Italy,5396.85,Secondary school
+58878,Italy,4897.141666666666,Bachelor's degree
+58935,Italy,2998.25,Secondary school
+58986,Italy,99.94166666666666,college/university without bachelor's degree
+59009,Italy,249.85416666666666,Master's degree
+59029,Italy,9594.4,Bachelor's degree
+59119,Italy,2998.25,Secondary school
+59181,Italy,2361.8214666666663,Master's degree
+59200,Italy,2998.25,Associate degree
+59228,Italy,2498.5416666666665,Doctoral degree
+59251,Italy,339.8016666666666,college/university without bachelor's degree
+59316,Italy,299.825,Bachelor's degree
+59451,Italy,2298.6583333333333,Master's degree
+59501,Italy,599.65,Master's degree
+59646,Italy,5996.5,Master's degree
+59690,Italy,3597.9,Master's degree
+59697,Italy,4097.608333333334,Bachelor's degree
+59808,Italy,3997.6666666666665,Secondary school
+59997,Italy,2698.425,Master's degree
+60031,Italy,4997.083333333333,Secondary school
+60104,Italy,2998.25,Bachelor's degree
+60957,Italy,4197.549999999999,Secondary school
+61509,Italy,179.895,Secondary school
+61650,Italy,4997.083333333333,Secondary school
+61872,Italy,199.88333333333333,Master's degree
+62037,Italy,3398.016666666667,Bachelor's degree
+62041,Italy,139.91833333333332,Secondary school
+62225,Italy,2598.483333333333,college/university without bachelor's degree
+62470,Italy,5996.5,college/university without bachelor's degree
+62499,Italy,179.895,Master's degree
+62683,Italy,3198.133333333333,Bachelor's degree
+62694,Italy,449.7375,Bachelor's degree
+64575,Italy,129.92416666666668,Secondary school
+64683,Italy,3997.6666666666665,college/university without bachelor's degree
+64724,Italy,2548.5125,Associate degree
+64727,Italy,7495.625,Bachelor's degree
+64776,Italy,1499.125,college/university without bachelor's degree
+64779,Italy,4497.375,Master's degree
+64811,Italy,179.895,Master's degree
+64902,Italy,4597.316666666667,Bachelor's degree
+64940,Italy,199.88333333333333,Secondary school
+64941,Italy,139.91833333333332,college/university without bachelor's degree
+64952,Italy,4997.083333333333,Bachelor's degree
+64967,Italy,169.9008333333333,Master's degree
+65052,Italy,3497.958333333333,Master's degree
+65053,Italy,379.7783333333333,Bachelor's degree
+65109,Italy,189.88916666666665,Secondary school
+65157,Italy,119.93,college/university without bachelor's degree
+65166,Italy,2498.5416666666665,college/university without bachelor's degree
+65265,Italy,2998.25,Master's degree
+65285,Italy,3797.7833333333333,Secondary school
+65326,Italy,129.92416666666668,college/university without bachelor's degree
+65339,Italy,149.9125,Secondary school
+65378,Italy,1998.8333333333333,college/university without bachelor's degree
+65496,Italy,3997.6666666666665,Master's degree
+65632,Italy,209.8775,Master's degree
+65637,Italy,129.92416666666668,Master's degree
+65648,Italy,139.91833333333332,Professional degree
+65696,Italy,3497.958333333333,college/university without bachelor's degree
+65745,Italy,3398.016666666667,Master's degree
+65767,Italy,3797.7833333333333,Master's degree
+65779,Italy,2098.7749999999996,Secondary school
+65946,Italy,123.92766666666667,Secondary school
+65978,Italy,149.9125,Bachelor's degree
+66045,Italy,4497.375,college/university without bachelor's degree
+66107,Italy,2698.425,Secondary school
+66128,Italy,159.90666666666667,college/university without bachelor's degree
+66334,Italy,3597.9,Master's degree
+66455,Italy,203.881,Master's degree
+66789,Italy,179.895,Secondary school
+66864,Italy,2798.366666666667,college/university without bachelor's degree
+67296,Italy,4997.083333333333,Master's degree
+67310,Italy,199.88333333333333,Doctoral degree
+67480,Italy,249.85416666666666,Bachelor's degree
+67531,Italy,3997.6666666666665,Bachelor's degree
+67573,Italy,3298.075,Secondary school
+67623,Italy,4497.375,college/university without bachelor's degree
+67706,Italy,3497.958333333333,Secondary school
+67825,Italy,4297.491666666667,college/university without bachelor's degree
+67969,Italy,4197.549999999999,Doctoral degree
+68130,Italy,99.94166666666666,Secondary school
+68134,Italy,599.65,Master's degree
+68143,Italy,4497.375,Master's degree
+68177,Italy,6796.033333333334,Master's degree
+68245,Italy,154.90958333333333,Secondary school
+68289,Italy,2498.5416666666665,Something else
+68303,Italy,3398.016666666667,Doctoral degree
+68313,Italy,129.92416666666668,college/university without bachelor's degree
+68445,Italy,184.89208333333332,Master's degree
+68502,Italy,3497.958333333333,Doctoral degree
+68570,Italy,3697.8416666666662,Master's degree
+68602,Italy,199.88333333333333,Primary/elementary school
+68628,Italy,5496.791666666666,Bachelor's degree
+68715,Italy,9994.166666666666,Doctoral degree
+68777,Italy,4997.083333333333,Bachelor's degree
+68789,Italy,3897.7250000000004,Master's degree
+68800,Italy,3497.958333333333,college/university without bachelor's degree
+68879,Italy,5996.5,college/university without bachelor's degree
+68927,Italy,159.90666666666667,Master's degree
+68944,Italy,119.93,college/university without bachelor's degree
+68946,Italy,132.92241666666666,Bachelor's degree
+69109,Italy,2998.25,college/university without bachelor's degree
+69138,Italy,249.85416666666666,Bachelor's degree
+69171,Italy,3997.6666666666665,Master's degree
+69431,Italy,8495.041666666666,Master's degree
+69771,Italy,3497.958333333333,Master's degree
+69775,Italy,149.9125,Secondary school
+69889,Italy,2698.425,Master's degree
+70049,Italy,2748.395833333333,Bachelor's degree
+70460,Italy,149.9125,Master's degree
+70482,Italy,3797.7833333333333,Bachelor's degree
+70627,Italy,189.88916666666665,Bachelor's degree
+70689,Italy,3198.133333333333,Master's degree
+70714,Italy,129.92416666666668,college/university without bachelor's degree
+70724,Italy,99.94166666666666,college/university without bachelor's degree
+70728,Italy,149.9125,Master's degree
+70950,Italy,4897.141666666666,college/university without bachelor's degree
+70951,Italy,1699.0083333333334,Bachelor's degree
+71121,Italy,246.45615,Secondary school
+71137,Italy,159.90666666666667,Bachelor's degree
+71140,Italy,499.7083333333333,Secondary school
+71263,Italy,4297.491666666667,Secondary school
+71297,Italy,5996.5,Master's degree
+71304,Italy,2698.425,Master's degree
+71407,Italy,79.95333333333333,Secondary school
+71465,Italy,3597.9,Secondary school
+71487,Italy,3098.1916666666666,Bachelor's degree
+71498,Italy,2598.483333333333,college/university without bachelor's degree
+71671,Italy,2998.25,Secondary school
+71690,Italy,3597.9,Master's degree
+71724,Italy,199.88333333333333,Something else
+71860,Italy,2998.25,college/university without bachelor's degree
+72075,Italy,6995.916666666666,Bachelor's degree
+72700,Italy,8994.75,Secondary school
+72718,Italy,2798.366666666667,Master's degree
+72766,Italy,6496.208333333333,Secondary school
+72821,Italy,89.9475,college/university without bachelor's degree
+72902,Italy,289.8308333333333,Doctoral degree
+72969,Italy,2618.4716666666664,Bachelor's degree
+72980,Italy,2748.395833333333,Bachelor's degree
+73066,Italy,229.8658333333333,Secondary school
+73080,Italy,1599.0666666666666,Bachelor's degree
+73109,Italy,2998.25,Master's degree
+73129,Italy,3.7977833333333333,Bachelor's degree
+73383,Italy,2998.25,Master's degree
+73433,Italy,4497.375,Master's degree
+73450,Italy,7995.333333333333,Secondary school
+73527,Italy,3298.075,college/university without bachelor's degree
+73603,Italy,3497.958333333333,Bachelor's degree
+73690,Italy,109.93583333333333,Bachelor's degree
+73719,Italy,2798.366666666667,Master's degree
+73907,Italy,8495.041666666666,Professional degree
+74309,Italy,4497.375,Master's degree
+74354,Italy,149.9125,Associate degree
+74410,Italy,2498.5416666666665,Master's degree
+74447,Italy,2198.7166666666667,Secondary school
+74509,Italy,2998.25,Primary/elementary school
+74701,Italy,2498.5416666666665,college/university without bachelor's degree
+75203,Italy,2698.425,college/university without bachelor's degree
+75626,Italy,3447.9874999999997,Master's degree
+75842,Italy,99.94166666666666,Bachelor's degree
+75949,Italy,109.93583333333333,Secondary school
+76089,Italy,129.92416666666668,college/university without bachelor's degree
+76332,Italy,184.89208333333332,Bachelor's degree
+76390,Italy,119.93,Secondary school
+76394,Italy,79.95333333333333,college/university without bachelor's degree
+76456,Italy,3497.958333333333,Bachelor's degree
+76584,Italy,9994.166666666666,Master's degree
+76723,Italy,2998.25,college/university without bachelor's degree
+76788,Italy,2998.25,Master's degree
+76807,Italy,3497.958333333333,Bachelor's degree
+76899,Italy,5296.908333333333,Master's degree
+76900,Italy,149.9125,Secondary school
+77062,Italy,99.94166666666666,Doctoral degree
+78061,Italy,3997.6666666666665,Secondary school
+78122,Italy,3298.075,college/university without bachelor's degree
+78241,Italy,169.9008333333333,Master's degree
+78264,Italy,3997.6666666666665,Bachelor's degree
+78306,Italy,144.91541666666666,Bachelor's degree
+78317,Italy,949.4458333333333,Bachelor's degree
+78335,Italy,3298.075,Secondary school
+78685,Italy,149.9125,college/university without bachelor's degree
+78742,Italy,3997.6666666666665,Master's degree
+78878,Italy,319.81333333333333,Primary/elementary school
+79067,Italy,3997.6666666666665,college/university without bachelor's degree
+79259,Italy,9794.283333333333,Doctoral degree
+79542,Italy,6995.916666666666,Bachelor's degree
+79562,Italy,5496.791666666666,Bachelor's degree
+79686,Italy,5796.616666666667,Master's degree
+79716,Italy,3897.7250000000004,Master's degree
+80245,Italy,3298.075,Master's degree
+80403,Italy,4997.083333333333,college/university without bachelor's degree
+80426,Italy,4497.375,college/university without bachelor's degree
+80541,Italy,2398.6,Professional degree
+80548,Italy,139.91833333333332,Bachelor's degree
+80571,Italy,4397.433333333333,college/university without bachelor's degree
+80578,Italy,5996.5,Master's degree
+80629,Italy,1998.8333333333333,college/university without bachelor's degree
+80660,Italy,269.8425,Bachelor's degree
+80789,Italy,5996.5,Professional degree
+81129,Italy,2998.25,Associate degree
+81318,Italy,124.92708333333333,Secondary school
+81372,Italy,259.84833333333336,college/university without bachelor's degree
+81545,Italy,139.91833333333332,Secondary school
+81881,Italy,2598.483333333333,college/university without bachelor's degree
+82289,Italy,144.91541666666666,Secondary school
+82307,Italy,129.92416666666668,Associate degree
+82416,Italy,114.93291666666666,Secondary school
+82490,Italy,199.88333333333333,Master's degree
+82529,Italy,4097.608333333334,Bachelor's degree
+82537,Italy,49.97083333333333,Something else
+82549,Italy,3408.0108333333337,Master's degree
+82579,Italy,3298.075,Master's degree
+82626,Italy,5496.791666666666,Primary/elementary school
+82687,Italy,96.94341666666668,college/university without bachelor's degree
+82852,Italy,59.965,college/university without bachelor's degree
+82887,Italy,189.88916666666665,college/university without bachelor's degree
+82910,Italy,129.92416666666668,Master's degree
+82957,Italy,4597.316666666667,Bachelor's degree
+82983,Italy,2698.425,Bachelor's degree
+83092,Italy,4997.083333333333,Master's degree
+83289,Italy,79.95333333333333,Master's degree

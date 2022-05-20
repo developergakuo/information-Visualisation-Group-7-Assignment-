@@ -1,0 +1,528 @@
+,Country,Monthly_Sal_EUR,EdLevel
+23,Israel,799.5333333333333,Primary/elementary school
+274,Israel,2398.6,Bachelor's degree
+326,Israel,2998.25,Bachelor's degree
+332,Israel,2598.483333333333,Bachelor's degree
+397,Israel,2898.3083333333334,Master's degree
+562,Israel,623.636,college/university without bachelor's degree
+688,Israel,1299.2416666666666,Secondary school
+836,Israel,2338.6349999999998,Bachelor's degree
+852,Israel,1798.95,Bachelor's degree
+1459,Israel,1848.9208333333331,Master's degree
+1677,Israel,1998.8333333333333,Bachelor's degree
+1833,Israel,2698.425,Bachelor's degree
+1843,Israel,3398.016666666667,Bachelor's degree
+1950,Israel,2998.25,Bachelor's degree
+1993,Israel,3398.016666666667,college/university without bachelor's degree
+2072,Israel,1199.3,Primary/elementary school
+2435,Israel,3747.8125,Bachelor's degree
+2551,Israel,2498.5416666666665,Secondary school
+2840,Israel,2298.6583333333333,Master's degree
+2995,Israel,2298.6583333333333,Bachelor's degree
+3031,Israel,1499.125,Bachelor's degree
+3048,Israel,2998.25,Secondary school
+3402,Israel,1798.95,Secondary school
+3569,Israel,2098.7749999999996,Bachelor's degree
+3828,Israel,1099.3583333333333,Bachelor's degree
+4002,Israel,2698.425,Secondary school
+4560,Israel,2598.483333333333,Bachelor's degree
+4623,Israel,1574.0812500000002,college/university without bachelor's degree
+4661,Israel,2898.3083333333334,college/university without bachelor's degree
+5024,Israel,3298.075,Bachelor's degree
+5226,Israel,3198.133333333333,Bachelor's degree
+5248,Israel,1998.8333333333333,Bachelor's degree
+5671,Israel,3497.958333333333,Master's degree
+5705,Israel,2998.25,Secondary school
+5762,Israel,3098.1916666666666,Bachelor's degree
+5810,Israel,1748.9791666666665,Associate degree
+6185,Israel,2998.25,Bachelor's degree
+6202,Israel,2998.25,Secondary school
+6209,Israel,3497.958333333333,Master's degree
+6318,Israel,1649.0375,Master's degree
+6359,Israel,1099.3583333333333,college/university without bachelor's degree
+6461,Israel,3597.9,Bachelor's degree
+7012,Israel,699.5916666666667,Doctoral degree
+7327,Israel,3198.133333333333,Master's degree
+7492,Israel,3797.7833333333333,Doctoral degree
+7538,Israel,2998.25,Master's degree
+7770,Israel,3797.7833333333333,Bachelor's degree
+7829,Israel,2498.5416666666665,Bachelor's degree
+8065,Israel,2398.6,Bachelor's degree
+8292,Israel,2998.25,No formal education
+8746,Israel,949.4458333333333,Bachelor's degree
+8776,Israel,5996.5,Master's degree
+9276,Israel,2898.3083333333334,Master's degree
+9382,Israel,2798.366666666667,college/university without bachelor's degree
+9419,Israel,1998.8333333333333,Master's degree
+9648,Israel,1449.1541666666667,Bachelor's degree
+10119,Israel,3198.133333333333,college/university without bachelor's degree
+10261,Israel,2498.5416666666665,Bachelor's degree
+10367,Israel,2898.3083333333334,Bachelor's degree
+10443,Israel,2698.425,Secondary school
+10517,Israel,3497.958333333333,Bachelor's degree
+10649,Israel,1998.8333333333333,Master's degree
+10664,Israel,2848.3375,Secondary school
+11230,Israel,899.475,Associate degree
+11268,Israel,1499.125,Bachelor's degree
+11293,Israel,2998.25,Bachelor's degree
+11310,Israel,2748.395833333333,Bachelor's degree
+11387,Israel,3997.6666666666665,Master's degree
+11479,Israel,369.78416666666664,Bachelor's degree
+11630,Israel,2598.483333333333,Bachelor's degree
+11637,Israel,2998.25,Bachelor's degree
+11730,Israel,3847.7541666666666,Bachelor's degree
+11823,Israel,3497.958333333333,Bachelor's degree
+12058,Israel,9994.166666666666,Master's degree
+12131,Israel,149.9125,Bachelor's degree
+12478,Israel,1199.3,Master's degree
+12566,Israel,3198.133333333333,Secondary school
+13153,Israel,1199.3,Secondary school
+13416,Israel,1499.125,Bachelor's degree
+13462,Israel,3198.133333333333,Bachelor's degree
+13768,Israel,4197.549999999999,Bachelor's degree
+14060,Israel,1798.95,Bachelor's degree
+14071,Israel,499.7083333333333,Bachelor's degree
+14184,Israel,1199.3,Secondary school
+14638,Israel,59.965,Bachelor's degree
+14901,Israel,2898.3083333333334,Bachelor's degree
+15271,Israel,1998.8333333333333,Bachelor's degree
+15322,Israel,3298.075,college/university without bachelor's degree
+15517,Israel,4697.258333333333,Bachelor's degree
+15545,Israel,2098.7749999999996,Bachelor's degree
+15552,Israel,2998.25,college/university without bachelor's degree
+15709,Israel,1888.8975,Bachelor's degree
+15839,Israel,3797.7833333333333,college/university without bachelor's degree
+15977,Israel,2498.5416666666665,college/university without bachelor's degree
+16711,Israel,2198.7166666666667,Bachelor's degree
+17027,Israel,3997.6666666666665,Bachelor's degree
+17049,Israel,2798.366666666667,Bachelor's degree
+17280,Israel,4497.375,Bachelor's degree
+17505,Israel,3398.016666666667,Bachelor's degree
+17640,Israel,2598.483333333333,college/university without bachelor's degree
+17826,Israel,999.4166666666666,Bachelor's degree
+18000,Israel,529.6908333333333,Secondary school
+18101,Israel,3797.7833333333333,Master's degree
+18200,Israel,2798.366666666667,college/university without bachelor's degree
+18450,Israel,1599.0666666666666,Bachelor's degree
+18472,Israel,899.475,Bachelor's degree
+18742,Israel,4497.375,college/university without bachelor's degree
+18774,Israel,779.5450000000001,Master's degree
+18883,Israel,824.51875,Master's degree
+19083,Israel,2998.25,Bachelor's degree
+19386,Israel,2698.425,Bachelor's degree
+20108,Israel,2498.5416666666665,Bachelor's degree
+20258,Israel,3398.016666666667,Master's degree
+20611,Israel,3248.1041666666665,college/university without bachelor's degree
+20625,Israel,3497.958333333333,Bachelor's degree
+20993,Israel,3797.7833333333333,college/university without bachelor's degree
+21086,Israel,2398.6,Bachelor's degree
+21113,Israel,3098.1916666666666,Bachelor's degree
+21183,Israel,2361.121875,Bachelor's degree
+21292,Israel,1679.02,Bachelor's degree
+21450,Israel,1499.125,Bachelor's degree
+21482,Israel,2598.483333333333,Bachelor's degree
+21654,Israel,2298.6583333333333,Master's degree
+21790,Israel,3497.958333333333,college/university without bachelor's degree
+21905,Israel,2798.366666666667,Bachelor's degree
+21935,Israel,2798.366666666667,Bachelor's degree
+21939,Israel,1299.2416666666666,Doctoral degree
+21981,Israel,2398.6,Bachelor's degree
+22238,Israel,999.4166666666666,Master's degree
+22411,Israel,3497.958333333333,Bachelor's degree
+22513,Israel,829.5158333333334,Bachelor's degree
+22525,Israel,3198.133333333333,college/university without bachelor's degree
+22634,Israel,4997.083333333333,Bachelor's degree
+22682,Israel,799.5333333333333,Bachelor's degree
+22948,Israel,1299.2416666666666,Associate degree
+23120,Israel,1898.8916666666667,Bachelor's degree
+23134,Israel,2298.6583333333333,Bachelor's degree
+23308,Israel,3198.133333333333,college/university without bachelor's degree
+23399,Israel,3997.6666666666665,Bachelor's degree
+23690,Israel,2698.425,Primary/elementary school
+23813,Israel,1499.125,Bachelor's degree
+23978,Israel,5896.5583333333325,Master's degree
+24138,Israel,4497.375,Bachelor's degree
+24187,Israel,4297.491666666667,Bachelor's degree
+24390,Israel,2698.425,Bachelor's degree
+24555,Israel,2998.25,Bachelor's degree
+24753,Israel,3997.6666666666665,college/university without bachelor's degree
+24764,Israel,3497.958333333333,Bachelor's degree
+24801,Israel,2148.7458333333334,Bachelor's degree
+24899,Israel,1299.2416666666666,Master's degree
+25093,Israel,2298.6583333333333,Associate degree
+25432,Israel,3398.016666666667,Bachelor's degree
+25595,Israel,389.77250000000004,Secondary school
+26071,Israel,6496.208333333333,Bachelor's degree
+26700,Israel,599.65,Bachelor's degree
+26761,Israel,2998.25,Bachelor's degree
+26973,Israel,3098.1916666666666,Bachelor's degree
+27031,Israel,1099.3583333333333,Bachelor's degree
+27633,Israel,1199.3,Secondary school
+27728,Israel,79.95333333333333,Primary/elementary school
+27752,Israel,2998.25,Bachelor's degree
+27765,Israel,2023.81875,Bachelor's degree
+27792,Israel,799.5333333333333,college/university without bachelor's degree
+27892,Israel,899.475,college/university without bachelor's degree
+27919,Israel,2848.3375,Bachelor's degree
+27974,Israel,1199.3,college/university without bachelor's degree
+28065,Israel,2798.366666666667,Primary/elementary school
+28228,Israel,3398.016666666667,Bachelor's degree
+28548,Israel,1898.8916666666667,Secondary school
+28733,Israel,1469.1425,college/university without bachelor's degree
+28922,Israel,2598.483333333333,No formal education
+29199,Israel,2828.349166666667,Bachelor's degree
+29515,Israel,2998.25,Secondary school
+30041,Israel,3298.075,Master's degree
+30126,Israel,3497.958333333333,college/university without bachelor's degree
+30177,Israel,1199.3,Secondary school
+30243,Israel,2848.3375,Bachelor's degree
+30278,Israel,1748.9791666666665,Bachelor's degree
+30621,Israel,2998.25,Bachelor's degree
+30758,Israel,2798.366666666667,Master's degree
+30914,Israel,3238.1099999999997,Bachelor's degree
+31094,Israel,1998.8333333333333,Secondary school
+31206,Israel,3947.695833333333,Bachelor's degree
+31417,Israel,2598.483333333333,Bachelor's degree
+31470,Israel,15990.666666666666,Master's degree
+32003,Israel,3298.075,Bachelor's degree
+32028,Israel,2798.366666666667,Bachelor's degree
+32059,Israel,2898.3083333333334,Bachelor's degree
+32188,Israel,2498.5416666666665,college/university without bachelor's degree
+32236,Israel,2398.6,Bachelor's degree
+32525,Israel,2498.5416666666665,Primary/elementary school
+33052,Israel,3697.8416666666662,Master's degree
+33225,Israel,1998.8333333333333,Bachelor's degree
+33409,Israel,2698.425,Master's degree
+33576,Israel,4497.375,Bachelor's degree
+33902,Israel,1998.8333333333333,Bachelor's degree
+33938,Israel,699.5916666666667,Bachelor's degree
+34024,Israel,999.4166666666666,Bachelor's degree
+34025,Israel,3497.958333333333,Secondary school
+34161,Israel,1499.125,Secondary school
+34264,Israel,2998.25,Master's degree
+34326,Israel,4696.358858333333,Master's degree
+34451,Israel,5196.966666666666,Secondary school
+34510,Israel,1898.8916666666667,Bachelor's degree
+34868,Israel,2298.6583333333333,Secondary school
+34899,Israel,2998.25,Bachelor's degree
+34955,Israel,699.5916666666667,Bachelor's degree
+35063,Israel,299.825,Secondary school
+35281,Israel,3797.7833333333333,Master's degree
+35481,Israel,999.4166666666666,Secondary school
+35617,Israel,4497.375,Bachelor's degree
+35839,Israel,249.85416666666666,college/university without bachelor's degree
+35845,Israel,1549.0958333333333,Bachelor's degree
+36053,Israel,2998.25,Bachelor's degree
+36738,Israel,1599.0666666666666,Primary/elementary school
+36833,Israel,1699.0083333333334,Bachelor's degree
+36969,Israel,2698.425,Secondary school
+37026,Israel,3497.958333333333,Master's degree
+37498,Israel,1499.125,Primary/elementary school
+37856,Israel,2998.25,Bachelor's degree
+38105,Israel,1699.0083333333334,Bachelor's degree
+38128,Israel,3497.958333333333,college/university without bachelor's degree
+38171,Israel,2998.25,college/university without bachelor's degree
+38609,Israel,3248.1041666666665,Bachelor's degree
+39314,Israel,3497.958333333333,Bachelor's degree
+40094,Israel,2498.5416666666665,Bachelor's degree
+40282,Israel,2148.7458333333334,Bachelor's degree
+40421,Israel,1748.9791666666665,Bachelor's degree
+40658,Israel,3098.1916666666666,Bachelor's degree
+40685,Israel,3298.075,Bachelor's degree
+40768,Israel,669.6091666666666,Doctoral degree
+41056,Israel,9994.166666666666,Bachelor's degree
+41328,Israel,1059.3816666666667,Bachelor's degree
+41576,Israel,2798.366666666667,Bachelor's degree
+41604,Israel,4497.375,No formal education
+41707,Israel,4497.375,Master's degree
+41807,Israel,1149.3291666666667,Bachelor's degree
+42045,Israel,849.5041666666667,college/university without bachelor's degree
+42209,Israel,3997.6666666666665,Bachelor's degree
+42454,Israel,2898.3083333333334,Bachelor's degree
+42595,Israel,3298.075,Bachelor's degree
+42644,Israel,3398.016666666667,Bachelor's degree
+42868,Israel,2498.5416666666665,Bachelor's degree
+42911,Israel,699.5916666666667,Primary/elementary school
+42978,Israel,1978.8449999999998,Bachelor's degree
+42993,Israel,1399.1833333333334,Master's degree
+43080,Israel,899.475,Master's degree
+43124,Israel,66.56115,Bachelor's degree
+43147,Israel,3897.7250000000004,Master's degree
+43707,Israel,3997.6666666666665,Master's degree
+43864,Israel,1399.1833333333334,Master's degree
+43944,Israel,2698.425,college/university without bachelor's degree
+43949,Israel,99.94166666666666,Secondary school
+44235,Israel,2798.366666666667,Secondary school
+44353,Israel,299.825,Doctoral degree
+44523,Israel,1099.3583333333333,Bachelor's degree
+44682,Israel,3497.958333333333,Bachelor's degree
+44721,Israel,3597.9,Primary/elementary school
+44810,Israel,849.5041666666667,Bachelor's degree
+44965,Israel,4997.083333333333,Bachelor's degree
+45399,Israel,999.4166666666666,Secondary school
+45559,Israel,1898.8916666666667,Secondary school
+45687,Israel,2898.3083333333334,Bachelor's degree
+45725,Israel,3098.1916666666666,Primary/elementary school
+45733,Israel,1299.2416666666666,Master's degree
+45962,Israel,2398.6,Bachelor's degree
+46310,Israel,2998.25,Secondary school
+46624,Israel,2598.483333333333,Bachelor's degree
+46720,Israel,4097.608333333334,Doctoral degree
+46772,Israel,3697.8416666666662,Master's degree
+46853,Israel,3997.6666666666665,Master's degree
+47155,Israel,1699.0083333333334,Bachelor's degree
+47251,Israel,2698.425,Bachelor's degree
+47261,Israel,999.4166666666666,Bachelor's degree
+47363,Israel,2248.6875,Bachelor's degree
+47760,Israel,4997.083333333333,Master's degree
+48011,Israel,3797.7833333333333,Bachelor's degree
+48075,Israel,3997.6666666666665,Bachelor's degree
+48186,Israel,3497.958333333333,Bachelor's degree
+48477,Israel,2498.5416666666665,No formal education
+48662,Israel,2348.6291666666666,Bachelor's degree
+48683,Israel,4497.375,Secondary school
+48748,Israel,3298.075,Bachelor's degree
+48784,Israel,2498.5416666666665,Bachelor's degree
+48889,Israel,3547.929166666667,Bachelor's degree
+49042,Israel,649.6208333333333,college/university without bachelor's degree
+49115,Israel,3997.6666666666665,Bachelor's degree
+49192,Israel,3298.075,college/university without bachelor's degree
+49543,Israel,3497.958333333333,Master's degree
+49632,Israel,3398.016666666667,Bachelor's degree
+49636,Israel,3098.1916666666666,No formal education
+50173,Israel,3298.075,Bachelor's degree
+50515,Israel,1499.125,Bachelor's degree
+50561,Israel,329.8075,Doctoral degree
+50684,Israel,1499.125,college/university without bachelor's degree
+50735,Israel,1499.125,Bachelor's degree
+50809,Israel,4997.083333333333,Bachelor's degree
+50835,Israel,3298.075,No formal education
+50841,Israel,5996.5,Doctoral degree
+50983,Israel,2798.366666666667,Bachelor's degree
+51054,Israel,999.4166666666666,Bachelor's degree
+51065,Israel,2398.6,Bachelor's degree
+51385,Israel,1699.0083333333334,Bachelor's degree
+51523,Israel,1599.0666666666666,Master's degree
+51599,Israel,3497.958333333333,Bachelor's degree
+52013,Israel,1499.125,Bachelor's degree
+52042,Israel,3298.075,Secondary school
+52053,Israel,999.4166666666666,college/university without bachelor's degree
+52552,Israel,2117.264208333333,Bachelor's degree
+52713,Israel,2148.7458333333334,Bachelor's degree
+52959,Israel,399.76666666666665,Master's degree
+53121,Israel,2648.4541666666664,Bachelor's degree
+53486,Israel,2198.7166666666667,Bachelor's degree
+54143,Israel,2098.7749999999996,college/university without bachelor's degree
+54221,Israel,3497.958333333333,Bachelor's degree
+54278,Israel,2748.395833333333,Bachelor's degree
+54329,Israel,2098.7749999999996,college/university without bachelor's degree
+54427,Israel,3398.016666666667,Bachelor's degree
+54485,Israel,2998.25,Bachelor's degree
+54648,Israel,1699.0083333333334,Bachelor's degree
+54682,Israel,2848.3375,Bachelor's degree
+54700,Israel,4197.549999999999,Bachelor's degree
+54707,Israel,2298.6583333333333,Bachelor's degree
+54776,Israel,3497.958333333333,college/university without bachelor's degree
+54794,Israel,2998.25,Associate degree
+54833,Israel,1649.0375,Bachelor's degree
+54921,Israel,3298.075,Bachelor's degree
+54945,Israel,1998.8333333333333,Bachelor's degree
+55085,Israel,4997.083333333333,Master's degree
+55152,Israel,1998.8333333333333,college/university without bachelor's degree
+55262,Israel,1998.8333333333333,Associate degree
+55864,Israel,3.1981333333333333,Master's degree
+56015,Israel,1429.1658333333335,Secondary school
+56041,Israel,4247.520833333333,Bachelor's degree
+56215,Israel,2398.6,college/university without bachelor's degree
+56368,Israel,1599.0666666666666,Associate degree
+56406,Israel,599.65,college/university without bachelor's degree
+56411,Israel,3997.6666666666665,Bachelor's degree
+56430,Israel,2098.7749999999996,Secondary school
+56521,Israel,3697.8416666666662,Professional degree
+56561,Israel,3797.7833333333333,Bachelor's degree
+56590,Israel,3198.133333333333,college/university without bachelor's degree
+56839,Israel,2898.3083333333334,Secondary school
+56957,Israel,2498.5416666666665,Primary/elementary school
+56997,Israel,2848.3375,Bachelor's degree
+57156,Israel,3497.958333333333,Bachelor's degree
+57304,Israel,3098.1916666666666,Associate degree
+57774,Israel,2498.5416666666665,Bachelor's degree
+57904,Israel,3497.958333333333,Bachelor's degree
+58019,Israel,499.7083333333333,Primary/elementary school
+58313,Israel,2798.366666666667,Secondary school
+58485,Israel,999.4166666666666,Secondary school
+58517,Israel,1808.9441666666667,Bachelor's degree
+58614,Israel,3398.016666666667,Bachelor's degree
+58636,Israel,2498.5416666666665,college/university without bachelor's degree
+58661,Israel,3997.6666666666665,Bachelor's degree
+58915,Israel,1699.0083333333334,Associate degree
+59061,Israel,6096.441666666667,Doctoral degree
+59176,Israel,2198.7166666666667,Secondary school
+59404,Israel,4397.433333333333,Bachelor's degree
+59567,Israel,3497.958333333333,Bachelor's degree
+59814,Israel,1599.0666666666666,Bachelor's degree
+59993,Israel,799.5333333333333,college/university without bachelor's degree
+60076,Israel,399.76666666666665,college/university without bachelor's degree
+60739,Israel,999.4166666666666,Bachelor's degree
+60868,Israel,1998.8333333333333,Bachelor's degree
+61137,Israel,999.4166666666666,Primary/elementary school
+61302,Israel,1898.8916666666667,Secondary school
+61489,Israel,699.5916666666667,Bachelor's degree
+61508,Israel,2998.25,Bachelor's degree
+61509,Israel,4297.491666666667,Bachelor's degree
+61521,Israel,3348.0458333333336,Bachelor's degree
+61797,Israel,3098.1916666666666,Bachelor's degree
+61916,Israel,1699.0083333333334,Master's degree
+62158,Israel,3398.016666666667,Master's degree
+62322,Israel,1798.95,Primary/elementary school
+62494,Israel,3298.075,Bachelor's degree
+62998,Israel,1599.0666666666666,Secondary school
+63203,Israel,1828.9325000000001,college/university without bachelor's degree
+63223,Israel,2598.483333333333,Bachelor's degree
+63260,Israel,1798.95,Secondary school
+63430,Israel,2698.425,college/university without bachelor's degree
+63638,Israel,2448.570833333333,college/university without bachelor's degree
+63774,Israel,3148.1625000000004,Secondary school
+64131,Israel,2898.3083333333334,Bachelor's degree
+64453,Israel,2648.4541666666664,Bachelor's degree
+64488,Israel,3597.9,Bachelor's degree
+64525,Israel,3.298075,Bachelor's degree
+64607,Israel,2598.483333333333,Bachelor's degree
+64669,Israel,149.9125,Secondary school
+64692,Israel,3697.8416666666662,Master's degree
+64696,Israel,2998.25,Professional degree
+64957,Israel,2998.25,Master's degree
+65270,Israel,2998.25,Master's degree
+65498,Israel,1998.8333333333333,Master's degree
+65726,Israel,2398.6,Master's degree
+65798,Israel,2498.5416666666665,college/university without bachelor's degree
+65848,Israel,2748.395833333333,Master's degree
+65887,Israel,2498.5416666666665,Bachelor's degree
+65980,Israel,5996.5,Secondary school
+66147,Israel,2998.25,Bachelor's degree
+66338,Israel,2698.425,Secondary school
+66855,Israel,1599.0666666666666,Bachelor's degree
+66956,Israel,2598.483333333333,Associate degree
+67481,Israel,359.79,No formal education
+67579,Israel,2498.5416666666665,college/university without bachelor's degree
+67594,Israel,3298.075,Bachelor's degree
+67618,Israel,3847.7541666666666,college/university without bachelor's degree
+67871,Israel,2498.5416666666665,college/university without bachelor's degree
+68235,Israel,2198.7166666666667,Bachelor's degree
+68309,Israel,1773.9645833333334,Bachelor's degree
+68835,Israel,1249.2708333333333,college/university without bachelor's degree
+69206,Israel,3098.1916666666666,Bachelor's degree
+69726,Israel,3298.075,Bachelor's degree
+69772,Israel,3298.075,Bachelor's degree
+69776,Israel,3198.133333333333,Master's degree
+69958,Israel,3797.7833333333333,No formal education
+70121,Israel,799.5333333333333,Bachelor's degree
+70281,Israel,3997.6666666666665,Master's degree
+70427,Israel,3298.075,Master's degree
+70467,Israel,3560.9215833333333,Secondary school
+70707,Israel,899.475,Associate degree
+70857,Israel,2498.5416666666665,college/university without bachelor's degree
+71142,Israel,3497.958333333333,Bachelor's degree
+71400,Israel,3847.7541666666666,Master's degree
+71480,Israel,3697.8416666666662,Master's degree
+71507,Israel,3198.133333333333,Bachelor's degree
+71563,Israel,1898.8916666666667,Secondary school
+72110,Israel,1099.3583333333333,Secondary school
+72613,Israel,6496.208333333333,Master's degree
+73143,Israel,2558.5066666666667,Secondary school
+73155,Israel,3398.016666666667,No formal education
+73204,Israel,2998.25,Associate degree
+73406,Israel,2998.25,Bachelor's degree
+73579,Israel,1998.8333333333333,Bachelor's degree
+73751,Israel,1898.8916666666667,Bachelor's degree
+73819,Israel,3098.1916666666666,Bachelor's degree
+74163,Israel,167.902,Primary/elementary school
+74191,Israel,759.5566666666666,Bachelor's degree
+74378,Israel,499.7083333333333,Bachelor's degree
+74613,Israel,2998.25,Bachelor's degree
+74635,Israel,1279.2533333333333,Secondary school
+74968,Israel,6696.091666666667,Bachelor's degree
+75110,Israel,2998.25,Master's degree
+75133,Israel,1199.3,Doctoral degree
+75199,Israel,3298.075,college/university without bachelor's degree
+75217,Israel,1998.8333333333333,college/university without bachelor's degree
+75380,Israel,2098.7749999999996,Bachelor's degree
+75445,Israel,3497.958333333333,Bachelor's degree
+75491,Israel,1798.95,Bachelor's degree
+75566,Israel,2498.5416666666665,Bachelor's degree
+75661,Israel,1998.8333333333333,Primary/elementary school
+75662,Israel,1299.2416666666666,Bachelor's degree
+75763,Israel,3497.958333333333,Master's degree
+76120,Israel,3697.8416666666662,Bachelor's degree
+76148,Israel,2368.6175,Bachelor's degree
+76290,Israel,2498.5416666666665,Bachelor's degree
+76293,Israel,16190.55,Bachelor's degree
+76354,Israel,1399.1833333333334,college/university without bachelor's degree
+76435,Israel,1499.125,Associate degree
+76789,Israel,2098.7749999999996,Associate degree
+77057,Israel,2498.5416666666665,Bachelor's degree
+77129,Israel,2898.3083333333334,Bachelor's degree
+77328,Israel,1998.8333333333333,Bachelor's degree
+77795,Israel,3997.6666666666665,Bachelor's degree
+77918,Israel,3997.6666666666665,Doctoral degree
+78639,Israel,1499.125,Bachelor's degree
+78853,Israel,3497.958333333333,Master's degree
+79006,Israel,2298.6583333333333,Bachelor's degree
+79271,Israel,3897.7250000000004,Bachelor's degree
+79568,Israel,3198.133333333333,Bachelor's degree
+79773,Israel,3997.6666666666665,Bachelor's degree
+79850,Israel,2198.7166666666667,Bachelor's degree
+79948,Israel,1449.1541666666667,Bachelor's degree
+80156,Israel,2498.5416666666665,Bachelor's degree
+80164,Israel,2598.483333333333,Bachelor's degree
+80239,Israel,2398.6,No formal education
+80256,Israel,3797.7833333333333,college/university without bachelor's degree
+80470,Israel,3298.075,Bachelor's degree
+80831,Israel,999.4166666666666,Doctoral degree
+80969,Israel,749.5625,college/university without bachelor's degree
+81385,Israel,2698.425,college/university without bachelor's degree
+81665,Israel,2598.483333333333,Bachelor's degree
+81677,Israel,1798.95,Secondary school
+81729,Israel,3118.1800000000003,college/university without bachelor's degree
+81873,Israel,599.65,Primary/elementary school
+81888,Israel,1649.0375,Bachelor's degree
+81897,Israel,4497.375,Bachelor's degree
+81987,Israel,3997.6666666666665,Bachelor's degree
+81996,Israel,2998.25,Bachelor's degree
+82098,Israel,1748.9791666666665,Master's degree
+82387,Israel,3647.8708333333334,Bachelor's degree
+82435,Israel,699.5916666666667,Bachelor's degree
+82727,Israel,3198.133333333333,Master's degree
+82758,Israel,1699.0083333333334,Bachelor's degree
+83281,Israel,469.7258333333333,Master's degree
+83890,Israel,3298.075,Bachelor's degree
+83996,Israel,3198.133333333333,Bachelor's degree
+84071,Israel,3997.6666666666665,Secondary school
+84102,Israel,2798.366666666667,Bachelor's degree
+84378,Israel,1848.9208333333331,Bachelor's degree
+84556,Israel,1299.2416666666666,Associate degree
+84644,Israel,3.7977833333333333,Master's degree
+85181,Israel,999.4166666666666,college/university without bachelor's degree
+85328,Israel,2198.7166666666667,Bachelor's degree
+85686,Israel,2468.5591666666664,Bachelor's degree
+85801,Israel,3997.6666666666665,college/university without bachelor's degree
+85814,Israel,2498.5416666666665,college/university without bachelor's degree
+85838,Israel,2698.425,college/university without bachelor's degree
+86076,Israel,2998.25,Bachelor's degree
+86090,Israel,1099.3583333333333,Secondary school
+86091,Israel,1898.8916666666667,Secondary school
+86195,Israel,3198.133333333333,Bachelor's degree
+86238,Israel,9994.166666666666,Master's degree
+86545,Israel,2598.483333333333,Bachelor's degree
+86546,Israel,1998.8333333333333,Bachelor's degree
+86663,Israel,2998.25,Master's degree
+86669,Israel,1998.8333333333333,Bachelor's degree
+86819,Israel,999.4166666666666,Bachelor's degree
+86839,Israel,179.895,Bachelor's degree
+86854,Israel,3398.016666666667,Bachelor's degree
+87062,Israel,2198.7166666666667,college/university without bachelor's degree
+87085,Israel,2998.25,college/university without bachelor's degree
+87188,Israel,1499.125,Bachelor's degree
+87379,Israel,2998.25,Bachelor's degree
+87735,Israel,2998.25,Bachelor's degree
+87890,Israel,3198.133333333333,Bachelor's degree

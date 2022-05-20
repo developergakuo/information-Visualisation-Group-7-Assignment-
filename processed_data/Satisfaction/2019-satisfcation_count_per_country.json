@@ -1,0 +1,1049 @@
+{
+    "Afghanistan": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 4,
+        "Slightly satisfied": 6,
+        "Very dissatisfied": 7,
+        "Very satisfied": 4
+    },
+    "Albania": {
+        "Neither satisfied nor dissatisfied": 8,
+        "Slightly dissatisfied": 13,
+        "Slightly satisfied": 24,
+        "Very dissatisfied": 6,
+        "Very satisfied": 19
+    },
+    "Algeria": {
+        "Neither satisfied nor dissatisfied": 9,
+        "Slightly dissatisfied": 19,
+        "Slightly satisfied": 14,
+        "Very dissatisfied": 7,
+        "Very satisfied": 6
+    },
+    "Andorra": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly satisfied": 1,
+        "Very satisfied": 1
+    },
+    "Angola": {
+        "Slightly dissatisfied": 1
+    },
+    "Antigua and Barbuda": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly satisfied": 1
+    },
+    "Argentina": {
+        "Neither satisfied nor dissatisfied": 56,
+        "Slightly dissatisfied": 82,
+        "Slightly satisfied": 173,
+        "Very dissatisfied": 42,
+        "Very satisfied": 119
+    },
+    "Armenia": {
+        "Neither satisfied nor dissatisfied": 13,
+        "Slightly dissatisfied": 6,
+        "Slightly satisfied": 26,
+        "Very dissatisfied": 6,
+        "Very satisfied": 22
+    },
+    "Australia": {
+        "Neither satisfied nor dissatisfied": 165,
+        "Slightly dissatisfied": 210,
+        "Slightly satisfied": 556,
+        "Very dissatisfied": 96,
+        "Very satisfied": 564
+    },
+    "Austria": {
+        "Neither satisfied nor dissatisfied": 73,
+        "Slightly dissatisfied": 92,
+        "Slightly satisfied": 215,
+        "Very dissatisfied": 40,
+        "Very satisfied": 228
+    },
+    "Azerbaijan": {
+        "Neither satisfied nor dissatisfied": 9,
+        "Slightly dissatisfied": 4,
+        "Slightly satisfied": 12,
+        "Very dissatisfied": 6,
+        "Very satisfied": 3
+    },
+    "Bahamas": {
+        "Neither satisfied nor dissatisfied": 1
+    },
+    "Bahrain": {
+        "Neither satisfied nor dissatisfied": 2,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 4,
+        "Very dissatisfied": 1,
+        "Very satisfied": 7
+    },
+    "Bangladesh": {
+        "Neither satisfied nor dissatisfied": 79,
+        "Slightly dissatisfied": 75,
+        "Slightly satisfied": 133,
+        "Very dissatisfied": 36,
+        "Very satisfied": 73
+    },
+    "Barbados": {
+        "Very satisfied": 1
+    },
+    "Belarus": {
+        "Neither satisfied nor dissatisfied": 22,
+        "Slightly dissatisfied": 30,
+        "Slightly satisfied": 74,
+        "Very dissatisfied": 11,
+        "Very satisfied": 36
+    },
+    "Belgium": {
+        "Neither satisfied nor dissatisfied": 62,
+        "Slightly dissatisfied": 88,
+        "Slightly satisfied": 190,
+        "Very dissatisfied": 34,
+        "Very satisfied": 216
+    },
+    "Belize": {
+        "Slightly satisfied": 1,
+        "Very satisfied": 2
+    },
+    "Benin": {
+        "Slightly dissatisfied": 1
+    },
+    "Bhutan": {
+        "Very satisfied": 1
+    },
+    "Bolivia": {
+        "Neither satisfied nor dissatisfied": 7,
+        "Slightly dissatisfied": 7,
+        "Slightly satisfied": 9,
+        "Very dissatisfied": 1,
+        "Very satisfied": 5
+    },
+    "Bosnia and Herzegovina": {
+        "Neither satisfied nor dissatisfied": 17,
+        "Slightly dissatisfied": 8,
+        "Slightly satisfied": 19,
+        "Very dissatisfied": 5,
+        "Very satisfied": 31
+    },
+    "Botswana": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly dissatisfied": 1,
+        "Very satisfied": 1
+    },
+    "Brazil": {
+        "Neither satisfied nor dissatisfied": 217,
+        "Slightly dissatisfied": 329,
+        "Slightly satisfied": 564,
+        "Very dissatisfied": 129,
+        "Very satisfied": 393
+    },
+    "Brunei Darussalam": {
+        "Slightly satisfied": 1
+    },
+    "Bulgaria": {
+        "Neither satisfied nor dissatisfied": 75,
+        "Slightly dissatisfied": 75,
+        "Slightly satisfied": 187,
+        "Very dissatisfied": 32,
+        "Very satisfied": 170
+    },
+    "Burkina Faso": {
+        "Slightly dissatisfied": 1,
+        "Very dissatisfied": 1,
+        "Very satisfied": 1
+    },
+    "Burundi": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly satisfied": 2
+    },
+    "Cambodia": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 2,
+        "Slightly satisfied": 4,
+        "Very dissatisfied": 3,
+        "Very satisfied": 3
+    },
+    "Cameroon": {
+        "Neither satisfied nor dissatisfied": 6,
+        "Slightly dissatisfied": 9,
+        "Slightly satisfied": 5,
+        "Very dissatisfied": 4,
+        "Very satisfied": 5
+    },
+    "Canada": {
+        "Neither satisfied nor dissatisfied": 278,
+        "Slightly dissatisfied": 305,
+        "Slightly satisfied": 936,
+        "Very dissatisfied": 152,
+        "Very satisfied": 1038
+    },
+    "Cape Verde": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Very dissatisfied": 1
+    },
+    "Chad": {
+        "Slightly dissatisfied": 1
+    },
+    "Chile": {
+        "Neither satisfied nor dissatisfied": 31,
+        "Slightly dissatisfied": 32,
+        "Slightly satisfied": 40,
+        "Very dissatisfied": 10,
+        "Very satisfied": 48
+    },
+    "China": {
+        "Neither satisfied nor dissatisfied": 118,
+        "Slightly dissatisfied": 130,
+        "Slightly satisfied": 132,
+        "Very dissatisfied": 39,
+        "Very satisfied": 38
+    },
+    "Colombia": {
+        "Neither satisfied nor dissatisfied": 40,
+        "Slightly dissatisfied": 42,
+        "Slightly satisfied": 67,
+        "Very dissatisfied": 31,
+        "Very satisfied": 72
+    },
+    "Congo, Republic of the...": {
+        "Slightly satisfied": 1,
+        "Very dissatisfied": 1,
+        "Very satisfied": 1
+    },
+    "Costa Rica": {
+        "Neither satisfied nor dissatisfied": 12,
+        "Slightly dissatisfied": 12,
+        "Slightly satisfied": 21,
+        "Very dissatisfied": 7,
+        "Very satisfied": 18
+    },
+    "Croatia": {
+        "Neither satisfied nor dissatisfied": 34,
+        "Slightly dissatisfied": 25,
+        "Slightly satisfied": 74,
+        "Very dissatisfied": 12,
+        "Very satisfied": 67
+    },
+    "Cuba": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 3,
+        "Slightly satisfied": 12,
+        "Very dissatisfied": 2,
+        "Very satisfied": 4
+    },
+    "Cyprus": {
+        "Neither satisfied nor dissatisfied": 2,
+        "Slightly dissatisfied": 12,
+        "Slightly satisfied": 18,
+        "Very dissatisfied": 2,
+        "Very satisfied": 17
+    },
+    "Czech Republic": {
+        "Neither satisfied nor dissatisfied": 65,
+        "Slightly dissatisfied": 95,
+        "Slightly satisfied": 230,
+        "Very dissatisfied": 33,
+        "Very satisfied": 204
+    },
+    "CÃ´te d'Ivoire": {
+        "Neither satisfied nor dissatisfied": 6,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 17,
+        "Very dissatisfied": 1,
+        "Very satisfied": 2
+    },
+    "Democratic People's Republic of Korea": {
+        "Slightly satisfied": 1,
+        "Very dissatisfied": 2
+    },
+    "Democratic Republic of the Congo": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Very satisfied": 1
+    },
+    "Denmark": {
+        "Neither satisfied nor dissatisfied": 45,
+        "Slightly dissatisfied": 62,
+        "Slightly satisfied": 169,
+        "Very dissatisfied": 30,
+        "Very satisfied": 196
+    },
+    "Djibouti": {
+        "Very dissatisfied": 1
+    },
+    "Dominican Republic": {
+        "Neither satisfied nor dissatisfied": 18,
+        "Slightly dissatisfied": 20,
+        "Slightly satisfied": 26,
+        "Very dissatisfied": 5,
+        "Very satisfied": 9
+    },
+    "Ecuador": {
+        "Neither satisfied nor dissatisfied": 13,
+        "Slightly dissatisfied": 13,
+        "Slightly satisfied": 19,
+        "Very dissatisfied": 12,
+        "Very satisfied": 13
+    },
+    "Egypt": {
+        "Neither satisfied nor dissatisfied": 22,
+        "Slightly dissatisfied": 38,
+        "Slightly satisfied": 65,
+        "Very dissatisfied": 16,
+        "Very satisfied": 48
+    },
+    "El Salvador": {
+        "Neither satisfied nor dissatisfied": 9,
+        "Slightly dissatisfied": 11,
+        "Slightly satisfied": 14,
+        "Very dissatisfied": 7,
+        "Very satisfied": 14
+    },
+    "Estonia": {
+        "Neither satisfied nor dissatisfied": 12,
+        "Slightly dissatisfied": 30,
+        "Slightly satisfied": 61,
+        "Very dissatisfied": 3,
+        "Very satisfied": 62
+    },
+    "Ethiopia": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 4,
+        "Slightly satisfied": 13,
+        "Very dissatisfied": 3,
+        "Very satisfied": 10
+    },
+    "Fiji": {
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 1,
+        "Very dissatisfied": 1,
+        "Very satisfied": 2
+    },
+    "Finland": {
+        "Neither satisfied nor dissatisfied": 34,
+        "Slightly dissatisfied": 56,
+        "Slightly satisfied": 162,
+        "Very dissatisfied": 26,
+        "Very satisfied": 175
+    },
+    "France": {
+        "Neither satisfied nor dissatisfied": 231,
+        "Slightly dissatisfied": 309,
+        "Slightly satisfied": 670,
+        "Very dissatisfied": 132,
+        "Very satisfied": 584
+    },
+    "Gabon": {
+        "Slightly satisfied": 1,
+        "Very dissatisfied": 1
+    },
+    "Georgia": {
+        "Neither satisfied nor dissatisfied": 11,
+        "Slightly dissatisfied": 7,
+        "Slightly satisfied": 22,
+        "Very dissatisfied": 6,
+        "Very satisfied": 16
+    },
+    "Germany": {
+        "Neither satisfied nor dissatisfied": 523,
+        "Slightly dissatisfied": 669,
+        "Slightly satisfied": 1779,
+        "Very dissatisfied": 320,
+        "Very satisfied": 1444
+    },
+    "Ghana": {
+        "Neither satisfied nor dissatisfied": 7,
+        "Slightly dissatisfied": 10,
+        "Slightly satisfied": 11,
+        "Very dissatisfied": 9,
+        "Very satisfied": 12
+    },
+    "Greece": {
+        "Neither satisfied nor dissatisfied": 47,
+        "Slightly dissatisfied": 66,
+        "Slightly satisfied": 135,
+        "Very dissatisfied": 34,
+        "Very satisfied": 108
+    },
+    "Guatemala": {
+        "Neither satisfied nor dissatisfied": 6,
+        "Slightly dissatisfied": 11,
+        "Slightly satisfied": 18,
+        "Very dissatisfied": 2,
+        "Very satisfied": 17
+    },
+    "Guinea": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Very dissatisfied": 1
+    },
+    "Guyana": {
+        "Very satisfied": 1
+    },
+    "Haiti": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 1,
+        "Very satisfied": 1
+    },
+    "Honduras": {
+        "Neither satisfied nor dissatisfied": 2,
+        "Slightly dissatisfied": 2,
+        "Slightly satisfied": 7,
+        "Very dissatisfied": 3,
+        "Very satisfied": 5
+    },
+    "Hong Kong (S.A.R.)": {
+        "Neither satisfied nor dissatisfied": 22,
+        "Slightly dissatisfied": 29,
+        "Slightly satisfied": 54,
+        "Very dissatisfied": 12,
+        "Very satisfied": 30
+    },
+    "Hungary": {
+        "Neither satisfied nor dissatisfied": 56,
+        "Slightly dissatisfied": 73,
+        "Slightly satisfied": 147,
+        "Very dissatisfied": 20,
+        "Very satisfied": 120
+    },
+    "Iceland": {
+        "Neither satisfied nor dissatisfied": 5,
+        "Slightly dissatisfied": 3,
+        "Slightly satisfied": 14,
+        "Very satisfied": 14
+    },
+    "India": {
+        "Neither satisfied nor dissatisfied": 1272,
+        "Slightly dissatisfied": 1200,
+        "Slightly satisfied": 2301,
+        "Very dissatisfied": 549,
+        "Very satisfied": 1487
+    },
+    "Indonesia": {
+        "Neither satisfied nor dissatisfied": 78,
+        "Slightly dissatisfied": 66,
+        "Slightly satisfied": 112,
+        "Very dissatisfied": 20,
+        "Very satisfied": 65
+    },
+    "Iran": {
+        "Neither satisfied nor dissatisfied": 89,
+        "Slightly dissatisfied": 114,
+        "Slightly satisfied": 197,
+        "Very dissatisfied": 64,
+        "Very satisfied": 101
+    },
+    "Iraq": {
+        "Neither satisfied nor dissatisfied": 5,
+        "Slightly dissatisfied": 5,
+        "Slightly satisfied": 4,
+        "Very dissatisfied": 3,
+        "Very satisfied": 5
+    },
+    "Ireland": {
+        "Neither satisfied nor dissatisfied": 55,
+        "Slightly dissatisfied": 78,
+        "Slightly satisfied": 134,
+        "Very dissatisfied": 32,
+        "Very satisfied": 121
+    },
+    "Israel": {
+        "Neither satisfied nor dissatisfied": 76,
+        "Slightly dissatisfied": 108,
+        "Slightly satisfied": 267,
+        "Very dissatisfied": 62,
+        "Very satisfied": 292
+    },
+    "Italy": {
+        "Neither satisfied nor dissatisfied": 162,
+        "Slightly dissatisfied": 245,
+        "Slightly satisfied": 476,
+        "Very dissatisfied": 102,
+        "Very satisfied": 239
+    },
+    "Jamaica": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 6,
+        "Very dissatisfied": 2,
+        "Very satisfied": 3
+    },
+    "Japan": {
+        "Neither satisfied nor dissatisfied": 66,
+        "Slightly dissatisfied": 63,
+        "Slightly satisfied": 106,
+        "Very dissatisfied": 31,
+        "Very satisfied": 73
+    },
+    "Jordan": {
+        "Neither satisfied nor dissatisfied": 7,
+        "Slightly dissatisfied": 8,
+        "Slightly satisfied": 19,
+        "Very dissatisfied": 6,
+        "Very satisfied": 9
+    },
+    "Kazakhstan": {
+        "Neither satisfied nor dissatisfied": 9,
+        "Slightly dissatisfied": 12,
+        "Slightly satisfied": 21,
+        "Very satisfied": 8
+    },
+    "Kenya": {
+        "Neither satisfied nor dissatisfied": 19,
+        "Slightly dissatisfied": 23,
+        "Slightly satisfied": 47,
+        "Very dissatisfied": 12,
+        "Very satisfied": 36
+    },
+    "Kuwait": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 5,
+        "Slightly satisfied": 4
+    },
+    "Kyrgyzstan": {
+        "Neither satisfied nor dissatisfied": 2,
+        "Slightly dissatisfied": 2,
+        "Slightly satisfied": 9,
+        "Very dissatisfied": 1,
+        "Very satisfied": 2
+    },
+    "Lao People's Democratic Republic": {
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 1,
+        "Very dissatisfied": 1
+    },
+    "Latvia": {
+        "Neither satisfied nor dissatisfied": 18,
+        "Slightly dissatisfied": 26,
+        "Slightly satisfied": 42,
+        "Very dissatisfied": 7,
+        "Very satisfied": 26
+    },
+    "Lebanon": {
+        "Neither satisfied nor dissatisfied": 10,
+        "Slightly dissatisfied": 10,
+        "Slightly satisfied": 35,
+        "Very dissatisfied": 10,
+        "Very satisfied": 25
+    },
+    "Lesotho": {
+        "Slightly dissatisfied": 1
+    },
+    "Libyan Arab Jamahiriya": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Very dissatisfied": 2,
+        "Very satisfied": 2
+    },
+    "Liechtenstein": {
+        "Slightly dissatisfied": 1,
+        "Very satisfied": 1
+    },
+    "Lithuania": {
+        "Neither satisfied nor dissatisfied": 27,
+        "Slightly dissatisfied": 36,
+        "Slightly satisfied": 80,
+        "Very dissatisfied": 7,
+        "Very satisfied": 53
+    },
+    "Luxembourg": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Slightly dissatisfied": 11,
+        "Slightly satisfied": 20,
+        "Very dissatisfied": 6,
+        "Very satisfied": 16
+    },
+    "Madagascar": {
+        "Neither satisfied nor dissatisfied": 2,
+        "Slightly dissatisfied": 2,
+        "Slightly satisfied": 4,
+        "Very satisfied": 1
+    },
+    "Malawi": {
+        "Slightly dissatisfied": 1
+    },
+    "Malaysia": {
+        "Neither satisfied nor dissatisfied": 40,
+        "Slightly dissatisfied": 53,
+        "Slightly satisfied": 79,
+        "Very dissatisfied": 12,
+        "Very satisfied": 31
+    },
+    "Maldives": {
+        "Neither satisfied nor dissatisfied": 2,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 4,
+        "Very satisfied": 1
+    },
+    "Mali": {
+        "Slightly satisfied": 2
+    },
+    "Malta": {
+        "Neither satisfied nor dissatisfied": 8,
+        "Slightly dissatisfied": 5,
+        "Slightly satisfied": 19,
+        "Very dissatisfied": 2,
+        "Very satisfied": 20
+    },
+    "Mauritania": {
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 1,
+        "Very satisfied": 1
+    },
+    "Mauritius": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Slightly dissatisfied": 4,
+        "Slightly satisfied": 9,
+        "Very dissatisfied": 2,
+        "Very satisfied": 3
+    },
+    "Mexico": {
+        "Neither satisfied nor dissatisfied": 69,
+        "Slightly dissatisfied": 97,
+        "Slightly satisfied": 168,
+        "Very dissatisfied": 64,
+        "Very satisfied": 129
+    },
+    "Monaco": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly dissatisfied": 1,
+        "Very satisfied": 1
+    },
+    "Mongolia": {
+        "Neither satisfied nor dissatisfied": 6,
+        "Slightly satisfied": 3,
+        "Very dissatisfied": 1,
+        "Very satisfied": 2
+    },
+    "Montenegro": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Slightly satisfied": 5,
+        "Very dissatisfied": 1,
+        "Very satisfied": 6
+    },
+    "Morocco": {
+        "Neither satisfied nor dissatisfied": 21,
+        "Slightly dissatisfied": 10,
+        "Slightly satisfied": 18,
+        "Very dissatisfied": 14,
+        "Very satisfied": 13
+    },
+    "Mozambique": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly satisfied": 4,
+        "Very satisfied": 1
+    },
+    "Myanmar": {
+        "Neither satisfied nor dissatisfied": 9,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 9,
+        "Very dissatisfied": 3,
+        "Very satisfied": 10
+    },
+    "Nepal": {
+        "Neither satisfied nor dissatisfied": 42,
+        "Slightly dissatisfied": 31,
+        "Slightly satisfied": 41,
+        "Very dissatisfied": 9,
+        "Very satisfied": 20
+    },
+    "Netherlands": {
+        "Neither satisfied nor dissatisfied": 138,
+        "Slightly dissatisfied": 167,
+        "Slightly satisfied": 518,
+        "Very dissatisfied": 87,
+        "Very satisfied": 592
+    },
+    "New Zealand": {
+        "Neither satisfied nor dissatisfied": 50,
+        "Slightly dissatisfied": 58,
+        "Slightly satisfied": 145,
+        "Very dissatisfied": 34,
+        "Very satisfied": 144
+    },
+    "Nicaragua": {
+        "Neither satisfied nor dissatisfied": 5,
+        "Slightly dissatisfied": 8,
+        "Slightly satisfied": 4,
+        "Very dissatisfied": 1,
+        "Very satisfied": 5
+    },
+    "Nigeria": {
+        "Neither satisfied nor dissatisfied": 51,
+        "Slightly dissatisfied": 41,
+        "Slightly satisfied": 107,
+        "Very dissatisfied": 22,
+        "Very satisfied": 54
+    },
+    "Norway": {
+        "Neither satisfied nor dissatisfied": 48,
+        "Slightly dissatisfied": 49,
+        "Slightly satisfied": 149,
+        "Very dissatisfied": 16,
+        "Very satisfied": 214
+    },
+    "Oman": {
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 2,
+        "Very satisfied": 1
+    },
+    "Other Country (Not Listed Above)": {
+        "Neither satisfied nor dissatisfied": 9,
+        "Slightly dissatisfied": 16,
+        "Slightly satisfied": 30,
+        "Very dissatisfied": 11,
+        "Very satisfied": 23
+    },
+    "Pakistan": {
+        "Neither satisfied nor dissatisfied": 85,
+        "Slightly dissatisfied": 83,
+        "Slightly satisfied": 235,
+        "Very dissatisfied": 55,
+        "Very satisfied": 162
+    },
+    "Panama": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly dissatisfied": 4,
+        "Slightly satisfied": 9,
+        "Very dissatisfied": 5,
+        "Very satisfied": 8
+    },
+    "Paraguay": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Slightly dissatisfied": 10,
+        "Slightly satisfied": 15,
+        "Very dissatisfied": 5,
+        "Very satisfied": 12
+    },
+    "Peru": {
+        "Neither satisfied nor dissatisfied": 17,
+        "Slightly dissatisfied": 17,
+        "Slightly satisfied": 39,
+        "Very dissatisfied": 9,
+        "Very satisfied": 17
+    },
+    "Philippines": {
+        "Neither satisfied nor dissatisfied": 44,
+        "Slightly dissatisfied": 44,
+        "Slightly satisfied": 88,
+        "Very dissatisfied": 17,
+        "Very satisfied": 64
+    },
+    "Poland": {
+        "Neither satisfied nor dissatisfied": 203,
+        "Slightly dissatisfied": 241,
+        "Slightly satisfied": 592,
+        "Very dissatisfied": 111,
+        "Very satisfied": 451
+    },
+    "Portugal": {
+        "Neither satisfied nor dissatisfied": 46,
+        "Slightly dissatisfied": 83,
+        "Slightly satisfied": 136,
+        "Very dissatisfied": 37,
+        "Very satisfied": 124
+    },
+    "Qatar": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Slightly dissatisfied": 3,
+        "Slightly satisfied": 2,
+        "Very satisfied": 5
+    },
+    "Republic of Korea": {
+        "Neither satisfied nor dissatisfied": 9,
+        "Slightly dissatisfied": 3,
+        "Slightly satisfied": 5,
+        "Very satisfied": 7
+    },
+    "Republic of Moldova": {
+        "Neither satisfied nor dissatisfied": 9,
+        "Slightly dissatisfied": 7,
+        "Slightly satisfied": 12,
+        "Very dissatisfied": 2,
+        "Very satisfied": 9
+    },
+    "Romania": {
+        "Neither satisfied nor dissatisfied": 73,
+        "Slightly dissatisfied": 115,
+        "Slightly satisfied": 224,
+        "Very dissatisfied": 42,
+        "Very satisfied": 143
+    },
+    "Russian Federation": {
+        "Neither satisfied nor dissatisfied": 198,
+        "Slightly dissatisfied": 281,
+        "Slightly satisfied": 551,
+        "Very dissatisfied": 75,
+        "Very satisfied": 316
+    },
+    "Rwanda": {
+        "Slightly satisfied": 4,
+        "Very dissatisfied": 1,
+        "Very satisfied": 3
+    },
+    "Saint Vincent and the Grenadines": {
+        "Slightly dissatisfied": 1
+    },
+    "San Marino": {
+        "Slightly dissatisfied": 1,
+        "Very satisfied": 1
+    },
+    "Saudi Arabia": {
+        "Neither satisfied nor dissatisfied": 8,
+        "Slightly dissatisfied": 10,
+        "Slightly satisfied": 20,
+        "Very dissatisfied": 18,
+        "Very satisfied": 13
+    },
+    "Senegal": {
+        "Neither satisfied nor dissatisfied": 2,
+        "Slightly dissatisfied": 3,
+        "Slightly satisfied": 7,
+        "Very satisfied": 3
+    },
+    "Serbia": {
+        "Neither satisfied nor dissatisfied": 41,
+        "Slightly dissatisfied": 40,
+        "Slightly satisfied": 112,
+        "Very dissatisfied": 21,
+        "Very satisfied": 85
+    },
+    "Seychelles": {
+        "Slightly satisfied": 1
+    },
+    "Sierra Leone": {
+        "Slightly satisfied": 1
+    },
+    "Singapore": {
+        "Neither satisfied nor dissatisfied": 35,
+        "Slightly dissatisfied": 39,
+        "Slightly satisfied": 108,
+        "Very dissatisfied": 10,
+        "Very satisfied": 46
+    },
+    "Slovakia": {
+        "Neither satisfied nor dissatisfied": 26,
+        "Slightly dissatisfied": 25,
+        "Slightly satisfied": 73,
+        "Very dissatisfied": 7,
+        "Very satisfied": 54
+    },
+    "Slovenia": {
+        "Neither satisfied nor dissatisfied": 28,
+        "Slightly dissatisfied": 31,
+        "Slightly satisfied": 96,
+        "Very dissatisfied": 13,
+        "Very satisfied": 80
+    },
+    "Somalia": {
+        "Slightly dissatisfied": 2,
+        "Very dissatisfied": 1,
+        "Very satisfied": 5
+    },
+    "South Africa": {
+        "Neither satisfied nor dissatisfied": 67,
+        "Slightly dissatisfied": 72,
+        "Slightly satisfied": 181,
+        "Very dissatisfied": 45,
+        "Very satisfied": 155
+    },
+    "South Korea": {
+        "Neither satisfied nor dissatisfied": 25,
+        "Slightly dissatisfied": 15,
+        "Slightly satisfied": 35,
+        "Very dissatisfied": 6,
+        "Very satisfied": 27
+    },
+    "Spain": {
+        "Neither satisfied nor dissatisfied": 171,
+        "Slightly dissatisfied": 243,
+        "Slightly satisfied": 482,
+        "Very dissatisfied": 140,
+        "Very satisfied": 358
+    },
+    "Sri Lanka": {
+        "Neither satisfied nor dissatisfied": 43,
+        "Slightly dissatisfied": 32,
+        "Slightly satisfied": 83,
+        "Very dissatisfied": 21,
+        "Very satisfied": 62
+    },
+    "Sudan": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 6,
+        "Slightly satisfied": 2,
+        "Very dissatisfied": 1,
+        "Very satisfied": 6
+    },
+    "Swaziland": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 1,
+        "Very dissatisfied": 1,
+        "Very satisfied": 1
+    },
+    "Sweden": {
+        "Neither satisfied nor dissatisfied": 110,
+        "Slightly dissatisfied": 119,
+        "Slightly satisfied": 369,
+        "Very dissatisfied": 50,
+        "Very satisfied": 409
+    },
+    "Switzerland": {
+        "Neither satisfied nor dissatisfied": 85,
+        "Slightly dissatisfied": 119,
+        "Slightly satisfied": 259,
+        "Very dissatisfied": 58,
+        "Very satisfied": 290
+    },
+    "Syrian Arab Republic": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Slightly dissatisfied": 8,
+        "Slightly satisfied": 4,
+        "Very dissatisfied": 2,
+        "Very satisfied": 1
+    },
+    "Taiwan": {
+        "Neither satisfied nor dissatisfied": 20,
+        "Slightly dissatisfied": 33,
+        "Slightly satisfied": 50,
+        "Very dissatisfied": 16,
+        "Very satisfied": 18
+    },
+    "Tajikistan": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 1,
+        "Very satisfied": 2
+    },
+    "Thailand": {
+        "Neither satisfied nor dissatisfied": 26,
+        "Slightly dissatisfied": 27,
+        "Slightly satisfied": 51,
+        "Very dissatisfied": 9,
+        "Very satisfied": 40
+    },
+    "The former Yugoslav Republic of Macedonia": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 8,
+        "Slightly satisfied": 15,
+        "Very dissatisfied": 6,
+        "Very satisfied": 12
+    },
+    "Timor-Leste": {
+        "Very satisfied": 1
+    },
+    "Togo": {
+        "Neither satisfied nor dissatisfied": 2
+    },
+    "Trinidad and Tobago": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 2,
+        "Slightly satisfied": 1,
+        "Very satisfied": 3
+    },
+    "Tunisia": {
+        "Neither satisfied nor dissatisfied": 10,
+        "Slightly dissatisfied": 18,
+        "Slightly satisfied": 22,
+        "Very dissatisfied": 12,
+        "Very satisfied": 9
+    },
+    "Turkey": {
+        "Neither satisfied nor dissatisfied": 150,
+        "Slightly dissatisfied": 132,
+        "Slightly satisfied": 240,
+        "Very dissatisfied": 61,
+        "Very satisfied": 102
+    },
+    "Turkmenistan": {
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 4
+    },
+    "Uganda": {
+        "Neither satisfied nor dissatisfied": 5,
+        "Slightly dissatisfied": 11,
+        "Slightly satisfied": 29,
+        "Very dissatisfied": 3,
+        "Very satisfied": 7
+    },
+    "Ukraine": {
+        "Neither satisfied nor dissatisfied": 128,
+        "Slightly dissatisfied": 101,
+        "Slightly satisfied": 272,
+        "Very dissatisfied": 38,
+        "Very satisfied": 182
+    },
+    "United Arab Emirates": {
+        "Neither satisfied nor dissatisfied": 17,
+        "Slightly dissatisfied": 20,
+        "Slightly satisfied": 47,
+        "Very dissatisfied": 11,
+        "Very satisfied": 25
+    },
+    "United Kingdom": {
+        "Neither satisfied nor dissatisfied": 514,
+        "Slightly dissatisfied": 700,
+        "Slightly satisfied": 1656,
+        "Very dissatisfied": 286,
+        "Very satisfied": 1711
+    },
+    "United Republic of Tanzania": {
+        "Neither satisfied nor dissatisfied": 5,
+        "Slightly dissatisfied": 5,
+        "Slightly satisfied": 8,
+        "Very satisfied": 6
+    },
+    "United States": {
+        "Neither satisfied nor dissatisfied": 1524,
+        "Slightly dissatisfied": 2266,
+        "Slightly satisfied": 5578,
+        "Very dissatisfied": 1030,
+        "Very satisfied": 7197
+    },
+    "Uruguay": {
+        "Neither satisfied nor dissatisfied": 10,
+        "Slightly dissatisfied": 16,
+        "Slightly satisfied": 35,
+        "Very dissatisfied": 6,
+        "Very satisfied": 34
+    },
+    "Uzbekistan": {
+        "Neither satisfied nor dissatisfied": 2,
+        "Slightly dissatisfied": 6,
+        "Slightly satisfied": 10,
+        "Very dissatisfied": 1,
+        "Very satisfied": 9
+    },
+    "Venezuela, Bolivarian Republic of...": {
+        "Neither satisfied nor dissatisfied": 11,
+        "Slightly dissatisfied": 10,
+        "Slightly satisfied": 20,
+        "Very dissatisfied": 9,
+        "Very satisfied": 13
+    },
+    "Viet Nam": {
+        "Neither satisfied nor dissatisfied": 26,
+        "Slightly dissatisfied": 35,
+        "Slightly satisfied": 51,
+        "Very dissatisfied": 10,
+        "Very satisfied": 20
+    },
+    "Yemen": {
+        "Neither satisfied nor dissatisfied": 1,
+        "Slightly dissatisfied": 3,
+        "Slightly satisfied": 2,
+        "Very satisfied": 2
+    },
+    "Zambia": {
+        "Neither satisfied nor dissatisfied": 3,
+        "Slightly dissatisfied": 1,
+        "Slightly satisfied": 3,
+        "Very satisfied": 2
+    },
+    "Zimbabwe": {
+        "Neither satisfied nor dissatisfied": 4,
+        "Slightly dissatisfied": 4,
+        "Slightly satisfied": 5,
+        "Very dissatisfied": 6,
+        "Very satisfied": 2
+    }
+}

@@ -269,7 +269,7 @@ const WorldMap = ({width, height, year, salaries, extraData}) => {
 
                     <g>
                         <rect x="10" y="240" width="40" height="40" fill="black"></rect>
-                        <text x="60" y="260" fill="black">Not provided</text>
+                        <text x="60" y="260" fill="black">Income data not provided</text>
                     </g>
                 </svg>
 

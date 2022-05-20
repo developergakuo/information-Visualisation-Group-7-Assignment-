@@ -1,5 +1,5 @@
-Instructions to run the visualisation react application 
-dependencies - React.js, Node (npm) (You might need to install these dependencies)
+# Instructions to run the visualisation react application 
+### dependencies - React.js, Node (npm) (You might need to install these dependencies)
 
 1. clone this repository 
 2. add the directory `processed_data` to the directory `stack-overflow-visualisation-group-7/public` : data can be found here -> https://drive.google.com/drive/folders/15S9O6Qa269QagjIi_4ECM-KyTe5EF5tj?usp=sharing

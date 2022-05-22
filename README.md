@@ -2,7 +2,7 @@
 ### dependencies - React.js, Node (npm) (You might need to install these dependencies)
 
 1. clone this repository 
-2. add the directory `processed_data` to the directory `stack-overflow-visualisation-group-7/public` : data can be found here -> https://drive.google.com/drive/folders/15S9O6Qa269QagjIi_4ECM-KyTe5EF5tj?usp=sharing
+2. add the directory `processed_data` to the directory `stack-overflow-visualisation-group-7/public` : data can be found here -> https://drive.google.com/drive/folders/17EQ7-X4q0AdlGbVCEioOJdesgjvcyEVF?usp=sharing
 3. start a console from the directory `stack-overflow-visualisation-group-7`
 4. run the command `npm install` to install all the node modules for the app 
 5. run the command `npm start` to start the app (This opens the browser with the app running on there)

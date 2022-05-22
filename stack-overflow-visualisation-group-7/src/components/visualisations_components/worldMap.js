@@ -1,6 +1,7 @@
 import * as d3 from "d3";
 import React, { useState } from "react";
 import * as topojson from "topojson";
+import MissingVisaulisationWrapper from "../ui_components/missingVisualisationWrapper/missingVisualisationWrapper";
 import Modal from "../ui_components/modal/modal";
 import AgeVisualisation from "./ageVisualisation";
 import EducationVsExperience from "./educationVsIncome";
@@ -30,7 +31,6 @@ const WorldMap = ({width, height, year, salaries, extraData}) => {
         const [countryName, setCountryName] = useState('')
 
         const closeModalHandler  = () => {
-            console.log("closing modal")
             setModalStatus(false)
         }
 
@@ -135,8 +135,12 @@ const WorldMap = ({width, height, year, salaries, extraData}) => {
                         />)
                      } else{
                         visualisationcomponents.push(
-                            <p key="languages" > There is no languages data for {countryName} </p> )
-                     }
+                            <MissingVisaulisationWrapper
+                                key="languages" 
+                                title = {`There is no languages data for ${countryName}`}
+                             />) 
+                    }
+                   
                    }
                    if(extraData.loadExperienceVsIncome){
                         visualisationcomponents.push(
@@ -162,8 +166,12 @@ const WorldMap = ({width, height, year, salaries, extraData}) => {
                                     data={ageData} 
                             />)
                         }else{
+
                             visualisationcomponents.push(
-                                <p key="languages" > There is no age data for {countryName} </p> )
+                                <MissingVisaulisationWrapper
+                                    key="age" 
+                                    title = {`There is no age data for ${countryName}`}
+                                 />) 
                         }
                     }
                     if (extraData.satisfactionData != null ){
@@ -172,12 +180,15 @@ const WorldMap = ({width, height, year, salaries, extraData}) => {
                         if(satisfactionData!== undefined){
                             visualisationcomponents.push(
                                 <SatisfactionVisualisation 
-                                    key="age" 
+                                    key="satisfaction" 
                                     countrySatisfactionObj={satisfactionData} 
                             />)
                         }else{
                             visualisationcomponents.push(
-                                <p key="languages" > There is no satisfaction data for {countryName} </p> )
+                                <MissingVisaulisationWrapper
+                                    key="satisfaction" 
+                                    title = {`There is no satisfaction data for ${countryName}`}
+                                 />) 
                         }
                     }
                     
@@ -241,36 +252,37 @@ const WorldMap = ({width, height, year, salaries, extraData}) => {
 
             <svg ref={svg} width={width} height={height}  > 
                 <svg id='legend'>
-                    <g>
-                        <rect x="10" y="0" width="40" height="40" fill="#edf8fb"></rect>
-                        <text x="60" y="20" fill="black">Less than € 1,000</text>
+
+                <g>
+                        <rect x="10" y="0" width="40" height="40" fill="black"></rect>
+                        <text x="60" y="20" fill="black">Income data not provided</text>
                     </g>
                     <g>
-                        <rect x="10" y="40" width="40" height="40" fill="#ccece6"></rect>
-                        <text x="60" y="60" fill="black">€ 1,000 - € 2,000 </text>
+                        <rect x="10" y="40" width="40" height="40" fill="#edf8fb"></rect>
+                        <text x="60" y="60" fill="black">Less than € 1,000</text>
                     </g>
                     <g>
-                        <rect x="10" y="80" width="40" height="40" fill="#99d8c9"></rect>
-                        <text x="60" y="100" fill="black">€ 2,000 to € 3,000 </text>
+                        <rect x="10" y="80" width="40" height="40" fill="#ccece6"></rect>
+                        <text x="60" y="100" fill="black">€ 1,000 - € 2,000 </text>
                     </g>
                     <g>
-                        <rect x="10" y="120" width="40" height="40" fill="#66c2a4"></rect>
-                        <text x="60" y="140" fill="black">€ 3,000 to € 4,000 </text>
+                        <rect x="10" y="120" width="40" height="40" fill="#99d8c9"></rect>
+                        <text x="60" y="140" fill="black">€ 2,000 to € 3,000 </text>
                     </g>
                     <g>
-                        <rect x="10" y="160" width="40" height="40" fill="#2ca25f"></rect>
-                        <text x="60" y="180" fill="black">€ 4,000 to € 5,000 </text>
+                        <rect x="10" y="160" width="40" height="40" fill="#66c2a4"></rect>
+                        <text x="60" y="180" fill="black">€ 3,000 to € 4,000 </text>
+                    </g>
+                    <g>
+                        <rect x="10" y="200" width="40" height="40" fill="#2ca25f"></rect>
+                        <text x="60" y="220" fill="black">€ 4,000 to € 5,000 </text>
                     </g>
 
                     <g>
-                        <rect x="10" y="200" width="40" height="40" fill="#006d2c"></rect>
-                        <text x="60" y="220" fill="black">more than € 5,000</text>
+                        <rect x="10" y="240" width="40" height="40" fill="#006d2c"></rect>
+                        <text x="60" y="260" fill="black">more than € 5,000</text>
                     </g>
 
-                    <g>
-                        <rect x="10" y="240" width="40" height="40" fill="black"></rect>
-                        <text x="60" y="260" fill="black">Income data not provided</text>
-                    </g>
                 </svg>
 
                 <text x="500" y={height-20} fill="black" fontWeight="1000" fontSize="14"> Hover over country to see exact average income</text>

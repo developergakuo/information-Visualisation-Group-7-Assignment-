@@ -1,8 +1,8 @@
 import React from 'react';
 
-const VisaulisationWrapper = (props) => {
+const MissingVisaulisationWrapper = (props) => {
   return (
-        <div className ='VisaulisationWrapper'>
+        <div className ='missingVisaulisationWrapper'>
           <h2>{props.title}</h2>
           
           {props.subTitle && <h5>({props.subTitle})</h5>}
@@ -11,4 +11,4 @@ const VisaulisationWrapper = (props) => {
   );
 };
 
-export default VisaulisationWrapper;
+export default MissingVisaulisationWrapper;

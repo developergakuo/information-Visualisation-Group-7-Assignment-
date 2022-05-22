@@ -9,56 +9,59 @@ const AgeVisualisation = ({data}) => {
  
 
     React.useEffect(() =>{
-        var margin = {top: 5, right: 30, bottom: 30, left: 60},
+        var margin = {top: 5, right: 30, bottom: 30, left: 100},
         width = 700 - margin.left - margin.right,
-        height = 700 - margin.top - margin.bottom;
+        height = 500 - margin.top - margin.bottom;
         const svg = d3.select(ref.current)
 
         svg
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         
-        
-          const graph = svg.append("g")
+        const graph = svg.append("g")
           .attr("transform", "translate(" + margin.left + "," + margin.top + ")"); 
 
         // create axes groups
         const xAxisGroup = graph.append('g')
-        .attr('transform', `translate(0, ${height - 50})`)
+        .attr('transform', `translate(0, ${height - 100})`)
         .attr('class', 'axis')
 
 
         const yAxisGroup = graph.append('g')
         .attr('class', 'axis')
 
-        const y = d3.scaleLinear()
-            .domain([0, d3.max(Object.values(data)) + 10])
-            .range([height - 50 , 0]);
 
-
+        const maxYaxis = d3.max(Object.values(data))
         
+        let suitableTicks
+        if (maxYaxis < 10){
+            suitableTicks = maxYaxis
+        }
+
+        const y = d3.scaleLinear()
+            .domain([0, maxYaxis + 10])
+            .range([height - 100 , 0]);
+
         const sortedXDomin =   [
-                'Under 18 years old',
-                '18-24 years old',
-                '25-34 years old',
-                '35-44 years old',
-                '45-54 years old',
-                '55-64 years old',
-                '65 years or older',
-                'Prefer not to say',
-                ]
+            'Under 18 years old',
+            '18 - 24 years old', 
+            '25 - 34 years old', 
+            '35 - 44 years old', 
+            '45 - 54 years old', 
+            '55 - 64 years old', 
+            '65 years or older',
+            'Prefer not to say',
+            ]
 
         const sortXDomain = (arr) => {
             let zip = arr.map(element => {
                 return [element,sortedXDomin.indexOf(element)]
             });
-
+            
             let sortedZip = zip.sort((a,b) =>  a[1] - b[1] )
             return sortedZip.map(a=> a[0])
 
         }
-
-        console.log('sorted', sortXDomain(Object.keys(data)))
         const x = d3.scaleBand()
             .domain(sortXDomain(Object.keys(data)))
             .range([0, width])
@@ -73,7 +76,7 @@ const AgeVisualisation = ({data}) => {
 
         // add attrs to circs already in the DOM
         rects.attr('width', x.bandwidth)
-        .attr("height", d => height - y(d[1]) - 50)
+        .attr("height", d => height - y(d[1]) )
         .attr('x', d => x(d[0]))
         .attr('y', d => y(d[1]))
        
@@ -92,8 +95,9 @@ const AgeVisualisation = ({data}) => {
         rects.enter()
         .append('rect')
             .attr('width', x.bandwidth)
-            .attr("height", d => height - y(d[1]) - 50)
-            .attr('x', d => x(d[0]))
+            .attr("height", d => height - y(d[1]) - 100)
+            .attr('x', d => {
+                return x(d[0])})
             .attr('y', d => y(d[1]))
             .attr('fill', 'black')
             //On mouseover
@@ -111,23 +115,18 @@ const AgeVisualisation = ({data}) => {
 
 
         //Create labels
-
-        var layer3 = svg.append('g');
-
-        var labels = layer3.selectAll(".labels")
+        var labels = graph.selectAll(".labels")
                      .data(rectsData)
 
-
            //add attributes to text on dom 
-           labels
-           
-            .attr("text-anchor", "middle")
+        labels
             .attr("x", function(d) {
-                return x(d[0]) + x.bandwidth() * 1.5 ;
+                return (x(d[0]) + x.bandwidth()/2 );
             })
+            .attr("dominant-baseline", "middle")
+            .attr("text-anchor", "middle")
             .attr("y", function(d) {
-                    console.log(d[1], )
-                    if ( (height - y(d[1])) > 60){
+                    if ( (height - y(d[1])) > 120){
                     return y(d[1]) + 10  
                     }
                     else{
@@ -135,71 +134,55 @@ const AgeVisualisation = ({data}) => {
                     }
             })
             .attr("font-family", "sans-serif")
-            .attr("font-size", "11px")
             .attr("fill", function(d) {
-                    if ( (height - y(d[1])) > 60){
+                    if ( (height - y(d[1])) > 100){
                     return "white"  
                     }
                     else{
                         return "black"
                     }
             })
-            .attr("class", "labels")
-            .attr('position', 'absolute')
-            .attr("dominant-baseline", "middle")
 
-            graph.append("g")
-                                .attr("transform", "translate("+ width/2 + "," + (height + 20) + ")")
-                                .append('text')
-                                .text("Age")
-
-             graph.append("g")
-                                .attr("transform", "translate("+ -50 + "," + height/2 + ")")
-                                .append('text')
-                                .attr("transform", "rotate(-90)")
-                                .text("Number of developers")
 
         //Enter…
         labels.enter()
             .append("text")
             .text(function(d) {
-                console.log((d[1]) )
                 return d[1];
             })
+            .attr("dominant-baseline", "middle")
             .attr("text-anchor", "middle")
             .attr("x", function(d) {
-                return x(d[0]) + x.bandwidth() * 1.5 ;
+
+                return (x(d[0]) + x.bandwidth()/2 );
             })
             .attr("y", function(d) {
-                console.log(d[1], height - y(d[1]) )
 
-                if ( (height - y(d[1])) > 60){
+                if ( (height - y(d[1])) > 120){
                     return y(d[1]) + 14 
                     }
                     else{
                         return y(d[1]) - 5
                     }
             })
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "11px")
-            .attr("class", "labels")
-            .attr('position', 'absolute')
             .attr("fill", function(d) {
-                if ( (height - y(d[1])) > 60){
+                if ( (height - y(d[1])) > 120){
                 return "white"  
                 }
                 else{
                     return "black"
                 }
              })
-            .attr("dominant-baseline", "middle")
 
 
         // create & call axesit
         const xAxis = d3.axisBottom(x);
         const yAxis = d3.axisLeft(y)
-       
 
+        if (suitableTicks){
+            yAxis.ticks(suitableTicks)
+        }
+       
         xAxisGroup.call(xAxis);
         yAxisGroup.call(yAxis);
 
@@ -207,6 +190,19 @@ const AgeVisualisation = ({data}) => {
         .attr('fill', 'white')
         .attr('transform', 'rotate(-40)')
         .attr('text-anchor', 'end')
+
+        graph.append("g")
+                                .attr("transform", "translate("+ width/2 + "," + (height ) + ")")
+                                .attr('class', 'axis-label')
+                                .append('text')
+                                .text("Age")
+
+        graph.append("g")
+                                .attr("transform", "translate("+ -70 + "," + height/2 + ")")
+                                .attr('class', 'axis-label')
+                                .append('text')
+                                .attr("transform", "rotate(-90)")
+                                .text("Number of developers")
 }, [data])
 
 return(

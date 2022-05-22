@@ -158,17 +158,36 @@ const SatisfactionVisualisation  = ({countrySatisfactionObj}) => {
             .attr("y", 40)
             .classed('title', true);*/
 
-
             g.append("g")
             .attr("transform", "translate("+ width/2 + "," + (height - 70) + ")")
+            .attr('class', 'axis-label')
             .append('text')
             .text("Satisfaction")
 
             g.append("g")
-            .attr("transform", "translate("+ 20 + "," + ( height/2 + 40) + ")")
+            .attr("transform", "translate("+ 20 + "," + ( height/2 + 10) + ")")
             .append('text')
             .attr("transform", "rotate(-90)")
-            .text("<------- Number of developers ------->")
+            .attr('class', 'axis-label')
+            .text("Number of developers")
+
+            var line = svg.append("line")
+            .attr("x2",  15) 
+            .attr("y2",( height/2 - 200))  
+            .attr("x1", 15)  
+            .attr("y1",( height/2 - 170))  
+            .attr("stroke","black")  
+            .attr("stroke-width",2)  
+            .attr("marker-end","url(#arrow)");
+            
+            var line = svg.append("line")
+            .attr("x1", (15 ))  
+            .attr("y1",( height/2 + 30))  
+            .attr("x2",  15)  
+            .attr("y2",( height/2 + 70))  
+            .attr("stroke","black")  
+            .attr("stroke-width",2)  
+            .attr("marker-end","url(#arrow)");
     }, [countrySatisfactionObj])
     
     return(

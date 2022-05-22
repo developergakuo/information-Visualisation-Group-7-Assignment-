@@ -107,9 +107,21 @@ g{
   margin-top: 10px;
 }
 
-.VisaulisationWrapper h2{
+.VisaulisationWrapper h2,h5{
   color: black;
   text-align: center;
+}
+.missingVisaulisationWrapper h2{
+  margin-top: 10px;
+  margin-left: 200px;
+}
+
+.missingVisaulisationWrapper{
+  color: black;
+  text-align: left;
+  border: gray;
+  border-style: solid;
+  background: #999;
 }
 
 #map-container  h4{
@@ -163,9 +175,16 @@ g{
 
 .axis text {
   fill: black !important;
+  font-size: medium;
 }
 .bar:hover,
 .bar:hover .language-name {
     fill: orange;
     font-weight: bold;
 }
+.axis-label{
+  font-size: large;
+  font-weight: bold;
+
+}
+

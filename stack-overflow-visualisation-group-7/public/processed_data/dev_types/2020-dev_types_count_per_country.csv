@@ -1,0 +1,2407 @@
+Country,DevType,DevCount
+Afghanistan,Academic researcher,11
+Afghanistan,Data Scientist/Engineer/Analyst,11
+Afghanistan,Database administrator,17
+Afghanistan,Designer,13
+Afghanistan,Desktop applications developer,14
+Afghanistan,DevOps specialist,6
+Afghanistan,Educator,7
+Afghanistan,Engineering manager,6
+Afghanistan,Game developer,6
+Afghanistan,Marketing or sales professional,3
+Afghanistan,Mobile developer,15
+Afghanistan,Product manager,6
+Afghanistan,Quality assurance engineer,6
+Afghanistan,Scientist,7
+Afghanistan,Senior executive,4
+Afghanistan,Site reliability engineer,4
+Afghanistan,System administrator,9
+Afghanistan,Web developer,34
+Albania,Academic researcher,4
+Albania,Data Scientist/Engineer/Analyst,6
+Albania,Database administrator,8
+Albania,Designer,7
+Albania,Desktop applications developer,11
+Albania,DevOps specialist,4
+Albania,Educator,5
+Albania,Engineering manager,1
+Albania,Game developer,3
+Albania,Marketing or sales professional,1
+Albania,Mobile developer,13
+Albania,Product manager,4
+Albania,Quality assurance engineer,7
+Albania,Scientist,1
+Albania,Senior executive,1
+Albania,Site reliability engineer,1
+Albania,System administrator,3
+Albania,Web developer,30
+Algeria,Academic researcher,5
+Algeria,Data Scientist/Engineer/Analyst,10
+Algeria,Database administrator,3
+Algeria,Designer,10
+Algeria,Desktop applications developer,21
+Algeria,DevOps specialist,2
+Algeria,Educator,6
+Algeria,Game developer,2
+Algeria,Mobile developer,17
+Algeria,Product manager,2
+Algeria,Quality assurance engineer,1
+Algeria,Scientist,1
+Algeria,Senior executive,1
+Algeria,Site reliability engineer,2
+Algeria,System administrator,5
+Algeria,Web developer,45
+Andorra,Academic researcher,2
+Andorra,Data Scientist/Engineer/Analyst,3
+Andorra,Database administrator,3
+Andorra,Designer,1
+Andorra,Desktop applications developer,3
+Andorra,DevOps specialist,2
+Andorra,Educator,1
+Andorra,Engineering manager,1
+Andorra,Game developer,2
+Andorra,Marketing or sales professional,1
+Andorra,Mobile developer,2
+Andorra,Product manager,1
+Andorra,Quality assurance engineer,1
+Andorra,Scientist,2
+Andorra,Senior executive,1
+Andorra,Site reliability engineer,1
+Andorra,System administrator,3
+Andorra,Web developer,3
+Angola,Educator,1
+Angola,Mobile developer,1
+Angola,System administrator,1
+Angola,Web developer,2
+Argentina,Academic researcher,27
+Argentina,Data Scientist/Engineer/Analyst,38
+Argentina,Database administrator,34
+Argentina,Designer,41
+Argentina,Desktop applications developer,103
+Argentina,DevOps specialist,33
+Argentina,Educator,40
+Argentina,Engineering manager,20
+Argentina,Game developer,23
+Argentina,Marketing or sales professional,3
+Argentina,Mobile developer,76
+Argentina,Product manager,13
+Argentina,Quality assurance engineer,28
+Argentina,Scientist,11
+Argentina,Senior executive,8
+Argentina,Site reliability engineer,10
+Argentina,System administrator,41
+Argentina,Web developer,286
+Armenia,Academic researcher,4
+Armenia,Data Scientist/Engineer/Analyst,8
+Armenia,Database administrator,2
+Armenia,Desktop applications developer,15
+Armenia,DevOps specialist,6
+Armenia,Educator,6
+Armenia,Engineering manager,1
+Armenia,Game developer,5
+Armenia,Mobile developer,14
+Armenia,Product manager,2
+Armenia,Quality assurance engineer,2
+Armenia,Scientist,1
+Armenia,Senior executive,2
+Armenia,Site reliability engineer,5
+Armenia,System administrator,2
+Armenia,Web developer,43
+Australia,Academic researcher,43
+Australia,Data Scientist/Engineer/Analyst,208
+Australia,Database administrator,139
+Australia,Designer,114
+Australia,Desktop applications developer,311
+Australia,DevOps specialist,140
+Australia,Educator,46
+Australia,Engineering manager,67
+Australia,Game developer,53
+Australia,Marketing or sales professional,19
+Australia,Mobile developer,163
+Australia,Product manager,57
+Australia,Quality assurance engineer,77
+Australia,Scientist,31
+Australia,Senior executive,33
+Australia,Site reliability engineer,43
+Australia,System administrator,117
+Australia,Web developer,815
+Austria,Academic researcher,38
+Austria,Data Scientist/Engineer/Analyst,64
+Austria,Database administrator,55
+Austria,Designer,45
+Austria,Desktop applications developer,153
+Austria,DevOps specialist,68
+Austria,Educator,33
+Austria,Engineering manager,19
+Austria,Game developer,32
+Austria,Marketing or sales professional,3
+Austria,Mobile developer,79
+Austria,Product manager,22
+Austria,Quality assurance engineer,39
+Austria,Scientist,27
+Austria,Senior executive,7
+Austria,Site reliability engineer,18
+Austria,System administrator,77
+Austria,Web developer,336
+Azerbaijan,Academic researcher,4
+Azerbaijan,Data Scientist/Engineer/Analyst,6
+Azerbaijan,Database administrator,2
+Azerbaijan,Designer,3
+Azerbaijan,Desktop applications developer,10
+Azerbaijan,DevOps specialist,2
+Azerbaijan,Educator,4
+Azerbaijan,Game developer,2
+Azerbaijan,Marketing or sales professional,2
+Azerbaijan,Mobile developer,10
+Azerbaijan,Product manager,2
+Azerbaijan,Quality assurance engineer,1
+Azerbaijan,Scientist,2
+Azerbaijan,Senior executive,2
+Azerbaijan,Site reliability engineer,1
+Azerbaijan,System administrator,3
+Azerbaijan,Web developer,32
+Bahamas,Database administrator,1
+Bahamas,Designer,1
+Bahamas,DevOps specialist,1
+Bahamas,Educator,1
+Bahamas,Mobile developer,1
+Bahamas,Senior executive,1
+Bahamas,System administrator,1
+Bahamas,Web developer,1
+Bahrain,Data Scientist/Engineer/Analyst,1
+Bahrain,Database administrator,1
+Bahrain,Designer,3
+Bahrain,Desktop applications developer,4
+Bahrain,Engineering manager,1
+Bahrain,Mobile developer,3
+Bahrain,Product manager,2
+Bahrain,Quality assurance engineer,1
+Bahrain,System administrator,1
+Bahrain,Web developer,5
+Bangladesh,Academic researcher,47
+Bangladesh,Data Scientist/Engineer/Analyst,68
+Bangladesh,Database administrator,46
+Bangladesh,Designer,70
+Bangladesh,Desktop applications developer,85
+Bangladesh,DevOps specialist,20
+Bangladesh,Educator,32
+Bangladesh,Engineering manager,22
+Bangladesh,Game developer,23
+Bangladesh,Marketing or sales professional,14
+Bangladesh,Mobile developer,98
+Bangladesh,Product manager,23
+Bangladesh,Quality assurance engineer,29
+Bangladesh,Scientist,15
+Bangladesh,Senior executive,9
+Bangladesh,Site reliability engineer,12
+Bangladesh,System administrator,23
+Bangladesh,Web developer,326
+Barbados,Data Scientist/Engineer/Analyst,2
+Barbados,Educator,1
+Barbados,System administrator,1
+Barbados,Web developer,2
+Belarus,Academic researcher,4
+Belarus,Data Scientist/Engineer/Analyst,13
+Belarus,Database administrator,7
+Belarus,Designer,5
+Belarus,Desktop applications developer,33
+Belarus,DevOps specialist,10
+Belarus,Educator,7
+Belarus,Engineering manager,2
+Belarus,Game developer,6
+Belarus,Marketing or sales professional,1
+Belarus,Mobile developer,14
+Belarus,Product manager,3
+Belarus,Quality assurance engineer,10
+Belarus,Scientist,5
+Belarus,Senior executive,1
+Belarus,Site reliability engineer,1
+Belarus,System administrator,4
+Belarus,Web developer,82
+Belgium,Academic researcher,23
+Belgium,Data Scientist/Engineer/Analyst,69
+Belgium,Database administrator,50
+Belgium,Designer,45
+Belgium,Desktop applications developer,136
+Belgium,DevOps specialist,53
+Belgium,Educator,19
+Belgium,Engineering manager,15
+Belgium,Game developer,20
+Belgium,Marketing or sales professional,9
+Belgium,Mobile developer,58
+Belgium,Product manager,21
+Belgium,Quality assurance engineer,35
+Belgium,Scientist,22
+Belgium,Senior executive,8
+Belgium,Site reliability engineer,7
+Belgium,System administrator,43
+Belgium,Web developer,314
+Belize,Database administrator,1
+Belize,Desktop applications developer,1
+Belize,Marketing or sales professional,1
+Belize,Quality assurance engineer,1
+Belize,System administrator,2
+Belize,Web developer,1
+Benin,Data Scientist/Engineer/Analyst,1
+Benin,Database administrator,3
+Benin,Designer,1
+Benin,Desktop applications developer,3
+Benin,Educator,1
+Benin,Mobile developer,4
+Benin,Scientist,1
+Benin,System administrator,2
+Benin,Web developer,6
+Bhutan,Data Scientist/Engineer/Analyst,1
+Bhutan,Designer,1
+Bhutan,Educator,1
+Bhutan,Game developer,1
+Bhutan,Mobile developer,3
+Bhutan,Web developer,5
+Bolivia,Academic researcher,11
+Bolivia,Data Scientist/Engineer/Analyst,3
+Bolivia,Database administrator,7
+Bolivia,Designer,5
+Bolivia,Desktop applications developer,11
+Bolivia,DevOps specialist,4
+Bolivia,Educator,5
+Bolivia,Engineering manager,3
+Bolivia,Game developer,8
+Bolivia,Mobile developer,13
+Bolivia,Product manager,2
+Bolivia,Quality assurance engineer,4
+Bolivia,Scientist,2
+Bolivia,System administrator,5
+Bolivia,Web developer,31
+Bosnia and Herzegovina,Academic researcher,5
+Bosnia and Herzegovina,Data Scientist/Engineer/Analyst,10
+Bosnia and Herzegovina,Database administrator,12
+Bosnia and Herzegovina,Designer,6
+Bosnia and Herzegovina,Desktop applications developer,26
+Bosnia and Herzegovina,DevOps specialist,7
+Bosnia and Herzegovina,Educator,3
+Bosnia and Herzegovina,Engineering manager,2
+Bosnia and Herzegovina,Game developer,2
+Bosnia and Herzegovina,Mobile developer,17
+Bosnia and Herzegovina,Product manager,3
+Bosnia and Herzegovina,Quality assurance engineer,3
+Bosnia and Herzegovina,Scientist,2
+Bosnia and Herzegovina,Senior executive,3
+Bosnia and Herzegovina,Site reliability engineer,3
+Bosnia and Herzegovina,System administrator,11
+Bosnia and Herzegovina,Web developer,60
+Botswana,Data Scientist/Engineer/Analyst,1
+Botswana,Database administrator,1
+Botswana,Designer,1
+Botswana,Desktop applications developer,3
+Botswana,Game developer,1
+Botswana,Mobile developer,3
+Botswana,Quality assurance engineer,1
+Botswana,System administrator,1
+Botswana,Web developer,4
+Brazil,Academic researcher,186
+Brazil,Data Scientist/Engineer/Analyst,262
+Brazil,Database administrator,143
+Brazil,Designer,122
+Brazil,Desktop applications developer,410
+Brazil,DevOps specialist,150
+Brazil,Educator,83
+Brazil,Engineering manager,62
+Brazil,Game developer,88
+Brazil,Marketing or sales professional,20
+Brazil,Mobile developer,368
+Brazil,Product manager,75
+Brazil,Quality assurance engineer,93
+Brazil,Scientist,84
+Brazil,Senior executive,31
+Brazil,Site reliability engineer,70
+Brazil,System administrator,165
+Brazil,Web developer,1264
+Brunei Darussalam,Academic researcher,1
+Brunei Darussalam,Database administrator,1
+Brunei Darussalam,Designer,1
+Brunei Darussalam,DevOps specialist,1
+Brunei Darussalam,Mobile developer,1
+Brunei Darussalam,Product manager,1
+Brunei Darussalam,Web developer,2
+Bulgaria,Academic researcher,13
+Bulgaria,Data Scientist/Engineer/Analyst,38
+Bulgaria,Database administrator,30
+Bulgaria,Designer,16
+Bulgaria,Desktop applications developer,74
+Bulgaria,DevOps specialist,29
+Bulgaria,Educator,19
+Bulgaria,Engineering manager,15
+Bulgaria,Game developer,24
+Bulgaria,Marketing or sales professional,4
+Bulgaria,Mobile developer,38
+Bulgaria,Product manager,13
+Bulgaria,Quality assurance engineer,29
+Bulgaria,Scientist,12
+Bulgaria,Senior executive,7
+Bulgaria,Site reliability engineer,9
+Bulgaria,System administrator,28
+Bulgaria,Web developer,234
+Burkina Faso,Data Scientist/Engineer/Analyst,1
+Burkina Faso,Database administrator,1
+Burkina Faso,Designer,2
+Burkina Faso,Desktop applications developer,2
+Burkina Faso,Mobile developer,2
+Burkina Faso,System administrator,1
+Burkina Faso,Web developer,3
+Burundi,Designer,1
+Burundi,Web developer,1
+Cambodia,Academic researcher,4
+Cambodia,Data Scientist/Engineer/Analyst,5
+Cambodia,Database administrator,2
+Cambodia,Designer,4
+Cambodia,Desktop applications developer,2
+Cambodia,DevOps specialist,3
+Cambodia,Educator,3
+Cambodia,Game developer,1
+Cambodia,Mobile developer,12
+Cambodia,Product manager,2
+Cambodia,Quality assurance engineer,1
+Cambodia,Scientist,2
+Cambodia,Senior executive,1
+Cambodia,System administrator,3
+Cambodia,Web developer,11
+Cameroon,Academic researcher,5
+Cameroon,Data Scientist/Engineer/Analyst,6
+Cameroon,Database administrator,5
+Cameroon,Designer,8
+Cameroon,Desktop applications developer,13
+Cameroon,DevOps specialist,2
+Cameroon,Educator,4
+Cameroon,Engineering manager,2
+Cameroon,Game developer,5
+Cameroon,Marketing or sales professional,3
+Cameroon,Mobile developer,13
+Cameroon,Product manager,1
+Cameroon,Quality assurance engineer,2
+Cameroon,Scientist,3
+Cameroon,Site reliability engineer,1
+Cameroon,System administrator,4
+Cameroon,Web developer,22
+Canada,Academic researcher,86
+Canada,Data Scientist/Engineer/Analyst,288
+Canada,Database administrator,208
+Canada,Designer,186
+Canada,Desktop applications developer,473
+Canada,DevOps specialist,254
+Canada,Educator,73
+Canada,Engineering manager,103
+Canada,Game developer,136
+Canada,Marketing or sales professional,22
+Canada,Mobile developer,277
+Canada,Product manager,90
+Canada,Quality assurance engineer,161
+Canada,Scientist,73
+Canada,Senior executive,51
+Canada,Site reliability engineer,79
+Canada,System administrator,181
+Canada,Web developer,1424
+Cape Verde,Quality assurance engineer,1
+Chad,Academic researcher,1
+Chad,Data Scientist/Engineer/Analyst,1
+Chad,Designer,1
+Chad,Desktop applications developer,1
+Chad,Educator,1
+Chad,Mobile developer,1
+Chad,Senior executive,1
+Chad,System administrator,1
+Chad,Web developer,1
+Chile,Academic researcher,14
+Chile,Data Scientist/Engineer/Analyst,29
+Chile,Database administrator,26
+Chile,Designer,14
+Chile,Desktop applications developer,40
+Chile,DevOps specialist,22
+Chile,Educator,13
+Chile,Engineering manager,11
+Chile,Game developer,12
+Chile,Marketing or sales professional,3
+Chile,Mobile developer,35
+Chile,Product manager,6
+Chile,Quality assurance engineer,12
+Chile,Scientist,7
+Chile,Senior executive,6
+Chile,Site reliability engineer,3
+Chile,System administrator,20
+Chile,Web developer,115
+China,Academic researcher,22
+China,Data Scientist/Engineer/Analyst,29
+China,Database administrator,20
+China,Designer,23
+China,Desktop applications developer,61
+China,DevOps specialist,20
+China,Educator,5
+China,Engineering manager,12
+China,Game developer,14
+China,Marketing or sales professional,5
+China,Mobile developer,32
+China,Product manager,14
+China,Quality assurance engineer,15
+China,Scientist,7
+China,Senior executive,7
+China,Site reliability engineer,13
+China,System administrator,13
+China,Web developer,155
+Colombia,Academic researcher,37
+Colombia,Data Scientist/Engineer/Analyst,33
+Colombia,Database administrator,23
+Colombia,Designer,29
+Colombia,Desktop applications developer,57
+Colombia,DevOps specialist,21
+Colombia,Educator,16
+Colombia,Engineering manager,12
+Colombia,Game developer,8
+Colombia,Marketing or sales professional,1
+Colombia,Mobile developer,60
+Colombia,Product manager,13
+Colombia,Quality assurance engineer,17
+Colombia,Scientist,5
+Colombia,Senior executive,6
+Colombia,Site reliability engineer,6
+Colombia,System administrator,26
+Colombia,Web developer,197
+"Congo, Republic of the...",Data Scientist/Engineer/Analyst,1
+"Congo, Republic of the...",Database administrator,1
+"Congo, Republic of the...",Designer,1
+"Congo, Republic of the...",Desktop applications developer,2
+"Congo, Republic of the...",Mobile developer,2
+"Congo, Republic of the...",Quality assurance engineer,1
+"Congo, Republic of the...",Senior executive,1
+"Congo, Republic of the...",System administrator,1
+"Congo, Republic of the...",Web developer,2
+Costa Rica,Academic researcher,9
+Costa Rica,Data Scientist/Engineer/Analyst,13
+Costa Rica,Database administrator,6
+Costa Rica,Designer,7
+Costa Rica,Desktop applications developer,19
+Costa Rica,DevOps specialist,3
+Costa Rica,Educator,2
+Costa Rica,Engineering manager,3
+Costa Rica,Game developer,4
+Costa Rica,Mobile developer,11
+Costa Rica,Product manager,2
+Costa Rica,Quality assurance engineer,10
+Costa Rica,Scientist,1
+Costa Rica,Site reliability engineer,2
+Costa Rica,System administrator,8
+Costa Rica,Web developer,48
+Croatia,Academic researcher,3
+Croatia,Data Scientist/Engineer/Analyst,20
+Croatia,Database administrator,17
+Croatia,Designer,10
+Croatia,Desktop applications developer,58
+Croatia,DevOps specialist,16
+Croatia,Educator,12
+Croatia,Engineering manager,4
+Croatia,Game developer,13
+Croatia,Marketing or sales professional,2
+Croatia,Mobile developer,30
+Croatia,Product manager,9
+Croatia,Quality assurance engineer,14
+Croatia,Scientist,4
+Croatia,Senior executive,2
+Croatia,Site reliability engineer,4
+Croatia,System administrator,12
+Croatia,Web developer,130
+Cuba,Data Scientist/Engineer/Analyst,5
+Cuba,Database administrator,4
+Cuba,Designer,2
+Cuba,Desktop applications developer,7
+Cuba,DevOps specialist,2
+Cuba,Educator,2
+Cuba,Engineering manager,2
+Cuba,Game developer,2
+Cuba,Mobile developer,6
+Cuba,Product manager,2
+Cuba,Quality assurance engineer,2
+Cuba,Scientist,1
+Cuba,Site reliability engineer,1
+Cuba,System administrator,2
+Cuba,Web developer,17
+Cyprus,Academic researcher,3
+Cyprus,Data Scientist/Engineer/Analyst,10
+Cyprus,Database administrator,4
+Cyprus,Designer,4
+Cyprus,Desktop applications developer,13
+Cyprus,DevOps specialist,8
+Cyprus,Educator,2
+Cyprus,Engineering manager,4
+Cyprus,Game developer,1
+Cyprus,Mobile developer,7
+Cyprus,Product manager,3
+Cyprus,Quality assurance engineer,3
+Cyprus,Scientist,2
+Cyprus,Site reliability engineer,1
+Cyprus,System administrator,5
+Cyprus,Web developer,33
+Czech Republic,Academic researcher,29
+Czech Republic,Data Scientist/Engineer/Analyst,68
+Czech Republic,Database administrator,53
+Czech Republic,Designer,34
+Czech Republic,Desktop applications developer,131
+Czech Republic,DevOps specialist,63
+Czech Republic,Educator,31
+Czech Republic,Engineering manager,23
+Czech Republic,Game developer,29
+Czech Republic,Marketing or sales professional,5
+Czech Republic,Mobile developer,54
+Czech Republic,Product manager,20
+Czech Republic,Quality assurance engineer,41
+Czech Republic,Scientist,18
+Czech Republic,Senior executive,13
+Czech Republic,Site reliability engineer,13
+Czech Republic,System administrator,49
+Czech Republic,Web developer,324
+CÃ´te d'Ivoire,Data Scientist/Engineer/Analyst,2
+CÃ´te d'Ivoire,Designer,2
+CÃ´te d'Ivoire,Desktop applications developer,4
+CÃ´te d'Ivoire,Game developer,1
+CÃ´te d'Ivoire,Mobile developer,2
+CÃ´te d'Ivoire,System administrator,1
+CÃ´te d'Ivoire,Web developer,8
+Democratic Republic of the Congo,Data Scientist/Engineer/Analyst,1
+Democratic Republic of the Congo,Database administrator,4
+Democratic Republic of the Congo,Designer,3
+Democratic Republic of the Congo,Desktop applications developer,5
+Democratic Republic of the Congo,DevOps specialist,1
+Democratic Republic of the Congo,Educator,2
+Democratic Republic of the Congo,Engineering manager,1
+Democratic Republic of the Congo,Mobile developer,2
+Democratic Republic of the Congo,Quality assurance engineer,1
+Democratic Republic of the Congo,Site reliability engineer,1
+Democratic Republic of the Congo,System administrator,3
+Democratic Republic of the Congo,Web developer,6
+Denmark,Academic researcher,28
+Denmark,Data Scientist/Engineer/Analyst,65
+Denmark,Database administrator,40
+Denmark,Designer,28
+Denmark,Desktop applications developer,79
+Denmark,DevOps specialist,58
+Denmark,Educator,13
+Denmark,Engineering manager,16
+Denmark,Game developer,19
+Denmark,Marketing or sales professional,1
+Denmark,Mobile developer,53
+Denmark,Product manager,21
+Denmark,Quality assurance engineer,26
+Denmark,Scientist,20
+Denmark,Senior executive,15
+Denmark,Site reliability engineer,6
+Denmark,System administrator,43
+Denmark,Web developer,264
+Djibouti,Desktop applications developer,1
+Djibouti,Mobile developer,1
+Djibouti,Web developer,1
+Dominican Republic,Academic researcher,7
+Dominican Republic,Data Scientist/Engineer/Analyst,11
+Dominican Republic,Database administrator,8
+Dominican Republic,Designer,5
+Dominican Republic,Desktop applications developer,23
+Dominican Republic,DevOps specialist,2
+Dominican Republic,Educator,6
+Dominican Republic,Engineering manager,3
+Dominican Republic,Game developer,4
+Dominican Republic,Marketing or sales professional,1
+Dominican Republic,Mobile developer,21
+Dominican Republic,Product manager,2
+Dominican Republic,Quality assurance engineer,10
+Dominican Republic,Scientist,1
+Dominican Republic,Senior executive,1
+Dominican Republic,System administrator,2
+Dominican Republic,Web developer,56
+Ecuador,Academic researcher,7
+Ecuador,Data Scientist/Engineer/Analyst,9
+Ecuador,Database administrator,9
+Ecuador,Designer,5
+Ecuador,Desktop applications developer,19
+Ecuador,DevOps specialist,6
+Ecuador,Educator,4
+Ecuador,Engineering manager,3
+Ecuador,Game developer,3
+Ecuador,Mobile developer,14
+Ecuador,Product manager,5
+Ecuador,Quality assurance engineer,3
+Ecuador,Scientist,1
+Ecuador,Senior executive,3
+Ecuador,Site reliability engineer,2
+Ecuador,System administrator,4
+Ecuador,Web developer,36
+Egypt,Academic researcher,24
+Egypt,Data Scientist/Engineer/Analyst,24
+Egypt,Database administrator,18
+Egypt,Designer,20
+Egypt,Desktop applications developer,39
+Egypt,DevOps specialist,4
+Egypt,Educator,15
+Egypt,Engineering manager,6
+Egypt,Game developer,13
+Egypt,Marketing or sales professional,4
+Egypt,Mobile developer,53
+Egypt,Product manager,4
+Egypt,Quality assurance engineer,3
+Egypt,Scientist,6
+Egypt,Senior executive,3
+Egypt,Site reliability engineer,4
+Egypt,System administrator,11
+Egypt,Web developer,138
+El Salvador,Academic researcher,3
+El Salvador,Data Scientist/Engineer/Analyst,9
+El Salvador,Database administrator,5
+El Salvador,Designer,5
+El Salvador,Desktop applications developer,7
+El Salvador,DevOps specialist,3
+El Salvador,Educator,3
+El Salvador,Engineering manager,2
+El Salvador,Game developer,1
+El Salvador,Mobile developer,5
+El Salvador,Product manager,2
+El Salvador,Quality assurance engineer,2
+El Salvador,Senior executive,1
+El Salvador,System administrator,3
+El Salvador,Web developer,17
+Eritrea,Desktop applications developer,1
+Eritrea,Educator,1
+Eritrea,Mobile developer,1
+Eritrea,Web developer,1
+Estonia,Academic researcher,4
+Estonia,Data Scientist/Engineer/Analyst,12
+Estonia,Database administrator,17
+Estonia,Designer,5
+Estonia,Desktop applications developer,30
+Estonia,DevOps specialist,28
+Estonia,Educator,4
+Estonia,Engineering manager,9
+Estonia,Game developer,8
+Estonia,Marketing or sales professional,2
+Estonia,Mobile developer,15
+Estonia,Product manager,8
+Estonia,Quality assurance engineer,11
+Estonia,Scientist,1
+Estonia,Senior executive,4
+Estonia,Site reliability engineer,9
+Estonia,System administrator,19
+Estonia,Web developer,113
+Ethiopia,Academic researcher,2
+Ethiopia,Data Scientist/Engineer/Analyst,2
+Ethiopia,Database administrator,4
+Ethiopia,Designer,3
+Ethiopia,Desktop applications developer,12
+Ethiopia,Educator,5
+Ethiopia,Engineering manager,1
+Ethiopia,Marketing or sales professional,1
+Ethiopia,Mobile developer,10
+Ethiopia,Quality assurance engineer,2
+Ethiopia,Scientist,2
+Ethiopia,System administrator,4
+Ethiopia,Web developer,28
+Fiji,Database administrator,1
+Fiji,Designer,1
+Fiji,Mobile developer,1
+Fiji,Web developer,1
+Finland,Academic researcher,20
+Finland,Data Scientist/Engineer/Analyst,50
+Finland,Database administrator,34
+Finland,Designer,26
+Finland,Desktop applications developer,79
+Finland,DevOps specialist,62
+Finland,Educator,12
+Finland,Engineering manager,5
+Finland,Game developer,27
+Finland,Marketing or sales professional,5
+Finland,Mobile developer,47
+Finland,Product manager,18
+Finland,Quality assurance engineer,27
+Finland,Scientist,15
+Finland,Senior executive,8
+Finland,Site reliability engineer,17
+Finland,System administrator,43
+Finland,Web developer,231
+France,Academic researcher,105
+France,Data Scientist/Engineer/Analyst,236
+France,Database administrator,111
+France,Designer,108
+France,Desktop applications developer,394
+France,DevOps specialist,187
+France,Educator,77
+France,Engineering manager,84
+France,Game developer,92
+France,Marketing or sales professional,9
+France,Mobile developer,220
+France,Product manager,61
+France,Quality assurance engineer,83
+France,Scientist,98
+France,Senior executive,30
+France,Site reliability engineer,52
+France,System administrator,155
+France,Web developer,1169
+Gambia,Database administrator,1
+Gambia,System administrator,1
+Gambia,Web developer,2
+Georgia,Academic researcher,3
+Georgia,Data Scientist/Engineer/Analyst,8
+Georgia,Database administrator,4
+Georgia,Designer,2
+Georgia,Desktop applications developer,15
+Georgia,DevOps specialist,6
+Georgia,Educator,6
+Georgia,Engineering manager,2
+Georgia,Game developer,3
+Georgia,Mobile developer,7
+Georgia,Product manager,1
+Georgia,Quality assurance engineer,3
+Georgia,Scientist,1
+Georgia,Senior executive,1
+Georgia,Site reliability engineer,1
+Georgia,System administrator,5
+Georgia,Web developer,46
+Germany,Academic researcher,274
+Germany,Data Scientist/Engineer/Analyst,509
+Germany,Database administrator,358
+Germany,Designer,257
+Germany,Desktop applications developer,1026
+Germany,DevOps specialist,468
+Germany,Educator,224
+Germany,Engineering manager,157
+Germany,Game developer,174
+Germany,Marketing or sales professional,20
+Germany,Mobile developer,478
+Germany,Product manager,195
+Germany,Quality assurance engineer,266
+Germany,Scientist,203
+Germany,Senior executive,77
+Germany,Site reliability engineer,115
+Germany,System administrator,434
+Germany,Web developer,2495
+Ghana,Academic researcher,7
+Ghana,Data Scientist/Engineer/Analyst,11
+Ghana,Database administrator,8
+Ghana,Designer,7
+Ghana,Desktop applications developer,15
+Ghana,DevOps specialist,7
+Ghana,Educator,9
+Ghana,Engineering manager,2
+Ghana,Game developer,6
+Ghana,Marketing or sales professional,3
+Ghana,Mobile developer,25
+Ghana,Product manager,1
+Ghana,Quality assurance engineer,3
+Ghana,Scientist,1
+Ghana,Senior executive,2
+Ghana,Site reliability engineer,2
+Ghana,System administrator,5
+Ghana,Web developer,51
+Greece,Academic researcher,41
+Greece,Data Scientist/Engineer/Analyst,57
+Greece,Database administrator,44
+Greece,Designer,34
+Greece,Desktop applications developer,87
+Greece,DevOps specialist,30
+Greece,Educator,16
+Greece,Engineering manager,21
+Greece,Game developer,15
+Greece,Marketing or sales professional,3
+Greece,Mobile developer,64
+Greece,Product manager,23
+Greece,Quality assurance engineer,20
+Greece,Scientist,26
+Greece,Senior executive,8
+Greece,Site reliability engineer,8
+Greece,System administrator,47
+Greece,Web developer,249
+Grenada,Desktop applications developer,1
+Grenada,Mobile developer,1
+Grenada,Web developer,1
+Guatemala,Academic researcher,8
+Guatemala,Data Scientist/Engineer/Analyst,16
+Guatemala,Database administrator,13
+Guatemala,Designer,8
+Guatemala,Desktop applications developer,17
+Guatemala,DevOps specialist,5
+Guatemala,Educator,6
+Guatemala,Engineering manager,3
+Guatemala,Game developer,2
+Guatemala,Mobile developer,9
+Guatemala,Product manager,2
+Guatemala,Quality assurance engineer,6
+Guatemala,Scientist,3
+Guatemala,Senior executive,1
+Guatemala,Site reliability engineer,3
+Guatemala,System administrator,13
+Guatemala,Web developer,36
+Guinea,Database administrator,2
+Guinea,Designer,1
+Guinea,Desktop applications developer,2
+Guinea,Mobile developer,3
+Guinea,Web developer,3
+Guyana,Academic researcher,1
+Guyana,Data Scientist/Engineer/Analyst,2
+Guyana,Designer,3
+Guyana,Desktop applications developer,1
+Guyana,Mobile developer,2
+Guyana,Web developer,4
+Haiti,Database administrator,1
+Haiti,Desktop applications developer,1
+Haiti,Educator,1
+Haiti,Mobile developer,2
+Haiti,Scientist,1
+Haiti,Web developer,3
+Honduras,Academic researcher,3
+Honduras,Data Scientist/Engineer/Analyst,3
+Honduras,Database administrator,4
+Honduras,Designer,1
+Honduras,Desktop applications developer,4
+Honduras,DevOps specialist,2
+Honduras,Educator,3
+Honduras,Game developer,1
+Honduras,Mobile developer,4
+Honduras,Site reliability engineer,1
+Honduras,System administrator,3
+Honduras,Web developer,9
+Hong Kong (S.A.R.),Academic researcher,5
+Hong Kong (S.A.R.),Data Scientist/Engineer/Analyst,21
+Hong Kong (S.A.R.),Database administrator,10
+Hong Kong (S.A.R.),Designer,7
+Hong Kong (S.A.R.),Desktop applications developer,18
+Hong Kong (S.A.R.),DevOps specialist,10
+Hong Kong (S.A.R.),Educator,5
+Hong Kong (S.A.R.),Engineering manager,5
+Hong Kong (S.A.R.),Game developer,3
+Hong Kong (S.A.R.),Marketing or sales professional,3
+Hong Kong (S.A.R.),Mobile developer,17
+Hong Kong (S.A.R.),Product manager,2
+Hong Kong (S.A.R.),Quality assurance engineer,4
+Hong Kong (S.A.R.),Scientist,1
+Hong Kong (S.A.R.),Senior executive,3
+Hong Kong (S.A.R.),Site reliability engineer,2
+Hong Kong (S.A.R.),System administrator,7
+Hong Kong (S.A.R.),Web developer,72
+Hungary,Academic researcher,18
+Hungary,Data Scientist/Engineer/Analyst,47
+Hungary,Database administrator,37
+Hungary,Designer,24
+Hungary,Desktop applications developer,117
+Hungary,DevOps specialist,43
+Hungary,Educator,24
+Hungary,Engineering manager,11
+Hungary,Game developer,25
+Hungary,Marketing or sales professional,5
+Hungary,Mobile developer,49
+Hungary,Product manager,15
+Hungary,Quality assurance engineer,26
+Hungary,Scientist,13
+Hungary,Senior executive,6
+Hungary,Site reliability engineer,13
+Hungary,System administrator,40
+Hungary,Web developer,248
+Iceland,Academic researcher,2
+Iceland,Data Scientist/Engineer/Analyst,11
+Iceland,Database administrator,6
+Iceland,Designer,4
+Iceland,Desktop applications developer,18
+Iceland,DevOps specialist,10
+Iceland,Educator,3
+Iceland,Engineering manager,1
+Iceland,Game developer,5
+Iceland,Marketing or sales professional,1
+Iceland,Mobile developer,6
+Iceland,Product manager,3
+Iceland,Quality assurance engineer,1
+Iceland,Scientist,1
+Iceland,Senior executive,2
+Iceland,Site reliability engineer,3
+Iceland,System administrator,8
+Iceland,Web developer,38
+India,Academic researcher,365
+India,Data Scientist/Engineer/Analyst,921
+India,Database administrator,465
+India,Designer,696
+India,Desktop applications developer,1265
+India,DevOps specialist,364
+India,Educator,295
+India,Engineering manager,178
+India,Game developer,190
+India,Marketing or sales professional,52
+India,Mobile developer,1420
+India,Product manager,237
+India,Quality assurance engineer,413
+India,Scientist,91
+India,Senior executive,83
+India,Site reliability engineer,118
+India,System administrator,235
+India,Web developer,4542
+Indonesia,Academic researcher,32
+Indonesia,Data Scientist/Engineer/Analyst,66
+Indonesia,Database administrator,56
+Indonesia,Designer,47
+Indonesia,Desktop applications developer,56
+Indonesia,DevOps specialist,34
+Indonesia,Educator,26
+Indonesia,Engineering manager,19
+Indonesia,Game developer,16
+Indonesia,Marketing or sales professional,6
+Indonesia,Mobile developer,85
+Indonesia,Product manager,14
+Indonesia,Quality assurance engineer,28
+Indonesia,Scientist,17
+Indonesia,Senior executive,16
+Indonesia,Site reliability engineer,16
+Indonesia,System administrator,43
+Indonesia,Web developer,257
+Iran,Academic researcher,48
+Iran,Data Scientist/Engineer/Analyst,60
+Iran,Database administrator,56
+Iran,Designer,66
+Iran,Desktop applications developer,122
+Iran,DevOps specialist,49
+Iran,Educator,31
+Iran,Engineering manager,28
+Iran,Game developer,25
+Iran,Marketing or sales professional,7
+Iran,Mobile developer,131
+Iran,Product manager,53
+Iran,Quality assurance engineer,20
+Iran,Scientist,16
+Iran,Senior executive,20
+Iran,Site reliability engineer,15
+Iran,System administrator,64
+Iran,Web developer,339
+Iraq,Academic researcher,4
+Iraq,Data Scientist/Engineer/Analyst,6
+Iraq,Database administrator,7
+Iraq,Designer,4
+Iraq,Desktop applications developer,7
+Iraq,DevOps specialist,2
+Iraq,Educator,3
+Iraq,Game developer,1
+Iraq,Mobile developer,8
+Iraq,Product manager,1
+Iraq,Scientist,1
+Iraq,System administrator,5
+Iraq,Web developer,20
+Ireland,Academic researcher,19
+Ireland,Data Scientist/Engineer/Analyst,56
+Ireland,Database administrator,33
+Ireland,Designer,25
+Ireland,Desktop applications developer,93
+Ireland,DevOps specialist,50
+Ireland,Educator,14
+Ireland,Engineering manager,18
+Ireland,Game developer,18
+Ireland,Marketing or sales professional,4
+Ireland,Mobile developer,55
+Ireland,Product manager,11
+Ireland,Quality assurance engineer,34
+Ireland,Scientist,6
+Ireland,Senior executive,10
+Ireland,Site reliability engineer,19
+Ireland,System administrator,25
+Ireland,Web developer,296
+Isle of Man,Data Scientist/Engineer/Analyst,1
+Isle of Man,Database administrator,1
+Isle of Man,Desktop applications developer,2
+Isle of Man,DevOps specialist,1
+Isle of Man,Mobile developer,1
+Isle of Man,Quality assurance engineer,1
+Isle of Man,Web developer,5
+Israel,Academic researcher,30
+Israel,Data Scientist/Engineer/Analyst,95
+Israel,Database administrator,39
+Israel,Designer,47
+Israel,Desktop applications developer,160
+Israel,DevOps specialist,52
+Israel,Educator,34
+Israel,Engineering manager,40
+Israel,Game developer,24
+Israel,Marketing or sales professional,7
+Israel,Mobile developer,98
+Israel,Product manager,21
+Israel,Quality assurance engineer,48
+Israel,Scientist,21
+Israel,Senior executive,21
+Israel,Site reliability engineer,12
+Israel,System administrator,26
+Israel,Web developer,417
+Italy,Academic researcher,47
+Italy,Data Scientist/Engineer/Analyst,139
+Italy,Database administrator,126
+Italy,Designer,94
+Italy,Desktop applications developer,304
+Italy,DevOps specialist,88
+Italy,Educator,45
+Italy,Engineering manager,46
+Italy,Game developer,59
+Italy,Marketing or sales professional,9
+Italy,Mobile developer,194
+Italy,Product manager,53
+Italy,Quality assurance engineer,46
+Italy,Scientist,28
+Italy,Senior executive,18
+Italy,Site reliability engineer,24
+Italy,System administrator,112
+Italy,Web developer,710
+Jamaica,Academic researcher,1
+Jamaica,Data Scientist/Engineer/Analyst,1
+Jamaica,Database administrator,6
+Jamaica,Designer,1
+Jamaica,Desktop applications developer,4
+Jamaica,DevOps specialist,2
+Jamaica,Educator,1
+Jamaica,Engineering manager,1
+Jamaica,Mobile developer,3
+Jamaica,Product manager,2
+Jamaica,Quality assurance engineer,1
+Jamaica,Scientist,1
+Jamaica,Senior executive,2
+Jamaica,System administrator,4
+Jamaica,Web developer,9
+Japan,Academic researcher,18
+Japan,Data Scientist/Engineer/Analyst,52
+Japan,Database administrator,18
+Japan,Designer,17
+Japan,Desktop applications developer,68
+Japan,DevOps specialist,23
+Japan,Educator,15
+Japan,Engineering manager,18
+Japan,Game developer,23
+Japan,Marketing or sales professional,2
+Japan,Mobile developer,46
+Japan,Product manager,12
+Japan,Quality assurance engineer,16
+Japan,Scientist,11
+Japan,Senior executive,9
+Japan,Site reliability engineer,18
+Japan,System administrator,26
+Japan,Web developer,198
+Jordan,Academic researcher,4
+Jordan,Data Scientist/Engineer/Analyst,4
+Jordan,Database administrator,2
+Jordan,Designer,3
+Jordan,Desktop applications developer,13
+Jordan,DevOps specialist,4
+Jordan,Educator,4
+Jordan,Engineering manager,1
+Jordan,Game developer,3
+Jordan,Mobile developer,15
+Jordan,Product manager,2
+Jordan,Quality assurance engineer,3
+Jordan,Scientist,1
+Jordan,Site reliability engineer,1
+Jordan,System administrator,4
+Jordan,Web developer,33
+Kazakhstan,Academic researcher,6
+Kazakhstan,Data Scientist/Engineer/Analyst,12
+Kazakhstan,Database administrator,8
+Kazakhstan,Designer,2
+Kazakhstan,Desktop applications developer,11
+Kazakhstan,DevOps specialist,6
+Kazakhstan,Educator,2
+Kazakhstan,Engineering manager,2
+Kazakhstan,Game developer,1
+Kazakhstan,Mobile developer,13
+Kazakhstan,Product manager,3
+Kazakhstan,Quality assurance engineer,3
+Kazakhstan,Scientist,3
+Kazakhstan,Senior executive,2
+Kazakhstan,System administrator,6
+Kazakhstan,Web developer,39
+Kenya,Academic researcher,12
+Kenya,Data Scientist/Engineer/Analyst,26
+Kenya,Database administrator,28
+Kenya,Designer,28
+Kenya,Desktop applications developer,28
+Kenya,DevOps specialist,11
+Kenya,Educator,12
+Kenya,Game developer,6
+Kenya,Marketing or sales professional,2
+Kenya,Mobile developer,58
+Kenya,Product manager,6
+Kenya,Quality assurance engineer,12
+Kenya,Scientist,3
+Kenya,Senior executive,1
+Kenya,Site reliability engineer,3
+Kenya,System administrator,25
+Kenya,Web developer,128
+Kosovo,Academic researcher,3
+Kosovo,Data Scientist/Engineer/Analyst,6
+Kosovo,Database administrator,6
+Kosovo,Designer,2
+Kosovo,Desktop applications developer,7
+Kosovo,DevOps specialist,3
+Kosovo,Educator,1
+Kosovo,Engineering manager,1
+Kosovo,Game developer,2
+Kosovo,Marketing or sales professional,1
+Kosovo,Mobile developer,9
+Kosovo,Product manager,4
+Kosovo,Quality assurance engineer,2
+Kosovo,Scientist,1
+Kosovo,Site reliability engineer,1
+Kosovo,System administrator,4
+Kosovo,Web developer,21
+Kuwait,Academic researcher,1
+Kuwait,Data Scientist/Engineer/Analyst,2
+Kuwait,Database administrator,5
+Kuwait,Designer,4
+Kuwait,Desktop applications developer,1
+Kuwait,DevOps specialist,2
+Kuwait,Educator,2
+Kuwait,Engineering manager,2
+Kuwait,Mobile developer,3
+Kuwait,Product manager,1
+Kuwait,Quality assurance engineer,1
+Kuwait,Site reliability engineer,2
+Kuwait,System administrator,2
+Kuwait,Web developer,11
+Kyrgyzstan,Academic researcher,1
+Kyrgyzstan,Data Scientist/Engineer/Analyst,2
+Kyrgyzstan,Database administrator,1
+Kyrgyzstan,Designer,1
+Kyrgyzstan,Desktop applications developer,4
+Kyrgyzstan,DevOps specialist,2
+Kyrgyzstan,Educator,2
+Kyrgyzstan,Engineering manager,1
+Kyrgyzstan,Game developer,4
+Kyrgyzstan,Marketing or sales professional,1
+Kyrgyzstan,Mobile developer,6
+Kyrgyzstan,Product manager,2
+Kyrgyzstan,Quality assurance engineer,1
+Kyrgyzstan,Scientist,1
+Kyrgyzstan,Senior executive,1
+Kyrgyzstan,System administrator,3
+Kyrgyzstan,Web developer,14
+Lao People's Democratic Republic,Data Scientist/Engineer/Analyst,2
+Lao People's Democratic Republic,Database administrator,3
+Lao People's Democratic Republic,Designer,1
+Lao People's Democratic Republic,Desktop applications developer,1
+Lao People's Democratic Republic,DevOps specialist,4
+Lao People's Democratic Republic,Engineering manager,1
+Lao People's Democratic Republic,Quality assurance engineer,1
+Lao People's Democratic Republic,Senior executive,1
+Lao People's Democratic Republic,System administrator,2
+Lao People's Democratic Republic,Web developer,4
+Latvia,Academic researcher,3
+Latvia,Data Scientist/Engineer/Analyst,15
+Latvia,Database administrator,10
+Latvia,Designer,10
+Latvia,Desktop applications developer,19
+Latvia,DevOps specialist,9
+Latvia,Educator,3
+Latvia,Engineering manager,5
+Latvia,Game developer,3
+Latvia,Mobile developer,10
+Latvia,Product manager,3
+Latvia,Quality assurance engineer,7
+Latvia,Scientist,1
+Latvia,Senior executive,4
+Latvia,Site reliability engineer,2
+Latvia,System administrator,9
+Latvia,Web developer,83
+Lebanon,Academic researcher,5
+Lebanon,Data Scientist/Engineer/Analyst,11
+Lebanon,Database administrator,8
+Lebanon,Designer,2
+Lebanon,Desktop applications developer,16
+Lebanon,DevOps specialist,9
+Lebanon,Educator,7
+Lebanon,Engineering manager,1
+Lebanon,Game developer,5
+Lebanon,Mobile developer,19
+Lebanon,Product manager,2
+Lebanon,Quality assurance engineer,8
+Lebanon,Scientist,2
+Lebanon,Site reliability engineer,1
+Lebanon,System administrator,7
+Lebanon,Web developer,43
+Lesotho,Designer,1
+Lesotho,Desktop applications developer,1
+Lesotho,Educator,1
+Lesotho,Mobile developer,1
+Lesotho,Web developer,1
+Libyan Arab Jamahiriya,Academic researcher,3
+Libyan Arab Jamahiriya,Data Scientist/Engineer/Analyst,1
+Libyan Arab Jamahiriya,Designer,1
+Libyan Arab Jamahiriya,Desktop applications developer,1
+Libyan Arab Jamahiriya,Educator,1
+Libyan Arab Jamahiriya,Mobile developer,3
+Libyan Arab Jamahiriya,Product manager,1
+Libyan Arab Jamahiriya,System administrator,1
+Libyan Arab Jamahiriya,Web developer,4
+Liechtenstein,Database administrator,1
+Liechtenstein,System administrator,1
+Liechtenstein,Web developer,1
+Lithuania,Academic researcher,9
+Lithuania,Data Scientist/Engineer/Analyst,21
+Lithuania,Database administrator,16
+Lithuania,Designer,5
+Lithuania,Desktop applications developer,28
+Lithuania,DevOps specialist,17
+Lithuania,Educator,10
+Lithuania,Engineering manager,2
+Lithuania,Game developer,10
+Lithuania,Mobile developer,20
+Lithuania,Product manager,5
+Lithuania,Quality assurance engineer,9
+Lithuania,Scientist,5
+Lithuania,Senior executive,3
+Lithuania,Site reliability engineer,6
+Lithuania,System administrator,16
+Lithuania,Web developer,116
+Luxembourg,Academic researcher,4
+Luxembourg,Data Scientist/Engineer/Analyst,9
+Luxembourg,Database administrator,5
+Luxembourg,Designer,3
+Luxembourg,Desktop applications developer,9
+Luxembourg,DevOps specialist,4
+Luxembourg,Engineering manager,2
+Luxembourg,Game developer,1
+Luxembourg,Mobile developer,4
+Luxembourg,Product manager,3
+Luxembourg,Quality assurance engineer,4
+Luxembourg,Scientist,2
+Luxembourg,Senior executive,2
+Luxembourg,System administrator,8
+Luxembourg,Web developer,25
+Madagascar,Academic researcher,2
+Madagascar,Data Scientist/Engineer/Analyst,3
+Madagascar,Database administrator,4
+Madagascar,Designer,4
+Madagascar,Desktop applications developer,6
+Madagascar,DevOps specialist,1
+Madagascar,Mobile developer,6
+Madagascar,Product manager,1
+Madagascar,Scientist,1
+Madagascar,Site reliability engineer,2
+Madagascar,System administrator,1
+Madagascar,Web developer,15
+Malawi,Academic researcher,1
+Malawi,Database administrator,1
+Malawi,Designer,1
+Malawi,Desktop applications developer,1
+Malawi,Educator,1
+Malawi,Mobile developer,1
+Malawi,Scientist,1
+Malawi,System administrator,2
+Malawi,Web developer,2
+Malaysia,Academic researcher,7
+Malaysia,Data Scientist/Engineer/Analyst,25
+Malaysia,Database administrator,29
+Malaysia,Designer,25
+Malaysia,Desktop applications developer,41
+Malaysia,DevOps specialist,14
+Malaysia,Educator,12
+Malaysia,Engineering manager,8
+Malaysia,Game developer,12
+Malaysia,Marketing or sales professional,5
+Malaysia,Mobile developer,44
+Malaysia,Product manager,11
+Malaysia,Quality assurance engineer,17
+Malaysia,Scientist,3
+Malaysia,Senior executive,6
+Malaysia,Site reliability engineer,9
+Malaysia,System administrator,20
+Malaysia,Web developer,134
+Maldives,Data Scientist/Engineer/Analyst,1
+Maldives,Database administrator,1
+Maldives,Designer,1
+Maldives,Desktop applications developer,2
+Maldives,DevOps specialist,1
+Maldives,Mobile developer,5
+Maldives,Product manager,1
+Maldives,Web developer,6
+Malta,Academic researcher,5
+Malta,Data Scientist/Engineer/Analyst,7
+Malta,Database administrator,5
+Malta,Designer,3
+Malta,Desktop applications developer,9
+Malta,DevOps specialist,3
+Malta,Engineering manager,3
+Malta,Game developer,1
+Malta,Mobile developer,5
+Malta,Product manager,4
+Malta,Quality assurance engineer,3
+Malta,Senior executive,1
+Malta,System administrator,4
+Malta,Web developer,31
+Mauritania,Database administrator,1
+Mauritania,System administrator,2
+Mauritania,Web developer,3
+Mauritius,Academic researcher,2
+Mauritius,Data Scientist/Engineer/Analyst,1
+Mauritius,Database administrator,2
+Mauritius,Designer,3
+Mauritius,Desktop applications developer,2
+Mauritius,Educator,1
+Mauritius,Mobile developer,3
+Mauritius,Quality assurance engineer,1
+Mauritius,Scientist,2
+Mauritius,Site reliability engineer,1
+Mauritius,System administrator,2
+Mauritius,Web developer,11
+Mexico,Academic researcher,30
+Mexico,Data Scientist/Engineer/Analyst,93
+Mexico,Database administrator,77
+Mexico,Designer,52
+Mexico,Desktop applications developer,121
+Mexico,DevOps specialist,40
+Mexico,Educator,26
+Mexico,Engineering manager,24
+Mexico,Game developer,23
+Mexico,Marketing or sales professional,12
+Mexico,Mobile developer,104
+Mexico,Product manager,25
+Mexico,Quality assurance engineer,38
+Mexico,Scientist,10
+Mexico,Senior executive,8
+Mexico,Site reliability engineer,16
+Mexico,System administrator,63
+Mexico,Web developer,358
+Monaco,Mobile developer,1
+Monaco,Web developer,1
+Mongolia,Academic researcher,1
+Mongolia,Data Scientist/Engineer/Analyst,4
+Mongolia,Database administrator,2
+Mongolia,Desktop applications developer,3
+Mongolia,Educator,1
+Mongolia,Engineering manager,1
+Mongolia,Mobile developer,2
+Mongolia,Quality assurance engineer,1
+Mongolia,Scientist,1
+Mongolia,Senior executive,2
+Mongolia,Site reliability engineer,1
+Mongolia,System administrator,3
+Mongolia,Web developer,8
+Montenegro,Academic researcher,3
+Montenegro,Data Scientist/Engineer/Analyst,4
+Montenegro,Database administrator,1
+Montenegro,Designer,1
+Montenegro,Desktop applications developer,3
+Montenegro,DevOps specialist,1
+Montenegro,Educator,2
+Montenegro,Engineering manager,1
+Montenegro,Game developer,5
+Montenegro,Marketing or sales professional,2
+Montenegro,Mobile developer,1
+Montenegro,Product manager,2
+Montenegro,Quality assurance engineer,1
+Montenegro,Scientist,2
+Montenegro,Site reliability engineer,1
+Montenegro,System administrator,2
+Montenegro,Web developer,8
+Morocco,Academic researcher,13
+Morocco,Data Scientist/Engineer/Analyst,20
+Morocco,Database administrator,14
+Morocco,Designer,13
+Morocco,Desktop applications developer,27
+Morocco,DevOps specialist,4
+Morocco,Educator,5
+Morocco,Engineering manager,3
+Morocco,Game developer,7
+Morocco,Marketing or sales professional,2
+Morocco,Mobile developer,28
+Morocco,Product manager,7
+Morocco,Quality assurance engineer,4
+Morocco,Scientist,7
+Morocco,Senior executive,2
+Morocco,Site reliability engineer,2
+Morocco,System administrator,6
+Morocco,Web developer,69
+Mozambique,Academic researcher,1
+Mozambique,Data Scientist/Engineer/Analyst,2
+Mozambique,Database administrator,2
+Mozambique,Designer,1
+Mozambique,Desktop applications developer,3
+Mozambique,DevOps specialist,1
+Mozambique,Game developer,1
+Mozambique,Mobile developer,3
+Mozambique,System administrator,2
+Mozambique,Web developer,5
+Myanmar,Academic researcher,1
+Myanmar,Data Scientist/Engineer/Analyst,5
+Myanmar,Database administrator,3
+Myanmar,Designer,3
+Myanmar,Desktop applications developer,3
+Myanmar,DevOps specialist,3
+Myanmar,Game developer,1
+Myanmar,Mobile developer,14
+Myanmar,Product manager,1
+Myanmar,Quality assurance engineer,4
+Myanmar,Scientist,2
+Myanmar,Senior executive,1
+Myanmar,System administrator,2
+Myanmar,Web developer,22
+Namibia,Academic researcher,1
+Namibia,Data Scientist/Engineer/Analyst,1
+Namibia,Desktop applications developer,1
+Namibia,Educator,1
+Namibia,Game developer,1
+Namibia,Mobile developer,2
+Namibia,Quality assurance engineer,1
+Namibia,Scientist,1
+Namibia,Web developer,3
+Nepal,Academic researcher,23
+Nepal,Data Scientist/Engineer/Analyst,29
+Nepal,Database administrator,18
+Nepal,Designer,21
+Nepal,Desktop applications developer,39
+Nepal,DevOps specialist,18
+Nepal,Educator,17
+Nepal,Engineering manager,7
+Nepal,Game developer,5
+Nepal,Marketing or sales professional,1
+Nepal,Mobile developer,47
+Nepal,Product manager,9
+Nepal,Quality assurance engineer,14
+Nepal,Scientist,4
+Nepal,Senior executive,2
+Nepal,Site reliability engineer,3
+Nepal,System administrator,18
+Nepal,Web developer,144
+Netherlands,Academic researcher,66
+Netherlands,Data Scientist/Engineer/Analyst,187
+Netherlands,Database administrator,101
+Netherlands,Designer,113
+Netherlands,Desktop applications developer,266
+Netherlands,DevOps specialist,196
+Netherlands,Educator,58
+Netherlands,Engineering manager,45
+Netherlands,Game developer,52
+Netherlands,Marketing or sales professional,11
+Netherlands,Mobile developer,154
+Netherlands,Product manager,49
+Netherlands,Quality assurance engineer,75
+Netherlands,Scientist,55
+Netherlands,Senior executive,28
+Netherlands,Site reliability engineer,55
+Netherlands,System administrator,100
+Netherlands,Web developer,890
+New Zealand,Academic researcher,16
+New Zealand,Data Scientist/Engineer/Analyst,53
+New Zealand,Database administrator,44
+New Zealand,Designer,48
+New Zealand,Desktop applications developer,114
+New Zealand,DevOps specialist,50
+New Zealand,Educator,6
+New Zealand,Engineering manager,18
+New Zealand,Game developer,21
+New Zealand,Marketing or sales professional,2
+New Zealand,Mobile developer,62
+New Zealand,Product manager,17
+New Zealand,Quality assurance engineer,27
+New Zealand,Scientist,12
+New Zealand,Senior executive,11
+New Zealand,Site reliability engineer,14
+New Zealand,System administrator,47
+New Zealand,Web developer,228
+Nicaragua,Academic researcher,4
+Nicaragua,Data Scientist/Engineer/Analyst,6
+Nicaragua,Database administrator,8
+Nicaragua,Designer,7
+Nicaragua,Desktop applications developer,14
+Nicaragua,DevOps specialist,1
+Nicaragua,Educator,2
+Nicaragua,Engineering manager,1
+Nicaragua,Game developer,1
+Nicaragua,Marketing or sales professional,1
+Nicaragua,Mobile developer,10
+Nicaragua,Product manager,1
+Nicaragua,Quality assurance engineer,3
+Nicaragua,Scientist,1
+Nicaragua,Senior executive,2
+Nicaragua,Site reliability engineer,1
+Nicaragua,System administrator,4
+Nicaragua,Web developer,25
+Niger,Data Scientist/Engineer/Analyst,1
+Niger,Database administrator,1
+Niger,Game developer,1
+Niger,Mobile developer,1
+Niger,Web developer,3
+Nigeria,Academic researcher,59
+Nigeria,Data Scientist/Engineer/Analyst,75
+Nigeria,Database administrator,64
+Nigeria,Designer,73
+Nigeria,Desktop applications developer,74
+Nigeria,DevOps specialist,24
+Nigeria,Educator,49
+Nigeria,Engineering manager,13
+Nigeria,Game developer,15
+Nigeria,Marketing or sales professional,9
+Nigeria,Mobile developer,117
+Nigeria,Product manager,18
+Nigeria,Quality assurance engineer,19
+Nigeria,Scientist,25
+Nigeria,Senior executive,7
+Nigeria,Site reliability engineer,8
+Nigeria,System administrator,42
+Nigeria,Web developer,332
+Nomadic,Academic researcher,4
+Nomadic,Data Scientist/Engineer/Analyst,7
+Nomadic,Database administrator,5
+Nomadic,Designer,4
+Nomadic,Desktop applications developer,8
+Nomadic,DevOps specialist,3
+Nomadic,Educator,7
+Nomadic,Engineering manager,3
+Nomadic,Game developer,1
+Nomadic,Marketing or sales professional,1
+Nomadic,Mobile developer,8
+Nomadic,Product manager,3
+Nomadic,Quality assurance engineer,2
+Nomadic,Scientist,4
+Nomadic,Senior executive,2
+Nomadic,Site reliability engineer,2
+Nomadic,System administrator,2
+Nomadic,Web developer,22
+Norway,Academic researcher,27
+Norway,Data Scientist/Engineer/Analyst,64
+Norway,Database administrator,37
+Norway,Designer,19
+Norway,Desktop applications developer,80
+Norway,DevOps specialist,70
+Norway,Educator,14
+Norway,Engineering manager,13
+Norway,Game developer,24
+Norway,Marketing or sales professional,3
+Norway,Mobile developer,50
+Norway,Product manager,14
+Norway,Quality assurance engineer,24
+Norway,Scientist,18
+Norway,Senior executive,6
+Norway,Site reliability engineer,17
+Norway,System administrator,42
+Norway,Web developer,275
+Oman,Academic researcher,1
+Oman,Data Scientist/Engineer/Analyst,2
+Oman,Database administrator,1
+Oman,Designer,1
+Oman,Desktop applications developer,1
+Oman,Mobile developer,1
+Oman,Web developer,3
+Pakistan,Academic researcher,56
+Pakistan,Data Scientist/Engineer/Analyst,91
+Pakistan,Database administrator,83
+Pakistan,Designer,90
+Pakistan,Desktop applications developer,167
+Pakistan,DevOps specialist,53
+Pakistan,Educator,52
+Pakistan,Engineering manager,17
+Pakistan,Game developer,26
+Pakistan,Marketing or sales professional,10
+Pakistan,Mobile developer,175
+Pakistan,Product manager,36
+Pakistan,Quality assurance engineer,53
+Pakistan,Scientist,14
+Pakistan,Senior executive,11
+Pakistan,Site reliability engineer,10
+Pakistan,System administrator,26
+Pakistan,Web developer,469
+Panama,Data Scientist/Engineer/Analyst,2
+Panama,Database administrator,4
+Panama,Designer,1
+Panama,Desktop applications developer,3
+Panama,Engineering manager,1
+Panama,Game developer,1
+Panama,Mobile developer,2
+Panama,Product manager,3
+Panama,Quality assurance engineer,3
+Panama,System administrator,3
+Panama,Web developer,15
+Papua New Guinea,Academic researcher,1
+Papua New Guinea,Data Scientist/Engineer/Analyst,1
+Papua New Guinea,Database administrator,1
+Papua New Guinea,Designer,1
+Papua New Guinea,Web developer,1
+Paraguay,Academic researcher,1
+Paraguay,Data Scientist/Engineer/Analyst,1
+Paraguay,Database administrator,3
+Paraguay,Designer,2
+Paraguay,Desktop applications developer,3
+Paraguay,DevOps specialist,3
+Paraguay,Educator,2
+Paraguay,Engineering manager,1
+Paraguay,Mobile developer,6
+Paraguay,Product manager,3
+Paraguay,Quality assurance engineer,2
+Paraguay,System administrator,3
+Paraguay,Web developer,17
+Peru,Academic researcher,15
+Peru,Data Scientist/Engineer/Analyst,14
+Peru,Database administrator,11
+Peru,Designer,11
+Peru,Desktop applications developer,20
+Peru,DevOps specialist,11
+Peru,Educator,5
+Peru,Engineering manager,3
+Peru,Game developer,4
+Peru,Marketing or sales professional,2
+Peru,Mobile developer,19
+Peru,Product manager,2
+Peru,Quality assurance engineer,3
+Peru,Scientist,5
+Peru,Senior executive,2
+Peru,Site reliability engineer,2
+Peru,System administrator,11
+Peru,Web developer,73
+Philippines,Academic researcher,28
+Philippines,Data Scientist/Engineer/Analyst,49
+Philippines,Database administrator,52
+Philippines,Designer,53
+Philippines,Desktop applications developer,74
+Philippines,DevOps specialist,25
+Philippines,Educator,24
+Philippines,Engineering manager,7
+Philippines,Game developer,18
+Philippines,Marketing or sales professional,4
+Philippines,Mobile developer,72
+Philippines,Product manager,11
+Philippines,Quality assurance engineer,41
+Philippines,Scientist,9
+Philippines,Senior executive,5
+Philippines,Site reliability engineer,7
+Philippines,System administrator,27
+Philippines,Web developer,234
+Poland,Academic researcher,60
+Poland,Data Scientist/Engineer/Analyst,151
+Poland,Database administrator,80
+Poland,Designer,100
+Poland,Desktop applications developer,274
+Poland,DevOps specialist,149
+Poland,Educator,86
+Poland,Engineering manager,47
+Poland,Game developer,58
+Poland,Marketing or sales professional,9
+Poland,Mobile developer,148
+Poland,Product manager,37
+Poland,Quality assurance engineer,76
+Poland,Scientist,41
+Poland,Senior executive,16
+Poland,Site reliability engineer,37
+Poland,System administrator,104
+Poland,Web developer,860
+Portugal,Academic researcher,19
+Portugal,Data Scientist/Engineer/Analyst,38
+Portugal,Database administrator,32
+Portugal,Designer,19
+Portugal,Desktop applications developer,87
+Portugal,DevOps specialist,24
+Portugal,Educator,17
+Portugal,Engineering manager,18
+Portugal,Game developer,16
+Portugal,Marketing or sales professional,4
+Portugal,Mobile developer,59
+Portugal,Product manager,22
+Portugal,Quality assurance engineer,16
+Portugal,Scientist,7
+Portugal,Senior executive,7
+Portugal,Site reliability engineer,11
+Portugal,System administrator,33
+Portugal,Web developer,264
+Qatar,Academic researcher,1
+Qatar,Data Scientist/Engineer/Analyst,2
+Qatar,Database administrator,3
+Qatar,Designer,2
+Qatar,Desktop applications developer,5
+Qatar,DevOps specialist,2
+Qatar,Engineering manager,1
+Qatar,Game developer,1
+Qatar,Mobile developer,6
+Qatar,Quality assurance engineer,2
+Qatar,System administrator,1
+Qatar,Web developer,13
+Republic of Korea,Academic researcher,3
+Republic of Korea,Data Scientist/Engineer/Analyst,8
+Republic of Korea,Database administrator,5
+Republic of Korea,Designer,2
+Republic of Korea,Desktop applications developer,14
+Republic of Korea,DevOps specialist,5
+Republic of Korea,Educator,1
+Republic of Korea,Engineering manager,1
+Republic of Korea,Game developer,4
+Republic of Korea,Marketing or sales professional,1
+Republic of Korea,Mobile developer,8
+Republic of Korea,Site reliability engineer,1
+Republic of Korea,System administrator,3
+Republic of Korea,Web developer,39
+Republic of Moldova,Academic researcher,5
+Republic of Moldova,Data Scientist/Engineer/Analyst,2
+Republic of Moldova,Database administrator,2
+Republic of Moldova,Designer,4
+Republic of Moldova,Desktop applications developer,13
+Republic of Moldova,DevOps specialist,5
+Republic of Moldova,Educator,4
+Republic of Moldova,Engineering manager,2
+Republic of Moldova,Game developer,4
+Republic of Moldova,Mobile developer,13
+Republic of Moldova,Product manager,1
+Republic of Moldova,Quality assurance engineer,2
+Republic of Moldova,Scientist,1
+Republic of Moldova,System administrator,4
+Republic of Moldova,Web developer,36
+Romania,Academic researcher,25
+Romania,Data Scientist/Engineer/Analyst,68
+Romania,Database administrator,54
+Romania,Designer,41
+Romania,Desktop applications developer,162
+Romania,DevOps specialist,59
+Romania,Educator,24
+Romania,Engineering manager,31
+Romania,Game developer,30
+Romania,Marketing or sales professional,8
+Romania,Mobile developer,85
+Romania,Product manager,26
+Romania,Quality assurance engineer,46
+Romania,Scientist,9
+Romania,Senior executive,8
+Romania,Site reliability engineer,16
+Romania,System administrator,45
+Romania,Web developer,414
+Russian Federation,Academic researcher,64
+Russian Federation,Data Scientist/Engineer/Analyst,158
+Russian Federation,Database administrator,90
+Russian Federation,Designer,52
+Russian Federation,Desktop applications developer,283
+Russian Federation,DevOps specialist,110
+Russian Federation,Educator,58
+Russian Federation,Engineering manager,29
+Russian Federation,Game developer,76
+Russian Federation,Marketing or sales professional,8
+Russian Federation,Mobile developer,175
+Russian Federation,Product manager,57
+Russian Federation,Quality assurance engineer,70
+Russian Federation,Scientist,43
+Russian Federation,Senior executive,20
+Russian Federation,Site reliability engineer,26
+Russian Federation,System administrator,89
+Russian Federation,Web developer,703
+Rwanda,Academic researcher,4
+Rwanda,Data Scientist/Engineer/Analyst,8
+Rwanda,Database administrator,3
+Rwanda,Designer,4
+Rwanda,Desktop applications developer,9
+Rwanda,DevOps specialist,1
+Rwanda,Educator,2
+Rwanda,Game developer,4
+Rwanda,Mobile developer,11
+Rwanda,Quality assurance engineer,4
+Rwanda,Scientist,2
+Rwanda,Senior executive,2
+Rwanda,System administrator,3
+Rwanda,Web developer,20
+Saint Vincent and the Grenadines,Desktop applications developer,1
+Saint Vincent and the Grenadines,Web developer,1
+San Marino,Desktop applications developer,1
+San Marino,Educator,1
+San Marino,Mobile developer,1
+San Marino,Web developer,1
+Saudi Arabia,Academic researcher,9
+Saudi Arabia,Data Scientist/Engineer/Analyst,11
+Saudi Arabia,Database administrator,6
+Saudi Arabia,Designer,5
+Saudi Arabia,Desktop applications developer,17
+Saudi Arabia,DevOps specialist,5
+Saudi Arabia,Educator,4
+Saudi Arabia,Engineering manager,2
+Saudi Arabia,Game developer,3
+Saudi Arabia,Marketing or sales professional,3
+Saudi Arabia,Mobile developer,16
+Saudi Arabia,Product manager,4
+Saudi Arabia,Quality assurance engineer,4
+Saudi Arabia,Scientist,3
+Saudi Arabia,Senior executive,2
+Saudi Arabia,Site reliability engineer,3
+Saudi Arabia,System administrator,7
+Saudi Arabia,Web developer,44
+Senegal,Academic researcher,4
+Senegal,Data Scientist/Engineer/Analyst,4
+Senegal,Database administrator,8
+Senegal,Designer,4
+Senegal,Desktop applications developer,7
+Senegal,DevOps specialist,3
+Senegal,Educator,3
+Senegal,Engineering manager,1
+Senegal,Game developer,2
+Senegal,Marketing or sales professional,2
+Senegal,Mobile developer,8
+Senegal,Product manager,1
+Senegal,Quality assurance engineer,1
+Senegal,Scientist,3
+Senegal,Senior executive,1
+Senegal,Site reliability engineer,1
+Senegal,System administrator,3
+Senegal,Web developer,15
+Serbia,Academic researcher,16
+Serbia,Data Scientist/Engineer/Analyst,35
+Serbia,Database administrator,22
+Serbia,Designer,17
+Serbia,Desktop applications developer,58
+Serbia,DevOps specialist,20
+Serbia,Educator,17
+Serbia,Engineering manager,13
+Serbia,Game developer,17
+Serbia,Marketing or sales professional,3
+Serbia,Mobile developer,39
+Serbia,Product manager,14
+Serbia,Quality assurance engineer,13
+Serbia,Scientist,9
+Serbia,Senior executive,6
+Serbia,Site reliability engineer,10
+Serbia,System administrator,22
+Serbia,Web developer,211
+Sierra Leone,Academic researcher,1
+Sierra Leone,Database administrator,3
+Sierra Leone,Designer,1
+Sierra Leone,Desktop applications developer,2
+Sierra Leone,Game developer,1
+Sierra Leone,Mobile developer,1
+Sierra Leone,System administrator,1
+Sierra Leone,Web developer,3
+Singapore,Academic researcher,3
+Singapore,Data Scientist/Engineer/Analyst,30
+Singapore,Database administrator,13
+Singapore,Designer,18
+Singapore,Desktop applications developer,43
+Singapore,DevOps specialist,21
+Singapore,Educator,9
+Singapore,Engineering manager,12
+Singapore,Game developer,7
+Singapore,Mobile developer,24
+Singapore,Product manager,6
+Singapore,Quality assurance engineer,9
+Singapore,Scientist,3
+Singapore,Senior executive,6
+Singapore,Site reliability engineer,9
+Singapore,System administrator,18
+Singapore,Web developer,138
+Slovakia,Academic researcher,11
+Slovakia,Data Scientist/Engineer/Analyst,26
+Slovakia,Database administrator,14
+Slovakia,Designer,14
+Slovakia,Desktop applications developer,56
+Slovakia,DevOps specialist,17
+Slovakia,Educator,9
+Slovakia,Engineering manager,5
+Slovakia,Game developer,9
+Slovakia,Marketing or sales professional,2
+Slovakia,Mobile developer,29
+Slovakia,Product manager,7
+Slovakia,Quality assurance engineer,13
+Slovakia,Scientist,8
+Slovakia,Senior executive,3
+Slovakia,Site reliability engineer,3
+Slovakia,System administrator,18
+Slovakia,Web developer,128
+Slovenia,Academic researcher,10
+Slovenia,Data Scientist/Engineer/Analyst,21
+Slovenia,Database administrator,22
+Slovenia,Designer,12
+Slovenia,Desktop applications developer,42
+Slovenia,DevOps specialist,19
+Slovenia,Educator,6
+Slovenia,Engineering manager,6
+Slovenia,Game developer,7
+Slovenia,Marketing or sales professional,1
+Slovenia,Mobile developer,28
+Slovenia,Product manager,13
+Slovenia,Quality assurance engineer,14
+Slovenia,Scientist,8
+Slovenia,Senior executive,4
+Slovenia,Site reliability engineer,5
+Slovenia,System administrator,24
+Slovenia,Web developer,100
+Solomon Islands,Designer,1
+Solomon Islands,Mobile developer,1
+Solomon Islands,System administrator,1
+Solomon Islands,Web developer,1
+Somalia,Academic researcher,1
+Somalia,Data Scientist/Engineer/Analyst,1
+Somalia,Database administrator,2
+Somalia,Designer,2
+Somalia,Desktop applications developer,1
+Somalia,Educator,1
+Somalia,Mobile developer,5
+Somalia,System administrator,1
+Somalia,Web developer,8
+South Africa,Academic researcher,27
+South Africa,Data Scientist/Engineer/Analyst,95
+South Africa,Database administrator,70
+South Africa,Designer,67
+South Africa,Desktop applications developer,124
+South Africa,DevOps specialist,57
+South Africa,Educator,17
+South Africa,Engineering manager,25
+South Africa,Game developer,21
+South Africa,Marketing or sales professional,6
+South Africa,Mobile developer,104
+South Africa,Product manager,18
+South Africa,Quality assurance engineer,41
+South Africa,Scientist,12
+South Africa,Senior executive,14
+South Africa,Site reliability engineer,8
+South Africa,System administrator,59
+South Africa,Web developer,353
+South Korea,Academic researcher,9
+South Korea,Data Scientist/Engineer/Analyst,26
+South Korea,Database administrator,13
+South Korea,Designer,4
+South Korea,Desktop applications developer,20
+South Korea,DevOps specialist,7
+South Korea,Educator,9
+South Korea,Engineering manager,2
+South Korea,Game developer,19
+South Korea,Marketing or sales professional,1
+South Korea,Mobile developer,30
+South Korea,Product manager,7
+South Korea,Quality assurance engineer,6
+South Korea,Scientist,4
+South Korea,Senior executive,2
+South Korea,Site reliability engineer,2
+South Korea,System administrator,8
+South Korea,Web developer,96
+Spain,Academic researcher,79
+Spain,Data Scientist/Engineer/Analyst,170
+Spain,Database administrator,112
+Spain,Designer,98
+Spain,Desktop applications developer,239
+Spain,DevOps specialist,99
+Spain,Educator,67
+Spain,Engineering manager,49
+Spain,Game developer,50
+Spain,Marketing or sales professional,8
+Spain,Mobile developer,193
+Spain,Product manager,45
+Spain,Quality assurance engineer,85
+Spain,Scientist,40
+Spain,Senior executive,15
+Spain,Site reliability engineer,28
+Spain,System administrator,105
+Spain,Web developer,754
+Sri Lanka,Academic researcher,28
+Sri Lanka,Data Scientist/Engineer/Analyst,31
+Sri Lanka,Database administrator,19
+Sri Lanka,Designer,33
+Sri Lanka,Desktop applications developer,53
+Sri Lanka,DevOps specialist,13
+Sri Lanka,Educator,17
+Sri Lanka,Engineering manager,5
+Sri Lanka,Game developer,7
+Sri Lanka,Marketing or sales professional,2
+Sri Lanka,Mobile developer,62
+Sri Lanka,Product manager,5
+Sri Lanka,Quality assurance engineer,20
+Sri Lanka,Scientist,5
+Sri Lanka,Senior executive,4
+Sri Lanka,Site reliability engineer,4
+Sri Lanka,System administrator,10
+Sri Lanka,Web developer,171
+Sudan,Academic researcher,8
+Sudan,Data Scientist/Engineer/Analyst,6
+Sudan,Database administrator,7
+Sudan,Designer,6
+Sudan,Desktop applications developer,8
+Sudan,DevOps specialist,2
+Sudan,Educator,4
+Sudan,Engineering manager,2
+Sudan,Game developer,3
+Sudan,Marketing or sales professional,1
+Sudan,Mobile developer,6
+Sudan,Product manager,1
+Sudan,Quality assurance engineer,1
+Sudan,Scientist,1
+Sudan,Senior executive,2
+Sudan,Site reliability engineer,1
+Sudan,System administrator,7
+Sudan,Web developer,18
+Swaziland,Academic researcher,2
+Swaziland,Database administrator,3
+Swaziland,Designer,2
+Swaziland,Desktop applications developer,3
+Swaziland,Educator,1
+Swaziland,Mobile developer,3
+Swaziland,Product manager,1
+Swaziland,System administrator,1
+Swaziland,Web developer,5
+Sweden,Academic researcher,51
+Sweden,Data Scientist/Engineer/Analyst,109
+Sweden,Database administrator,87
+Sweden,Designer,63
+Sweden,Desktop applications developer,240
+Sweden,DevOps specialist,116
+Sweden,Educator,46
+Sweden,Engineering manager,29
+Sweden,Game developer,59
+Sweden,Marketing or sales professional,2
+Sweden,Mobile developer,133
+Sweden,Product manager,42
+Sweden,Quality assurance engineer,83
+Sweden,Scientist,31
+Sweden,Senior executive,14
+Sweden,Site reliability engineer,38
+Sweden,System administrator,102
+Sweden,Web developer,593
+Switzerland,Academic researcher,60
+Switzerland,Data Scientist/Engineer/Analyst,108
+Switzerland,Database administrator,64
+Switzerland,Designer,36
+Switzerland,Desktop applications developer,150
+Switzerland,DevOps specialist,61
+Switzerland,Educator,29
+Switzerland,Engineering manager,21
+Switzerland,Game developer,16
+Switzerland,Marketing or sales professional,6
+Switzerland,Mobile developer,81
+Switzerland,Product manager,26
+Switzerland,Quality assurance engineer,34
+Switzerland,Scientist,40
+Switzerland,Senior executive,16
+Switzerland,Site reliability engineer,21
+Switzerland,System administrator,61
+Switzerland,Web developer,387
+Syrian Arab Republic,Academic researcher,2
+Syrian Arab Republic,Data Scientist/Engineer/Analyst,2
+Syrian Arab Republic,Database administrator,1
+Syrian Arab Republic,Designer,1
+Syrian Arab Republic,Educator,2
+Syrian Arab Republic,Game developer,1
+Syrian Arab Republic,Marketing or sales professional,1
+Syrian Arab Republic,Mobile developer,3
+Syrian Arab Republic,Product manager,1
+Syrian Arab Republic,Scientist,1
+Syrian Arab Republic,Site reliability engineer,1
+Syrian Arab Republic,System administrator,1
+Syrian Arab Republic,Web developer,8
+Taiwan,Academic researcher,11
+Taiwan,Data Scientist/Engineer/Analyst,22
+Taiwan,Database administrator,12
+Taiwan,Designer,11
+Taiwan,Desktop applications developer,38
+Taiwan,DevOps specialist,12
+Taiwan,Educator,3
+Taiwan,Engineering manager,11
+Taiwan,Game developer,1
+Taiwan,Marketing or sales professional,2
+Taiwan,Mobile developer,29
+Taiwan,Product manager,6
+Taiwan,Quality assurance engineer,7
+Taiwan,Scientist,5
+Taiwan,Senior executive,4
+Taiwan,Site reliability engineer,7
+Taiwan,System administrator,10
+Taiwan,Web developer,80
+Tajikistan,Academic researcher,1
+Tajikistan,Data Scientist/Engineer/Analyst,1
+Tajikistan,Desktop applications developer,2
+Tajikistan,DevOps specialist,1
+Tajikistan,Educator,1
+Tajikistan,Mobile developer,1
+Tajikistan,Scientist,1
+Tajikistan,Site reliability engineer,1
+Tajikistan,System administrator,1
+Tajikistan,Web developer,3
+Thailand,Academic researcher,11
+Thailand,Data Scientist/Engineer/Analyst,27
+Thailand,Database administrator,21
+Thailand,Designer,18
+Thailand,Desktop applications developer,28
+Thailand,DevOps specialist,15
+Thailand,Educator,13
+Thailand,Engineering manager,8
+Thailand,Game developer,11
+Thailand,Marketing or sales professional,11
+Thailand,Mobile developer,28
+Thailand,Product manager,9
+Thailand,Quality assurance engineer,14
+Thailand,Scientist,8
+Thailand,Senior executive,9
+Thailand,Site reliability engineer,8
+Thailand,System administrator,15
+Thailand,Web developer,69
+The former Yugoslav Republic of Macedonia,Academic researcher,1
+The former Yugoslav Republic of Macedonia,Data Scientist/Engineer/Analyst,3
+The former Yugoslav Republic of Macedonia,Database administrator,2
+The former Yugoslav Republic of Macedonia,Designer,5
+The former Yugoslav Republic of Macedonia,Desktop applications developer,6
+The former Yugoslav Republic of Macedonia,DevOps specialist,2
+The former Yugoslav Republic of Macedonia,Educator,6
+The former Yugoslav Republic of Macedonia,Game developer,2
+The former Yugoslav Republic of Macedonia,Marketing or sales professional,1
+The former Yugoslav Republic of Macedonia,Mobile developer,6
+The former Yugoslav Republic of Macedonia,Product manager,2
+The former Yugoslav Republic of Macedonia,Quality assurance engineer,3
+The former Yugoslav Republic of Macedonia,Senior executive,1
+The former Yugoslav Republic of Macedonia,System administrator,1
+The former Yugoslav Republic of Macedonia,Web developer,31
+Timor-Leste,Web developer,1
+Togo,Academic researcher,1
+Togo,Data Scientist/Engineer/Analyst,3
+Togo,Database administrator,4
+Togo,Desktop applications developer,3
+Togo,Educator,2
+Togo,Engineering manager,2
+Togo,Mobile developer,6
+Togo,Scientist,1
+Togo,Senior executive,2
+Togo,System administrator,4
+Togo,Web developer,8
+Trinidad and Tobago,Academic researcher,1
+Trinidad and Tobago,Data Scientist/Engineer/Analyst,2
+Trinidad and Tobago,Database administrator,1
+Trinidad and Tobago,Designer,2
+Trinidad and Tobago,Desktop applications developer,5
+Trinidad and Tobago,DevOps specialist,1
+Trinidad and Tobago,Educator,1
+Trinidad and Tobago,Mobile developer,2
+Trinidad and Tobago,Product manager,1
+Trinidad and Tobago,Quality assurance engineer,1
+Trinidad and Tobago,System administrator,1
+Trinidad and Tobago,Web developer,7
+Tunisia,Academic researcher,6
+Tunisia,Data Scientist/Engineer/Analyst,8
+Tunisia,Database administrator,4
+Tunisia,Designer,9
+Tunisia,Desktop applications developer,18
+Tunisia,DevOps specialist,3
+Tunisia,Educator,6
+Tunisia,Engineering manager,2
+Tunisia,Game developer,4
+Tunisia,Mobile developer,22
+Tunisia,Product manager,5
+Tunisia,Quality assurance engineer,4
+Tunisia,Site reliability engineer,1
+Tunisia,System administrator,5
+Tunisia,Web developer,61
+Turkey,Academic researcher,50
+Turkey,Data Scientist/Engineer/Analyst,97
+Turkey,Database administrator,56
+Turkey,Designer,55
+Turkey,Desktop applications developer,193
+Turkey,DevOps specialist,59
+Turkey,Educator,32
+Turkey,Engineering manager,34
+Turkey,Game developer,44
+Turkey,Marketing or sales professional,8
+Turkey,Mobile developer,177
+Turkey,Product manager,30
+Turkey,Quality assurance engineer,33
+Turkey,Scientist,28
+Turkey,Senior executive,12
+Turkey,Site reliability engineer,13
+Turkey,System administrator,60
+Turkey,Web developer,481
+Turkmenistan,Academic researcher,1
+Turkmenistan,Designer,1
+Turkmenistan,Desktop applications developer,1
+Turkmenistan,Educator,1
+Turkmenistan,Web developer,3
+Uganda,Academic researcher,5
+Uganda,Data Scientist/Engineer/Analyst,21
+Uganda,Database administrator,10
+Uganda,Designer,9
+Uganda,Desktop applications developer,16
+Uganda,DevOps specialist,2
+Uganda,Educator,5
+Uganda,Engineering manager,1
+Uganda,Game developer,1
+Uganda,Marketing or sales professional,3
+Uganda,Mobile developer,20
+Uganda,Product manager,3
+Uganda,Quality assurance engineer,4
+Uganda,Scientist,3
+Uganda,Site reliability engineer,1
+Uganda,System administrator,8
+Uganda,Web developer,45
+Ukraine,Academic researcher,20
+Ukraine,Data Scientist/Engineer/Analyst,69
+Ukraine,Database administrator,34
+Ukraine,Designer,15
+Ukraine,Desktop applications developer,115
+Ukraine,DevOps specialist,55
+Ukraine,Educator,26
+Ukraine,Engineering manager,21
+Ukraine,Game developer,22
+Ukraine,Marketing or sales professional,4
+Ukraine,Mobile developer,81
+Ukraine,Product manager,13
+Ukraine,Quality assurance engineer,30
+Ukraine,Scientist,19
+Ukraine,Senior executive,4
+Ukraine,Site reliability engineer,15
+Ukraine,System administrator,36
+Ukraine,Web developer,344
+United Arab Emirates,Academic researcher,3
+United Arab Emirates,Data Scientist/Engineer/Analyst,13
+United Arab Emirates,Database administrator,7
+United Arab Emirates,Designer,10
+United Arab Emirates,Desktop applications developer,23
+United Arab Emirates,DevOps specialist,7
+United Arab Emirates,Educator,5
+United Arab Emirates,Engineering manager,3
+United Arab Emirates,Game developer,4
+United Arab Emirates,Marketing or sales professional,1
+United Arab Emirates,Mobile developer,29
+United Arab Emirates,Product manager,4
+United Arab Emirates,Quality assurance engineer,8
+United Arab Emirates,Senior executive,1
+United Arab Emirates,Site reliability engineer,1
+United Arab Emirates,System administrator,6
+United Arab Emirates,Web developer,73
+United Kingdom,Academic researcher,146
+United Kingdom,Data Scientist/Engineer/Analyst,504
+United Kingdom,Database administrator,367
+United Kingdom,Designer,322
+United Kingdom,Desktop applications developer,813
+United Kingdom,DevOps specialist,396
+United Kingdom,Educator,110
+United Kingdom,Engineering manager,192
+United Kingdom,Game developer,157
+United Kingdom,Marketing or sales professional,27
+United Kingdom,Mobile developer,450
+United Kingdom,Product manager,113
+United Kingdom,Quality assurance engineer,233
+United Kingdom,Scientist,120
+United Kingdom,Senior executive,92
+United Kingdom,Site reliability engineer,115
+United Kingdom,System administrator,330
+United Kingdom,Web developer,2606
+United Republic of Tanzania,Academic researcher,1
+United Republic of Tanzania,Data Scientist/Engineer/Analyst,4
+United Republic of Tanzania,Database administrator,4
+United Republic of Tanzania,Designer,4
+United Republic of Tanzania,Desktop applications developer,6
+United Republic of Tanzania,DevOps specialist,1
+United Republic of Tanzania,Educator,2
+United Republic of Tanzania,Engineering manager,1
+United Republic of Tanzania,Game developer,3
+United Republic of Tanzania,Marketing or sales professional,1
+United Republic of Tanzania,Mobile developer,9
+United Republic of Tanzania,Product manager,1
+United Republic of Tanzania,Quality assurance engineer,1
+United Republic of Tanzania,Scientist,2
+United Republic of Tanzania,Site reliability engineer,1
+United Republic of Tanzania,System administrator,4
+United Republic of Tanzania,Web developer,17
+United States,Academic researcher,562
+United States,Data Scientist/Engineer/Analyst,2062
+United States,Database administrator,1261
+United States,Designer,1193
+United States,Desktop applications developer,2921
+United States,DevOps specialist,1443
+United States,Educator,531
+United States,Engineering manager,836
+United States,Game developer,563
+United States,Marketing or sales professional,173
+United States,Mobile developer,1443
+United States,Product manager,523
+United States,Quality assurance engineer,908
+United States,Scientist,481
+United States,Senior executive,382
+United States,Site reliability engineer,601
+United States,System administrator,1197
+United States,Web developer,8412
+Uruguay,Academic researcher,8
+Uruguay,Data Scientist/Engineer/Analyst,17
+Uruguay,Database administrator,10
+Uruguay,Designer,8
+Uruguay,Desktop applications developer,21
+Uruguay,DevOps specialist,9
+Uruguay,Educator,7
+Uruguay,Engineering manager,11
+Uruguay,Game developer,2
+Uruguay,Mobile developer,23
+Uruguay,Product manager,8
+Uruguay,Quality assurance engineer,4
+Uruguay,Scientist,3
+Uruguay,Senior executive,4
+Uruguay,Site reliability engineer,3
+Uruguay,System administrator,6
+Uruguay,Web developer,82
+Uzbekistan,Academic researcher,3
+Uzbekistan,Data Scientist/Engineer/Analyst,2
+Uzbekistan,Database administrator,3
+Uzbekistan,Designer,2
+Uzbekistan,Desktop applications developer,2
+Uzbekistan,DevOps specialist,1
+Uzbekistan,Educator,3
+Uzbekistan,Game developer,1
+Uzbekistan,Mobile developer,9
+Uzbekistan,Product manager,1
+Uzbekistan,Quality assurance engineer,1
+Uzbekistan,Senior executive,1
+Uzbekistan,Web developer,17
+"Venezuela, Bolivarian Republic of...",Academic researcher,4
+"Venezuela, Bolivarian Republic of...",Data Scientist/Engineer/Analyst,9
+"Venezuela, Bolivarian Republic of...",Database administrator,14
+"Venezuela, Bolivarian Republic of...",Designer,7
+"Venezuela, Bolivarian Republic of...",Desktop applications developer,19
+"Venezuela, Bolivarian Republic of...",DevOps specialist,4
+"Venezuela, Bolivarian Republic of...",Educator,1
+"Venezuela, Bolivarian Republic of...",Engineering manager,4
+"Venezuela, Bolivarian Republic of...",Game developer,3
+"Venezuela, Bolivarian Republic of...",Marketing or sales professional,1
+"Venezuela, Bolivarian Republic of...",Mobile developer,14
+"Venezuela, Bolivarian Republic of...",Product manager,2
+"Venezuela, Bolivarian Republic of...",Quality assurance engineer,4
+"Venezuela, Bolivarian Republic of...",Scientist,3
+"Venezuela, Bolivarian Republic of...",Senior executive,1
+"Venezuela, Bolivarian Republic of...",Site reliability engineer,3
+"Venezuela, Bolivarian Republic of...",System administrator,13
+"Venezuela, Bolivarian Republic of...",Web developer,48
+Viet Nam,Academic researcher,24
+Viet Nam,Data Scientist/Engineer/Analyst,44
+Viet Nam,Database administrator,17
+Viet Nam,Designer,20
+Viet Nam,Desktop applications developer,44
+Viet Nam,DevOps specialist,19
+Viet Nam,Educator,16
+Viet Nam,Engineering manager,15
+Viet Nam,Game developer,14
+Viet Nam,Marketing or sales professional,5
+Viet Nam,Mobile developer,38
+Viet Nam,Product manager,7
+Viet Nam,Quality assurance engineer,9
+Viet Nam,Scientist,7
+Viet Nam,Senior executive,2
+Viet Nam,Site reliability engineer,6
+Viet Nam,System administrator,19
+Viet Nam,Web developer,151
+Yemen,Academic researcher,1
+Yemen,Data Scientist/Engineer/Analyst,1
+Yemen,Database administrator,2
+Yemen,Designer,2
+Yemen,Desktop applications developer,2
+Yemen,DevOps specialist,1
+Yemen,Marketing or sales professional,1
+Yemen,System administrator,1
+Yemen,Web developer,3
+Zambia,Academic researcher,3
+Zambia,Data Scientist/Engineer/Analyst,6
+Zambia,Database administrator,6
+Zambia,Designer,4
+Zambia,Desktop applications developer,5
+Zambia,Educator,3
+Zambia,Engineering manager,1
+Zambia,Game developer,2
+Zambia,Mobile developer,8
+Zambia,Product manager,1
+Zambia,Scientist,1
+Zambia,Site reliability engineer,1
+Zambia,System administrator,6
+Zambia,Web developer,14
+Zimbabwe,Academic researcher,1
+Zimbabwe,Data Scientist/Engineer/Analyst,7
+Zimbabwe,Database administrator,2
+Zimbabwe,Designer,9
+Zimbabwe,Desktop applications developer,7
+Zimbabwe,DevOps specialist,1
+Zimbabwe,Educator,2
+Zimbabwe,Engineering manager,1
+Zimbabwe,Game developer,1
+Zimbabwe,Mobile developer,5
+Zimbabwe,Product manager,3
+Zimbabwe,Quality assurance engineer,4
+Zimbabwe,Scientist,2
+Zimbabwe,Senior executive,2
+Zimbabwe,System administrator,1
+Zimbabwe,Web developer,18

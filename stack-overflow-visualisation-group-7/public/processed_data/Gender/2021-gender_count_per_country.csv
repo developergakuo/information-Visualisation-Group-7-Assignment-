@@ -1,0 +1,465 @@
+Country,Gender,GenderCount
+Afghanistan,Man,28.0
+Afghanistan,"Non-binary, genderqueer, or gender non-conforming",1.0
+Afghanistan,Woman,4.0
+Afghanistan,Woman;Man,1.0
+Albania,Man,32.0
+Albania,Woman,1.0
+Algeria,Man,58.0
+Algeria,"Non-binary, genderqueer, or gender non-conforming",1.0
+Algeria,Woman,5.0
+Andorra,Man,3.0
+Angola,Man,2.0
+Angola,Woman,1.0
+Antigua and Barbuda,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Argentina,Man,295.0
+Argentina,"Non-binary, genderqueer, or gender non-conforming",1.0
+Argentina,Woman,19.0
+Argentina,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Argentina,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Armenia,Man,38.0
+Armenia,Woman,7.0
+Australia,Man,914.0
+Australia,"Man;Non-binary, genderqueer, or gender non-conforming",7.0
+Australia,"Non-binary, genderqueer, or gender non-conforming",13.0
+Australia,Woman,91.0
+Australia,"Woman;Non-binary, genderqueer, or gender non-conforming",2.0
+Austria,Man,436.0
+Austria,"Non-binary, genderqueer, or gender non-conforming",3.0
+Austria,Woman,31.0
+Austria,Woman;Man,1.0
+Azerbaijan,Man,22.0
+Azerbaijan,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Azerbaijan,Woman,5.0
+Bahamas,Man,1.0
+Bahamas,Woman,1.0
+Bahrain,Man,6.0
+Bahrain,Woman,1.0
+Bangladesh,Man,376.0
+Bangladesh,"Non-binary, genderqueer, or gender non-conforming",1.0
+Bangladesh,Woman,12.0
+Bangladesh,Woman;Man,9.0
+Bangladesh,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",3.0
+Barbados,Man,3.0
+Belarus,Man,102.0
+Belarus,Woman,5.0
+Belgium,Man,365.0
+Belgium,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Belgium,Woman,14.0
+Belize,Man,3.0
+Benin,Man,7.0
+Bhutan,Man,2.0
+Bhutan,"Non-binary, genderqueer, or gender non-conforming",1.0
+Bhutan,Woman,1.0
+Bolivia,Man,29.0
+Bosnia and Herzegovina,Man,60.0
+Bosnia and Herzegovina,"Non-binary, genderqueer, or gender non-conforming",1.0
+Bosnia and Herzegovina,Woman,11.0
+Botswana,Man,8.0
+Brazil,Man,1362.0
+Brazil,"Man;Non-binary, genderqueer, or gender non-conforming",3.0
+Brazil,"Non-binary, genderqueer, or gender non-conforming",5.0
+Brazil,Woman,77.0
+Brazil,Woman;Man,1.0
+Brazil,"Woman;Non-binary, genderqueer, or gender non-conforming",3.0
+Brunei Darussalam,Man,2.0
+Bulgaria,Man,244.0
+Bulgaria,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Bulgaria,Woman,27.0
+Bulgaria,Woman;Man,1.0
+Bulgaria,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Burkina Faso,Man,3.0
+Cambodia,Man,15.0
+Cameroon,Man,32.0
+Cameroon,Woman,1.0
+Canada,Man,1614.0
+Canada,"Man;Non-binary, genderqueer, or gender non-conforming",4.0
+Canada,"Non-binary, genderqueer, or gender non-conforming",23.0
+Canada,Woman,176.0
+Canada,Woman;Man,3.0
+Canada,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Canada,"Woman;Non-binary, genderqueer, or gender non-conforming",6.0
+Cape Verde,Man,1.0
+Chile,Man,122.0
+Chile,Woman,8.0
+Chile,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+China,Man,213.0
+China,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+China,"Non-binary, genderqueer, or gender non-conforming",2.0
+China,Woman,10.0
+China,Woman;Man,2.0
+China,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+China,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Colombia,Man,214.0
+Colombia,"Non-binary, genderqueer, or gender non-conforming",1.0
+Colombia,Woman,7.0
+"Congo, Republic of the...",Man,3.0
+Costa Rica,Man,56.0
+Costa Rica,"Non-binary, genderqueer, or gender non-conforming",1.0
+Costa Rica,Woman,3.0
+Croatia,Man,149.0
+Croatia,Woman,9.0
+Cuba,Man,19.0
+Cyprus,Man,40.0
+Cyprus,Woman,1.0
+Czech Republic,Man,414.0
+Czech Republic,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Czech Republic,"Non-binary, genderqueer, or gender non-conforming",3.0
+Czech Republic,Woman,6.0
+CÃ´te d'Ivoire,Man,10.0
+CÃ´te d'Ivoire,Woman,1.0
+Democratic Republic of the Congo,Man,5.0
+Denmark,Man,312.0
+Denmark,"Man;Non-binary, genderqueer, or gender non-conforming",4.0
+Denmark,"Non-binary, genderqueer, or gender non-conforming",1.0
+Denmark,Woman,21.0
+Denmark,Woman;Man,1.0
+Denmark,"Woman;Non-binary, genderqueer, or gender non-conforming",2.0
+Djibouti,Man,2.0
+Dominican Republic,Man,55.0
+Dominican Republic,Woman,1.0
+Ecuador,Man,38.0
+Egypt,Man,169.0
+Egypt,Woman,15.0
+Egypt,Woman;Man,1.0
+Egypt,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+El Salvador,Man,19.0
+Eritrea,Man,2.0
+Estonia,Man,115.0
+Estonia,Woman,4.0
+Estonia,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Ethiopia,Man,42.0
+Ethiopia,Woman;Man,1.0
+Finland,Man,286.0
+Finland,"Non-binary, genderqueer, or gender non-conforming",1.0
+Finland,Woman,19.0
+Finland,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+France,Man,1421.0
+France,"Man;Non-binary, genderqueer, or gender non-conforming",6.0
+France,"Non-binary, genderqueer, or gender non-conforming",18.0
+France,Woman,106.0
+France,"Woman;Non-binary, genderqueer, or gender non-conforming",3.0
+Gambia,Man,2.0
+Georgia,Man,46.0
+Georgia,Woman,4.0
+Germany,Man,3107.0
+Germany,"Man;Non-binary, genderqueer, or gender non-conforming",11.0
+Germany,"Non-binary, genderqueer, or gender non-conforming",29.0
+Germany,Woman,190.0
+Germany,Woman;Man,1.0
+Germany,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Germany,"Woman;Non-binary, genderqueer, or gender non-conforming",2.0
+Ghana,Man,80.0
+Ghana,Woman,1.0
+Greece,Man,303.0
+Greece,"Non-binary, genderqueer, or gender non-conforming",2.0
+Greece,Woman,21.0
+Guatemala,Man,40.0
+Guinea,Man,1.0
+Guyana,Man,2.0
+Guyana,Woman,1.0
+Haiti,Man,3.0
+Honduras,Man,15.0
+Hong Kong (S.A.R.),Man,75.0
+Hong Kong (S.A.R.),"Non-binary, genderqueer, or gender non-conforming",2.0
+Hong Kong (S.A.R.),Woman,8.0
+Hungary,Man,294.0
+Hungary,Woman,9.0
+Iceland,Man,36.0
+Iceland,"Non-binary, genderqueer, or gender non-conforming",1.0
+Iceland,Woman,2.0
+India,Man,5002.0
+India,"Man;Non-binary, genderqueer, or gender non-conforming",5.0
+India,"Non-binary, genderqueer, or gender non-conforming",12.0
+India,Woman,370.0
+India,Woman;Man,21.0
+India,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",4.0
+India,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Indonesia,Man,298.0
+Indonesia,"Non-binary, genderqueer, or gender non-conforming",2.0
+Indonesia,Woman,14.0
+Indonesia,Woman;Man,1.0
+Indonesia,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Indonesia,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Iran,Man,362.0
+Iran,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Iran,"Non-binary, genderqueer, or gender non-conforming",5.0
+Iran,Woman,18.0
+Iran,Woman;Man,2.0
+Iraq,Man,24.0
+Iraq,Woman,5.0
+Iraq,Woman;Man,1.0
+Ireland,Man,319.0
+Ireland,"Non-binary, genderqueer, or gender non-conforming",4.0
+Ireland,Woman,33.0
+Isle of Man,Man,4.0
+Isle of Man,Woman,2.0
+Israel,Man,469.0
+Israel,"Non-binary, genderqueer, or gender non-conforming",3.0
+Israel,Woman,56.0
+Israel,Woman;Man,1.0
+Italy,Man,894.0
+Italy,"Non-binary, genderqueer, or gender non-conforming",6.0
+Italy,Woman,29.0
+Jamaica,Man,10.0
+Jamaica,Woman,1.0
+Japan,Man,209.0
+Japan,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Japan,"Non-binary, genderqueer, or gender non-conforming",2.0
+Japan,Woman,15.0
+Jordan,Man,37.0
+Jordan,Woman,5.0
+Kazakhstan,Man,44.0
+Kazakhstan,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Kazakhstan,Woman,5.0
+Kenya,Man,192.0
+Kenya,"Man;Non-binary, genderqueer, or gender non-conforming",2.0
+Kenya,Woman,14.0
+Kenya,Woman;Man,1.0
+Kosovo,Man,20.0
+Kosovo,Woman,2.0
+Kuwait,Man,10.0
+Kuwait,"Non-binary, genderqueer, or gender non-conforming",1.0
+Kyrgyzstan,Man,13.0
+Kyrgyzstan,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Kyrgyzstan,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Lao People's Democratic Republic,Man,3.0
+Lao People's Democratic Republic,"Non-binary, genderqueer, or gender non-conforming",1.0
+Latvia,Man,95.0
+Latvia,Woman,10.0
+Lebanon,Man,56.0
+Lebanon,Woman,5.0
+Lesotho,Man,1.0
+Libyan Arab Jamahiriya,Man,4.0
+Liechtenstein,Man,1.0
+Lithuania,Man,139.0
+Lithuania,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Lithuania,"Non-binary, genderqueer, or gender non-conforming",1.0
+Lithuania,Woman,5.0
+Luxembourg,Man,38.0
+Madagascar,Man,17.0
+Madagascar,Woman,1.0
+Malawi,Man,5.0
+Malaysia,Man,148.0
+Malaysia,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Malaysia,Woman,21.0
+Maldives,Man,7.0
+Malta,Man,34.0
+Malta,"Non-binary, genderqueer, or gender non-conforming",1.0
+Malta,Woman,4.0
+Mauritania,Man,2.0
+Mauritius,Man,10.0
+Mauritius,Woman,4.0
+Mexico,Man,381.0
+Mexico,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Mexico,"Non-binary, genderqueer, or gender non-conforming",4.0
+Mexico,Woman,31.0
+Mexico,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Monaco,Man,1.0
+Mongolia,Man,6.0
+Montenegro,Man,11.0
+Montenegro,Woman,1.0
+Morocco,Man,97.0
+Morocco,Woman,9.0
+Mozambique,Man,6.0
+Myanmar,Man,27.0
+Myanmar,Woman,7.0
+Namibia,Man,3.0
+Namibia,Woman,2.0
+Nauru,Man,1.0
+Nepal,Man,176.0
+Nepal,"Non-binary, genderqueer, or gender non-conforming",1.0
+Nepal,Woman,4.0
+Nepal,Woman;Man,1.0
+Netherlands,Man,1036.0
+Netherlands,"Man;Non-binary, genderqueer, or gender non-conforming",3.0
+Netherlands,"Non-binary, genderqueer, or gender non-conforming",7.0
+Netherlands,Woman,86.0
+Netherlands,Woman;Man,1.0
+Netherlands,"Woman;Non-binary, genderqueer, or gender non-conforming",4.0
+New Zealand,Man,274.0
+New Zealand,"Man;Non-binary, genderqueer, or gender non-conforming",2.0
+New Zealand,"Non-binary, genderqueer, or gender non-conforming",3.0
+New Zealand,Woman,24.0
+New Zealand,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Nicaragua,Man,25.0
+Nicaragua,Woman,3.0
+Niger,Man,2.0
+Nigeria,Man,408.0
+Nigeria,"Non-binary, genderqueer, or gender non-conforming",1.0
+Nigeria,Woman,31.0
+Nigeria,Woman;Man,2.0
+Nomadic,Man,16.0
+Nomadic,"Non-binary, genderqueer, or gender non-conforming",2.0
+Nomadic,Woman,1.0
+Norway,Man,317.0
+Norway,"Non-binary, genderqueer, or gender non-conforming",3.0
+Norway,Woman,22.0
+Oman,Man,5.0
+Oman,Woman,1.0
+Pakistan,Man,526.0
+Pakistan,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Pakistan,Woman,36.0
+Pakistan,Woman;Man,5.0
+Panama,Man,18.0
+Panama,Woman,1.0
+Papua New Guinea,Man,1.0
+Paraguay,Man,14.0
+Paraguay,Woman,4.0
+Peru,Man,71.0
+Peru,Woman,4.0
+Philippines,Man,249.0
+Philippines,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Philippines,"Non-binary, genderqueer, or gender non-conforming",5.0
+Philippines,Woman,32.0
+Poland,Man,1029.0
+Poland,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Poland,"Non-binary, genderqueer, or gender non-conforming",3.0
+Poland,Woman,48.0
+Poland,Woman;Man,1.0
+Poland,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Poland,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Portugal,Man,315.0
+Portugal,"Man;Non-binary, genderqueer, or gender non-conforming",2.0
+Portugal,"Non-binary, genderqueer, or gender non-conforming",3.0
+Portugal,Woman,15.0
+Qatar,Man,9.0
+Qatar,"Non-binary, genderqueer, or gender non-conforming",1.0
+Qatar,Woman,3.0
+Republic of Korea,Man,48.0
+Republic of Korea,Woman,3.0
+Republic of Moldova,Man,41.0
+Republic of Moldova,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Romania,Man,431.0
+Romania,Woman,71.0
+Romania,Woman;Man,1.0
+Romania,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Russian Federation,Man,806.0
+Russian Federation,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Russian Federation,"Non-binary, genderqueer, or gender non-conforming",1.0
+Russian Federation,Woman,66.0
+Russian Federation,Woman;Man,1.0
+Russian Federation,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Russian Federation,"Woman;Non-binary, genderqueer, or gender non-conforming",3.0
+Rwanda,Man,22.0
+Rwanda,Woman,3.0
+Saint Lucia,Man,1.0
+Saint Vincent and the Grenadines,Man,3.0
+San Marino,Man,2.0
+Saudi Arabia,Man,43.0
+Saudi Arabia,"Non-binary, genderqueer, or gender non-conforming",1.0
+Saudi Arabia,Woman,3.0
+Senegal,Man,14.0
+Senegal,Woman,1.0
+Senegal,Woman;Man,1.0
+Serbia,Man,222.0
+Serbia,Woman,29.0
+Serbia,Woman;Man,1.0
+Serbia,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Sierra Leone,Man,4.0
+Singapore,Man,161.0
+Singapore,"Non-binary, genderqueer, or gender non-conforming",1.0
+Singapore,Woman,20.0
+Slovakia,Man,149.0
+Slovakia,"Non-binary, genderqueer, or gender non-conforming",1.0
+Slovakia,Woman,4.0
+Slovenia,Man,117.0
+Slovenia,Woman,6.0
+Solomon Islands,Man,2.0
+Somalia,Man,10.0
+Somalia,Woman,1.0
+South Africa,Man,373.0
+South Africa,"Non-binary, genderqueer, or gender non-conforming",2.0
+South Africa,Woman,38.0
+South Korea,Man,133.0
+South Korea,"Non-binary, genderqueer, or gender non-conforming",1.0
+South Korea,Woman,12.0
+South Korea,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Spain,Man,876.0
+Spain,"Man;Non-binary, genderqueer, or gender non-conforming",2.0
+Spain,"Non-binary, genderqueer, or gender non-conforming",9.0
+Spain,Woman,56.0
+Spain,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Sri Lanka,Man,184.0
+Sri Lanka,"Non-binary, genderqueer, or gender non-conforming",2.0
+Sri Lanka,Woman,18.0
+Sri Lanka,Woman;Man,1.0
+Sudan,Man,17.0
+Sudan,Woman,5.0
+Swaziland,Man,2.0
+Swaziland,Woman,1.0
+Sweden,Man,716.0
+Sweden,"Man;Non-binary, genderqueer, or gender non-conforming",2.0
+Sweden,"Non-binary, genderqueer, or gender non-conforming",10.0
+Sweden,Woman,28.0
+Sweden,Woman;Man,1.0
+Sweden,"Woman;Non-binary, genderqueer, or gender non-conforming",2.0
+Switzerland,Man,499.0
+Switzerland,"Non-binary, genderqueer, or gender non-conforming",4.0
+Switzerland,Woman,24.0
+Switzerland,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Syrian Arab Republic,Man,10.0
+Syrian Arab Republic,"Non-binary, genderqueer, or gender non-conforming",1.0
+Taiwan,Man,107.0
+Taiwan,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Taiwan,Woman,8.0
+Tajikistan,Man,3.0
+Thailand,Man,89.0
+Thailand,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Thailand,"Non-binary, genderqueer, or gender non-conforming",1.0
+Thailand,Woman,5.0
+The former Yugoslav Republic of Macedonia,Man,26.0
+The former Yugoslav Republic of Macedonia,Woman,1.0
+Timor-Leste,Man,1.0
+Togo,Man,9.0
+Trinidad and Tobago,Man,6.0
+Trinidad and Tobago,Woman,1.0
+Tunisia,Man,61.0
+Tunisia,Woman,14.0
+Turkey,Man,546.0
+Turkey,"Non-binary, genderqueer, or gender non-conforming",1.0
+Turkey,Woman,41.0
+Turkey,Woman;Man,1.0
+Turkey,"Woman;Non-binary, genderqueer, or gender non-conforming",1.0
+Turkmenistan,Man,2.0
+Uganda,Man,58.0
+Uganda,Woman,5.0
+Ukraine,Man,389.0
+Ukraine,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Ukraine,"Non-binary, genderqueer, or gender non-conforming",1.0
+Ukraine,Woman,30.0
+Ukraine,Woman;Man,1.0
+United Arab Emirates,Man,69.0
+United Arab Emirates,Woman,5.0
+United Kingdom,Man,2900.0
+United Kingdom,"Man;Non-binary, genderqueer, or gender non-conforming",7.0
+United Kingdom,"Non-binary, genderqueer, or gender non-conforming",35.0
+United Kingdom,Woman,326.0
+United Kingdom,Woman;Man,1.0
+United Kingdom,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+United Kingdom,"Woman;Non-binary, genderqueer, or gender non-conforming",4.0
+United Republic of Tanzania,Man,19.0
+United Republic of Tanzania,Woman,1.0
+United States,Man,9176.0
+United States,"Man;Non-binary, genderqueer, or gender non-conforming",42.0
+United States,"Non-binary, genderqueer, or gender non-conforming",131.0
+United States,Woman,1086.0
+United States,Woman;Man,6.0
+United States,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",3.0
+United States,"Woman;Non-binary, genderqueer, or gender non-conforming",46.0
+Uruguay,Man,82.0
+Uruguay,Woman,2.0
+Uzbekistan,Man,24.0
+Uzbekistan,Woman,1.0
+"Venezuela, Bolivarian Republic of...",Man,57.0
+"Venezuela, Bolivarian Republic of...",Woman,2.0
+"Venezuela, Bolivarian Republic of...",Woman;Man,1.0
+Viet Nam,Man,202.0
+Viet Nam,"Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Viet Nam,"Non-binary, genderqueer, or gender non-conforming",1.0
+Viet Nam,Woman,6.0
+Viet Nam,"Woman;Man;Non-binary, genderqueer, or gender non-conforming",1.0
+Yemen,Man,2.0
+Zambia,Man,13.0
+Zambia,Woman;Man,1.0
+Zimbabwe,Man,22.0

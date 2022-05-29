@@ -1,0 +1,4559 @@
+Country,LanguageWorkedWith,LanguageWorkedWithCount
+Afghanistan,Assembly,6.0
+Afghanistan,Bash/Shell,4.0
+Afghanistan,C,7.0
+Afghanistan,C#,6.0
+Afghanistan,C++,9.0
+Afghanistan,CSS,17.0
+Afghanistan,Clojure,2.0
+Afghanistan,Cobol,1.0
+Afghanistan,CoffeeScript,3.0
+Afghanistan,Delphi/Object Pascal,1.0
+Afghanistan,Erlang,2.0
+Afghanistan,F#,2.0
+Afghanistan,Go,2.0
+Afghanistan,Groovy,2.0
+Afghanistan,HTML,17.0
+Afghanistan,Hack,2.0
+Afghanistan,Haskell,2.0
+Afghanistan,Java,12.0
+Afghanistan,JavaScript,12.0
+Afghanistan,Julia,2.0
+Afghanistan,Kotlin,2.0
+Afghanistan,Lua,2.0
+Afghanistan,Matlab,2.0
+Afghanistan,Objective-C,1.0
+Afghanistan,Ocaml,1.0
+Afghanistan,PHP,10.0
+Afghanistan,Perl,4.0
+Afghanistan,Python,3.0
+Afghanistan,R,1.0
+Afghanistan,Ruby,2.0
+Afghanistan,Rust,2.0
+Afghanistan,SQL,11.0
+Afghanistan,Scala,1.0
+Afghanistan,Swift,3.0
+Afghanistan,TypeScript,3.0
+Afghanistan,VB.NET,3.0
+Afghanistan,VBA,1.0
+Afghanistan,Visual Basic 6,2.0
+Albania,Assembly,7.0
+Albania,Bash/Shell,8.0
+Albania,C,10.0
+Albania,C#,27.0
+Albania,C++,16.0
+Albania,CSS,41.0
+Albania,Clojure,1.0
+Albania,CoffeeScript,2.0
+Albania,Delphi/Object Pascal,1.0
+Albania,Erlang,1.0
+Albania,Go,3.0
+Albania,Groovy,1.0
+Albania,HTML,43.0
+Albania,Haskell,1.0
+Albania,Java,29.0
+Albania,JavaScript,44.0
+Albania,Lua,1.0
+Albania,Matlab,5.0
+Albania,Objective-C,6.0
+Albania,PHP,30.0
+Albania,Perl,1.0
+Albania,Python,19.0
+Albania,Ruby,3.0
+Albania,SQL,36.0
+Albania,Swift,7.0
+Albania,TypeScript,8.0
+Albania,VB.NET,2.0
+Albania,VBA,3.0
+Albania,Visual Basic 6,1.0
+Algeria,Assembly,13.0
+Algeria,Bash/Shell,17.0
+Algeria,C,29.0
+Algeria,C#,18.0
+Algeria,C++,25.0
+Algeria,CSS,57.0
+Algeria,Delphi/Object Pascal,21.0
+Algeria,F#,1.0
+Algeria,Go,2.0
+Algeria,Groovy,1.0
+Algeria,HTML,57.0
+Algeria,Hack,1.0
+Algeria,Java,44.0
+Algeria,JavaScript,42.0
+Algeria,Julia,1.0
+Algeria,Kotlin,4.0
+Algeria,Lua,1.0
+Algeria,Matlab,12.0
+Algeria,Ocaml,1.0
+Algeria,PHP,34.0
+Algeria,Perl,3.0
+Algeria,Python,17.0
+Algeria,R,2.0
+Algeria,Ruby,2.0
+Algeria,SQL,46.0
+Algeria,Scala,1.0
+Algeria,Swift,2.0
+Algeria,TypeScript,5.0
+Algeria,VB.NET,3.0
+Algeria,VBA,6.0
+Algeria,Visual Basic 6,3.0
+Andorra,Assembly,2.0
+Andorra,Bash/Shell,2.0
+Andorra,C,1.0
+Andorra,C#,1.0
+Andorra,C++,3.0
+Andorra,CSS,2.0
+Andorra,Cobol,2.0
+Andorra,CoffeeScript,1.0
+Andorra,Delphi/Object Pascal,2.0
+Andorra,HTML,4.0
+Andorra,Java,1.0
+Andorra,JavaScript,2.0
+Andorra,Kotlin,1.0
+Andorra,Matlab,1.0
+Andorra,Objective-C,1.0
+Andorra,Python,1.0
+Andorra,R,1.0
+Andorra,Ruby,2.0
+Andorra,Rust,1.0
+Andorra,SQL,3.0
+Andorra,Scala,1.0
+Andorra,Swift,3.0
+Andorra,TypeScript,2.0
+Andorra,VB.NET,1.0
+Andorra,VBA,2.0
+Andorra,Visual Basic 6,1.0
+Angola,Assembly,1.0
+Angola,C,1.0
+Angola,C#,2.0
+Angola,CSS,1.0
+Angola,HTML,1.0
+Angola,Java,3.0
+Angola,PHP,3.0
+Angola,SQL,2.0
+Angola,Swift,1.0
+Antigua and Barbuda,C#,1.0
+Antigua and Barbuda,C++,1.0
+Antigua and Barbuda,CSS,1.0
+Antigua and Barbuda,Clojure,1.0
+Antigua and Barbuda,CoffeeScript,1.0
+Antigua and Barbuda,HTML,1.0
+Antigua and Barbuda,JavaScript,1.0
+Antigua and Barbuda,PHP,1.0
+Argentina,Assembly,31.0
+Argentina,Bash/Shell,177.0
+Argentina,C,84.0
+Argentina,C#,142.0
+Argentina,C++,89.0
+Argentina,CSS,323.0
+Argentina,Clojure,6.0
+Argentina,Cobol,4.0
+Argentina,CoffeeScript,19.0
+Argentina,Delphi/Object Pascal,18.0
+Argentina,Erlang,8.0
+Argentina,F#,5.0
+Argentina,Go,16.0
+Argentina,Groovy,25.0
+Argentina,HTML,335.0
+Argentina,Hack,1.0
+Argentina,Haskell,19.0
+Argentina,Java,204.0
+Argentina,JavaScript,351.0
+Argentina,Julia,1.0
+Argentina,Kotlin,17.0
+Argentina,Lua,11.0
+Argentina,Matlab,14.0
+Argentina,Objective-C,18.0
+Argentina,Ocaml,1.0
+Argentina,PHP,150.0
+Argentina,Perl,11.0
+Argentina,Python,151.0
+Argentina,R,18.0
+Argentina,Ruby,50.0
+Argentina,Rust,6.0
+Argentina,SQL,275.0
+Argentina,Scala,19.0
+Argentina,Swift,21.0
+Argentina,TypeScript,75.0
+Argentina,VB.NET,39.0
+Argentina,VBA,20.0
+Argentina,Visual Basic 6,39.0
+Armenia,Assembly,6.0
+Armenia,Bash/Shell,22.0
+Armenia,C,9.0
+Armenia,C#,12.0
+Armenia,C++,19.0
+Armenia,CSS,44.0
+Armenia,Clojure,1.0
+Armenia,Cobol,1.0
+Armenia,CoffeeScript,2.0
+Armenia,Delphi/Object Pascal,1.0
+Armenia,Erlang,1.0
+Armenia,F#,1.0
+Armenia,Go,3.0
+Armenia,Groovy,5.0
+Armenia,HTML,46.0
+Armenia,Hack,1.0
+Armenia,Haskell,1.0
+Armenia,Java,27.0
+Armenia,JavaScript,47.0
+Armenia,Julia,1.0
+Armenia,Kotlin,1.0
+Armenia,Lua,2.0
+Armenia,Matlab,5.0
+Armenia,Objective-C,7.0
+Armenia,Ocaml,1.0
+Armenia,PHP,24.0
+Armenia,Perl,5.0
+Armenia,Python,20.0
+Armenia,R,5.0
+Armenia,Ruby,5.0
+Armenia,Rust,1.0
+Armenia,SQL,40.0
+Armenia,Scala,2.0
+Armenia,Swift,8.0
+Armenia,TypeScript,18.0
+Armenia,VB.NET,2.0
+Armenia,VBA,3.0
+Armenia,Visual Basic 6,2.0
+Australia,Assembly,79.0
+Australia,Bash/Shell,740.0
+Australia,C,306.0
+Australia,C#,636.0
+Australia,C++,315.0
+Australia,CSS,1104.0
+Australia,Clojure,26.0
+Australia,Cobol,6.0
+Australia,CoffeeScript,71.0
+Australia,Delphi/Object Pascal,42.0
+Australia,Erlang,17.0
+Australia,F#,25.0
+Australia,Go,128.0
+Australia,Groovy,80.0
+Australia,HTML,1138.0
+Australia,Hack,6.0
+Australia,Haskell,57.0
+Australia,Java,537.0
+Australia,JavaScript,1193.0
+Australia,Julia,8.0
+Australia,Kotlin,52.0
+Australia,Lua,65.0
+Australia,Matlab,76.0
+Australia,Objective-C,139.0
+Australia,Ocaml,6.0
+Australia,PHP,428.0
+Australia,Perl,85.0
+Australia,Python,633.0
+Australia,R,127.0
+Australia,Ruby,223.0
+Australia,Rust,63.0
+Australia,SQL,963.0
+Australia,Scala,70.0
+Australia,Swift,157.0
+Australia,TypeScript,347.0
+Australia,VB.NET,116.0
+Australia,VBA,99.0
+Australia,Visual Basic 6,52.0
+Austria,Assembly,47.0
+Austria,Bash/Shell,281.0
+Austria,C,178.0
+Austria,C#,241.0
+Austria,C++,179.0
+Austria,CSS,409.0
+Austria,Clojure,3.0
+Austria,Cobol,6.0
+Austria,CoffeeScript,14.0
+Austria,Delphi/Object Pascal,20.0
+Austria,Erlang,5.0
+Austria,F#,16.0
+Austria,Go,42.0
+Austria,Groovy,30.0
+Austria,HTML,425.0
+Austria,Haskell,22.0
+Austria,Java,326.0
+Austria,JavaScript,422.0
+Austria,Julia,3.0
+Austria,Kotlin,40.0
+Austria,Lua,26.0
+Austria,Matlab,62.0
+Austria,Objective-C,31.0
+Austria,Ocaml,4.0
+Austria,PHP,216.0
+Austria,Perl,32.0
+Austria,Python,225.0
+Austria,R,55.0
+Austria,Ruby,35.0
+Austria,Rust,20.0
+Austria,SQL,343.0
+Austria,Scala,32.0
+Austria,Swift,53.0
+Austria,TypeScript,144.0
+Austria,VB.NET,34.0
+Austria,VBA,47.0
+Austria,Visual Basic 6,23.0
+Azerbaijan,Assembly,2.0
+Azerbaijan,Bash/Shell,17.0
+Azerbaijan,C,7.0
+Azerbaijan,C#,21.0
+Azerbaijan,C++,12.0
+Azerbaijan,CSS,42.0
+Azerbaijan,Delphi/Object Pascal,6.0
+Azerbaijan,Go,1.0
+Azerbaijan,Groovy,2.0
+Azerbaijan,HTML,43.0
+Azerbaijan,Java,27.0
+Azerbaijan,JavaScript,36.0
+Azerbaijan,Julia,1.0
+Azerbaijan,Lua,1.0
+Azerbaijan,Matlab,3.0
+Azerbaijan,Objective-C,3.0
+Azerbaijan,PHP,21.0
+Azerbaijan,Perl,2.0
+Azerbaijan,Python,15.0
+Azerbaijan,R,2.0
+Azerbaijan,Ruby,3.0
+Azerbaijan,Rust,2.0
+Azerbaijan,SQL,39.0
+Azerbaijan,Scala,1.0
+Azerbaijan,Swift,3.0
+Azerbaijan,TypeScript,5.0
+Azerbaijan,VB.NET,1.0
+Azerbaijan,VBA,2.0
+Azerbaijan,Visual Basic 6,2.0
+Bahamas,Bash/Shell,2.0
+Bahamas,C#,1.0
+Bahamas,CSS,1.0
+Bahamas,HTML,2.0
+Bahamas,Java,1.0
+Bahamas,JavaScript,1.0
+Bahamas,Objective-C,1.0
+Bahamas,PHP,2.0
+Bahamas,R,1.0
+Bahamas,SQL,2.0
+Bahamas,Swift,1.0
+Bahamas,TypeScript,1.0
+Bahrain,Assembly,1.0
+Bahrain,Bash/Shell,3.0
+Bahrain,C,3.0
+Bahrain,C#,7.0
+Bahrain,C++,6.0
+Bahrain,CSS,7.0
+Bahrain,Cobol,1.0
+Bahrain,HTML,8.0
+Bahrain,Java,7.0
+Bahrain,JavaScript,6.0
+Bahrain,Objective-C,1.0
+Bahrain,PHP,7.0
+Bahrain,Python,2.0
+Bahrain,SQL,9.0
+Bahrain,Scala,1.0
+Bahrain,Swift,2.0
+Bahrain,VB.NET,2.0
+Bahrain,VBA,2.0
+Bahrain,Visual Basic 6,3.0
+Bangladesh,Assembly,62.0
+Bangladesh,Bash/Shell,109.0
+Bangladesh,C,188.0
+Bangladesh,C#,162.0
+Bangladesh,C++,143.0
+Bangladesh,CSS,359.0
+Bangladesh,Clojure,2.0
+Bangladesh,Cobol,1.0
+Bangladesh,CoffeeScript,8.0
+Bangladesh,Delphi/Object Pascal,4.0
+Bangladesh,Erlang,3.0
+Bangladesh,F#,3.0
+Bangladesh,Go,16.0
+Bangladesh,Groovy,9.0
+Bangladesh,HTML,375.0
+Bangladesh,Hack,4.0
+Bangladesh,Haskell,3.0
+Bangladesh,Java,250.0
+Bangladesh,JavaScript,351.0
+Bangladesh,Julia,2.0
+Bangladesh,Kotlin,18.0
+Bangladesh,Lua,11.0
+Bangladesh,Matlab,33.0
+Bangladesh,Objective-C,34.0
+Bangladesh,Ocaml,2.0
+Bangladesh,PHP,286.0
+Bangladesh,Perl,11.0
+Bangladesh,Python,151.0
+Bangladesh,R,13.0
+Bangladesh,Ruby,20.0
+Bangladesh,Rust,3.0
+Bangladesh,SQL,297.0
+Bangladesh,Scala,4.0
+Bangladesh,Swift,44.0
+Bangladesh,TypeScript,49.0
+Bangladesh,VB.NET,26.0
+Bangladesh,VBA,6.0
+Bangladesh,Visual Basic 6,25.0
+Barbados,C#,1.0
+Barbados,C++,1.0
+Barbados,CSS,2.0
+Barbados,HTML,2.0
+Barbados,Java,2.0
+Barbados,JavaScript,3.0
+Barbados,PHP,1.0
+Barbados,SQL,2.0
+Barbados,TypeScript,2.0
+Belarus,Assembly,13.0
+Belarus,Bash/Shell,60.0
+Belarus,C,31.0
+Belarus,C#,75.0
+Belarus,C++,44.0
+Belarus,CSS,118.0
+Belarus,Clojure,2.0
+Belarus,CoffeeScript,10.0
+Belarus,Delphi/Object Pascal,11.0
+Belarus,Erlang,2.0
+Belarus,F#,6.0
+Belarus,Go,10.0
+Belarus,Groovy,13.0
+Belarus,HTML,128.0
+Belarus,Haskell,6.0
+Belarus,Java,97.0
+Belarus,JavaScript,136.0
+Belarus,Kotlin,13.0
+Belarus,Lua,7.0
+Belarus,Matlab,10.0
+Belarus,Objective-C,10.0
+Belarus,Ocaml,1.0
+Belarus,PHP,42.0
+Belarus,Python,57.0
+Belarus,R,8.0
+Belarus,Ruby,14.0
+Belarus,Rust,5.0
+Belarus,SQL,110.0
+Belarus,Scala,10.0
+Belarus,Swift,14.0
+Belarus,TypeScript,40.0
+Belarus,VB.NET,7.0
+Belarus,VBA,7.0
+Belarus,Visual Basic 6,2.0
+Belgium,Assembly,47.0
+Belgium,Bash/Shell,256.0
+Belgium,C,120.0
+Belgium,C#,242.0
+Belgium,C++,126.0
+Belgium,CSS,404.0
+Belgium,Clojure,5.0
+Belgium,Cobol,13.0
+Belgium,CoffeeScript,21.0
+Belgium,Delphi/Object Pascal,22.0
+Belgium,Erlang,9.0
+Belgium,F#,10.0
+Belgium,Go,38.0
+Belgium,Groovy,32.0
+Belgium,HTML,427.0
+Belgium,Hack,1.0
+Belgium,Haskell,25.0
+Belgium,Java,274.0
+Belgium,JavaScript,425.0
+Belgium,Julia,2.0
+Belgium,Kotlin,25.0
+Belgium,Lua,24.0
+Belgium,Matlab,40.0
+Belgium,Objective-C,26.0
+Belgium,Ocaml,3.0
+Belgium,PHP,202.0
+Belgium,Perl,16.0
+Belgium,Python,204.0
+Belgium,R,43.0
+Belgium,Ruby,37.0
+Belgium,Rust,23.0
+Belgium,SQL,370.0
+Belgium,Scala,27.0
+Belgium,Swift,36.0
+Belgium,TypeScript,154.0
+Belgium,VB.NET,52.0
+Belgium,VBA,34.0
+Belgium,Visual Basic 6,27.0
+Belize,C#,1.0
+Belize,C++,1.0
+Belize,CSS,1.0
+Belize,HTML,1.0
+Belize,JavaScript,1.0
+Belize,TypeScript,1.0
+Benin,Assembly,2.0
+Benin,Bash/Shell,2.0
+Benin,C,5.0
+Benin,C#,1.0
+Benin,C++,2.0
+Benin,CSS,6.0
+Benin,Go,1.0
+Benin,HTML,6.0
+Benin,Java,4.0
+Benin,JavaScript,6.0
+Benin,Kotlin,2.0
+Benin,Matlab,1.0
+Benin,PHP,6.0
+Benin,Python,3.0
+Benin,SQL,5.0
+Benin,Swift,2.0
+Benin,TypeScript,4.0
+Benin,VB.NET,1.0
+Benin,Visual Basic 6,2.0
+Bhutan,C,1.0
+Bhutan,CSS,2.0
+Bhutan,HTML,3.0
+Bhutan,Java,2.0
+Bhutan,JavaScript,1.0
+Bhutan,PHP,3.0
+Bhutan,Ruby,1.0
+Bhutan,SQL,3.0
+Bhutan,Visual Basic 6,1.0
+Bolivia,Bash/Shell,8.0
+Bolivia,C,2.0
+Bolivia,C#,13.0
+Bolivia,C++,6.0
+Bolivia,CSS,18.0
+Bolivia,CoffeeScript,1.0
+Bolivia,Delphi/Object Pascal,2.0
+Bolivia,Go,1.0
+Bolivia,Groovy,1.0
+Bolivia,HTML,20.0
+Bolivia,Haskell,3.0
+Bolivia,Java,17.0
+Bolivia,JavaScript,19.0
+Bolivia,Kotlin,2.0
+Bolivia,Lua,2.0
+Bolivia,Matlab,1.0
+Bolivia,Objective-C,3.0
+Bolivia,PHP,12.0
+Bolivia,Python,8.0
+Bolivia,Ruby,1.0
+Bolivia,SQL,19.0
+Bolivia,Scala,2.0
+Bolivia,Swift,3.0
+Bolivia,TypeScript,7.0
+Bolivia,VB.NET,3.0
+Bolivia,VBA,2.0
+Bolivia,Visual Basic 6,3.0
+Bosnia and Herzegovina,Assembly,7.0
+Bosnia and Herzegovina,Bash/Shell,27.0
+Bosnia and Herzegovina,C,15.0
+Bosnia and Herzegovina,C#,45.0
+Bosnia and Herzegovina,C++,34.0
+Bosnia and Herzegovina,CSS,70.0
+Bosnia and Herzegovina,CoffeeScript,5.0
+Bosnia and Herzegovina,Delphi/Object Pascal,3.0
+Bosnia and Herzegovina,Erlang,2.0
+Bosnia and Herzegovina,F#,1.0
+Bosnia and Herzegovina,Go,5.0
+Bosnia and Herzegovina,Groovy,4.0
+Bosnia and Herzegovina,HTML,72.0
+Bosnia and Herzegovina,Hack,1.0
+Bosnia and Herzegovina,Haskell,1.0
+Bosnia and Herzegovina,Java,40.0
+Bosnia and Herzegovina,JavaScript,68.0
+Bosnia and Herzegovina,Julia,1.0
+Bosnia and Herzegovina,Kotlin,8.0
+Bosnia and Herzegovina,Lua,2.0
+Bosnia and Herzegovina,Matlab,7.0
+Bosnia and Herzegovina,Objective-C,7.0
+Bosnia and Herzegovina,PHP,31.0
+Bosnia and Herzegovina,Perl,5.0
+Bosnia and Herzegovina,Python,25.0
+Bosnia and Herzegovina,R,2.0
+Bosnia and Herzegovina,Ruby,7.0
+Bosnia and Herzegovina,SQL,60.0
+Bosnia and Herzegovina,Scala,4.0
+Bosnia and Herzegovina,Swift,7.0
+Bosnia and Herzegovina,TypeScript,26.0
+Bosnia and Herzegovina,VB.NET,6.0
+Bosnia and Herzegovina,VBA,1.0
+Bosnia and Herzegovina,Visual Basic 6,2.0
+Botswana,Bash/Shell,2.0
+Botswana,C#,1.0
+Botswana,C++,1.0
+Botswana,CSS,2.0
+Botswana,Erlang,1.0
+Botswana,Go,1.0
+Botswana,HTML,2.0
+Botswana,Java,3.0
+Botswana,JavaScript,3.0
+Botswana,PHP,1.0
+Botswana,Perl,1.0
+Botswana,Python,1.0
+Botswana,SQL,2.0
+Botswana,Swift,1.0
+Brazil,Assembly,119.0
+Brazil,Bash/Shell,626.0
+Brazil,C,450.0
+Brazil,C#,607.0
+Brazil,C++,355.0
+Brazil,CSS,1236.0
+Brazil,Clojure,24.0
+Brazil,Cobol,20.0
+Brazil,CoffeeScript,60.0
+Brazil,Delphi/Object Pascal,147.0
+Brazil,Erlang,14.0
+Brazil,F#,13.0
+Brazil,Go,121.0
+Brazil,Groovy,68.0
+Brazil,HTML,1292.0
+Brazil,Hack,1.0
+Brazil,Haskell,42.0
+Brazil,Java,948.0
+Brazil,JavaScript,1359.0
+Brazil,Julia,8.0
+Brazil,Kotlin,102.0
+Brazil,Lua,98.0
+Brazil,Matlab,83.0
+Brazil,Objective-C,117.0
+Brazil,Ocaml,7.0
+Brazil,PHP,672.0
+Brazil,Perl,44.0
+Brazil,Python,671.0
+Brazil,R,123.0
+Brazil,Ruby,221.0
+Brazil,Rust,23.0
+Brazil,SQL,1137.0
+Brazil,Scala,38.0
+Brazil,Swift,124.0
+Brazil,TypeScript,304.0
+Brazil,VB.NET,115.0
+Brazil,VBA,108.0
+Brazil,Visual Basic 6,82.0
+Brunei Darussalam,C#,1.0
+Brunei Darussalam,CSS,1.0
+Brunei Darussalam,HTML,1.0
+Brunei Darussalam,SQL,1.0
+Bulgaria,Assembly,15.0
+Bulgaria,Bash/Shell,90.0
+Bulgaria,C,49.0
+Bulgaria,C#,124.0
+Bulgaria,C++,81.0
+Bulgaria,CSS,204.0
+Bulgaria,Cobol,1.0
+Bulgaria,CoffeeScript,8.0
+Bulgaria,Delphi/Object Pascal,15.0
+Bulgaria,Erlang,2.0
+Bulgaria,F#,3.0
+Bulgaria,Go,14.0
+Bulgaria,Groovy,6.0
+Bulgaria,HTML,219.0
+Bulgaria,Hack,1.0
+Bulgaria,Haskell,9.0
+Bulgaria,Java,120.0
+Bulgaria,JavaScript,229.0
+Bulgaria,Kotlin,8.0
+Bulgaria,Lua,10.0
+Bulgaria,Matlab,9.0
+Bulgaria,Objective-C,19.0
+Bulgaria,Ocaml,1.0
+Bulgaria,PHP,104.0
+Bulgaria,Perl,5.0
+Bulgaria,Python,85.0
+Bulgaria,R,9.0
+Bulgaria,Ruby,22.0
+Bulgaria,Rust,5.0
+Bulgaria,SQL,169.0
+Bulgaria,Scala,5.0
+Bulgaria,Swift,13.0
+Bulgaria,TypeScript,72.0
+Bulgaria,VB.NET,15.0
+Bulgaria,VBA,12.0
+Bulgaria,Visual Basic 6,6.0
+Burkina Faso,Assembly,1.0
+Burkina Faso,C++,1.0
+Burkina Faso,CSS,1.0
+Burkina Faso,HTML,1.0
+Burkina Faso,Java,1.0
+Burkina Faso,JavaScript,1.0
+Burkina Faso,PHP,1.0
+Burkina Faso,SQL,1.0
+Burundi,Bash/Shell,1.0
+Burundi,CSS,1.0
+Burundi,HTML,1.0
+Burundi,JavaScript,1.0
+Burundi,Python,1.0
+Burundi,SQL,1.0
+Cambodia,Assembly,5.0
+Cambodia,Bash/Shell,5.0
+Cambodia,C,13.0
+Cambodia,C#,12.0
+Cambodia,C++,13.0
+Cambodia,CSS,23.0
+Cambodia,Clojure,1.0
+Cambodia,CoffeeScript,4.0
+Cambodia,Erlang,2.0
+Cambodia,F#,1.0
+Cambodia,Go,1.0
+Cambodia,Groovy,2.0
+Cambodia,HTML,24.0
+Cambodia,Hack,2.0
+Cambodia,Haskell,1.0
+Cambodia,Java,24.0
+Cambodia,JavaScript,24.0
+Cambodia,Julia,1.0
+Cambodia,Kotlin,3.0
+Cambodia,Lua,2.0
+Cambodia,Matlab,5.0
+Cambodia,Objective-C,2.0
+Cambodia,PHP,19.0
+Cambodia,Python,9.0
+Cambodia,R,2.0
+Cambodia,Ruby,4.0
+Cambodia,SQL,20.0
+Cambodia,Scala,1.0
+Cambodia,Swift,3.0
+Cambodia,TypeScript,6.0
+Cambodia,VB.NET,6.0
+Cambodia,VBA,3.0
+Cambodia,Visual Basic 6,5.0
+Cameroon,Assembly,4.0
+Cameroon,Bash/Shell,6.0
+Cameroon,C,11.0
+Cameroon,C#,6.0
+Cameroon,C++,7.0
+Cameroon,CSS,23.0
+Cameroon,Delphi/Object Pascal,2.0
+Cameroon,Erlang,1.0
+Cameroon,HTML,22.0
+Cameroon,Haskell,1.0
+Cameroon,Java,22.0
+Cameroon,JavaScript,17.0
+Cameroon,Matlab,5.0
+Cameroon,Ocaml,2.0
+Cameroon,PHP,20.0
+Cameroon,Perl,1.0
+Cameroon,Python,11.0
+Cameroon,R,2.0
+Cameroon,SQL,18.0
+Cameroon,TypeScript,5.0
+Cameroon,VB.NET,2.0
+Cameroon,VBA,1.0
+Cameroon,Visual Basic 6,2.0
+Canada,Assembly,200.0
+Canada,Bash/Shell,1286.0
+Canada,C,594.0
+Canada,C#,991.0
+Canada,C++,706.0
+Canada,CSS,1800.0
+Canada,Clojure,45.0
+Canada,Cobol,23.0
+Canada,CoffeeScript,110.0
+Canada,Delphi/Object Pascal,59.0
+Canada,Erlang,40.0
+Canada,F#,47.0
+Canada,Go,244.0
+Canada,Groovy,120.0
+Canada,HTML,1865.0
+Canada,Hack,7.0
+Canada,Haskell,68.0
+Canada,Java,1148.0
+Canada,JavaScript,1937.0
+Canada,Julia,25.0
+Canada,Kotlin,97.0
+Canada,Lua,118.0
+Canada,Matlab,151.0
+Canada,Objective-C,202.0
+Canada,Ocaml,11.0
+Canada,PHP,724.0
+Canada,Perl,156.0
+Canada,Python,1246.0
+Canada,R,155.0
+Canada,Ruby,369.0
+Canada,Rust,86.0
+Canada,SQL,1517.0
+Canada,Scala,105.0
+Canada,Swift,220.0
+Canada,TypeScript,504.0
+Canada,VB.NET,227.0
+Canada,VBA,165.0
+Canada,Visual Basic 6,111.0
+Cape Verde,C#,1.0
+Cape Verde,C++,1.0
+Cape Verde,Java,1.0
+Cape Verde,JavaScript,1.0
+Cape Verde,PHP,1.0
+Cape Verde,SQL,1.0
+Central African Republic,Assembly,1.0
+Central African Republic,Bash/Shell,1.0
+Central African Republic,C,1.0
+Central African Republic,C++,1.0
+Central African Republic,CSS,1.0
+Central African Republic,Cobol,1.0
+Central African Republic,CoffeeScript,1.0
+Central African Republic,Delphi/Object Pascal,1.0
+Central African Republic,Erlang,1.0
+Central African Republic,Groovy,1.0
+Central African Republic,HTML,1.0
+Central African Republic,Hack,1.0
+Central African Republic,JavaScript,1.0
+Central African Republic,Kotlin,1.0
+Central African Republic,Matlab,1.0
+Central African Republic,Objective-C,1.0
+Central African Republic,Ocaml,1.0
+Central African Republic,Python,1.0
+Central African Republic,R,1.0
+Central African Republic,Ruby,1.0
+Central African Republic,Rust,1.0
+Central African Republic,SQL,1.0
+Central African Republic,Scala,1.0
+Central African Republic,Swift,1.0
+Central African Republic,TypeScript,1.0
+Central African Republic,VB.NET,1.0
+Central African Republic,VBA,1.0
+Central African Republic,Visual Basic 6,1.0
+Chile,Assembly,5.0
+Chile,Bash/Shell,66.0
+Chile,C,35.0
+Chile,C#,47.0
+Chile,C++,25.0
+Chile,CSS,111.0
+Chile,Clojure,3.0
+Chile,Cobol,2.0
+Chile,CoffeeScript,9.0
+Chile,Delphi/Object Pascal,2.0
+Chile,Erlang,2.0
+Chile,Go,10.0
+Chile,Groovy,8.0
+Chile,HTML,119.0
+Chile,Haskell,2.0
+Chile,Java,90.0
+Chile,JavaScript,132.0
+Chile,Julia,2.0
+Chile,Kotlin,8.0
+Chile,Lua,3.0
+Chile,Matlab,12.0
+Chile,Objective-C,15.0
+Chile,PHP,66.0
+Chile,Perl,6.0
+Chile,Python,77.0
+Chile,R,25.0
+Chile,Ruby,33.0
+Chile,Rust,2.0
+Chile,SQL,125.0
+Chile,Scala,4.0
+Chile,Swift,14.0
+Chile,TypeScript,27.0
+Chile,VB.NET,17.0
+Chile,VBA,12.0
+Chile,Visual Basic 6,11.0
+China,Assembly,25.0
+China,Bash/Shell,172.0
+China,C,153.0
+China,C#,117.0
+China,C++,150.0
+China,CSS,234.0
+China,Clojure,4.0
+China,Cobol,6.0
+China,CoffeeScript,11.0
+China,Delphi/Object Pascal,4.0
+China,Erlang,4.0
+China,F#,3.0
+China,Go,35.0
+China,Groovy,11.0
+China,HTML,262.0
+China,Haskell,8.0
+China,Java,260.0
+China,JavaScript,298.0
+China,Julia,4.0
+China,Kotlin,23.0
+China,Lua,24.0
+China,Matlab,42.0
+China,Objective-C,58.0
+China,Ocaml,5.0
+China,PHP,81.0
+China,Perl,18.0
+China,Python,245.0
+China,R,33.0
+China,Ruby,28.0
+China,Rust,8.0
+China,SQL,209.0
+China,Scala,19.0
+China,Swift,55.0
+China,TypeScript,50.0
+China,VB.NET,13.0
+China,VBA,16.0
+China,Visual Basic 6,17.0
+Colombia,Assembly,12.0
+Colombia,Bash/Shell,63.0
+Colombia,C,31.0
+Colombia,C#,79.0
+Colombia,C++,49.0
+Colombia,CSS,185.0
+Colombia,Clojure,3.0
+Colombia,Cobol,2.0
+Colombia,CoffeeScript,7.0
+Colombia,Delphi/Object Pascal,5.0
+Colombia,Erlang,5.0
+Colombia,F#,3.0
+Colombia,Go,13.0
+Colombia,Groovy,5.0
+Colombia,HTML,197.0
+Colombia,Haskell,4.0
+Colombia,Java,131.0
+Colombia,JavaScript,204.0
+Colombia,Kotlin,15.0
+Colombia,Lua,3.0
+Colombia,Matlab,26.0
+Colombia,Objective-C,20.0
+Colombia,PHP,118.0
+Colombia,Perl,6.0
+Colombia,Python,97.0
+Colombia,R,12.0
+Colombia,Ruby,37.0
+Colombia,Rust,2.0
+Colombia,SQL,159.0
+Colombia,Scala,11.0
+Colombia,Swift,28.0
+Colombia,TypeScript,54.0
+Colombia,VB.NET,14.0
+Colombia,VBA,10.0
+Colombia,Visual Basic 6,14.0
+"Congo, Republic of the...",Assembly,1.0
+"Congo, Republic of the...",Bash/Shell,1.0
+"Congo, Republic of the...",C,3.0
+"Congo, Republic of the...",C#,2.0
+"Congo, Republic of the...",C++,3.0
+"Congo, Republic of the...",CSS,4.0
+"Congo, Republic of the...",HTML,3.0
+"Congo, Republic of the...",Java,3.0
+"Congo, Republic of the...",JavaScript,3.0
+"Congo, Republic of the...",PHP,2.0
+"Congo, Republic of the...",Python,2.0
+"Congo, Republic of the...",Ruby,1.0
+"Congo, Republic of the...",SQL,2.0
+"Congo, Republic of the...",TypeScript,1.0
+Costa Rica,Assembly,10.0
+Costa Rica,Bash/Shell,26.0
+Costa Rica,C,20.0
+Costa Rica,C#,27.0
+Costa Rica,C++,17.0
+Costa Rica,CSS,56.0
+Costa Rica,Clojure,1.0
+Costa Rica,CoffeeScript,1.0
+Costa Rica,Delphi/Object Pascal,1.0
+Costa Rica,F#,1.0
+Costa Rica,Go,4.0
+Costa Rica,Groovy,3.0
+Costa Rica,HTML,58.0
+Costa Rica,Haskell,3.0
+Costa Rica,Java,48.0
+Costa Rica,JavaScript,60.0
+Costa Rica,Kotlin,5.0
+Costa Rica,Lua,3.0
+Costa Rica,Matlab,5.0
+Costa Rica,Objective-C,5.0
+Costa Rica,Ocaml,1.0
+Costa Rica,PHP,27.0
+Costa Rica,Perl,2.0
+Costa Rica,Python,27.0
+Costa Rica,R,7.0
+Costa Rica,Ruby,8.0
+Costa Rica,Rust,2.0
+Costa Rica,SQL,52.0
+Costa Rica,Scala,1.0
+Costa Rica,Swift,9.0
+Costa Rica,TypeScript,19.0
+Costa Rica,VB.NET,13.0
+Costa Rica,VBA,6.0
+Costa Rica,Visual Basic 6,4.0
+Croatia,Assembly,14.0
+Croatia,Bash/Shell,52.0
+Croatia,C,36.0
+Croatia,C#,71.0
+Croatia,C++,46.0
+Croatia,CSS,109.0
+Croatia,Clojure,2.0
+Croatia,Cobol,1.0
+Croatia,CoffeeScript,2.0
+Croatia,Delphi/Object Pascal,7.0
+Croatia,Erlang,2.0
+Croatia,Go,6.0
+Croatia,Groovy,11.0
+Croatia,HTML,117.0
+Croatia,Haskell,4.0
+Croatia,Java,72.0
+Croatia,JavaScript,122.0
+Croatia,Julia,1.0
+Croatia,Kotlin,13.0
+Croatia,Lua,10.0
+Croatia,Matlab,6.0
+Croatia,Objective-C,9.0
+Croatia,PHP,58.0
+Croatia,Perl,1.0
+Croatia,Python,58.0
+Croatia,R,4.0
+Croatia,Ruby,13.0
+Croatia,Rust,5.0
+Croatia,SQL,95.0
+Croatia,Scala,2.0
+Croatia,Swift,19.0
+Croatia,TypeScript,25.0
+Croatia,VB.NET,11.0
+Croatia,VBA,10.0
+Croatia,Visual Basic 6,9.0
+Cuba,Assembly,5.0
+Cuba,Bash/Shell,18.0
+Cuba,C,10.0
+Cuba,C#,30.0
+Cuba,C++,26.0
+Cuba,CSS,39.0
+Cuba,CoffeeScript,1.0
+Cuba,Delphi/Object Pascal,4.0
+Cuba,F#,3.0
+Cuba,Go,1.0
+Cuba,Groovy,1.0
+Cuba,HTML,40.0
+Cuba,Haskell,5.0
+Cuba,Java,34.0
+Cuba,JavaScript,40.0
+Cuba,Matlab,3.0
+Cuba,Objective-C,1.0
+Cuba,PHP,26.0
+Cuba,Python,26.0
+Cuba,R,1.0
+Cuba,Ruby,2.0
+Cuba,SQL,26.0
+Cuba,Swift,2.0
+Cuba,TypeScript,12.0
+Cuba,VB.NET,1.0
+Cuba,VBA,1.0
+Cyprus,Assembly,5.0
+Cyprus,Bash/Shell,16.0
+Cyprus,C,7.0
+Cyprus,C#,11.0
+Cyprus,C++,10.0
+Cyprus,CSS,23.0
+Cyprus,Clojure,1.0
+Cyprus,CoffeeScript,1.0
+Cyprus,Go,1.0
+Cyprus,HTML,27.0
+Cyprus,Java,16.0
+Cyprus,JavaScript,27.0
+Cyprus,Kotlin,2.0
+Cyprus,Lua,1.0
+Cyprus,Matlab,6.0
+Cyprus,Objective-C,1.0
+Cyprus,PHP,14.0
+Cyprus,Perl,4.0
+Cyprus,Python,13.0
+Cyprus,R,5.0
+Cyprus,Ruby,2.0
+Cyprus,SQL,20.0
+Cyprus,Scala,1.0
+Cyprus,Swift,2.0
+Cyprus,TypeScript,5.0
+Cyprus,VB.NET,2.0
+Cyprus,VBA,1.0
+Cyprus,Visual Basic 6,4.0
+Czech Republic,Assembly,41.0
+Czech Republic,Bash/Shell,264.0
+Czech Republic,C,147.0
+Czech Republic,C#,226.0
+Czech Republic,C++,171.0
+Czech Republic,CSS,350.0
+Czech Republic,Clojure,13.0
+Czech Republic,Cobol,2.0
+Czech Republic,CoffeeScript,16.0
+Czech Republic,Delphi/Object Pascal,23.0
+Czech Republic,Erlang,4.0
+Czech Republic,F#,18.0
+Czech Republic,Go,21.0
+Czech Republic,Groovy,33.0
+Czech Republic,HTML,363.0
+Czech Republic,Haskell,20.0
+Czech Republic,Java,252.0
+Czech Republic,JavaScript,371.0
+Czech Republic,Julia,5.0
+Czech Republic,Kotlin,26.0
+Czech Republic,Lua,39.0
+Czech Republic,Matlab,28.0
+Czech Republic,Objective-C,25.0
+Czech Republic,Ocaml,2.0
+Czech Republic,PHP,188.0
+Czech Republic,Perl,31.0
+Czech Republic,Python,228.0
+Czech Republic,R,42.0
+Czech Republic,Ruby,36.0
+Czech Republic,Rust,15.0
+Czech Republic,SQL,334.0
+Czech Republic,Scala,16.0
+Czech Republic,Swift,30.0
+Czech Republic,TypeScript,101.0
+Czech Republic,VB.NET,18.0
+Czech Republic,VBA,25.0
+Czech Republic,Visual Basic 6,15.0
+CÃ´te d'Ivoire,Assembly,1.0
+CÃ´te d'Ivoire,Bash/Shell,1.0
+CÃ´te d'Ivoire,C,1.0
+CÃ´te d'Ivoire,C#,1.0
+CÃ´te d'Ivoire,C++,1.0
+CÃ´te d'Ivoire,CSS,6.0
+CÃ´te d'Ivoire,Delphi/Object Pascal,1.0
+CÃ´te d'Ivoire,HTML,6.0
+CÃ´te d'Ivoire,Java,5.0
+CÃ´te d'Ivoire,JavaScript,5.0
+CÃ´te d'Ivoire,Matlab,1.0
+CÃ´te d'Ivoire,PHP,5.0
+CÃ´te d'Ivoire,Python,2.0
+CÃ´te d'Ivoire,SQL,3.0
+CÃ´te d'Ivoire,TypeScript,1.0
+CÃ´te d'Ivoire,VB.NET,1.0
+CÃ´te d'Ivoire,VBA,1.0
+CÃ´te d'Ivoire,Visual Basic 6,1.0
+Democratic Republic of the Congo,Assembly,1.0
+Democratic Republic of the Congo,Bash/Shell,2.0
+Democratic Republic of the Congo,C,4.0
+Democratic Republic of the Congo,C#,3.0
+Democratic Republic of the Congo,C++,3.0
+Democratic Republic of the Congo,CSS,4.0
+Democratic Republic of the Congo,Delphi/Object Pascal,2.0
+Democratic Republic of the Congo,Groovy,2.0
+Democratic Republic of the Congo,HTML,4.0
+Democratic Republic of the Congo,Java,3.0
+Democratic Republic of the Congo,JavaScript,4.0
+Democratic Republic of the Congo,Matlab,1.0
+Democratic Republic of the Congo,PHP,3.0
+Democratic Republic of the Congo,Perl,1.0
+Democratic Republic of the Congo,Python,2.0
+Democratic Republic of the Congo,Ruby,1.0
+Democratic Republic of the Congo,SQL,2.0
+Democratic Republic of the Congo,VB.NET,1.0
+Democratic Republic of the Congo,VBA,1.0
+Democratic Republic of the Congo,Visual Basic 6,2.0
+Denmark,Assembly,30.0
+Denmark,Bash/Shell,208.0
+Denmark,C,86.0
+Denmark,C#,269.0
+Denmark,C++,90.0
+Denmark,CSS,338.0
+Denmark,Clojure,7.0
+Denmark,Cobol,3.0
+Denmark,CoffeeScript,17.0
+Denmark,Delphi/Object Pascal,17.0
+Denmark,Erlang,9.0
+Denmark,F#,26.0
+Denmark,Go,35.0
+Denmark,Groovy,18.0
+Denmark,HTML,353.0
+Denmark,Haskell,15.0
+Denmark,Java,162.0
+Denmark,JavaScript,357.0
+Denmark,Julia,5.0
+Denmark,Kotlin,18.0
+Denmark,Lua,28.0
+Denmark,Matlab,36.0
+Denmark,Objective-C,34.0
+Denmark,Ocaml,4.0
+Denmark,PHP,123.0
+Denmark,Perl,17.0
+Denmark,Python,186.0
+Denmark,R,37.0
+Denmark,Ruby,41.0
+Denmark,Rust,15.0
+Denmark,SQL,304.0
+Denmark,Scala,21.0
+Denmark,Swift,54.0
+Denmark,TypeScript,102.0
+Denmark,VB.NET,14.0
+Denmark,VBA,27.0
+Denmark,Visual Basic 6,8.0
+Dominica,C++,1.0
+Dominica,CSS,1.0
+Dominica,CoffeeScript,1.0
+Dominica,HTML,1.0
+Dominican Republic,Assembly,3.0
+Dominican Republic,Bash/Shell,16.0
+Dominican Republic,C,9.0
+Dominican Republic,C#,52.0
+Dominican Republic,C++,15.0
+Dominican Republic,CSS,55.0
+Dominican Republic,Clojure,1.0
+Dominican Republic,Cobol,1.0
+Dominican Republic,CoffeeScript,2.0
+Dominican Republic,Delphi/Object Pascal,8.0
+Dominican Republic,F#,2.0
+Dominican Republic,Go,3.0
+Dominican Republic,Groovy,2.0
+Dominican Republic,HTML,61.0
+Dominican Republic,Hack,1.0
+Dominican Republic,Java,38.0
+Dominican Republic,JavaScript,66.0
+Dominican Republic,Kotlin,2.0
+Dominican Republic,Lua,1.0
+Dominican Republic,Matlab,3.0
+Dominican Republic,Objective-C,2.0
+Dominican Republic,PHP,30.0
+Dominican Republic,Python,19.0
+Dominican Republic,R,1.0
+Dominican Republic,Ruby,9.0
+Dominican Republic,SQL,55.0
+Dominican Republic,Scala,2.0
+Dominican Republic,Swift,5.0
+Dominican Republic,TypeScript,20.0
+Dominican Republic,VB.NET,9.0
+Dominican Republic,VBA,1.0
+Dominican Republic,Visual Basic 6,2.0
+Ecuador,Bash/Shell,8.0
+Ecuador,C,6.0
+Ecuador,C#,14.0
+Ecuador,C++,9.0
+Ecuador,CSS,34.0
+Ecuador,CoffeeScript,1.0
+Ecuador,Delphi/Object Pascal,3.0
+Ecuador,F#,1.0
+Ecuador,Go,2.0
+Ecuador,Groovy,2.0
+Ecuador,HTML,37.0
+Ecuador,Haskell,1.0
+Ecuador,Java,31.0
+Ecuador,JavaScript,33.0
+Ecuador,Kotlin,3.0
+Ecuador,Matlab,4.0
+Ecuador,Objective-C,4.0
+Ecuador,PHP,22.0
+Ecuador,Python,15.0
+Ecuador,R,1.0
+Ecuador,Ruby,4.0
+Ecuador,SQL,33.0
+Ecuador,Scala,1.0
+Ecuador,Swift,5.0
+Ecuador,TypeScript,9.0
+Ecuador,VB.NET,6.0
+Ecuador,VBA,1.0
+Ecuador,Visual Basic 6,7.0
+Egypt,Assembly,31.0
+Egypt,Bash/Shell,55.0
+Egypt,C,61.0
+Egypt,C#,95.0
+Egypt,C++,86.0
+Egypt,CSS,155.0
+Egypt,Clojure,1.0
+Egypt,CoffeeScript,6.0
+Egypt,Delphi/Object Pascal,2.0
+Egypt,F#,1.0
+Egypt,Go,13.0
+Egypt,Groovy,6.0
+Egypt,HTML,170.0
+Egypt,Hack,2.0
+Egypt,Haskell,7.0
+Egypt,Java,108.0
+Egypt,JavaScript,167.0
+Egypt,Julia,3.0
+Egypt,Kotlin,15.0
+Egypt,Lua,9.0
+Egypt,Matlab,29.0
+Egypt,Objective-C,14.0
+Egypt,Ocaml,1.0
+Egypt,PHP,86.0
+Egypt,Perl,3.0
+Egypt,Python,90.0
+Egypt,R,10.0
+Egypt,Ruby,19.0
+Egypt,Rust,2.0
+Egypt,SQL,145.0
+Egypt,Scala,7.0
+Egypt,Swift,25.0
+Egypt,TypeScript,46.0
+Egypt,VB.NET,14.0
+Egypt,VBA,7.0
+Egypt,Visual Basic 6,9.0
+El Salvador,Assembly,3.0
+El Salvador,Bash/Shell,7.0
+El Salvador,C,7.0
+El Salvador,C#,18.0
+El Salvador,C++,5.0
+El Salvador,CSS,25.0
+El Salvador,CoffeeScript,1.0
+El Salvador,HTML,27.0
+El Salvador,Java,22.0
+El Salvador,JavaScript,27.0
+El Salvador,Matlab,2.0
+El Salvador,Objective-C,2.0
+El Salvador,PHP,14.0
+El Salvador,Perl,1.0
+El Salvador,Python,11.0
+El Salvador,R,1.0
+El Salvador,Ruby,5.0
+El Salvador,SQL,23.0
+El Salvador,Scala,3.0
+El Salvador,Swift,3.0
+El Salvador,TypeScript,5.0
+El Salvador,VB.NET,8.0
+El Salvador,VBA,4.0
+El Salvador,Visual Basic 6,5.0
+Eritrea,Java,1.0
+Eritrea,SQL,1.0
+Estonia,Assembly,7.0
+Estonia,Bash/Shell,67.0
+Estonia,C,26.0
+Estonia,C#,33.0
+Estonia,C++,28.0
+Estonia,CSS,98.0
+Estonia,Clojure,1.0
+Estonia,CoffeeScript,3.0
+Estonia,Delphi/Object Pascal,4.0
+Estonia,Erlang,1.0
+Estonia,F#,5.0
+Estonia,Go,14.0
+Estonia,Groovy,8.0
+Estonia,HTML,101.0
+Estonia,Haskell,5.0
+Estonia,Java,65.0
+Estonia,JavaScript,109.0
+Estonia,Kotlin,9.0
+Estonia,Lua,5.0
+Estonia,Matlab,2.0
+Estonia,Objective-C,7.0
+Estonia,PHP,53.0
+Estonia,Perl,5.0
+Estonia,Python,70.0
+Estonia,R,12.0
+Estonia,Ruby,19.0
+Estonia,Rust,1.0
+Estonia,SQL,89.0
+Estonia,Scala,7.0
+Estonia,Swift,10.0
+Estonia,TypeScript,26.0
+Estonia,VB.NET,1.0
+Estonia,VBA,3.0
+Estonia,Visual Basic 6,2.0
+Ethiopia,Assembly,2.0
+Ethiopia,Bash/Shell,9.0
+Ethiopia,C,5.0
+Ethiopia,C#,12.0
+Ethiopia,C++,12.0
+Ethiopia,CSS,25.0
+Ethiopia,Cobol,1.0
+Ethiopia,Delphi/Object Pascal,1.0
+Ethiopia,Groovy,5.0
+Ethiopia,HTML,30.0
+Ethiopia,Java,28.0
+Ethiopia,JavaScript,25.0
+Ethiopia,Kotlin,2.0
+Ethiopia,Matlab,1.0
+Ethiopia,Ocaml,1.0
+Ethiopia,PHP,14.0
+Ethiopia,Perl,1.0
+Ethiopia,Python,15.0
+Ethiopia,R,2.0
+Ethiopia,Ruby,2.0
+Ethiopia,Rust,1.0
+Ethiopia,SQL,22.0
+Ethiopia,Scala,1.0
+Ethiopia,TypeScript,5.0
+Ethiopia,VB.NET,3.0
+Ethiopia,VBA,1.0
+Ethiopia,Visual Basic 6,1.0
+Fiji,Assembly,1.0
+Fiji,Bash/Shell,2.0
+Fiji,C,2.0
+Fiji,C#,4.0
+Fiji,C++,2.0
+Fiji,CSS,6.0
+Fiji,Clojure,1.0
+Fiji,Cobol,1.0
+Fiji,CoffeeScript,1.0
+Fiji,Delphi/Object Pascal,1.0
+Fiji,Erlang,1.0
+Fiji,F#,1.0
+Fiji,Groovy,1.0
+Fiji,HTML,5.0
+Fiji,Haskell,1.0
+Fiji,Java,3.0
+Fiji,JavaScript,4.0
+Fiji,Julia,1.0
+Fiji,Kotlin,1.0
+Fiji,Lua,1.0
+Fiji,Matlab,2.0
+Fiji,Objective-C,2.0
+Fiji,Ocaml,1.0
+Fiji,PHP,3.0
+Fiji,Perl,1.0
+Fiji,Python,1.0
+Fiji,R,1.0
+Fiji,Ruby,1.0
+Fiji,Rust,1.0
+Fiji,SQL,5.0
+Fiji,Scala,1.0
+Fiji,Swift,1.0
+Fiji,VB.NET,1.0
+Fiji,VBA,2.0
+Fiji,Visual Basic 6,1.0
+Finland,Assembly,19.0
+Finland,Bash/Shell,191.0
+Finland,C,89.0
+Finland,C#,142.0
+Finland,C++,100.0
+Finland,CSS,287.0
+Finland,Clojure,21.0
+Finland,Cobol,1.0
+Finland,CoffeeScript,19.0
+Finland,Delphi/Object Pascal,11.0
+Finland,Erlang,4.0
+Finland,F#,6.0
+Finland,Go,31.0
+Finland,Groovy,16.0
+Finland,HTML,302.0
+Finland,Haskell,10.0
+Finland,Java,174.0
+Finland,JavaScript,303.0
+Finland,Julia,3.0
+Finland,Kotlin,20.0
+Finland,Lua,20.0
+Finland,Matlab,23.0
+Finland,Objective-C,20.0
+Finland,Ocaml,1.0
+Finland,PHP,119.0
+Finland,Perl,23.0
+Finland,Python,193.0
+Finland,R,25.0
+Finland,Ruby,45.0
+Finland,Rust,17.0
+Finland,SQL,243.0
+Finland,Scala,39.0
+Finland,Swift,22.0
+Finland,TypeScript,84.0
+Finland,VB.NET,18.0
+Finland,VBA,15.0
+Finland,Visual Basic 6,12.0
+France,Assembly,160.0
+France,Bash/Shell,980.0
+France,C,561.0
+France,C#,535.0
+France,C++,549.0
+France,CSS,1305.0
+France,Clojure,29.0
+France,Cobol,18.0
+France,CoffeeScript,57.0
+France,Delphi/Object Pascal,43.0
+France,Erlang,20.0
+France,F#,27.0
+France,Go,155.0
+France,Groovy,94.0
+France,HTML,1342.0
+France,Hack,3.0
+France,Haskell,49.0
+France,Java,912.0
+France,JavaScript,1380.0
+France,Julia,8.0
+France,Kotlin,74.0
+France,Lua,80.0
+France,Matlab,134.0
+France,Objective-C,107.0
+France,Ocaml,67.0
+France,PHP,735.0
+France,Perl,99.0
+France,Python,838.0
+France,R,136.0
+France,Ruby,189.0
+France,Rust,68.0
+France,SQL,1102.0
+France,Scala,128.0
+France,Swift,125.0
+France,TypeScript,388.0
+France,VB.NET,97.0
+France,VBA,109.0
+France,Visual Basic 6,51.0
+Gabon,CSS,2.0
+Gabon,Delphi/Object Pascal,1.0
+Gabon,HTML,2.0
+Gabon,Java,3.0
+Gabon,JavaScript,2.0
+Gabon,PHP,2.0
+Gabon,SQL,2.0
+Gabon,Scala,1.0
+Gabon,VB.NET,1.0
+Gambia,Bash/Shell,1.0
+Gambia,C#,1.0
+Gambia,CSS,2.0
+Gambia,HTML,2.0
+Gambia,Java,1.0
+Gambia,JavaScript,2.0
+Gambia,PHP,2.0
+Gambia,SQL,2.0
+Gambia,VB.NET,1.0
+Gambia,VBA,1.0
+Georgia,Assembly,4.0
+Georgia,Bash/Shell,14.0
+Georgia,C,10.0
+Georgia,C#,21.0
+Georgia,C++,10.0
+Georgia,CSS,40.0
+Georgia,Clojure,1.0
+Georgia,Delphi/Object Pascal,1.0
+Georgia,Go,1.0
+Georgia,Groovy,2.0
+Georgia,HTML,40.0
+Georgia,Java,18.0
+Georgia,JavaScript,39.0
+Georgia,Kotlin,4.0
+Georgia,Lua,1.0
+Georgia,Matlab,1.0
+Georgia,Objective-C,2.0
+Georgia,PHP,20.0
+Georgia,Perl,2.0
+Georgia,Python,16.0
+Georgia,R,1.0
+Georgia,Ruby,1.0
+Georgia,SQL,31.0
+Georgia,Scala,1.0
+Georgia,Swift,1.0
+Georgia,TypeScript,11.0
+Germany,Assembly,419.0
+Germany,Bash/Shell,2427.0
+Germany,C,1249.0
+Germany,C#,1554.0
+Germany,C++,1486.0
+Germany,CSS,3013.0
+Germany,Clojure,74.0
+Germany,Cobol,38.0
+Germany,CoffeeScript,163.0
+Germany,Delphi/Object Pascal,184.0
+Germany,Erlang,56.0
+Germany,F#,49.0
+Germany,Go,427.0
+Germany,Groovy,279.0
+Germany,HTML,3193.0
+Germany,Hack,8.0
+Germany,Haskell,201.0
+Germany,Java,2624.0
+Germany,JavaScript,3161.0
+Germany,Julia,36.0
+Germany,Kotlin,299.0
+Germany,Lua,261.0
+Germany,Matlab,345.0
+Germany,Objective-C,309.0
+Germany,Ocaml,31.0
+Germany,PHP,1605.0
+Germany,Perl,268.0
+Germany,Python,1986.0
+Germany,R,338.0
+Germany,Ruby,441.0
+Germany,Rust,188.0
+Germany,SQL,2640.0
+Germany,Scala,269.0
+Germany,Swift,361.0
+Germany,TypeScript,885.0
+Germany,VB.NET,264.0
+Germany,VBA,330.0
+Germany,Visual Basic 6,134.0
+Ghana,Bash/Shell,14.0
+Ghana,C,1.0
+Ghana,C#,10.0
+Ghana,C++,9.0
+Ghana,CSS,44.0
+Ghana,Go,5.0
+Ghana,Groovy,1.0
+Ghana,HTML,44.0
+Ghana,Java,25.0
+Ghana,JavaScript,39.0
+Ghana,Kotlin,5.0
+Ghana,Lua,1.0
+Ghana,Matlab,3.0
+Ghana,Objective-C,2.0
+Ghana,PHP,26.0
+Ghana,Python,27.0
+Ghana,R,2.0
+Ghana,Ruby,5.0
+Ghana,SQL,23.0
+Ghana,Scala,1.0
+Ghana,Swift,3.0
+Ghana,TypeScript,7.0
+Ghana,VB.NET,6.0
+Ghana,VBA,3.0
+Ghana,Visual Basic 6,3.0
+Greece,Assembly,47.0
+Greece,Bash/Shell,145.0
+Greece,C,113.0
+Greece,C#,119.0
+Greece,C++,97.0
+Greece,CSS,253.0
+Greece,Clojure,6.0
+Greece,Cobol,7.0
+Greece,CoffeeScript,8.0
+Greece,Delphi/Object Pascal,20.0
+Greece,Erlang,6.0
+Greece,F#,2.0
+Greece,Go,17.0
+Greece,Groovy,10.0
+Greece,HTML,270.0
+Greece,Hack,1.0
+Greece,Haskell,10.0
+Greece,Java,204.0
+Greece,JavaScript,258.0
+Greece,Julia,3.0
+Greece,Kotlin,9.0
+Greece,Lua,11.0
+Greece,Matlab,50.0
+Greece,Objective-C,19.0
+Greece,Ocaml,3.0
+Greece,PHP,145.0
+Greece,Perl,18.0
+Greece,Python,143.0
+Greece,R,27.0
+Greece,Ruby,33.0
+Greece,Rust,3.0
+Greece,SQL,233.0
+Greece,Scala,14.0
+Greece,Swift,15.0
+Greece,TypeScript,47.0
+Greece,VB.NET,22.0
+Greece,VBA,14.0
+Greece,Visual Basic 6,16.0
+Grenada,C#,1.0
+Grenada,CSS,1.0
+Grenada,HTML,1.0
+Grenada,Java,1.0
+Grenada,JavaScript,1.0
+Grenada,PHP,1.0
+Grenada,SQL,1.0
+Grenada,VB.NET,1.0
+Guatemala,Assembly,4.0
+Guatemala,Bash/Shell,11.0
+Guatemala,C,9.0
+Guatemala,C#,20.0
+Guatemala,C++,9.0
+Guatemala,CSS,27.0
+Guatemala,Cobol,1.0
+Guatemala,Delphi/Object Pascal,3.0
+Guatemala,Go,2.0
+Guatemala,Groovy,2.0
+Guatemala,HTML,27.0
+Guatemala,Java,23.0
+Guatemala,JavaScript,29.0
+Guatemala,Kotlin,3.0
+Guatemala,Matlab,1.0
+Guatemala,Objective-C,2.0
+Guatemala,PHP,23.0
+Guatemala,Perl,4.0
+Guatemala,Python,12.0
+Guatemala,R,3.0
+Guatemala,Ruby,1.0
+Guatemala,SQL,28.0
+Guatemala,Scala,1.0
+Guatemala,Swift,2.0
+Guatemala,TypeScript,4.0
+Guatemala,VB.NET,10.0
+Guatemala,VBA,2.0
+Guatemala,Visual Basic 6,8.0
+Guinea,Bash/Shell,1.0
+Guinea,C,1.0
+Guinea,C#,1.0
+Guinea,C++,1.0
+Guinea,CSS,2.0
+Guinea,Delphi/Object Pascal,1.0
+Guinea,HTML,2.0
+Guinea,Java,2.0
+Guinea,JavaScript,1.0
+Guinea,PHP,2.0
+Guinea,Python,1.0
+Guinea,SQL,2.0
+Guinea,VB.NET,1.0
+Guinea,VBA,1.0
+Guinea,Visual Basic 6,1.0
+Guyana,CSS,2.0
+Guyana,HTML,2.0
+Guyana,JavaScript,2.0
+Guyana,PHP,1.0
+Guyana,Python,1.0
+Haiti,Assembly,1.0
+Haiti,Bash/Shell,1.0
+Haiti,C,1.0
+Haiti,C#,1.0
+Haiti,C++,1.0
+Haiti,CSS,5.0
+Haiti,CoffeeScript,1.0
+Haiti,HTML,5.0
+Haiti,Java,2.0
+Haiti,JavaScript,3.0
+Haiti,PHP,2.0
+Haiti,Perl,1.0
+Haiti,Python,1.0
+Haiti,SQL,2.0
+Haiti,TypeScript,1.0
+Haiti,VB.NET,1.0
+Haiti,VBA,1.0
+Haiti,Visual Basic 6,1.0
+Honduras,Assembly,3.0
+Honduras,Bash/Shell,7.0
+Honduras,C,2.0
+Honduras,C#,11.0
+Honduras,C++,5.0
+Honduras,CSS,13.0
+Honduras,Delphi/Object Pascal,1.0
+Honduras,Go,3.0
+Honduras,HTML,14.0
+Honduras,Haskell,1.0
+Honduras,Java,7.0
+Honduras,JavaScript,14.0
+Honduras,Kotlin,1.0
+Honduras,Lua,1.0
+Honduras,Objective-C,1.0
+Honduras,PHP,5.0
+Honduras,Python,4.0
+Honduras,R,1.0
+Honduras,Ruby,1.0
+Honduras,SQL,15.0
+Honduras,Swift,1.0
+Honduras,TypeScript,2.0
+Honduras,VB.NET,5.0
+Honduras,VBA,1.0
+Honduras,Visual Basic 6,2.0
+Hong Kong (S.A.R.),Assembly,6.0
+Hong Kong (S.A.R.),Bash/Shell,66.0
+Hong Kong (S.A.R.),C,22.0
+Hong Kong (S.A.R.),C#,51.0
+Hong Kong (S.A.R.),C++,35.0
+Hong Kong (S.A.R.),CSS,109.0
+Hong Kong (S.A.R.),Cobol,1.0
+Hong Kong (S.A.R.),CoffeeScript,7.0
+Hong Kong (S.A.R.),Delphi/Object Pascal,3.0
+Hong Kong (S.A.R.),Erlang,3.0
+Hong Kong (S.A.R.),F#,3.0
+Hong Kong (S.A.R.),Go,7.0
+Hong Kong (S.A.R.),Groovy,5.0
+Hong Kong (S.A.R.),HTML,114.0
+Hong Kong (S.A.R.),Haskell,1.0
+Hong Kong (S.A.R.),Java,71.0
+Hong Kong (S.A.R.),JavaScript,123.0
+Hong Kong (S.A.R.),Julia,1.0
+Hong Kong (S.A.R.),Kotlin,9.0
+Hong Kong (S.A.R.),Lua,3.0
+Hong Kong (S.A.R.),Matlab,8.0
+Hong Kong (S.A.R.),Objective-C,18.0
+Hong Kong (S.A.R.),Ocaml,1.0
+Hong Kong (S.A.R.),PHP,62.0
+Hong Kong (S.A.R.),Perl,6.0
+Hong Kong (S.A.R.),Python,67.0
+Hong Kong (S.A.R.),R,13.0
+Hong Kong (S.A.R.),Ruby,13.0
+Hong Kong (S.A.R.),Rust,4.0
+Hong Kong (S.A.R.),SQL,91.0
+Hong Kong (S.A.R.),Scala,7.0
+Hong Kong (S.A.R.),Swift,24.0
+Hong Kong (S.A.R.),TypeScript,24.0
+Hong Kong (S.A.R.),VB.NET,16.0
+Hong Kong (S.A.R.),VBA,19.0
+Hong Kong (S.A.R.),Visual Basic 6,8.0
+Hungary,Assembly,29.0
+Hungary,Bash/Shell,160.0
+Hungary,C,80.0
+Hungary,C#,116.0
+Hungary,C++,91.0
+Hungary,CSS,239.0
+Hungary,Clojure,9.0
+Hungary,Cobol,1.0
+Hungary,CoffeeScript,10.0
+Hungary,Delphi/Object Pascal,16.0
+Hungary,Erlang,7.0
+Hungary,F#,4.0
+Hungary,Go,25.0
+Hungary,Groovy,22.0
+Hungary,HTML,249.0
+Hungary,Hack,1.0
+Hungary,Haskell,12.0
+Hungary,Java,183.0
+Hungary,JavaScript,246.0
+Hungary,Julia,1.0
+Hungary,Kotlin,25.0
+Hungary,Lua,15.0
+Hungary,Matlab,15.0
+Hungary,Objective-C,22.0
+Hungary,PHP,104.0
+Hungary,Perl,19.0
+Hungary,Python,132.0
+Hungary,R,12.0
+Hungary,Ruby,30.0
+Hungary,Rust,7.0
+Hungary,SQL,200.0
+Hungary,Scala,28.0
+Hungary,Swift,18.0
+Hungary,TypeScript,92.0
+Hungary,VB.NET,7.0
+Hungary,VBA,11.0
+Hungary,Visual Basic 6,5.0
+Iceland,Assembly,2.0
+Iceland,Bash/Shell,20.0
+Iceland,C,6.0
+Iceland,C#,14.0
+Iceland,C++,5.0
+Iceland,CSS,25.0
+Iceland,Delphi/Object Pascal,1.0
+Iceland,Erlang,1.0
+Iceland,Go,2.0
+Iceland,Groovy,1.0
+Iceland,HTML,25.0
+Iceland,Java,13.0
+Iceland,JavaScript,23.0
+Iceland,Kotlin,1.0
+Iceland,Matlab,3.0
+Iceland,Objective-C,5.0
+Iceland,PHP,6.0
+Iceland,Perl,2.0
+Iceland,Python,19.0
+Iceland,R,2.0
+Iceland,Ruby,3.0
+Iceland,SQL,20.0
+Iceland,Scala,1.0
+Iceland,Swift,6.0
+Iceland,TypeScript,4.0
+India,Assembly,703.0
+India,Bash/Shell,1847.0
+India,C,2989.0
+India,C#,1895.0
+India,C++,2563.0
+India,CSS,5434.0
+India,Clojure,34.0
+India,Cobol,76.0
+India,CoffeeScript,153.0
+India,Delphi/Object Pascal,38.0
+India,Erlang,55.0
+India,F#,26.0
+India,Go,248.0
+India,Groovy,180.0
+India,HTML,5846.0
+India,Hack,28.0
+India,Haskell,61.0
+India,Java,4742.0
+India,JavaScript,5670.0
+India,Julia,27.0
+India,Kotlin,386.0
+India,Lua,80.0
+India,Matlab,418.0
+India,Objective-C,731.0
+India,Ocaml,17.0
+India,PHP,2854.0
+India,Perl,230.0
+India,Python,2662.0
+India,R,383.0
+India,Ruby,494.0
+India,Rust,50.0
+India,SQL,4413.0
+India,Scala,247.0
+India,Swift,749.0
+India,TypeScript,1220.0
+India,VB.NET,575.0
+India,VBA,184.0
+India,Visual Basic 6,434.0
+Indonesia,Assembly,19.0
+Indonesia,Bash/Shell,116.0
+Indonesia,C,94.0
+Indonesia,C#,135.0
+Indonesia,C++,144.0
+Indonesia,CSS,287.0
+Indonesia,Clojure,4.0
+Indonesia,Cobol,7.0
+Indonesia,CoffeeScript,13.0
+Indonesia,Delphi/Object Pascal,36.0
+Indonesia,Erlang,4.0
+Indonesia,F#,4.0
+Indonesia,Go,49.0
+Indonesia,Groovy,8.0
+Indonesia,HTML,309.0
+Indonesia,Hack,8.0
+Indonesia,Haskell,9.0
+Indonesia,Java,230.0
+Indonesia,JavaScript,296.0
+Indonesia,Julia,5.0
+Indonesia,Kotlin,26.0
+Indonesia,Lua,17.0
+Indonesia,Matlab,36.0
+Indonesia,Objective-C,26.0
+Indonesia,Ocaml,3.0
+Indonesia,PHP,276.0
+Indonesia,Perl,12.0
+Indonesia,Python,115.0
+Indonesia,R,13.0
+Indonesia,Ruby,48.0
+Indonesia,Rust,5.0
+Indonesia,SQL,252.0
+Indonesia,Scala,14.0
+Indonesia,Swift,27.0
+Indonesia,TypeScript,35.0
+Indonesia,VB.NET,68.0
+Indonesia,VBA,26.0
+Indonesia,Visual Basic 6,50.0
+"Iran, Islamic Republic of...",Assembly,75.0
+"Iran, Islamic Republic of...",Bash/Shell,139.0
+"Iran, Islamic Republic of...",C,168.0
+"Iran, Islamic Republic of...",C#,288.0
+"Iran, Islamic Republic of...",C++,219.0
+"Iran, Islamic Republic of...",CSS,406.0
+"Iran, Islamic Republic of...",Clojure,5.0
+"Iran, Islamic Republic of...",Cobol,3.0
+"Iran, Islamic Republic of...",CoffeeScript,7.0
+"Iran, Islamic Republic of...",Delphi/Object Pascal,26.0
+"Iran, Islamic Republic of...",Erlang,6.0
+"Iran, Islamic Republic of...",F#,6.0
+"Iran, Islamic Republic of...",Go,35.0
+"Iran, Islamic Republic of...",Groovy,11.0
+"Iran, Islamic Republic of...",HTML,418.0
+"Iran, Islamic Republic of...",Hack,12.0
+"Iran, Islamic Republic of...",Haskell,9.0
+"Iran, Islamic Republic of...",Java,276.0
+"Iran, Islamic Republic of...",JavaScript,373.0
+"Iran, Islamic Republic of...",Julia,3.0
+"Iran, Islamic Republic of...",Kotlin,22.0
+"Iran, Islamic Republic of...",Lua,17.0
+"Iran, Islamic Republic of...",Matlab,65.0
+"Iran, Islamic Republic of...",Objective-C,24.0
+"Iran, Islamic Republic of...",Ocaml,2.0
+"Iran, Islamic Republic of...",PHP,226.0
+"Iran, Islamic Republic of...",Perl,6.0
+"Iran, Islamic Republic of...",Python,204.0
+"Iran, Islamic Republic of...",R,19.0
+"Iran, Islamic Republic of...",Ruby,25.0
+"Iran, Islamic Republic of...",Rust,4.0
+"Iran, Islamic Republic of...",SQL,371.0
+"Iran, Islamic Republic of...",Scala,13.0
+"Iran, Islamic Republic of...",Swift,39.0
+"Iran, Islamic Republic of...",TypeScript,90.0
+"Iran, Islamic Republic of...",VB.NET,57.0
+"Iran, Islamic Republic of...",VBA,14.0
+"Iran, Islamic Republic of...",Visual Basic 6,52.0
+Iraq,Assembly,1.0
+Iraq,Bash/Shell,3.0
+Iraq,C,3.0
+Iraq,C#,11.0
+Iraq,C++,8.0
+Iraq,CSS,14.0
+Iraq,Delphi/Object Pascal,1.0
+Iraq,Go,1.0
+Iraq,HTML,14.0
+Iraq,Hack,1.0
+Iraq,Java,10.0
+Iraq,JavaScript,10.0
+Iraq,Kotlin,2.0
+Iraq,Lua,1.0
+Iraq,Matlab,4.0
+Iraq,PHP,8.0
+Iraq,Perl,2.0
+Iraq,Python,6.0
+Iraq,Ruby,1.0
+Iraq,SQL,11.0
+Iraq,Swift,6.0
+Iraq,VB.NET,7.0
+Iraq,VBA,2.0
+Iraq,Visual Basic 6,4.0
+Ireland,Assembly,23.0
+Ireland,Bash/Shell,202.0
+Ireland,C,68.0
+Ireland,C#,132.0
+Ireland,C++,75.0
+Ireland,CSS,261.0
+Ireland,Clojure,7.0
+Ireland,Cobol,2.0
+Ireland,CoffeeScript,17.0
+Ireland,Delphi/Object Pascal,10.0
+Ireland,Erlang,6.0
+Ireland,F#,4.0
+Ireland,Go,40.0
+Ireland,Groovy,24.0
+Ireland,HTML,274.0
+Ireland,Hack,1.0
+Ireland,Haskell,16.0
+Ireland,Java,193.0
+Ireland,JavaScript,294.0
+Ireland,Julia,5.0
+Ireland,Kotlin,26.0
+Ireland,Lua,17.0
+Ireland,Matlab,22.0
+Ireland,Objective-C,28.0
+Ireland,Ocaml,2.0
+Ireland,PHP,98.0
+Ireland,Perl,20.0
+Ireland,Python,198.0
+Ireland,R,35.0
+Ireland,Ruby,68.0
+Ireland,Rust,10.0
+Ireland,SQL,250.0
+Ireland,Scala,29.0
+Ireland,Swift,26.0
+Ireland,TypeScript,81.0
+Ireland,VB.NET,35.0
+Ireland,VBA,19.0
+Ireland,Visual Basic 6,17.0
+Israel,Assembly,67.0
+Israel,Bash/Shell,322.0
+Israel,C,173.0
+Israel,C#,274.0
+Israel,C++,198.0
+Israel,CSS,410.0
+Israel,Clojure,8.0
+Israel,Cobol,4.0
+Israel,CoffeeScript,11.0
+Israel,Delphi/Object Pascal,2.0
+Israel,Erlang,4.0
+Israel,F#,6.0
+Israel,Go,55.0
+Israel,Groovy,37.0
+Israel,HTML,441.0
+Israel,Hack,2.0
+Israel,Haskell,12.0
+Israel,Java,353.0
+Israel,JavaScript,492.0
+Israel,Julia,3.0
+Israel,Kotlin,28.0
+Israel,Lua,25.0
+Israel,Matlab,47.0
+Israel,Objective-C,53.0
+Israel,Ocaml,1.0
+Israel,PHP,149.0
+Israel,Perl,25.0
+Israel,Python,354.0
+Israel,R,29.0
+Israel,Ruby,48.0
+Israel,Rust,9.0
+Israel,SQL,370.0
+Israel,Scala,50.0
+Israel,Swift,49.0
+Israel,TypeScript,152.0
+Israel,VB.NET,33.0
+Israel,VBA,28.0
+Israel,Visual Basic 6,16.0
+Italy,Assembly,167.0
+Italy,Bash/Shell,533.0
+Italy,C,398.0
+Italy,C#,387.0
+Italy,C++,402.0
+Italy,CSS,824.0
+Italy,Clojure,11.0
+Italy,Cobol,22.0
+Italy,CoffeeScript,29.0
+Italy,Delphi/Object Pascal,74.0
+Italy,Erlang,9.0
+Italy,F#,11.0
+Italy,Go,59.0
+Italy,Groovy,56.0
+Italy,HTML,876.0
+Italy,Hack,2.0
+Italy,Haskell,33.0
+Italy,Java,693.0
+Italy,JavaScript,885.0
+Italy,Julia,9.0
+Italy,Kotlin,35.0
+Italy,Lua,44.0
+Italy,Matlab,132.0
+Italy,Objective-C,90.0
+Italy,Ocaml,12.0
+Italy,PHP,533.0
+Italy,Perl,42.0
+Italy,Python,456.0
+Italy,R,79.0
+Italy,Ruby,74.0
+Italy,Rust,13.0
+Italy,SQL,757.0
+Italy,Scala,56.0
+Italy,Swift,84.0
+Italy,TypeScript,198.0
+Italy,VB.NET,133.0
+Italy,VBA,85.0
+Italy,Visual Basic 6,103.0
+Jamaica,Assembly,1.0
+Jamaica,Bash/Shell,3.0
+Jamaica,C,3.0
+Jamaica,C#,7.0
+Jamaica,C++,2.0
+Jamaica,CSS,13.0
+Jamaica,Clojure,1.0
+Jamaica,Go,1.0
+Jamaica,Groovy,1.0
+Jamaica,HTML,13.0
+Jamaica,Java,7.0
+Jamaica,JavaScript,11.0
+Jamaica,Lua,1.0
+Jamaica,Objective-C,1.0
+Jamaica,PHP,6.0
+Jamaica,Python,3.0
+Jamaica,Ruby,1.0
+Jamaica,SQL,8.0
+Jamaica,TypeScript,4.0
+Jamaica,VB.NET,1.0
+Jamaica,VBA,1.0
+Jamaica,Visual Basic 6,1.0
+Japan,Assembly,17.0
+Japan,Bash/Shell,129.0
+Japan,C,75.0
+Japan,C#,77.0
+Japan,C++,80.0
+Japan,CSS,163.0
+Japan,Clojure,4.0
+Japan,Cobol,3.0
+Japan,CoffeeScript,13.0
+Japan,Delphi/Object Pascal,5.0
+Japan,Erlang,5.0
+Japan,F#,4.0
+Japan,Go,38.0
+Japan,Groovy,13.0
+Japan,HTML,179.0
+Japan,Haskell,4.0
+Japan,Java,114.0
+Japan,JavaScript,180.0
+Japan,Julia,3.0
+Japan,Kotlin,12.0
+Japan,Lua,10.0
+Japan,Matlab,23.0
+Japan,Objective-C,42.0
+Japan,Ocaml,2.0
+Japan,PHP,75.0
+Japan,Perl,21.0
+Japan,Python,100.0
+Japan,R,19.0
+Japan,Ruby,59.0
+Japan,Rust,6.0
+Japan,SQL,136.0
+Japan,Scala,14.0
+Japan,Swift,41.0
+Japan,TypeScript,35.0
+Japan,VB.NET,13.0
+Japan,VBA,21.0
+Japan,Visual Basic 6,11.0
+Jordan,Bash/Shell,6.0
+Jordan,C,1.0
+Jordan,C#,30.0
+Jordan,C++,10.0
+Jordan,CSS,38.0
+Jordan,Go,1.0
+Jordan,Groovy,1.0
+Jordan,HTML,39.0
+Jordan,Haskell,1.0
+Jordan,Java,24.0
+Jordan,JavaScript,40.0
+Jordan,Kotlin,3.0
+Jordan,Matlab,1.0
+Jordan,Objective-C,7.0
+Jordan,PHP,12.0
+Jordan,Python,7.0
+Jordan,Ruby,1.0
+Jordan,SQL,28.0
+Jordan,Swift,6.0
+Jordan,TypeScript,13.0
+Jordan,VB.NET,4.0
+Jordan,VBA,1.0
+Jordan,Visual Basic 6,3.0
+Kazakhstan,Bash/Shell,13.0
+Kazakhstan,C,3.0
+Kazakhstan,C#,26.0
+Kazakhstan,C++,14.0
+Kazakhstan,CSS,48.0
+Kazakhstan,CoffeeScript,1.0
+Kazakhstan,Delphi/Object Pascal,7.0
+Kazakhstan,Erlang,1.0
+Kazakhstan,Go,3.0
+Kazakhstan,Groovy,2.0
+Kazakhstan,HTML,52.0
+Kazakhstan,Java,28.0
+Kazakhstan,JavaScript,51.0
+Kazakhstan,Kotlin,3.0
+Kazakhstan,Lua,2.0
+Kazakhstan,Objective-C,2.0
+Kazakhstan,PHP,24.0
+Kazakhstan,Python,18.0
+Kazakhstan,R,2.0
+Kazakhstan,Ruby,1.0
+Kazakhstan,SQL,44.0
+Kazakhstan,Scala,2.0
+Kazakhstan,Swift,3.0
+Kazakhstan,TypeScript,9.0
+Kazakhstan,VB.NET,1.0
+Kazakhstan,VBA,3.0
+Kenya,Assembly,9.0
+Kenya,Bash/Shell,37.0
+Kenya,C,29.0
+Kenya,C#,33.0
+Kenya,C++,27.0
+Kenya,CSS,107.0
+Kenya,Clojure,2.0
+Kenya,CoffeeScript,4.0
+Kenya,Delphi/Object Pascal,1.0
+Kenya,Erlang,1.0
+Kenya,Go,11.0
+Kenya,Groovy,1.0
+Kenya,HTML,109.0
+Kenya,Haskell,1.0
+Kenya,Java,67.0
+Kenya,JavaScript,100.0
+Kenya,Kotlin,8.0
+Kenya,Lua,1.0
+Kenya,Matlab,5.0
+Kenya,Objective-C,4.0
+Kenya,PHP,72.0
+Kenya,Perl,5.0
+Kenya,Python,70.0
+Kenya,R,11.0
+Kenya,Ruby,11.0
+Kenya,Rust,1.0
+Kenya,SQL,72.0
+Kenya,Scala,4.0
+Kenya,Swift,8.0
+Kenya,TypeScript,15.0
+Kenya,VB.NET,16.0
+Kenya,VBA,6.0
+Kenya,Visual Basic 6,12.0
+Kuwait,Assembly,1.0
+Kuwait,Bash/Shell,3.0
+Kuwait,C,4.0
+Kuwait,C#,6.0
+Kuwait,C++,5.0
+Kuwait,CSS,9.0
+Kuwait,Go,1.0
+Kuwait,HTML,10.0
+Kuwait,Java,6.0
+Kuwait,JavaScript,5.0
+Kuwait,Kotlin,1.0
+Kuwait,Objective-C,1.0
+Kuwait,PHP,3.0
+Kuwait,Python,3.0
+Kuwait,R,1.0
+Kuwait,Ruby,2.0
+Kuwait,SQL,9.0
+Kuwait,Swift,2.0
+Kuwait,TypeScript,1.0
+Kuwait,VB.NET,1.0
+Kuwait,VBA,1.0
+Kuwait,Visual Basic 6,1.0
+Kyrgyzstan,Bash/Shell,7.0
+Kyrgyzstan,C,3.0
+Kyrgyzstan,C#,6.0
+Kyrgyzstan,C++,2.0
+Kyrgyzstan,CSS,13.0
+Kyrgyzstan,Erlang,1.0
+Kyrgyzstan,HTML,14.0
+Kyrgyzstan,Java,10.0
+Kyrgyzstan,JavaScript,10.0
+Kyrgyzstan,Matlab,1.0
+Kyrgyzstan,PHP,7.0
+Kyrgyzstan,Python,7.0
+Kyrgyzstan,R,1.0
+Kyrgyzstan,Ruby,2.0
+Kyrgyzstan,SQL,11.0
+Kyrgyzstan,Swift,2.0
+Kyrgyzstan,TypeScript,1.0
+Kyrgyzstan,VBA,1.0
+Kyrgyzstan,Visual Basic 6,1.0
+Latvia,Assembly,8.0
+Latvia,Bash/Shell,44.0
+Latvia,C,22.0
+Latvia,C#,32.0
+Latvia,C++,26.0
+Latvia,CSS,75.0
+Latvia,Clojure,2.0
+Latvia,CoffeeScript,6.0
+Latvia,Delphi/Object Pascal,4.0
+Latvia,Erlang,1.0
+Latvia,F#,2.0
+Latvia,Go,5.0
+Latvia,Groovy,6.0
+Latvia,HTML,79.0
+Latvia,Haskell,5.0
+Latvia,Java,47.0
+Latvia,JavaScript,78.0
+Latvia,Julia,2.0
+Latvia,Kotlin,7.0
+Latvia,Lua,3.0
+Latvia,Matlab,12.0
+Latvia,Objective-C,6.0
+Latvia,Ocaml,2.0
+Latvia,PHP,44.0
+Latvia,Perl,4.0
+Latvia,Python,31.0
+Latvia,R,5.0
+Latvia,Ruby,14.0
+Latvia,Rust,3.0
+Latvia,SQL,66.0
+Latvia,Scala,6.0
+Latvia,Swift,7.0
+Latvia,TypeScript,17.0
+Latvia,VB.NET,3.0
+Latvia,VBA,7.0
+Latvia,Visual Basic 6,3.0
+Lebanon,Assembly,8.0
+Lebanon,Bash/Shell,20.0
+Lebanon,C,16.0
+Lebanon,C#,32.0
+Lebanon,C++,21.0
+Lebanon,CSS,55.0
+Lebanon,Cobol,2.0
+Lebanon,CoffeeScript,1.0
+Lebanon,Delphi/Object Pascal,1.0
+Lebanon,Go,3.0
+Lebanon,Groovy,7.0
+Lebanon,HTML,59.0
+Lebanon,Hack,1.0
+Lebanon,Haskell,1.0
+Lebanon,Java,50.0
+Lebanon,JavaScript,51.0
+Lebanon,Kotlin,5.0
+Lebanon,Lua,1.0
+Lebanon,Matlab,10.0
+Lebanon,Objective-C,6.0
+Lebanon,PHP,35.0
+Lebanon,Perl,4.0
+Lebanon,Python,21.0
+Lebanon,R,6.0
+Lebanon,Ruby,2.0
+Lebanon,Rust,1.0
+Lebanon,SQL,52.0
+Lebanon,Scala,1.0
+Lebanon,Swift,10.0
+Lebanon,TypeScript,11.0
+Lebanon,VB.NET,7.0
+Lebanon,VBA,4.0
+Lebanon,Visual Basic 6,4.0
+Lesotho,Assembly,1.0
+Lesotho,Bash/Shell,1.0
+Lesotho,C,1.0
+Lesotho,C#,1.0
+Lesotho,C++,1.0
+Lesotho,CSS,2.0
+Lesotho,HTML,2.0
+Lesotho,Java,2.0
+Lesotho,JavaScript,2.0
+Lesotho,Matlab,1.0
+Lesotho,PHP,1.0
+Lesotho,Python,1.0
+Lesotho,Ruby,2.0
+Lesotho,SQL,2.0
+Lesotho,VB.NET,1.0
+Lesotho,Visual Basic 6,1.0
+Liberia,C#,1.0
+Liberia,CSS,1.0
+Liberia,HTML,1.0
+Liberia,JavaScript,1.0
+Liberia,SQL,1.0
+Libyan Arab Jamahiriya,Bash/Shell,1.0
+Libyan Arab Jamahiriya,C,1.0
+Libyan Arab Jamahiriya,C#,3.0
+Libyan Arab Jamahiriya,C++,3.0
+Libyan Arab Jamahiriya,CSS,6.0
+Libyan Arab Jamahiriya,Delphi/Object Pascal,2.0
+Libyan Arab Jamahiriya,Go,1.0
+Libyan Arab Jamahiriya,HTML,6.0
+Libyan Arab Jamahiriya,Java,4.0
+Libyan Arab Jamahiriya,JavaScript,5.0
+Libyan Arab Jamahiriya,Kotlin,1.0
+Libyan Arab Jamahiriya,Objective-C,1.0
+Libyan Arab Jamahiriya,PHP,4.0
+Libyan Arab Jamahiriya,SQL,5.0
+Libyan Arab Jamahiriya,Swift,1.0
+Libyan Arab Jamahiriya,TypeScript,1.0
+Libyan Arab Jamahiriya,VB.NET,1.0
+Liechtenstein,Bash/Shell,1.0
+Liechtenstein,C#,3.0
+Liechtenstein,C++,1.0
+Liechtenstein,CSS,2.0
+Liechtenstein,Delphi/Object Pascal,1.0
+Liechtenstein,HTML,2.0
+Liechtenstein,Java,1.0
+Liechtenstein,JavaScript,2.0
+Liechtenstein,PHP,1.0
+Liechtenstein,Python,3.0
+Liechtenstein,SQL,2.0
+Liechtenstein,Swift,1.0
+Liechtenstein,TypeScript,1.0
+Liechtenstein,VB.NET,1.0
+Lithuania,Assembly,7.0
+Lithuania,Bash/Shell,77.0
+Lithuania,C,34.0
+Lithuania,C#,78.0
+Lithuania,C++,48.0
+Lithuania,CSS,115.0
+Lithuania,CoffeeScript,3.0
+Lithuania,Delphi/Object Pascal,7.0
+Lithuania,F#,2.0
+Lithuania,Go,14.0
+Lithuania,Groovy,8.0
+Lithuania,HTML,122.0
+Lithuania,Haskell,1.0
+Lithuania,Java,83.0
+Lithuania,JavaScript,125.0
+Lithuania,Kotlin,10.0
+Lithuania,Lua,8.0
+Lithuania,Matlab,5.0
+Lithuania,Objective-C,9.0
+Lithuania,Ocaml,1.0
+Lithuania,PHP,66.0
+Lithuania,Perl,5.0
+Lithuania,Python,55.0
+Lithuania,R,6.0
+Lithuania,Ruby,17.0
+Lithuania,Rust,3.0
+Lithuania,SQL,116.0
+Lithuania,Scala,10.0
+Lithuania,Swift,13.0
+Lithuania,TypeScript,26.0
+Lithuania,VB.NET,7.0
+Lithuania,VBA,7.0
+Lithuania,Visual Basic 6,3.0
+Luxembourg,Assembly,4.0
+Luxembourg,Bash/Shell,26.0
+Luxembourg,C,10.0
+Luxembourg,C#,14.0
+Luxembourg,C++,10.0
+Luxembourg,CSS,32.0
+Luxembourg,Clojure,1.0
+Luxembourg,Cobol,1.0
+Luxembourg,CoffeeScript,2.0
+Luxembourg,Erlang,1.0
+Luxembourg,Go,3.0
+Luxembourg,Groovy,2.0
+Luxembourg,HTML,33.0
+Luxembourg,Haskell,2.0
+Luxembourg,Java,20.0
+Luxembourg,JavaScript,34.0
+Luxembourg,Julia,4.0
+Luxembourg,Kotlin,1.0
+Luxembourg,Lua,1.0
+Luxembourg,Matlab,4.0
+Luxembourg,Objective-C,2.0
+Luxembourg,PHP,21.0
+Luxembourg,Perl,3.0
+Luxembourg,Python,16.0
+Luxembourg,R,4.0
+Luxembourg,Ruby,6.0
+Luxembourg,SQL,33.0
+Luxembourg,Scala,1.0
+Luxembourg,Swift,1.0
+Luxembourg,TypeScript,11.0
+Luxembourg,VB.NET,1.0
+Luxembourg,VBA,6.0
+Madagascar,Assembly,1.0
+Madagascar,Bash/Shell,6.0
+Madagascar,C,4.0
+Madagascar,C#,4.0
+Madagascar,C++,3.0
+Madagascar,CSS,11.0
+Madagascar,CoffeeScript,2.0
+Madagascar,Go,1.0
+Madagascar,Groovy,1.0
+Madagascar,HTML,11.0
+Madagascar,Hack,1.0
+Madagascar,Java,5.0
+Madagascar,JavaScript,12.0
+Madagascar,PHP,10.0
+Madagascar,Perl,1.0
+Madagascar,Python,6.0
+Madagascar,R,2.0
+Madagascar,SQL,9.0
+Madagascar,TypeScript,4.0
+Madagascar,VBA,2.0
+Malawi,Bash/Shell,1.0
+Malawi,C#,2.0
+Malawi,CSS,1.0
+Malawi,HTML,1.0
+Malawi,Java,1.0
+Malawi,PHP,1.0
+Malawi,SQL,2.0
+Malawi,VB.NET,1.0
+Malawi,VBA,1.0
+Malaysia,Assembly,25.0
+Malaysia,Bash/Shell,90.0
+Malaysia,C,60.0
+Malaysia,C#,95.0
+Malaysia,C++,75.0
+Malaysia,CSS,194.0
+Malaysia,Clojure,2.0
+Malaysia,Cobol,7.0
+Malaysia,CoffeeScript,10.0
+Malaysia,Delphi/Object Pascal,7.0
+Malaysia,Erlang,1.0
+Malaysia,F#,2.0
+Malaysia,Go,16.0
+Malaysia,Groovy,10.0
+Malaysia,HTML,203.0
+Malaysia,Hack,5.0
+Malaysia,Haskell,8.0
+Malaysia,Java,149.0
+Malaysia,JavaScript,203.0
+Malaysia,Julia,1.0
+Malaysia,Kotlin,11.0
+Malaysia,Lua,5.0
+Malaysia,Matlab,26.0
+Malaysia,Objective-C,29.0
+Malaysia,Ocaml,1.0
+Malaysia,PHP,116.0
+Malaysia,Perl,12.0
+Malaysia,Python,67.0
+Malaysia,R,14.0
+Malaysia,Ruby,36.0
+Malaysia,Rust,3.0
+Malaysia,SQL,163.0
+Malaysia,Scala,8.0
+Malaysia,Swift,24.0
+Malaysia,TypeScript,41.0
+Malaysia,VB.NET,45.0
+Malaysia,VBA,16.0
+Malaysia,Visual Basic 6,30.0
+Maldives,Bash/Shell,4.0
+Maldives,C,1.0
+Maldives,C#,4.0
+Maldives,C++,1.0
+Maldives,CSS,6.0
+Maldives,Go,1.0
+Maldives,HTML,6.0
+Maldives,Java,2.0
+Maldives,JavaScript,5.0
+Maldives,Lua,1.0
+Maldives,PHP,4.0
+Maldives,Python,3.0
+Maldives,Ruby,1.0
+Maldives,SQL,5.0
+Maldives,TypeScript,1.0
+Maldives,VB.NET,1.0
+Maldives,VBA,1.0
+Maldives,Visual Basic 6,1.0
+Mali,Bash/Shell,1.0
+Mali,CSS,1.0
+Mali,CoffeeScript,1.0
+Mali,HTML,1.0
+Mali,JavaScript,1.0
+Mali,Ruby,1.0
+Mali,SQL,1.0
+Malta,Assembly,2.0
+Malta,Bash/Shell,15.0
+Malta,C,10.0
+Malta,C#,22.0
+Malta,C++,10.0
+Malta,CSS,37.0
+Malta,Clojure,1.0
+Malta,Erlang,1.0
+Malta,F#,2.0
+Malta,Go,1.0
+Malta,Groovy,1.0
+Malta,HTML,39.0
+Malta,Haskell,2.0
+Malta,Java,23.0
+Malta,JavaScript,38.0
+Malta,Kotlin,3.0
+Malta,Lua,2.0
+Malta,Matlab,7.0
+Malta,Objective-C,1.0
+Malta,Ocaml,1.0
+Malta,PHP,18.0
+Malta,Perl,2.0
+Malta,Python,17.0
+Malta,R,2.0
+Malta,Ruby,2.0
+Malta,Rust,2.0
+Malta,SQL,33.0
+Malta,Scala,4.0
+Malta,TypeScript,10.0
+Malta,VB.NET,3.0
+Malta,VBA,2.0
+Mauritania,Bash/Shell,1.0
+Mauritania,C,1.0
+Mauritania,C++,1.0
+Mauritania,CSS,1.0
+Mauritania,CoffeeScript,1.0
+Mauritania,Delphi/Object Pascal,1.0
+Mauritania,HTML,1.0
+Mauritania,Java,1.0
+Mauritania,JavaScript,1.0
+Mauritania,PHP,1.0
+Mauritania,Python,1.0
+Mauritania,SQL,1.0
+Mauritius,Assembly,1.0
+Mauritius,Bash/Shell,5.0
+Mauritius,C,5.0
+Mauritius,C#,8.0
+Mauritius,C++,4.0
+Mauritius,CSS,16.0
+Mauritius,Delphi/Object Pascal,1.0
+Mauritius,HTML,18.0
+Mauritius,Haskell,1.0
+Mauritius,Java,9.0
+Mauritius,JavaScript,16.0
+Mauritius,Objective-C,1.0
+Mauritius,PHP,12.0
+Mauritius,Python,8.0
+Mauritius,Ruby,1.0
+Mauritius,SQL,13.0
+Mauritius,VB.NET,6.0
+Mauritius,VBA,2.0
+Mauritius,Visual Basic 6,8.0
+Mexico,Assembly,31.0
+Mexico,Bash/Shell,175.0
+Mexico,C,112.0
+Mexico,C#,217.0
+Mexico,C++,112.0
+Mexico,CSS,375.0
+Mexico,Clojure,3.0
+Mexico,Cobol,8.0
+Mexico,CoffeeScript,27.0
+Mexico,Delphi/Object Pascal,18.0
+Mexico,Erlang,7.0
+Mexico,F#,7.0
+Mexico,Go,32.0
+Mexico,Groovy,19.0
+Mexico,HTML,394.0
+Mexico,Hack,3.0
+Mexico,Haskell,8.0
+Mexico,Java,276.0
+Mexico,JavaScript,414.0
+Mexico,Julia,1.0
+Mexico,Kotlin,23.0
+Mexico,Lua,9.0
+Mexico,Matlab,31.0
+Mexico,Objective-C,51.0
+Mexico,Ocaml,1.0
+Mexico,PHP,222.0
+Mexico,Perl,18.0
+Mexico,Python,192.0
+Mexico,R,34.0
+Mexico,Ruby,72.0
+Mexico,Rust,6.0
+Mexico,SQL,349.0
+Mexico,Scala,20.0
+Mexico,Swift,60.0
+Mexico,TypeScript,85.0
+Mexico,VB.NET,57.0
+Mexico,VBA,31.0
+Mexico,Visual Basic 6,35.0
+"Micronesia, Federated States of...",C#,1.0
+"Micronesia, Federated States of...",C++,1.0
+"Micronesia, Federated States of...",CSS,1.0
+"Micronesia, Federated States of...",HTML,1.0
+"Micronesia, Federated States of...",JavaScript,1.0
+"Micronesia, Federated States of...",R,1.0
+"Micronesia, Federated States of...",SQL,1.0
+Monaco,C#,1.0
+Monaco,Haskell,1.0
+Monaco,Java,1.0
+Mongolia,Assembly,2.0
+Mongolia,Bash/Shell,4.0
+Mongolia,C,2.0
+Mongolia,C#,6.0
+Mongolia,C++,3.0
+Mongolia,CSS,6.0
+Mongolia,Go,1.0
+Mongolia,Groovy,1.0
+Mongolia,HTML,6.0
+Mongolia,Haskell,1.0
+Mongolia,Java,9.0
+Mongolia,JavaScript,6.0
+Mongolia,Kotlin,1.0
+Mongolia,Matlab,1.0
+Mongolia,Ocaml,1.0
+Mongolia,PHP,3.0
+Mongolia,Perl,1.0
+Mongolia,Python,6.0
+Mongolia,Ruby,2.0
+Mongolia,Rust,1.0
+Mongolia,SQL,6.0
+Mongolia,Scala,1.0
+Montenegro,Assembly,2.0
+Montenegro,Bash/Shell,4.0
+Montenegro,C,2.0
+Montenegro,C#,5.0
+Montenegro,C++,2.0
+Montenegro,CSS,6.0
+Montenegro,Delphi/Object Pascal,1.0
+Montenegro,HTML,7.0
+Montenegro,Java,2.0
+Montenegro,JavaScript,6.0
+Montenegro,PHP,2.0
+Montenegro,Python,4.0
+Montenegro,R,2.0
+Montenegro,Ruby,1.0
+Montenegro,SQL,4.0
+Montenegro,Scala,1.0
+Montenegro,TypeScript,1.0
+Montenegro,VB.NET,1.0
+Morocco,Assembly,23.0
+Morocco,Bash/Shell,45.0
+Morocco,C,67.0
+Morocco,C#,47.0
+Morocco,C++,44.0
+Morocco,CSS,114.0
+Morocco,Clojure,1.0
+Morocco,Cobol,1.0
+Morocco,CoffeeScript,5.0
+Morocco,Delphi/Object Pascal,2.0
+Morocco,Erlang,1.0
+Morocco,F#,1.0
+Morocco,Go,6.0
+Morocco,Groovy,4.0
+Morocco,HTML,121.0
+Morocco,Hack,1.0
+Morocco,Haskell,3.0
+Morocco,Java,89.0
+Morocco,JavaScript,110.0
+Morocco,Julia,1.0
+Morocco,Kotlin,6.0
+Morocco,Lua,4.0
+Morocco,Matlab,25.0
+Morocco,Objective-C,8.0
+Morocco,Ocaml,2.0
+Morocco,PHP,85.0
+Morocco,Perl,5.0
+Morocco,Python,40.0
+Morocco,R,12.0
+Morocco,Ruby,10.0
+Morocco,Rust,3.0
+Morocco,SQL,105.0
+Morocco,Scala,3.0
+Morocco,Swift,10.0
+Morocco,TypeScript,31.0
+Morocco,VB.NET,17.0
+Morocco,VBA,11.0
+Morocco,Visual Basic 6,7.0
+Mozambique,Assembly,3.0
+Mozambique,Bash/Shell,3.0
+Mozambique,C,2.0
+Mozambique,C#,2.0
+Mozambique,C++,4.0
+Mozambique,CSS,12.0
+Mozambique,Delphi/Object Pascal,1.0
+Mozambique,Groovy,2.0
+Mozambique,HTML,12.0
+Mozambique,Java,11.0
+Mozambique,JavaScript,12.0
+Mozambique,Kotlin,1.0
+Mozambique,Objective-C,1.0
+Mozambique,Ocaml,2.0
+Mozambique,PHP,11.0
+Mozambique,Python,4.0
+Mozambique,R,1.0
+Mozambique,Ruby,1.0
+Mozambique,SQL,12.0
+Mozambique,Swift,1.0
+Mozambique,TypeScript,4.0
+Mozambique,VB.NET,1.0
+Mozambique,VBA,1.0
+Mozambique,Visual Basic 6,2.0
+Myanmar,Assembly,1.0
+Myanmar,Bash/Shell,9.0
+Myanmar,C,3.0
+Myanmar,C#,2.0
+Myanmar,C++,9.0
+Myanmar,CSS,22.0
+Myanmar,CoffeeScript,1.0
+Myanmar,Delphi/Object Pascal,1.0
+Myanmar,Erlang,1.0
+Myanmar,Go,2.0
+Myanmar,Groovy,1.0
+Myanmar,HTML,24.0
+Myanmar,Hack,1.0
+Myanmar,Java,22.0
+Myanmar,JavaScript,17.0
+Myanmar,Julia,1.0
+Myanmar,Kotlin,1.0
+Myanmar,Matlab,1.0
+Myanmar,Objective-C,2.0
+Myanmar,PHP,18.0
+Myanmar,Python,7.0
+Myanmar,R,2.0
+Myanmar,Ruby,1.0
+Myanmar,Rust,1.0
+Myanmar,SQL,21.0
+Myanmar,TypeScript,2.0
+Myanmar,VB.NET,4.0
+Myanmar,VBA,4.0
+Myanmar,Visual Basic 6,1.0
+Namibia,Assembly,1.0
+Namibia,Bash/Shell,3.0
+Namibia,C,2.0
+Namibia,C#,1.0
+Namibia,CSS,3.0
+Namibia,HTML,3.0
+Namibia,Java,1.0
+Namibia,JavaScript,2.0
+Namibia,Matlab,1.0
+Namibia,PHP,3.0
+Namibia,Python,2.0
+Namibia,SQL,3.0
+Namibia,Swift,1.0
+Namibia,TypeScript,2.0
+Nauru,Bash/Shell,1.0
+Nauru,C#,1.0
+Nauru,JavaScript,1.0
+Nauru,VBA,1.0
+Nepal,Assembly,30.0
+Nepal,Bash/Shell,39.0
+Nepal,C,89.0
+Nepal,C#,52.0
+Nepal,C++,86.0
+Nepal,CSS,146.0
+Nepal,Clojure,3.0
+Nepal,Cobol,1.0
+Nepal,CoffeeScript,4.0
+Nepal,Delphi/Object Pascal,2.0
+Nepal,Erlang,1.0
+Nepal,Go,7.0
+Nepal,Groovy,5.0
+Nepal,HTML,156.0
+Nepal,Haskell,2.0
+Nepal,Java,107.0
+Nepal,JavaScript,141.0
+Nepal,Kotlin,14.0
+Nepal,Lua,1.0
+Nepal,Matlab,22.0
+Nepal,Objective-C,9.0
+Nepal,Ocaml,1.0
+Nepal,PHP,103.0
+Nepal,Perl,3.0
+Nepal,Python,66.0
+Nepal,R,4.0
+Nepal,Ruby,12.0
+Nepal,Rust,4.0
+Nepal,SQL,107.0
+Nepal,Scala,4.0
+Nepal,Swift,15.0
+Nepal,TypeScript,37.0
+Nepal,VB.NET,10.0
+Nepal,VBA,4.0
+Nepal,Visual Basic 6,8.0
+Netherlands,Assembly,74.0
+Netherlands,Bash/Shell,637.0
+Netherlands,C,237.0
+Netherlands,C#,546.0
+Netherlands,C++,309.0
+Netherlands,CSS,951.0
+Netherlands,Clojure,23.0
+Netherlands,Cobol,9.0
+Netherlands,CoffeeScript,50.0
+Netherlands,Delphi/Object Pascal,50.0
+Netherlands,Erlang,20.0
+Netherlands,F#,30.0
+Netherlands,Go,116.0
+Netherlands,Groovy,78.0
+Netherlands,HTML,1004.0
+Netherlands,Hack,4.0
+Netherlands,Haskell,52.0
+Netherlands,Java,604.0
+Netherlands,JavaScript,1026.0
+Netherlands,Julia,4.0
+Netherlands,Kotlin,83.0
+Netherlands,Lua,79.0
+Netherlands,Matlab,89.0
+Netherlands,Objective-C,98.0
+Netherlands,Ocaml,3.0
+Netherlands,PHP,516.0
+Netherlands,Perl,72.0
+Netherlands,Python,576.0
+Netherlands,R,99.0
+Netherlands,Ruby,123.0
+Netherlands,Rust,46.0
+Netherlands,SQL,839.0
+Netherlands,Scala,80.0
+Netherlands,Swift,114.0
+Netherlands,TypeScript,292.0
+Netherlands,VB.NET,60.0
+Netherlands,VBA,57.0
+Netherlands,Visual Basic 6,26.0
+New Zealand,Assembly,23.0
+New Zealand,Bash/Shell,185.0
+New Zealand,C,86.0
+New Zealand,C#,204.0
+New Zealand,C++,90.0
+New Zealand,CSS,283.0
+New Zealand,Clojure,3.0
+New Zealand,Cobol,2.0
+New Zealand,CoffeeScript,19.0
+New Zealand,Delphi/Object Pascal,13.0
+New Zealand,Erlang,2.0
+New Zealand,F#,8.0
+New Zealand,Go,41.0
+New Zealand,Groovy,11.0
+New Zealand,HTML,297.0
+New Zealand,Hack,1.0
+New Zealand,Haskell,13.0
+New Zealand,Java,162.0
+New Zealand,JavaScript,307.0
+New Zealand,Julia,3.0
+New Zealand,Kotlin,18.0
+New Zealand,Lua,17.0
+New Zealand,Matlab,23.0
+New Zealand,Objective-C,37.0
+New Zealand,PHP,117.0
+New Zealand,Perl,18.0
+New Zealand,Python,173.0
+New Zealand,R,32.0
+New Zealand,Ruby,55.0
+New Zealand,Rust,19.0
+New Zealand,SQL,267.0
+New Zealand,Scala,15.0
+New Zealand,Swift,37.0
+New Zealand,TypeScript,88.0
+New Zealand,VB.NET,27.0
+New Zealand,VBA,20.0
+New Zealand,Visual Basic 6,12.0
+Nicaragua,Bash/Shell,2.0
+Nicaragua,C#,11.0
+Nicaragua,C++,1.0
+Nicaragua,CSS,14.0
+Nicaragua,F#,1.0
+Nicaragua,HTML,14.0
+Nicaragua,Java,6.0
+Nicaragua,JavaScript,13.0
+Nicaragua,PHP,8.0
+Nicaragua,Python,4.0
+Nicaragua,Ruby,1.0
+Nicaragua,SQL,11.0
+Nicaragua,Swift,1.0
+Nicaragua,TypeScript,2.0
+Nicaragua,VB.NET,4.0
+Nicaragua,VBA,1.0
+Nicaragua,Visual Basic 6,1.0
+Niger,Bash/Shell,1.0
+Niger,C,1.0
+Niger,C#,1.0
+Niger,CSS,2.0
+Niger,Groovy,1.0
+Niger,HTML,2.0
+Niger,Java,1.0
+Niger,JavaScript,1.0
+Niger,PHP,2.0
+Niger,Python,1.0
+Niger,SQL,2.0
+Nigeria,Assembly,15.0
+Nigeria,Bash/Shell,48.0
+Nigeria,C,41.0
+Nigeria,C#,72.0
+Nigeria,C++,48.0
+Nigeria,CSS,237.0
+Nigeria,Clojure,2.0
+Nigeria,Cobol,3.0
+Nigeria,CoffeeScript,4.0
+Nigeria,Delphi/Object Pascal,8.0
+Nigeria,Erlang,1.0
+Nigeria,F#,1.0
+Nigeria,Go,4.0
+Nigeria,Groovy,1.0
+Nigeria,HTML,247.0
+Nigeria,Haskell,1.0
+Nigeria,Java,118.0
+Nigeria,JavaScript,207.0
+Nigeria,Kotlin,16.0
+Nigeria,Lua,1.0
+Nigeria,Matlab,21.0
+Nigeria,Objective-C,4.0
+Nigeria,PHP,158.0
+Nigeria,Perl,2.0
+Nigeria,Python,91.0
+Nigeria,R,5.0
+Nigeria,Ruby,16.0
+Nigeria,Rust,4.0
+Nigeria,SQL,137.0
+Nigeria,Scala,2.0
+Nigeria,Swift,13.0
+Nigeria,TypeScript,47.0
+Nigeria,VB.NET,31.0
+Nigeria,VBA,12.0
+Nigeria,Visual Basic 6,27.0
+North Korea,Bash/Shell,1.0
+North Korea,C,2.0
+North Korea,C#,1.0
+North Korea,C++,1.0
+North Korea,CSS,2.0
+North Korea,HTML,2.0
+North Korea,Java,1.0
+North Korea,JavaScript,1.0
+North Korea,PHP,1.0
+North Korea,Perl,1.0
+North Korea,Python,2.0
+North Korea,Ruby,1.0
+North Korea,SQL,1.0
+North Korea,Scala,1.0
+North Korea,VB.NET,1.0
+Norway,Assembly,28.0
+Norway,Bash/Shell,199.0
+Norway,C,83.0
+Norway,C#,180.0
+Norway,C++,90.0
+Norway,CSS,300.0
+Norway,Clojure,12.0
+Norway,CoffeeScript,8.0
+Norway,Delphi/Object Pascal,12.0
+Norway,F#,11.0
+Norway,Go,35.0
+Norway,Groovy,29.0
+Norway,HTML,314.0
+Norway,Hack,1.0
+Norway,Haskell,16.0
+Norway,Java,185.0
+Norway,JavaScript,317.0
+Norway,Julia,3.0
+Norway,Kotlin,22.0
+Norway,Lua,18.0
+Norway,Matlab,20.0
+Norway,Objective-C,27.0
+Norway,Ocaml,5.0
+Norway,PHP,113.0
+Norway,Perl,18.0
+Norway,Python,176.0
+Norway,R,30.0
+Norway,Ruby,35.0
+Norway,Rust,16.0
+Norway,SQL,243.0
+Norway,Scala,30.0
+Norway,Swift,33.0
+Norway,TypeScript,95.0
+Norway,VB.NET,25.0
+Norway,VBA,16.0
+Norway,Visual Basic 6,13.0
+Oman,Assembly,1.0
+Oman,Bash/Shell,1.0
+Oman,C,6.0
+Oman,C#,3.0
+Oman,C++,8.0
+Oman,CSS,6.0
+Oman,Go,1.0
+Oman,HTML,7.0
+Oman,Java,6.0
+Oman,JavaScript,5.0
+Oman,Matlab,1.0
+Oman,Objective-C,2.0
+Oman,PHP,3.0
+Oman,Python,1.0
+Oman,SQL,4.0
+Oman,Swift,2.0
+Oman,VB.NET,2.0
+Oman,VBA,1.0
+Oman,Visual Basic 6,1.0
+Other Country (Not Listed Above),Assembly,5.0
+Other Country (Not Listed Above),Bash/Shell,19.0
+Other Country (Not Listed Above),C,11.0
+Other Country (Not Listed Above),C#,25.0
+Other Country (Not Listed Above),C++,17.0
+Other Country (Not Listed Above),CSS,34.0
+Other Country (Not Listed Above),Clojure,2.0
+Other Country (Not Listed Above),Cobol,2.0
+Other Country (Not Listed Above),CoffeeScript,2.0
+Other Country (Not Listed Above),Delphi/Object Pascal,5.0
+Other Country (Not Listed Above),Erlang,2.0
+Other Country (Not Listed Above),F#,3.0
+Other Country (Not Listed Above),Go,4.0
+Other Country (Not Listed Above),Groovy,4.0
+Other Country (Not Listed Above),HTML,42.0
+Other Country (Not Listed Above),Hack,2.0
+Other Country (Not Listed Above),Haskell,2.0
+Other Country (Not Listed Above),Java,24.0
+Other Country (Not Listed Above),JavaScript,39.0
+Other Country (Not Listed Above),Julia,2.0
+Other Country (Not Listed Above),Kotlin,6.0
+Other Country (Not Listed Above),Lua,2.0
+Other Country (Not Listed Above),Matlab,7.0
+Other Country (Not Listed Above),Objective-C,7.0
+Other Country (Not Listed Above),Ocaml,2.0
+Other Country (Not Listed Above),PHP,28.0
+Other Country (Not Listed Above),Perl,4.0
+Other Country (Not Listed Above),Python,22.0
+Other Country (Not Listed Above),R,5.0
+Other Country (Not Listed Above),Ruby,3.0
+Other Country (Not Listed Above),Rust,2.0
+Other Country (Not Listed Above),SQL,31.0
+Other Country (Not Listed Above),Scala,3.0
+Other Country (Not Listed Above),Swift,9.0
+Other Country (Not Listed Above),TypeScript,7.0
+Other Country (Not Listed Above),VB.NET,7.0
+Other Country (Not Listed Above),VBA,5.0
+Other Country (Not Listed Above),Visual Basic 6,5.0
+Pakistan,Assembly,111.0
+Pakistan,Bash/Shell,95.0
+Pakistan,C,224.0
+Pakistan,C#,298.0
+Pakistan,C++,276.0
+Pakistan,CSS,489.0
+Pakistan,Clojure,3.0
+Pakistan,Cobol,2.0
+Pakistan,CoffeeScript,14.0
+Pakistan,Erlang,2.0
+Pakistan,F#,4.0
+Pakistan,Go,19.0
+Pakistan,Groovy,10.0
+Pakistan,HTML,517.0
+Pakistan,Hack,3.0
+Pakistan,Haskell,10.0
+Pakistan,Java,352.0
+Pakistan,JavaScript,476.0
+Pakistan,Julia,1.0
+Pakistan,Kotlin,26.0
+Pakistan,Lua,9.0
+Pakistan,Matlab,72.0
+Pakistan,Objective-C,49.0
+Pakistan,PHP,366.0
+Pakistan,Perl,7.0
+Pakistan,Python,167.0
+Pakistan,R,19.0
+Pakistan,Ruby,52.0
+Pakistan,Rust,1.0
+Pakistan,SQL,435.0
+Pakistan,Scala,3.0
+Pakistan,Swift,51.0
+Pakistan,TypeScript,98.0
+Pakistan,VB.NET,59.0
+Pakistan,VBA,17.0
+Pakistan,Visual Basic 6,41.0
+Panama,Assembly,2.0
+Panama,Bash/Shell,9.0
+Panama,C,4.0
+Panama,C#,6.0
+Panama,C++,5.0
+Panama,CSS,17.0
+Panama,CoffeeScript,1.0
+Panama,Go,1.0
+Panama,Groovy,1.0
+Panama,HTML,16.0
+Panama,Java,16.0
+Panama,JavaScript,17.0
+Panama,Objective-C,4.0
+Panama,PHP,11.0
+Panama,Python,6.0
+Panama,R,1.0
+Panama,Ruby,2.0
+Panama,Rust,1.0
+Panama,SQL,17.0
+Panama,Scala,2.0
+Panama,Swift,3.0
+Panama,TypeScript,4.0
+Panama,VB.NET,2.0
+Panama,VBA,1.0
+Panama,Visual Basic 6,2.0
+Paraguay,Assembly,1.0
+Paraguay,Bash/Shell,10.0
+Paraguay,C,8.0
+Paraguay,C#,7.0
+Paraguay,C++,5.0
+Paraguay,CSS,24.0
+Paraguay,CoffeeScript,1.0
+Paraguay,Delphi/Object Pascal,2.0
+Paraguay,Go,1.0
+Paraguay,HTML,27.0
+Paraguay,Java,25.0
+Paraguay,JavaScript,26.0
+Paraguay,Kotlin,1.0
+Paraguay,Lua,1.0
+Paraguay,Matlab,2.0
+Paraguay,Objective-C,5.0
+Paraguay,PHP,13.0
+Paraguay,Perl,1.0
+Paraguay,Python,14.0
+Paraguay,R,1.0
+Paraguay,Ruby,6.0
+Paraguay,SQL,24.0
+Paraguay,Scala,1.0
+Paraguay,Swift,4.0
+Paraguay,TypeScript,5.0
+Paraguay,VB.NET,2.0
+Paraguay,VBA,2.0
+Paraguay,Visual Basic 6,1.0
+Peru,Assembly,5.0
+Peru,Bash/Shell,26.0
+Peru,C,12.0
+Peru,C#,31.0
+Peru,C++,22.0
+Peru,CSS,54.0
+Peru,Clojure,1.0
+Peru,CoffeeScript,6.0
+Peru,Delphi/Object Pascal,3.0
+Peru,Erlang,2.0
+Peru,F#,1.0
+Peru,Go,1.0
+Peru,Groovy,3.0
+Peru,HTML,60.0
+Peru,Haskell,3.0
+Peru,Java,44.0
+Peru,JavaScript,64.0
+Peru,Kotlin,6.0
+Peru,Lua,5.0
+Peru,Matlab,4.0
+Peru,Objective-C,5.0
+Peru,PHP,40.0
+Peru,Perl,5.0
+Peru,Python,30.0
+Peru,R,8.0
+Peru,Ruby,16.0
+Peru,Rust,2.0
+Peru,SQL,56.0
+Peru,Scala,1.0
+Peru,Swift,10.0
+Peru,TypeScript,10.0
+Peru,VB.NET,12.0
+Peru,VBA,5.0
+Peru,Visual Basic 6,7.0
+Philippines,Assembly,31.0
+Philippines,Bash/Shell,91.0
+Philippines,C,80.0
+Philippines,C#,120.0
+Philippines,C++,79.0
+Philippines,CSS,255.0
+Philippines,Clojure,1.0
+Philippines,Cobol,12.0
+Philippines,CoffeeScript,12.0
+Philippines,Delphi/Object Pascal,7.0
+Philippines,Erlang,3.0
+Philippines,Go,12.0
+Philippines,Groovy,11.0
+Philippines,HTML,270.0
+Philippines,Hack,2.0
+Philippines,Haskell,5.0
+Philippines,Java,185.0
+Philippines,JavaScript,263.0
+Philippines,Julia,3.0
+Philippines,Kotlin,18.0
+Philippines,Lua,13.0
+Philippines,Matlab,12.0
+Philippines,Objective-C,28.0
+Philippines,PHP,202.0
+Philippines,Perl,5.0
+Philippines,Python,101.0
+Philippines,R,10.0
+Philippines,Ruby,29.0
+Philippines,Rust,5.0
+Philippines,SQL,223.0
+Philippines,Scala,7.0
+Philippines,Swift,25.0
+Philippines,TypeScript,35.0
+Philippines,VB.NET,77.0
+Philippines,VBA,31.0
+Philippines,Visual Basic 6,44.0
+Poland,Assembly,111.0
+Poland,Bash/Shell,634.0
+Poland,C,318.0
+Poland,C#,577.0
+Poland,C++,451.0
+Poland,CSS,902.0
+Poland,Clojure,9.0
+Poland,Cobol,1.0
+Poland,CoffeeScript,65.0
+Poland,Delphi/Object Pascal,50.0
+Poland,Erlang,30.0
+Poland,F#,35.0
+Poland,Go,91.0
+Poland,Groovy,102.0
+Poland,HTML,942.0
+Poland,Haskell,41.0
+Poland,Java,681.0
+Poland,JavaScript,1038.0
+Poland,Julia,5.0
+Poland,Kotlin,111.0
+Poland,Lua,61.0
+Poland,Matlab,92.0
+Poland,Objective-C,74.0
+Poland,Ocaml,12.0
+Poland,PHP,396.0
+Poland,Perl,46.0
+Poland,Python,587.0
+Poland,R,86.0
+Poland,Ruby,140.0
+Poland,Rust,29.0
+Poland,SQL,832.0
+Poland,Scala,107.0
+Poland,Swift,85.0
+Poland,TypeScript,349.0
+Poland,VB.NET,46.0
+Poland,VBA,62.0
+Poland,Visual Basic 6,22.0
+Portugal,Assembly,34.0
+Portugal,Bash/Shell,147.0
+Portugal,C,99.0
+Portugal,C#,160.0
+Portugal,C++,84.0
+Portugal,CSS,251.0
+Portugal,Clojure,3.0
+Portugal,Cobol,2.0
+Portugal,CoffeeScript,9.0
+Portugal,Delphi/Object Pascal,10.0
+Portugal,Erlang,10.0
+Portugal,F#,5.0
+Portugal,Go,18.0
+Portugal,Groovy,12.0
+Portugal,HTML,268.0
+Portugal,Hack,2.0
+Portugal,Haskell,14.0
+Portugal,Java,194.0
+Portugal,JavaScript,286.0
+Portugal,Julia,3.0
+Portugal,Kotlin,26.0
+Portugal,Lua,15.0
+Portugal,Matlab,28.0
+Portugal,Objective-C,28.0
+Portugal,Ocaml,4.0
+Portugal,PHP,131.0
+Portugal,Perl,9.0
+Portugal,Python,135.0
+Portugal,R,12.0
+Portugal,Ruby,44.0
+Portugal,Rust,9.0
+Portugal,SQL,226.0
+Portugal,Scala,24.0
+Portugal,Swift,31.0
+Portugal,TypeScript,63.0
+Portugal,VB.NET,21.0
+Portugal,VBA,21.0
+Portugal,Visual Basic 6,15.0
+Qatar,Assembly,1.0
+Qatar,Bash/Shell,1.0
+Qatar,C,3.0
+Qatar,C#,6.0
+Qatar,C++,3.0
+Qatar,CSS,9.0
+Qatar,HTML,10.0
+Qatar,Java,5.0
+Qatar,JavaScript,11.0
+Qatar,Matlab,1.0
+Qatar,PHP,3.0
+Qatar,Python,2.0
+Qatar,SQL,10.0
+Qatar,Swift,1.0
+Qatar,TypeScript,4.0
+Qatar,VB.NET,2.0
+Qatar,Visual Basic 6,1.0
+Republic of Korea,Assembly,8.0
+Republic of Korea,Bash/Shell,12.0
+Republic of Korea,C,18.0
+Republic of Korea,C#,9.0
+Republic of Korea,C++,16.0
+Republic of Korea,CSS,18.0
+Republic of Korea,CoffeeScript,1.0
+Republic of Korea,Delphi/Object Pascal,3.0
+Republic of Korea,Go,1.0
+Republic of Korea,HTML,22.0
+Republic of Korea,Java,22.0
+Republic of Korea,JavaScript,25.0
+Republic of Korea,Kotlin,2.0
+Republic of Korea,Lua,2.0
+Republic of Korea,Matlab,1.0
+Republic of Korea,Objective-C,2.0
+Republic of Korea,Ocaml,1.0
+Republic of Korea,PHP,11.0
+Republic of Korea,Perl,1.0
+Republic of Korea,Python,17.0
+Republic of Korea,Ruby,2.0
+Republic of Korea,SQL,12.0
+Republic of Korea,Swift,1.0
+Republic of Korea,TypeScript,2.0
+Republic of Korea,VB.NET,1.0
+Republic of Korea,VBA,2.0
+Republic of Korea,Visual Basic 6,2.0
+Republic of Moldova,Assembly,3.0
+Republic of Moldova,Bash/Shell,20.0
+Republic of Moldova,C,11.0
+Republic of Moldova,C#,15.0
+Republic of Moldova,C++,16.0
+Republic of Moldova,CSS,31.0
+Republic of Moldova,Clojure,1.0
+Republic of Moldova,CoffeeScript,2.0
+Republic of Moldova,Delphi/Object Pascal,3.0
+Republic of Moldova,Erlang,1.0
+Republic of Moldova,Go,3.0
+Republic of Moldova,Groovy,4.0
+Republic of Moldova,HTML,33.0
+Republic of Moldova,Haskell,1.0
+Republic of Moldova,Java,25.0
+Republic of Moldova,JavaScript,33.0
+Republic of Moldova,Kotlin,4.0
+Republic of Moldova,Objective-C,6.0
+Republic of Moldova,PHP,18.0
+Republic of Moldova,Python,13.0
+Republic of Moldova,R,1.0
+Republic of Moldova,Ruby,4.0
+Republic of Moldova,Rust,1.0
+Republic of Moldova,SQL,28.0
+Republic of Moldova,Scala,1.0
+Republic of Moldova,Swift,5.0
+Republic of Moldova,TypeScript,10.0
+Romania,Assembly,44.0
+Romania,Bash/Shell,197.0
+Romania,C,129.0
+Romania,C#,206.0
+Romania,C++,176.0
+Romania,CSS,363.0
+Romania,Clojure,4.0
+Romania,CoffeeScript,16.0
+Romania,Delphi/Object Pascal,14.0
+Romania,Erlang,4.0
+Romania,F#,3.0
+Romania,Go,36.0
+Romania,Groovy,27.0
+Romania,HTML,387.0
+Romania,Hack,1.0
+Romania,Haskell,17.0
+Romania,Java,248.0
+Romania,JavaScript,408.0
+Romania,Julia,1.0
+Romania,Kotlin,27.0
+Romania,Lua,10.0
+Romania,Matlab,39.0
+Romania,Objective-C,37.0
+Romania,Ocaml,1.0
+Romania,PHP,189.0
+Romania,Perl,25.0
+Romania,Python,179.0
+Romania,R,16.0
+Romania,Ruby,35.0
+Romania,Rust,5.0
+Romania,SQL,335.0
+Romania,Scala,15.0
+Romania,Swift,47.0
+Romania,TypeScript,106.0
+Romania,VB.NET,21.0
+Romania,VBA,14.0
+Romania,Visual Basic 6,13.0
+Russian Federation,Assembly,161.0
+Russian Federation,Bash/Shell,803.0
+Russian Federation,C,442.0
+Russian Federation,C#,695.0
+Russian Federation,C++,624.0
+Russian Federation,CSS,1119.0
+Russian Federation,Clojure,27.0
+Russian Federation,Cobol,6.0
+Russian Federation,CoffeeScript,70.0
+Russian Federation,Delphi/Object Pascal,145.0
+Russian Federation,Erlang,23.0
+Russian Federation,F#,41.0
+Russian Federation,Go,172.0
+Russian Federation,Groovy,102.0
+Russian Federation,HTML,1179.0
+Russian Federation,Hack,4.0
+Russian Federation,Haskell,59.0
+Russian Federation,Java,778.0
+Russian Federation,JavaScript,1214.0
+Russian Federation,Julia,8.0
+Russian Federation,Kotlin,156.0
+Russian Federation,Lua,77.0
+Russian Federation,Matlab,100.0
+Russian Federation,Objective-C,128.0
+Russian Federation,Ocaml,3.0
+Russian Federation,PHP,517.0
+Russian Federation,Perl,62.0
+Russian Federation,Python,769.0
+Russian Federation,R,81.0
+Russian Federation,Ruby,152.0
+Russian Federation,Rust,50.0
+Russian Federation,SQL,1101.0
+Russian Federation,Scala,102.0
+Russian Federation,Swift,132.0
+Russian Federation,TypeScript,263.0
+Russian Federation,VB.NET,46.0
+Russian Federation,VBA,87.0
+Russian Federation,Visual Basic 6,35.0
+Rwanda,Assembly,1.0
+Rwanda,Bash/Shell,2.0
+Rwanda,C,5.0
+Rwanda,C#,5.0
+Rwanda,C++,4.0
+Rwanda,CSS,8.0
+Rwanda,Erlang,1.0
+Rwanda,HTML,8.0
+Rwanda,Java,9.0
+Rwanda,JavaScript,7.0
+Rwanda,Kotlin,2.0
+Rwanda,Matlab,1.0
+Rwanda,PHP,4.0
+Rwanda,Python,5.0
+Rwanda,Ruby,2.0
+Rwanda,SQL,4.0
+Rwanda,Swift,1.0
+Rwanda,VB.NET,2.0
+Rwanda,Visual Basic 6,2.0
+Saudi Arabia,Assembly,6.0
+Saudi Arabia,Bash/Shell,25.0
+Saudi Arabia,C,17.0
+Saudi Arabia,C#,36.0
+Saudi Arabia,C++,23.0
+Saudi Arabia,CSS,66.0
+Saudi Arabia,CoffeeScript,2.0
+Saudi Arabia,Delphi/Object Pascal,2.0
+Saudi Arabia,Erlang,1.0
+Saudi Arabia,F#,1.0
+Saudi Arabia,Go,5.0
+Saudi Arabia,Groovy,4.0
+Saudi Arabia,HTML,67.0
+Saudi Arabia,Hack,1.0
+Saudi Arabia,Java,47.0
+Saudi Arabia,JavaScript,65.0
+Saudi Arabia,Kotlin,7.0
+Saudi Arabia,Lua,1.0
+Saudi Arabia,Matlab,6.0
+Saudi Arabia,Objective-C,7.0
+Saudi Arabia,PHP,32.0
+Saudi Arabia,Perl,2.0
+Saudi Arabia,Python,38.0
+Saudi Arabia,R,1.0
+Saudi Arabia,Ruby,5.0
+Saudi Arabia,Rust,1.0
+Saudi Arabia,SQL,51.0
+Saudi Arabia,Swift,13.0
+Saudi Arabia,TypeScript,13.0
+Saudi Arabia,VB.NET,19.0
+Saudi Arabia,VBA,6.0
+Saudi Arabia,Visual Basic 6,6.0
+Senegal,Bash/Shell,4.0
+Senegal,C#,1.0
+Senegal,C++,1.0
+Senegal,CSS,5.0
+Senegal,HTML,6.0
+Senegal,Java,3.0
+Senegal,JavaScript,4.0
+Senegal,Kotlin,1.0
+Senegal,Objective-C,1.0
+Senegal,PHP,5.0
+Senegal,Python,2.0
+Senegal,R,1.0
+Senegal,SQL,6.0
+Senegal,Swift,1.0
+Senegal,TypeScript,1.0
+Senegal,VBA,1.0
+Serbia,Assembly,25.0
+Serbia,Bash/Shell,85.0
+Serbia,C,63.0
+Serbia,C#,93.0
+Serbia,C++,69.0
+Serbia,CSS,168.0
+Serbia,Clojure,6.0
+Serbia,Cobol,5.0
+Serbia,CoffeeScript,3.0
+Serbia,Delphi/Object Pascal,17.0
+Serbia,Erlang,4.0
+Serbia,F#,2.0
+Serbia,Go,15.0
+Serbia,Groovy,5.0
+Serbia,HTML,178.0
+Serbia,Haskell,5.0
+Serbia,Java,119.0
+Serbia,JavaScript,181.0
+Serbia,Kotlin,10.0
+Serbia,Lua,2.0
+Serbia,Matlab,17.0
+Serbia,Objective-C,17.0
+Serbia,PHP,98.0
+Serbia,Perl,7.0
+Serbia,Python,74.0
+Serbia,R,17.0
+Serbia,Ruby,9.0
+Serbia,Rust,2.0
+Serbia,SQL,150.0
+Serbia,Scala,4.0
+Serbia,Swift,18.0
+Serbia,TypeScript,55.0
+Serbia,VB.NET,10.0
+Serbia,VBA,8.0
+Serbia,Visual Basic 6,8.0
+Sierra Leone,Bash/Shell,1.0
+Sierra Leone,HTML,1.0
+Sierra Leone,JavaScript,1.0
+Sierra Leone,Python,1.0
+Singapore,Assembly,16.0
+Singapore,Bash/Shell,105.0
+Singapore,C,50.0
+Singapore,C#,83.0
+Singapore,C++,63.0
+Singapore,CSS,165.0
+Singapore,Clojure,4.0
+Singapore,Cobol,1.0
+Singapore,CoffeeScript,6.0
+Singapore,Delphi/Object Pascal,3.0
+Singapore,Erlang,1.0
+Singapore,F#,1.0
+Singapore,Go,18.0
+Singapore,Groovy,13.0
+Singapore,HTML,175.0
+Singapore,Haskell,8.0
+Singapore,Java,135.0
+Singapore,JavaScript,183.0
+Singapore,Julia,3.0
+Singapore,Kotlin,9.0
+Singapore,Lua,11.0
+Singapore,Matlab,17.0
+Singapore,Objective-C,24.0
+Singapore,Ocaml,2.0
+Singapore,PHP,61.0
+Singapore,Perl,5.0
+Singapore,Python,119.0
+Singapore,R,26.0
+Singapore,Ruby,25.0
+Singapore,Rust,3.0
+Singapore,SQL,148.0
+Singapore,Scala,23.0
+Singapore,Swift,30.0
+Singapore,TypeScript,42.0
+Singapore,VB.NET,29.0
+Singapore,VBA,21.0
+Singapore,Visual Basic 6,8.0
+Slovakia,Assembly,17.0
+Slovakia,Bash/Shell,74.0
+Slovakia,C,44.0
+Slovakia,C#,63.0
+Slovakia,C++,50.0
+Slovakia,CSS,123.0
+Slovakia,CoffeeScript,2.0
+Slovakia,Delphi/Object Pascal,10.0
+Slovakia,F#,2.0
+Slovakia,Go,13.0
+Slovakia,Groovy,6.0
+Slovakia,HTML,127.0
+Slovakia,Haskell,7.0
+Slovakia,Java,87.0
+Slovakia,JavaScript,122.0
+Slovakia,Julia,1.0
+Slovakia,Kotlin,6.0
+Slovakia,Lua,3.0
+Slovakia,Matlab,10.0
+Slovakia,Objective-C,5.0
+Slovakia,PHP,60.0
+Slovakia,Perl,7.0
+Slovakia,Python,56.0
+Slovakia,R,12.0
+Slovakia,Ruby,10.0
+Slovakia,Rust,3.0
+Slovakia,SQL,103.0
+Slovakia,Scala,8.0
+Slovakia,Swift,15.0
+Slovakia,TypeScript,29.0
+Slovakia,VB.NET,7.0
+Slovakia,VBA,7.0
+Slovakia,Visual Basic 6,4.0
+Slovenia,Assembly,15.0
+Slovenia,Bash/Shell,74.0
+Slovenia,C,45.0
+Slovenia,C#,92.0
+Slovenia,C++,57.0
+Slovenia,CSS,117.0
+Slovenia,Clojure,4.0
+Slovenia,CoffeeScript,6.0
+Slovenia,Delphi/Object Pascal,12.0
+Slovenia,F#,3.0
+Slovenia,Go,12.0
+Slovenia,Groovy,6.0
+Slovenia,HTML,130.0
+Slovenia,Haskell,4.0
+Slovenia,Java,84.0
+Slovenia,JavaScript,134.0
+Slovenia,Julia,1.0
+Slovenia,Kotlin,7.0
+Slovenia,Lua,9.0
+Slovenia,Matlab,18.0
+Slovenia,Objective-C,15.0
+Slovenia,Ocaml,2.0
+Slovenia,PHP,74.0
+Slovenia,Python,78.0
+Slovenia,R,15.0
+Slovenia,Ruby,10.0
+Slovenia,Rust,4.0
+Slovenia,SQL,115.0
+Slovenia,Scala,5.0
+Slovenia,Swift,16.0
+Slovenia,TypeScript,34.0
+Slovenia,VB.NET,6.0
+Slovenia,VBA,8.0
+Slovenia,Visual Basic 6,5.0
+Somalia,Assembly,1.0
+Somalia,Bash/Shell,1.0
+Somalia,C,1.0
+Somalia,C#,4.0
+Somalia,C++,1.0
+Somalia,CSS,5.0
+Somalia,Go,1.0
+Somalia,HTML,4.0
+Somalia,Java,4.0
+Somalia,JavaScript,2.0
+Somalia,PHP,3.0
+Somalia,Python,1.0
+Somalia,SQL,3.0
+Somalia,TypeScript,1.0
+Somalia,VB.NET,5.0
+Somalia,Visual Basic 6,1.0
+South Africa,Assembly,17.0
+South Africa,Bash/Shell,169.0
+South Africa,C,59.0
+South Africa,C#,237.0
+South Africa,C++,88.0
+South Africa,CSS,327.0
+South Africa,Clojure,6.0
+South Africa,Cobol,2.0
+South Africa,CoffeeScript,9.0
+South Africa,Delphi/Object Pascal,33.0
+South Africa,Erlang,7.0
+South Africa,F#,10.0
+South Africa,Go,24.0
+South Africa,Groovy,10.0
+South Africa,HTML,346.0
+South Africa,Haskell,6.0
+South Africa,Java,200.0
+South Africa,JavaScript,356.0
+South Africa,Julia,1.0
+South Africa,Kotlin,16.0
+South Africa,Lua,11.0
+South Africa,Matlab,19.0
+South Africa,Objective-C,25.0
+South Africa,Ocaml,1.0
+South Africa,PHP,129.0
+South Africa,Perl,12.0
+South Africa,Python,152.0
+South Africa,R,26.0
+South Africa,Ruby,33.0
+South Africa,Rust,5.0
+South Africa,SQL,324.0
+South Africa,Scala,17.0
+South Africa,Swift,30.0
+South Africa,TypeScript,109.0
+South Africa,VB.NET,42.0
+South Africa,VBA,23.0
+South Africa,Visual Basic 6,21.0
+South Korea,Assembly,10.0
+South Korea,Bash/Shell,29.0
+South Korea,C,44.0
+South Korea,C#,19.0
+South Korea,C++,37.0
+South Korea,CSS,54.0
+South Korea,Cobol,2.0
+South Korea,CoffeeScript,1.0
+South Korea,Delphi/Object Pascal,4.0
+South Korea,Erlang,1.0
+South Korea,Go,8.0
+South Korea,Groovy,3.0
+South Korea,HTML,64.0
+South Korea,Haskell,1.0
+South Korea,Java,69.0
+South Korea,JavaScript,68.0
+South Korea,Kotlin,10.0
+South Korea,Lua,2.0
+South Korea,Matlab,5.0
+South Korea,Objective-C,12.0
+South Korea,PHP,29.0
+South Korea,Perl,1.0
+South Korea,Python,49.0
+South Korea,R,7.0
+South Korea,Ruby,10.0
+South Korea,Rust,1.0
+South Korea,SQL,47.0
+South Korea,Scala,5.0
+South Korea,Swift,11.0
+South Korea,TypeScript,6.0
+South Korea,VB.NET,5.0
+South Korea,VBA,4.0
+South Korea,Visual Basic 6,7.0
+Spain,Assembly,82.0
+Spain,Bash/Shell,535.0
+Spain,C,248.0
+Spain,C#,341.0
+Spain,C++,262.0
+Spain,CSS,822.0
+Spain,Clojure,16.0
+Spain,Cobol,9.0
+Spain,CoffeeScript,47.0
+Spain,Delphi/Object Pascal,33.0
+Spain,Erlang,16.0
+Spain,F#,5.0
+Spain,Go,67.0
+Spain,Groovy,63.0
+Spain,HTML,870.0
+Spain,Hack,3.0
+Spain,Haskell,29.0
+Spain,Java,691.0
+Spain,JavaScript,915.0
+Spain,Julia,6.0
+Spain,Kotlin,60.0
+Spain,Lua,40.0
+Spain,Matlab,77.0
+Spain,Objective-C,85.0
+Spain,Ocaml,10.0
+Spain,PHP,454.0
+Spain,Perl,41.0
+Spain,Python,472.0
+Spain,R,100.0
+Spain,Ruby,111.0
+Spain,Rust,10.0
+Spain,SQL,759.0
+Spain,Scala,68.0
+Spain,Swift,105.0
+Spain,TypeScript,197.0
+Spain,VB.NET,88.0
+Spain,VBA,55.0
+Spain,Visual Basic 6,49.0
+Sri Lanka,Assembly,27.0
+Sri Lanka,Bash/Shell,105.0
+Sri Lanka,C,91.0
+Sri Lanka,C#,128.0
+Sri Lanka,C++,91.0
+Sri Lanka,CSS,262.0
+Sri Lanka,Clojure,3.0
+Sri Lanka,Cobol,2.0
+Sri Lanka,CoffeeScript,7.0
+Sri Lanka,Delphi/Object Pascal,4.0
+Sri Lanka,Erlang,2.0
+Sri Lanka,F#,1.0
+Sri Lanka,Go,16.0
+Sri Lanka,Groovy,11.0
+Sri Lanka,HTML,266.0
+Sri Lanka,Hack,2.0
+Sri Lanka,Haskell,4.0
+Sri Lanka,Java,235.0
+Sri Lanka,JavaScript,267.0
+Sri Lanka,Julia,1.0
+Sri Lanka,Kotlin,8.0
+Sri Lanka,Lua,5.0
+Sri Lanka,Matlab,30.0
+Sri Lanka,Objective-C,23.0
+Sri Lanka,Ocaml,5.0
+Sri Lanka,PHP,182.0
+Sri Lanka,Perl,13.0
+Sri Lanka,Python,89.0
+Sri Lanka,R,11.0
+Sri Lanka,Ruby,14.0
+Sri Lanka,Rust,2.0
+Sri Lanka,SQL,231.0
+Sri Lanka,Scala,14.0
+Sri Lanka,Swift,26.0
+Sri Lanka,TypeScript,85.0
+Sri Lanka,VB.NET,39.0
+Sri Lanka,VBA,11.0
+Sri Lanka,Visual Basic 6,37.0
+Sudan,Assembly,2.0
+Sudan,Bash/Shell,3.0
+Sudan,C,5.0
+Sudan,C#,3.0
+Sudan,C++,6.0
+Sudan,CSS,12.0
+Sudan,HTML,11.0
+Sudan,Java,4.0
+Sudan,JavaScript,9.0
+Sudan,Kotlin,1.0
+Sudan,Matlab,2.0
+Sudan,PHP,10.0
+Sudan,Python,7.0
+Sudan,SQL,8.0
+Sudan,Swift,1.0
+Sudan,TypeScript,1.0
+Sudan,VB.NET,1.0
+Sudan,VBA,1.0
+Sudan,Visual Basic 6,2.0
+Suriname,Java,1.0
+Suriname,JavaScript,1.0
+Suriname,PHP,1.0
+Suriname,Python,1.0
+Suriname,SQL,1.0
+Swaziland,C,1.0
+Swaziland,C#,1.0
+Swaziland,C++,1.0
+Swaziland,CSS,3.0
+Swaziland,HTML,3.0
+Swaziland,Java,2.0
+Swaziland,JavaScript,3.0
+Swaziland,PHP,3.0
+Swaziland,SQL,3.0
+Swaziland,VB.NET,2.0
+Swaziland,VBA,1.0
+Swaziland,Visual Basic 6,1.0
+Sweden,Assembly,52.0
+Sweden,Bash/Shell,403.0
+Sweden,C,172.0
+Sweden,C#,379.0
+Sweden,C++,215.0
+Sweden,CSS,582.0
+Sweden,Clojure,11.0
+Sweden,Cobol,8.0
+Sweden,CoffeeScript,27.0
+Sweden,Delphi/Object Pascal,17.0
+Sweden,Erlang,29.0
+Sweden,F#,23.0
+Sweden,Go,76.0
+Sweden,Groovy,44.0
+Sweden,HTML,615.0
+Sweden,Haskell,32.0
+Sweden,Java,342.0
+Sweden,JavaScript,641.0
+Sweden,Julia,9.0
+Sweden,Kotlin,40.0
+Sweden,Lua,45.0
+Sweden,Matlab,53.0
+Sweden,Objective-C,58.0
+Sweden,Ocaml,1.0
+Sweden,PHP,219.0
+Sweden,Perl,34.0
+Sweden,Python,361.0
+Sweden,R,44.0
+Sweden,Ruby,84.0
+Sweden,Rust,39.0
+Sweden,SQL,494.0
+Sweden,Scala,40.0
+Sweden,Swift,58.0
+Sweden,TypeScript,171.0
+Sweden,VB.NET,47.0
+Sweden,VBA,28.0
+Sweden,Visual Basic 6,23.0
+Switzerland,Assembly,75.0
+Switzerland,Bash/Shell,403.0
+Switzerland,C,179.0
+Switzerland,C#,297.0
+Switzerland,C++,211.0
+Switzerland,CSS,496.0
+Switzerland,Clojure,11.0
+Switzerland,Cobol,3.0
+Switzerland,CoffeeScript,30.0
+Switzerland,Delphi/Object Pascal,23.0
+Switzerland,Erlang,5.0
+Switzerland,F#,17.0
+Switzerland,Go,70.0
+Switzerland,Groovy,45.0
+Switzerland,HTML,531.0
+Switzerland,Hack,3.0
+Switzerland,Haskell,34.0
+Switzerland,Java,417.0
+Switzerland,JavaScript,511.0
+Switzerland,Julia,3.0
+Switzerland,Kotlin,28.0
+Switzerland,Lua,21.0
+Switzerland,Matlab,73.0
+Switzerland,Objective-C,43.0
+Switzerland,Ocaml,4.0
+Switzerland,PHP,268.0
+Switzerland,Perl,42.0
+Switzerland,Python,370.0
+Switzerland,R,69.0
+Switzerland,Ruby,72.0
+Switzerland,Rust,22.0
+Switzerland,SQL,457.0
+Switzerland,Scala,55.0
+Switzerland,Swift,60.0
+Switzerland,TypeScript,187.0
+Switzerland,VB.NET,49.0
+Switzerland,VBA,61.0
+Switzerland,Visual Basic 6,27.0
+Syrian Arab Republic,Assembly,5.0
+Syrian Arab Republic,Bash/Shell,9.0
+Syrian Arab Republic,C,5.0
+Syrian Arab Republic,C#,18.0
+Syrian Arab Republic,C++,11.0
+Syrian Arab Republic,CSS,17.0
+Syrian Arab Republic,Clojure,1.0
+Syrian Arab Republic,Cobol,1.0
+Syrian Arab Republic,Delphi/Object Pascal,3.0
+Syrian Arab Republic,Erlang,1.0
+Syrian Arab Republic,Go,1.0
+Syrian Arab Republic,Groovy,1.0
+Syrian Arab Republic,HTML,19.0
+Syrian Arab Republic,Hack,1.0
+Syrian Arab Republic,Haskell,1.0
+Syrian Arab Republic,Java,19.0
+Syrian Arab Republic,JavaScript,20.0
+Syrian Arab Republic,Julia,1.0
+Syrian Arab Republic,Kotlin,1.0
+Syrian Arab Republic,Lua,1.0
+Syrian Arab Republic,Matlab,3.0
+Syrian Arab Republic,Objective-C,5.0
+Syrian Arab Republic,PHP,16.0
+Syrian Arab Republic,Perl,2.0
+Syrian Arab Republic,Python,6.0
+Syrian Arab Republic,R,2.0
+Syrian Arab Republic,Ruby,2.0
+Syrian Arab Republic,SQL,17.0
+Syrian Arab Republic,Scala,1.0
+Syrian Arab Republic,Swift,5.0
+Syrian Arab Republic,TypeScript,5.0
+Syrian Arab Republic,VB.NET,4.0
+Syrian Arab Republic,VBA,1.0
+Syrian Arab Republic,Visual Basic 6,4.0
+Taiwan,Assembly,6.0
+Taiwan,Bash/Shell,45.0
+Taiwan,C,30.0
+Taiwan,C#,38.0
+Taiwan,C++,37.0
+Taiwan,CSS,69.0
+Taiwan,Clojure,1.0
+Taiwan,Cobol,1.0
+Taiwan,CoffeeScript,7.0
+Taiwan,Delphi/Object Pascal,1.0
+Taiwan,Erlang,1.0
+Taiwan,F#,1.0
+Taiwan,Go,5.0
+Taiwan,Groovy,5.0
+Taiwan,HTML,76.0
+Taiwan,Haskell,3.0
+Taiwan,Java,52.0
+Taiwan,JavaScript,81.0
+Taiwan,Julia,2.0
+Taiwan,Kotlin,2.0
+Taiwan,Lua,4.0
+Taiwan,Matlab,8.0
+Taiwan,Objective-C,12.0
+Taiwan,PHP,36.0
+Taiwan,Perl,6.0
+Taiwan,Python,42.0
+Taiwan,R,8.0
+Taiwan,Ruby,13.0
+Taiwan,Rust,3.0
+Taiwan,SQL,61.0
+Taiwan,Scala,3.0
+Taiwan,Swift,11.0
+Taiwan,TypeScript,12.0
+Taiwan,VB.NET,8.0
+Taiwan,VBA,4.0
+Taiwan,Visual Basic 6,6.0
+Tajikistan,C#,2.0
+Tajikistan,C++,1.0
+Tajikistan,CSS,2.0
+Tajikistan,Delphi/Object Pascal,1.0
+Tajikistan,HTML,2.0
+Tajikistan,Java,3.0
+Tajikistan,JavaScript,2.0
+Tajikistan,Kotlin,1.0
+Tajikistan,PHP,2.0
+Tajikistan,SQL,2.0
+Tajikistan,TypeScript,2.0
+Tajikistan,VB.NET,1.0
+Tajikistan,Visual Basic 6,2.0
+Thailand,Assembly,12.0
+Thailand,Bash/Shell,60.0
+Thailand,C,32.0
+Thailand,C#,53.0
+Thailand,C++,26.0
+Thailand,CSS,93.0
+Thailand,Clojure,7.0
+Thailand,Cobol,6.0
+Thailand,CoffeeScript,14.0
+Thailand,Delphi/Object Pascal,14.0
+Thailand,Erlang,6.0
+Thailand,F#,7.0
+Thailand,Go,20.0
+Thailand,Groovy,8.0
+Thailand,HTML,95.0
+Thailand,Hack,7.0
+Thailand,Haskell,8.0
+Thailand,Java,61.0
+Thailand,JavaScript,110.0
+Thailand,Julia,5.0
+Thailand,Kotlin,10.0
+Thailand,Lua,8.0
+Thailand,Matlab,14.0
+Thailand,Objective-C,15.0
+Thailand,Ocaml,6.0
+Thailand,PHP,55.0
+Thailand,Perl,11.0
+Thailand,Python,55.0
+Thailand,R,14.0
+Thailand,Ruby,23.0
+Thailand,Rust,6.0
+Thailand,SQL,83.0
+Thailand,Scala,17.0
+Thailand,Swift,23.0
+Thailand,TypeScript,29.0
+Thailand,VB.NET,17.0
+Thailand,VBA,14.0
+Thailand,Visual Basic 6,15.0
+The former Yugoslav Republic of Macedonia,Assembly,2.0
+The former Yugoslav Republic of Macedonia,Bash/Shell,9.0
+The former Yugoslav Republic of Macedonia,C,3.0
+The former Yugoslav Republic of Macedonia,C#,20.0
+The former Yugoslav Republic of Macedonia,C++,7.0
+The former Yugoslav Republic of Macedonia,CSS,27.0
+The former Yugoslav Republic of Macedonia,Delphi/Object Pascal,1.0
+The former Yugoslav Republic of Macedonia,F#,1.0
+The former Yugoslav Republic of Macedonia,Groovy,1.0
+The former Yugoslav Republic of Macedonia,HTML,27.0
+The former Yugoslav Republic of Macedonia,Java,19.0
+The former Yugoslav Republic of Macedonia,JavaScript,30.0
+The former Yugoslav Republic of Macedonia,Kotlin,2.0
+The former Yugoslav Republic of Macedonia,Lua,1.0
+The former Yugoslav Republic of Macedonia,Matlab,1.0
+The former Yugoslav Republic of Macedonia,PHP,8.0
+The former Yugoslav Republic of Macedonia,Python,7.0
+The former Yugoslav Republic of Macedonia,R,2.0
+The former Yugoslav Republic of Macedonia,Ruby,1.0
+The former Yugoslav Republic of Macedonia,SQL,23.0
+The former Yugoslav Republic of Macedonia,Swift,1.0
+The former Yugoslav Republic of Macedonia,TypeScript,14.0
+The former Yugoslav Republic of Macedonia,VB.NET,1.0
+Timor-Leste,CSS,1.0
+Timor-Leste,HTML,1.0
+Timor-Leste,PHP,1.0
+Togo,Assembly,1.0
+Togo,C,1.0
+Togo,CSS,4.0
+Togo,Go,1.0
+Togo,Groovy,1.0
+Togo,HTML,4.0
+Togo,Java,2.0
+Togo,JavaScript,3.0
+Togo,Matlab,1.0
+Togo,Objective-C,1.0
+Togo,PHP,1.0
+Togo,SQL,1.0
+Togo,TypeScript,1.0
+Trinidad and Tobago,Bash/Shell,6.0
+Trinidad and Tobago,C,1.0
+Trinidad and Tobago,C#,8.0
+Trinidad and Tobago,C++,4.0
+Trinidad and Tobago,CSS,12.0
+Trinidad and Tobago,Go,1.0
+Trinidad and Tobago,HTML,12.0
+Trinidad and Tobago,Java,9.0
+Trinidad and Tobago,JavaScript,14.0
+Trinidad and Tobago,Matlab,1.0
+Trinidad and Tobago,Objective-C,2.0
+Trinidad and Tobago,PHP,9.0
+Trinidad and Tobago,Python,7.0
+Trinidad and Tobago,R,1.0
+Trinidad and Tobago,Ruby,1.0
+Trinidad and Tobago,SQL,8.0
+Trinidad and Tobago,Swift,2.0
+Trinidad and Tobago,TypeScript,3.0
+Trinidad and Tobago,VB.NET,1.0
+Trinidad and Tobago,VBA,1.0
+Tunisia,Assembly,12.0
+Tunisia,Bash/Shell,24.0
+Tunisia,C,32.0
+Tunisia,C#,25.0
+Tunisia,C++,28.0
+Tunisia,CSS,64.0
+Tunisia,CoffeeScript,1.0
+Tunisia,Delphi/Object Pascal,8.0
+Tunisia,Go,5.0
+Tunisia,Groovy,3.0
+Tunisia,HTML,68.0
+Tunisia,Hack,1.0
+Tunisia,Haskell,1.0
+Tunisia,Java,57.0
+Tunisia,JavaScript,61.0
+Tunisia,Kotlin,4.0
+Tunisia,Lua,2.0
+Tunisia,Matlab,10.0
+Tunisia,Objective-C,3.0
+Tunisia,PHP,49.0
+Tunisia,Perl,1.0
+Tunisia,Python,27.0
+Tunisia,R,5.0
+Tunisia,Ruby,6.0
+Tunisia,SQL,58.0
+Tunisia,Scala,2.0
+Tunisia,Swift,5.0
+Tunisia,TypeScript,15.0
+Tunisia,VB.NET,7.0
+Tunisia,VBA,2.0
+Tunisia,Visual Basic 6,4.0
+Turkey,Assembly,63.0
+Turkey,Bash/Shell,174.0
+Turkey,C,188.0
+Turkey,C#,335.0
+Turkey,C++,190.0
+Turkey,CSS,430.0
+Turkey,Clojure,3.0
+Turkey,Cobol,6.0
+Turkey,CoffeeScript,19.0
+Turkey,Delphi/Object Pascal,63.0
+Turkey,Erlang,5.0
+Turkey,F#,6.0
+Turkey,Go,41.0
+Turkey,Groovy,19.0
+Turkey,HTML,452.0
+Turkey,Hack,2.0
+Turkey,Haskell,9.0
+Turkey,Java,352.0
+Turkey,JavaScript,481.0
+Turkey,Julia,4.0
+Turkey,Kotlin,23.0
+Turkey,Lua,15.0
+Turkey,Matlab,73.0
+Turkey,Objective-C,65.0
+Turkey,PHP,223.0
+Turkey,Perl,18.0
+Turkey,Python,234.0
+Turkey,R,34.0
+Turkey,Ruby,39.0
+Turkey,Rust,7.0
+Turkey,SQL,406.0
+Turkey,Scala,23.0
+Turkey,Swift,74.0
+Turkey,TypeScript,103.0
+Turkey,VB.NET,53.0
+Turkey,VBA,27.0
+Turkey,Visual Basic 6,41.0
+Turkmenistan,C,1.0
+Turkmenistan,C++,1.0
+Turkmenistan,CSS,3.0
+Turkmenistan,Go,1.0
+Turkmenistan,HTML,3.0
+Turkmenistan,Java,1.0
+Turkmenistan,JavaScript,3.0
+Turkmenistan,Lua,1.0
+Turkmenistan,PHP,3.0
+Turkmenistan,Python,2.0
+Turkmenistan,Ruby,1.0
+Turkmenistan,SQL,2.0
+Uganda,Assembly,2.0
+Uganda,Bash/Shell,9.0
+Uganda,C,13.0
+Uganda,C#,11.0
+Uganda,C++,7.0
+Uganda,CSS,36.0
+Uganda,Cobol,1.0
+Uganda,CoffeeScript,1.0
+Uganda,Delphi/Object Pascal,1.0
+Uganda,Erlang,2.0
+Uganda,Go,1.0
+Uganda,Groovy,1.0
+Uganda,HTML,40.0
+Uganda,Java,23.0
+Uganda,JavaScript,34.0
+Uganda,Kotlin,2.0
+Uganda,Lua,2.0
+Uganda,Matlab,1.0
+Uganda,PHP,26.0
+Uganda,Python,22.0
+Uganda,R,2.0
+Uganda,Ruby,4.0
+Uganda,SQL,30.0
+Uganda,Swift,3.0
+Uganda,TypeScript,2.0
+Uganda,VB.NET,4.0
+Uganda,VBA,2.0
+Uganda,Visual Basic 6,1.0
+Ukraine,Assembly,35.0
+Ukraine,Bash/Shell,253.0
+Ukraine,C,141.0
+Ukraine,C#,235.0
+Ukraine,C++,203.0
+Ukraine,CSS,519.0
+Ukraine,Clojure,7.0
+Ukraine,CoffeeScript,24.0
+Ukraine,Delphi/Object Pascal,49.0
+Ukraine,Erlang,6.0
+Ukraine,F#,7.0
+Ukraine,Go,46.0
+Ukraine,Groovy,31.0
+Ukraine,HTML,529.0
+Ukraine,Haskell,11.0
+Ukraine,Java,297.0
+Ukraine,JavaScript,567.0
+Ukraine,Julia,1.0
+Ukraine,Kotlin,41.0
+Ukraine,Lua,21.0
+Ukraine,Matlab,27.0
+Ukraine,Objective-C,50.0
+Ukraine,Ocaml,2.0
+Ukraine,PHP,258.0
+Ukraine,Perl,14.0
+Ukraine,Python,250.0
+Ukraine,R,16.0
+Ukraine,Ruby,70.0
+Ukraine,Rust,15.0
+Ukraine,SQL,429.0
+Ukraine,Scala,31.0
+Ukraine,Swift,47.0
+Ukraine,TypeScript,127.0
+Ukraine,VB.NET,11.0
+Ukraine,VBA,28.0
+Ukraine,Visual Basic 6,12.0
+United Arab Emirates,Assembly,5.0
+United Arab Emirates,Bash/Shell,40.0
+United Arab Emirates,C,19.0
+United Arab Emirates,C#,49.0
+United Arab Emirates,C++,22.0
+United Arab Emirates,CSS,87.0
+United Arab Emirates,Clojure,3.0
+United Arab Emirates,Cobol,3.0
+United Arab Emirates,CoffeeScript,4.0
+United Arab Emirates,Delphi/Object Pascal,1.0
+United Arab Emirates,F#,2.0
+United Arab Emirates,Go,7.0
+United Arab Emirates,Groovy,5.0
+United Arab Emirates,HTML,98.0
+United Arab Emirates,Haskell,1.0
+United Arab Emirates,Java,54.0
+United Arab Emirates,JavaScript,99.0
+United Arab Emirates,Julia,1.0
+United Arab Emirates,Kotlin,6.0
+United Arab Emirates,Lua,4.0
+United Arab Emirates,Matlab,3.0
+United Arab Emirates,Objective-C,12.0
+United Arab Emirates,PHP,47.0
+United Arab Emirates,Perl,2.0
+United Arab Emirates,Python,38.0
+United Arab Emirates,R,2.0
+United Arab Emirates,Ruby,6.0
+United Arab Emirates,Rust,2.0
+United Arab Emirates,SQL,70.0
+United Arab Emirates,Scala,4.0
+United Arab Emirates,Swift,18.0
+United Arab Emirates,TypeScript,26.0
+United Arab Emirates,VB.NET,14.0
+United Arab Emirates,VBA,6.0
+United Arab Emirates,Visual Basic 6,12.0
+United Kingdom,Assembly,247.0
+United Kingdom,Bash/Shell,2159.0
+United Kingdom,C,742.0
+United Kingdom,C#,1960.0
+United Kingdom,C++,928.0
+United Kingdom,CSS,3246.0
+United Kingdom,Clojure,76.0
+United Kingdom,Cobol,17.0
+United Kingdom,CoffeeScript,153.0
+United Kingdom,Delphi/Object Pascal,86.0
+United Kingdom,Erlang,46.0
+United Kingdom,F#,119.0
+United Kingdom,Go,342.0
+United Kingdom,Groovy,195.0
+United Kingdom,HTML,3383.0
+United Kingdom,Hack,11.0
+United Kingdom,Haskell,167.0
+United Kingdom,Java,1665.0
+United Kingdom,JavaScript,3500.0
+United Kingdom,Julia,26.0
+United Kingdom,Kotlin,162.0
+United Kingdom,Lua,161.0
+United Kingdom,Matlab,223.0
+United Kingdom,Objective-C,275.0
+United Kingdom,Ocaml,29.0
+United Kingdom,PHP,1267.0
+United Kingdom,Perl,215.0
+United Kingdom,Python,2026.0
+United Kingdom,R,275.0
+United Kingdom,Ruby,517.0
+United Kingdom,Rust,139.0
+United Kingdom,SQL,2843.0
+United Kingdom,Scala,252.0
+United Kingdom,Swift,333.0
+United Kingdom,TypeScript,871.0
+United Kingdom,VB.NET,373.0
+United Kingdom,VBA,305.0
+United Kingdom,Visual Basic 6,169.0
+United Republic of Tanzania,Assembly,2.0
+United Republic of Tanzania,Bash/Shell,14.0
+United Republic of Tanzania,C,9.0
+United Republic of Tanzania,C#,4.0
+United Republic of Tanzania,C++,11.0
+United Republic of Tanzania,CSS,27.0
+United Republic of Tanzania,Clojure,2.0
+United Republic of Tanzania,CoffeeScript,2.0
+United Republic of Tanzania,F#,1.0
+United Republic of Tanzania,Go,2.0
+United Republic of Tanzania,Groovy,1.0
+United Republic of Tanzania,HTML,28.0
+United Republic of Tanzania,Haskell,2.0
+United Republic of Tanzania,Java,22.0
+United Republic of Tanzania,JavaScript,25.0
+United Republic of Tanzania,Julia,1.0
+United Republic of Tanzania,Kotlin,3.0
+United Republic of Tanzania,Lua,2.0
+United Republic of Tanzania,Matlab,3.0
+United Republic of Tanzania,Objective-C,3.0
+United Republic of Tanzania,PHP,26.0
+United Republic of Tanzania,Perl,2.0
+United Republic of Tanzania,Python,12.0
+United Republic of Tanzania,R,3.0
+United Republic of Tanzania,Ruby,6.0
+United Republic of Tanzania,Rust,1.0
+United Republic of Tanzania,SQL,27.0
+United Republic of Tanzania,Swift,2.0
+United Republic of Tanzania,TypeScript,3.0
+United Republic of Tanzania,VB.NET,7.0
+United Republic of Tanzania,VBA,3.0
+United Republic of Tanzania,Visual Basic 6,7.0
+United States,Assembly,1048.0
+United States,Bash/Shell,8492.0
+United States,C,3116.0
+United States,C#,5836.0
+United States,C++,3701.0
+United States,CSS,11129.0
+United States,Clojure,334.0
+United States,Cobol,90.0
+United States,CoffeeScript,765.0
+United States,Delphi/Object Pascal,160.0
+United States,Erlang,225.0
+United States,F#,306.0
+United States,Go,1705.0
+United States,Groovy,911.0
+United States,HTML,11575.0
+United States,Hack,53.0
+United States,Haskell,478.0
+United States,Java,6597.0
+United States,JavaScript,12179.0
+United States,Julia,102.0
+United States,Kotlin,634.0
+United States,Lua,685.0
+United States,Matlab,814.0
+United States,Objective-C,1209.0
+United States,Ocaml,129.0
+United States,PHP,3641.0
+United States,Perl,942.0
+United States,Python,7752.0
+United States,R,1380.0
+United States,Ruby,2509.0
+United States,Rust,604.0
+United States,SQL,9818.0
+United States,Scala,873.0
+United States,Swift,1476.0
+United States,TypeScript,3029.0
+United States,VB.NET,1040.0
+United States,VBA,847.0
+United States,Visual Basic 6,479.0
+Uruguay,Assembly,3.0
+Uruguay,Bash/Shell,23.0
+Uruguay,C,10.0
+Uruguay,C#,36.0
+Uruguay,C++,16.0
+Uruguay,CSS,49.0
+Uruguay,Clojure,1.0
+Uruguay,Cobol,2.0
+Uruguay,CoffeeScript,4.0
+Uruguay,Delphi/Object Pascal,4.0
+Uruguay,Go,5.0
+Uruguay,Groovy,5.0
+Uruguay,HTML,50.0
+Uruguay,Haskell,3.0
+Uruguay,Java,33.0
+Uruguay,JavaScript,54.0
+Uruguay,Lua,1.0
+Uruguay,Matlab,6.0
+Uruguay,Objective-C,4.0
+Uruguay,PHP,23.0
+Uruguay,Perl,4.0
+Uruguay,Python,24.0
+Uruguay,R,6.0
+Uruguay,Ruby,14.0
+Uruguay,SQL,46.0
+Uruguay,Scala,1.0
+Uruguay,Swift,7.0
+Uruguay,TypeScript,16.0
+Uruguay,VB.NET,7.0
+Uruguay,VBA,1.0
+Uruguay,Visual Basic 6,2.0
+Uzbekistan,Assembly,1.0
+Uzbekistan,Bash/Shell,9.0
+Uzbekistan,C,5.0
+Uzbekistan,C#,6.0
+Uzbekistan,C++,12.0
+Uzbekistan,CSS,21.0
+Uzbekistan,Delphi/Object Pascal,4.0
+Uzbekistan,Erlang,1.0
+Uzbekistan,Go,1.0
+Uzbekistan,Groovy,1.0
+Uzbekistan,HTML,22.0
+Uzbekistan,Java,20.0
+Uzbekistan,JavaScript,20.0
+Uzbekistan,Kotlin,9.0
+Uzbekistan,Matlab,1.0
+Uzbekistan,Objective-C,2.0
+Uzbekistan,PHP,15.0
+Uzbekistan,Perl,1.0
+Uzbekistan,Python,9.0
+Uzbekistan,R,1.0
+Uzbekistan,SQL,18.0
+Uzbekistan,Scala,2.0
+Uzbekistan,Swift,1.0
+Uzbekistan,TypeScript,2.0
+Uzbekistan,VBA,1.0
+"Venezuela, Bolivarian Republic of...",Assembly,8.0
+"Venezuela, Bolivarian Republic of...",Bash/Shell,21.0
+"Venezuela, Bolivarian Republic of...",C,14.0
+"Venezuela, Bolivarian Republic of...",C#,20.0
+"Venezuela, Bolivarian Republic of...",C++,22.0
+"Venezuela, Bolivarian Republic of...",CSS,69.0
+"Venezuela, Bolivarian Republic of...",Cobol,1.0
+"Venezuela, Bolivarian Republic of...",CoffeeScript,1.0
+"Venezuela, Bolivarian Republic of...",F#,1.0
+"Venezuela, Bolivarian Republic of...",Go,1.0
+"Venezuela, Bolivarian Republic of...",Groovy,1.0
+"Venezuela, Bolivarian Republic of...",HTML,70.0
+"Venezuela, Bolivarian Republic of...",Haskell,1.0
+"Venezuela, Bolivarian Republic of...",Java,39.0
+"Venezuela, Bolivarian Republic of...",JavaScript,76.0
+"Venezuela, Bolivarian Republic of...",Kotlin,1.0
+"Venezuela, Bolivarian Republic of...",Lua,2.0
+"Venezuela, Bolivarian Republic of...",Matlab,5.0
+"Venezuela, Bolivarian Republic of...",Objective-C,1.0
+"Venezuela, Bolivarian Republic of...",PHP,55.0
+"Venezuela, Bolivarian Republic of...",Perl,2.0
+"Venezuela, Bolivarian Republic of...",Python,27.0
+"Venezuela, Bolivarian Republic of...",R,4.0
+"Venezuela, Bolivarian Republic of...",Ruby,4.0
+"Venezuela, Bolivarian Republic of...",SQL,59.0
+"Venezuela, Bolivarian Republic of...",Scala,1.0
+"Venezuela, Bolivarian Republic of...",Swift,4.0
+"Venezuela, Bolivarian Republic of...",TypeScript,16.0
+"Venezuela, Bolivarian Republic of...",VB.NET,7.0
+"Venezuela, Bolivarian Republic of...",VBA,6.0
+"Venezuela, Bolivarian Republic of...",Visual Basic 6,8.0
+Viet Nam,Assembly,13.0
+Viet Nam,Bash/Shell,43.0
+Viet Nam,C,64.0
+Viet Nam,C#,73.0
+Viet Nam,C++,54.0
+Viet Nam,CSS,120.0
+Viet Nam,Clojure,2.0
+Viet Nam,Cobol,1.0
+Viet Nam,CoffeeScript,8.0
+Viet Nam,Delphi/Object Pascal,4.0
+Viet Nam,Erlang,1.0
+Viet Nam,Go,14.0
+Viet Nam,Groovy,2.0
+Viet Nam,HTML,130.0
+Viet Nam,Hack,2.0
+Viet Nam,Haskell,2.0
+Viet Nam,Java,102.0
+Viet Nam,JavaScript,136.0
+Viet Nam,Kotlin,8.0
+Viet Nam,Lua,5.0
+Viet Nam,Matlab,13.0
+Viet Nam,Objective-C,21.0
+Viet Nam,PHP,63.0
+Viet Nam,Perl,8.0
+Viet Nam,Python,48.0
+Viet Nam,R,6.0
+Viet Nam,Ruby,21.0
+Viet Nam,Rust,1.0
+Viet Nam,SQL,94.0
+Viet Nam,Scala,3.0
+Viet Nam,Swift,18.0
+Viet Nam,TypeScript,24.0
+Viet Nam,VB.NET,10.0
+Viet Nam,VBA,7.0
+Viet Nam,Visual Basic 6,7.0
+Yemen,Assembly,2.0
+Yemen,Bash/Shell,2.0
+Yemen,C,4.0
+Yemen,C#,5.0
+Yemen,C++,5.0
+Yemen,CSS,7.0
+Yemen,Delphi/Object Pascal,1.0
+Yemen,HTML,7.0
+Yemen,Java,6.0
+Yemen,JavaScript,5.0
+Yemen,Kotlin,1.0
+Yemen,PHP,3.0
+Yemen,SQL,6.0
+Yemen,Swift,2.0
+Yemen,VB.NET,4.0
+Yemen,VBA,1.0
+Yemen,Visual Basic 6,2.0
+Zambia,Assembly,1.0
+Zambia,C,1.0
+Zambia,C#,4.0
+Zambia,C++,1.0
+Zambia,CSS,3.0
+Zambia,Delphi/Object Pascal,1.0
+Zambia,HTML,4.0
+Zambia,Java,5.0
+Zambia,JavaScript,3.0
+Zambia,Kotlin,2.0
+Zambia,Matlab,2.0
+Zambia,Objective-C,1.0
+Zambia,PHP,2.0
+Zambia,Python,3.0
+Zambia,R,1.0
+Zambia,SQL,6.0
+Zambia,TypeScript,1.0
+Zambia,VB.NET,2.0
+Zambia,VBA,1.0
+Zambia,Visual Basic 6,1.0
+Zimbabwe,Assembly,3.0
+Zimbabwe,Bash/Shell,4.0
+Zimbabwe,C,9.0
+Zimbabwe,C#,12.0
+Zimbabwe,C++,9.0
+Zimbabwe,CSS,25.0
+Zimbabwe,HTML,25.0
+Zimbabwe,Java,19.0
+Zimbabwe,JavaScript,20.0
+Zimbabwe,Kotlin,1.0
+Zimbabwe,Matlab,1.0
+Zimbabwe,Objective-C,1.0
+Zimbabwe,PHP,17.0
+Zimbabwe,Python,8.0
+Zimbabwe,R,2.0
+Zimbabwe,Ruby,2.0
+Zimbabwe,SQL,21.0
+Zimbabwe,TypeScript,2.0
+Zimbabwe,VB.NET,11.0
+Zimbabwe,VBA,4.0
+Zimbabwe,Visual Basic 6,5.0

@@ -2,6 +2,7 @@ import * as d3 from "d3";
 import React from "react";
 import VisaulisationWrapper from "../ui_components/visualisationWrapper/visualisationWrapper";
 
+//code reference => Basic bubble plot in d3.js. (n.d.). Retrieved May 19, 2022, from https://d3-graph-gallery.com/graph/bubble_legend.html
 function appendAxis(axis, svg, x, y) {
   svg
     .append("g")

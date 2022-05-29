@@ -8,6 +8,7 @@ import IncomeVsExperience from "./experienceVsIncome";
 import LanguagesVisualisation from "./laguages";
 import SatisfactionVisualisation from "./satisfaction";
 
+//code reference => Bostock, M. (2021). D3.js - Data-Driven Documents. D3js.Org. https://d3js.org/
 let visualisationcomponents = [];
 const formatter = new Intl.NumberFormat("en-US", {
   style: "currency",

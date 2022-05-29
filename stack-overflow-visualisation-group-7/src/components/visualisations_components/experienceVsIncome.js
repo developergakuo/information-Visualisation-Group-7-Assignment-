@@ -3,6 +3,7 @@ import React from "react";
 import MissingVisaulisationWrapper from "../ui_components/missingVisualisationWrapper/missingVisualisationWrapper";
 import VisaulisationWrapper from "../ui_components/visualisationWrapper/visualisationWrapper";
 
+//code reference => Bostock, M. (2021). D3.js - Data-Driven Documents. D3js.Org. https://d3js.org/
 const formatter = new Intl.NumberFormat("en-US", {
   style: "currency",
   currency: "EUR",

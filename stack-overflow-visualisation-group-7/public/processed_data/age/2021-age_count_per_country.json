@@ -1,0 +1,1305 @@
+{
+    "Afghanistan": {
+        "18-24 years old": 14,
+        "25-34 years old": 15,
+        "35-44 years old": 3,
+        "45-54 years old": 1,
+        "55-64 years old": 2,
+        "65 years or older": 2,
+        "Prefer not to say": 6,
+        "Under 18 years old": 13
+    },
+    "Albania": {
+        "18-24 years old": 34,
+        "25-34 years old": 20,
+        "35-44 years old": 7,
+        "45-54 years old": 1,
+        "65 years or older": 1,
+        "Under 18 years old": 6
+    },
+    "Algeria": {
+        "18-24 years old": 15,
+        "25-34 years old": 24,
+        "35-44 years old": 2,
+        "45-54 years old": 2,
+        "55-64 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Andorra": {
+        "18-24 years old": 2,
+        "25-34 years old": 5,
+        "35-44 years old": 1,
+        "45-54 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Angola": {
+        "18-24 years old": 11,
+        "25-34 years old": 8,
+        "35-44 years old": 3,
+        "65 years or older": 3,
+        "Under 18 years old": 1
+    },
+    "Argentina": {
+        "18-24 years old": 138,
+        "25-34 years old": 218,
+        "35-44 years old": 146,
+        "45-54 years old": 49,
+        "55-64 years old": 7,
+        "Prefer not to say": 2,
+        "Under 18 years old": 25
+    },
+    "Armenia": {
+        "18-24 years old": 21,
+        "25-34 years old": 49,
+        "35-44 years old": 11,
+        "Under 18 years old": 7
+    },
+    "Australia": {
+        "18-24 years old": 256,
+        "25-34 years old": 502,
+        "35-44 years old": 400,
+        "45-54 years old": 216,
+        "55-64 years old": 64,
+        "65 years or older": 18,
+        "Prefer not to say": 10,
+        "Under 18 years old": 160
+    },
+    "Austria": {
+        "18-24 years old": 205,
+        "25-34 years old": 328,
+        "35-44 years old": 153,
+        "45-54 years old": 53,
+        "55-64 years old": 12,
+        "65 years or older": 2,
+        "Prefer not to say": 2,
+        "Under 18 years old": 48
+    },
+    "Azerbaijan": {
+        "18-24 years old": 28,
+        "25-34 years old": 29,
+        "35-44 years old": 3,
+        "Under 18 years old": 2
+    },
+    "Bahamas": {
+        "18-24 years old": 3,
+        "25-34 years old": 1,
+        "35-44 years old": 1,
+        "Under 18 years old": 2
+    },
+    "Bahrain": {
+        "18-24 years old": 9,
+        "25-34 years old": 7,
+        "35-44 years old": 1,
+        "45-54 years old": 6,
+        "Under 18 years old": 5
+    },
+    "Bangladesh": {
+        "18-24 years old": 260,
+        "25-34 years old": 324,
+        "35-44 years old": 34,
+        "45-54 years old": 4,
+        "55-64 years old": 3,
+        "Prefer not to say": 3,
+        "Under 18 years old": 70
+    },
+    "Barbados": {
+        "18-24 years old": 3,
+        "25-34 years old": 6,
+        "35-44 years old": 2,
+        "45-54 years old": 1
+    },
+    "Belarus": {
+        "18-24 years old": 43,
+        "25-34 years old": 79,
+        "35-44 years old": 28,
+        "45-54 years old": 7,
+        "55-64 years old": 1,
+        "Prefer not to say": 1,
+        "Under 18 years old": 4
+    },
+    "Belgium": {
+        "18-24 years old": 146,
+        "25-34 years old": 288,
+        "35-44 years old": 163,
+        "45-54 years old": 58,
+        "55-64 years old": 18,
+        "65 years or older": 1,
+        "Prefer not to say": 1,
+        "Under 18 years old": 20
+    },
+    "Belize": {
+        "18-24 years old": 2,
+        "25-34 years old": 2,
+        "35-44 years old": 1
+    },
+    "Benin": {
+        "18-24 years old": 8,
+        "25-34 years old": 3,
+        "35-44 years old": 1,
+        "Prefer not to say": 3
+    },
+    "Bhutan": {
+        "18-24 years old": 2,
+        "25-34 years old": 2,
+        "55-64 years old": 1
+    },
+    "Bolivia": {
+        "18-24 years old": 10,
+        "25-34 years old": 21,
+        "35-44 years old": 9,
+        "45-54 years old": 7,
+        "55-64 years old": 1
+    },
+    "Bosnia and Herzegovina": {
+        "18-24 years old": 35,
+        "25-34 years old": 55,
+        "35-44 years old": 22,
+        "45-54 years old": 4,
+        "55-64 years old": 1,
+        "Under 18 years old": 12
+    },
+    "Botswana": {
+        "18-24 years old": 3,
+        "25-34 years old": 1,
+        "Under 18 years old": 2
+    },
+    "Brazil": {
+        "18-24 years old": 605,
+        "25-34 years old": 1023,
+        "35-44 years old": 418,
+        "45-54 years old": 107,
+        "55-64 years old": 19,
+        "65 years or older": 2,
+        "Prefer not to say": 6,
+        "Under 18 years old": 64
+    },
+    "Brunei Darussalam": {
+        "35-44 years old": 1
+    },
+    "Bulgaria": {
+        "18-24 years old": 91,
+        "25-34 years old": 190,
+        "35-44 years old": 76,
+        "45-54 years old": 18,
+        "55-64 years old": 4,
+        "Prefer not to say": 1,
+        "Under 18 years old": 22
+    },
+    "Burkina Faso": {
+        "18-24 years old": 2,
+        "25-34 years old": 2
+    },
+    "Burundi": {
+        "18-24 years old": 2,
+        "25-34 years old": 2,
+        "Under 18 years old": 1
+    },
+    "Cambodia": {
+        "18-24 years old": 12,
+        "25-34 years old": 12,
+        "35-44 years old": 5,
+        "Prefer not to say": 2,
+        "Under 18 years old": 3
+    },
+    "Cameroon": {
+        "18-24 years old": 16,
+        "25-34 years old": 18,
+        "35-44 years old": 2,
+        "Prefer not to say": 1
+    },
+    "Canada": {
+        "18-24 years old": 598,
+        "25-34 years old": 1064,
+        "35-44 years old": 605,
+        "45-54 years old": 276,
+        "55-64 years old": 100,
+        "65 years or older": 30,
+        "Prefer not to say": 28,
+        "Under 18 years old": 267
+    },
+    "Cape Verde": {
+        "18-24 years old": 1,
+        "25-34 years old": 2,
+        "35-44 years old": 2,
+        "45-54 years old": 1
+    },
+    "Central African Republic": {
+        "18-24 years old": 1,
+        "Prefer not to say": 2
+    },
+    "Chad": {
+        "55-64 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Chile": {
+        "18-24 years old": 41,
+        "25-34 years old": 103,
+        "35-44 years old": 47,
+        "45-54 years old": 17,
+        "55-64 years old": 7,
+        "Prefer not to say": 1,
+        "Under 18 years old": 13
+    },
+    "China": {
+        "18-24 years old": 352,
+        "25-34 years old": 466,
+        "35-44 years old": 104,
+        "45-54 years old": 20,
+        "55-64 years old": 2,
+        "65 years or older": 1,
+        "Prefer not to say": 7,
+        "Under 18 years old": 43
+    },
+    "Colombia": {
+        "18-24 years old": 94,
+        "25-34 years old": 172,
+        "35-44 years old": 83,
+        "45-54 years old": 17,
+        "55-64 years old": 2,
+        "65 years or older": 1,
+        "Under 18 years old": 10
+    },
+    "Congo, Republic of the...": {
+        "18-24 years old": 3,
+        "25-34 years old": 6,
+        "35-44 years old": 2,
+        "Prefer not to say": 1
+    },
+    "Costa Rica": {
+        "18-24 years old": 13,
+        "25-34 years old": 36,
+        "35-44 years old": 17,
+        "45-54 years old": 8,
+        "55-64 years old": 1,
+        "Under 18 years old": 2
+    },
+    "Croatia": {
+        "18-24 years old": 52,
+        "25-34 years old": 106,
+        "35-44 years old": 45,
+        "45-54 years old": 29,
+        "55-64 years old": 3,
+        "Prefer not to say": 1,
+        "Under 18 years old": 12
+    },
+    "Cuba": {
+        "18-24 years old": 1,
+        "25-34 years old": 22,
+        "35-44 years old": 9,
+        "45-54 years old": 2
+    },
+    "Cyprus": {
+        "18-24 years old": 8,
+        "25-34 years old": 28,
+        "35-44 years old": 8,
+        "45-54 years old": 5,
+        "Under 18 years old": 7
+    },
+    "Czech Republic": {
+        "18-24 years old": 168,
+        "25-34 years old": 332,
+        "35-44 years old": 168,
+        "45-54 years old": 41,
+        "55-64 years old": 6,
+        "65 years or older": 1,
+        "Prefer not to say": 2,
+        "Under 18 years old": 66
+    },
+    "CÃ´te d'Ivoire": {
+        "18-24 years old": 4,
+        "25-34 years old": 8,
+        "35-44 years old": 5
+    },
+    "Democratic Republic of the Congo": {
+        "18-24 years old": 3,
+        "25-34 years old": 5,
+        "35-44 years old": 1,
+        "45-54 years old": 1
+    },
+    "Denmark": {
+        "18-24 years old": 86,
+        "25-34 years old": 262,
+        "35-44 years old": 122,
+        "45-54 years old": 65,
+        "55-64 years old": 32,
+        "65 years or older": 3,
+        "Prefer not to say": 5,
+        "Under 18 years old": 22
+    },
+    "Djibouti": {
+        "18-24 years old": 1,
+        "35-44 years old": 1,
+        "Prefer not to say": 1
+    },
+    "Dominica": {
+        "25-34 years old": 1
+    },
+    "Dominican Republic": {
+        "18-24 years old": 38,
+        "25-34 years old": 49,
+        "35-44 years old": 9,
+        "45-54 years old": 2,
+        "Prefer not to say": 1,
+        "Under 18 years old": 5
+    },
+    "Ecuador": {
+        "18-24 years old": 31,
+        "25-34 years old": 51,
+        "35-44 years old": 13,
+        "45-54 years old": 5,
+        "55-64 years old": 2,
+        "Under 18 years old": 1
+    },
+    "Egypt": {
+        "18-24 years old": 234,
+        "25-34 years old": 202,
+        "35-44 years old": 32,
+        "45-54 years old": 1,
+        "55-64 years old": 2,
+        "Under 18 years old": 49
+    },
+    "El Salvador": {
+        "18-24 years old": 14,
+        "25-34 years old": 11,
+        "35-44 years old": 5,
+        "45-54 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Estonia": {
+        "18-24 years old": 20,
+        "25-34 years old": 62,
+        "35-44 years old": 27,
+        "45-54 years old": 9,
+        "Under 18 years old": 10
+    },
+    "Ethiopia": {
+        "18-24 years old": 23,
+        "25-34 years old": 34,
+        "35-44 years old": 1,
+        "45-54 years old": 1,
+        "Under 18 years old": 8
+    },
+    "Fiji": {
+        "18-24 years old": 1,
+        "25-34 years old": 1,
+        "35-44 years old": 1,
+        "65 years or older": 1
+    },
+    "Finland": {
+        "18-24 years old": 68,
+        "25-34 years old": 219,
+        "35-44 years old": 157,
+        "45-54 years old": 50,
+        "55-64 years old": 9,
+        "65 years or older": 1,
+        "Under 18 years old": 21
+    },
+    "France": {
+        "18-24 years old": 725,
+        "25-34 years old": 1118,
+        "35-44 years old": 514,
+        "45-54 years old": 175,
+        "55-64 years old": 35,
+        "65 years or older": 11,
+        "Prefer not to say": 9,
+        "Under 18 years old": 96
+    },
+    "Gambia": {
+        "25-34 years old": 2
+    },
+    "Georgia": {
+        "18-24 years old": 66,
+        "25-34 years old": 60,
+        "35-44 years old": 16,
+        "45-54 years old": 3,
+        "55-64 years old": 3,
+        "Prefer not to say": 1,
+        "Under 18 years old": 11
+    },
+    "Germany": {
+        "18-24 years old": 1269,
+        "25-34 years old": 2275,
+        "35-44 years old": 1188,
+        "45-54 years old": 389,
+        "55-64 years old": 136,
+        "65 years or older": 9,
+        "Prefer not to say": 22,
+        "Under 18 years old": 295
+    },
+    "Ghana": {
+        "18-24 years old": 33,
+        "25-34 years old": 50,
+        "35-44 years old": 6,
+        "45-54 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Greece": {
+        "18-24 years old": 141,
+        "25-34 years old": 244,
+        "35-44 years old": 135,
+        "45-54 years old": 27,
+        "55-64 years old": 8,
+        "65 years or older": 2,
+        "Prefer not to say": 2,
+        "Under 18 years old": 39
+    },
+    "Guatemala": {
+        "18-24 years old": 22,
+        "25-34 years old": 23,
+        "35-44 years old": 11,
+        "45-54 years old": 2
+    },
+    "Guinea": {
+        "18-24 years old": 1,
+        "25-34 years old": 1
+    },
+    "Guyana": {
+        "18-24 years old": 3,
+        "25-34 years old": 4
+    },
+    "Haiti": {
+        "18-24 years old": 2,
+        "35-44 years old": 2,
+        "Under 18 years old": 1
+    },
+    "Honduras": {
+        "18-24 years old": 9,
+        "25-34 years old": 12,
+        "35-44 years old": 1,
+        "45-54 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Hong Kong (S.A.R.)": {
+        "18-24 years old": 49,
+        "25-34 years old": 81,
+        "35-44 years old": 23,
+        "45-54 years old": 12,
+        "55-64 years old": 2,
+        "65 years or older": 1,
+        "Prefer not to say": 3,
+        "Under 18 years old": 20
+    },
+    "Hungary": {
+        "18-24 years old": 91,
+        "25-34 years old": 200,
+        "35-44 years old": 115,
+        "45-54 years old": 31,
+        "55-64 years old": 2,
+        "Prefer not to say": 2,
+        "Under 18 years old": 34
+    },
+    "Iceland": {
+        "18-24 years old": 9,
+        "25-34 years old": 20,
+        "35-44 years old": 8,
+        "45-54 years old": 3,
+        "55-64 years old": 3
+    },
+    "India": {
+        "18-24 years old": 4514,
+        "25-34 years old": 4081,
+        "35-44 years old": 647,
+        "45-54 years old": 94,
+        "55-64 years old": 12,
+        "65 years or older": 7,
+        "Prefer not to say": 79,
+        "Under 18 years old": 861
+    },
+    "Indonesia": {
+        "18-24 years old": 278,
+        "25-34 years old": 199,
+        "35-44 years old": 55,
+        "45-54 years old": 19,
+        "65 years or older": 1,
+        "Prefer not to say": 10,
+        "Under 18 years old": 64
+    },
+    "Iran, Islamic Republic of...": {
+        "18-24 years old": 292,
+        "25-34 years old": 437,
+        "35-44 years old": 120,
+        "45-54 years old": 4,
+        "55-64 years old": 1,
+        "Under 18 years old": 43
+    },
+    "Iraq": {
+        "18-24 years old": 32,
+        "25-34 years old": 27,
+        "35-44 years old": 5,
+        "45-54 years old": 2,
+        "65 years or older": 1,
+        "Prefer not to say": 2,
+        "Under 18 years old": 7
+    },
+    "Ireland": {
+        "18-24 years old": 46,
+        "25-34 years old": 137,
+        "35-44 years old": 111,
+        "45-54 years old": 44,
+        "55-64 years old": 18,
+        "Prefer not to say": 1,
+        "Under 18 years old": 24
+    },
+    "Isle of Man": {
+        "18-24 years old": 1,
+        "25-34 years old": 1,
+        "35-44 years old": 1,
+        "Prefer not to say": 1,
+        "Under 18 years old": 1
+    },
+    "Israel": {
+        "18-24 years old": 151,
+        "25-34 years old": 351,
+        "35-44 years old": 241,
+        "45-54 years old": 68,
+        "55-64 years old": 11,
+        "65 years or older": 1,
+        "Prefer not to say": 8,
+        "Under 18 years old": 74
+    },
+    "Italy": {
+        "18-24 years old": 371,
+        "25-34 years old": 612,
+        "35-44 years old": 374,
+        "45-54 years old": 160,
+        "55-64 years old": 47,
+        "65 years or older": 5,
+        "Prefer not to say": 10,
+        "Under 18 years old": 78
+    },
+    "Jamaica": {
+        "18-24 years old": 9,
+        "25-34 years old": 4,
+        "35-44 years old": 2,
+        "Under 18 years old": 4
+    },
+    "Japan": {
+        "18-24 years old": 46,
+        "25-34 years old": 207,
+        "35-44 years old": 115,
+        "45-54 years old": 33,
+        "55-64 years old": 11,
+        "65 years or older": 1,
+        "Prefer not to say": 3,
+        "Under 18 years old": 10
+    },
+    "Jordan": {
+        "18-24 years old": 20,
+        "25-34 years old": 32,
+        "35-44 years old": 7,
+        "45-54 years old": 3,
+        "Prefer not to say": 1,
+        "Under 18 years old": 7
+    },
+    "Kazakhstan": {
+        "18-24 years old": 27,
+        "25-34 years old": 19,
+        "35-44 years old": 12,
+        "45-54 years old": 2,
+        "Prefer not to say": 1,
+        "Under 18 years old": 4
+    },
+    "Kenya": {
+        "18-24 years old": 115,
+        "25-34 years old": 121,
+        "35-44 years old": 11,
+        "45-54 years old": 4,
+        "Prefer not to say": 3,
+        "Under 18 years old": 7
+    },
+    "Kosovo": {
+        "18-24 years old": 23,
+        "25-34 years old": 16,
+        "35-44 years old": 1,
+        "Under 18 years old": 5
+    },
+    "Kuwait": {
+        "18-24 years old": 5,
+        "25-34 years old": 14,
+        "35-44 years old": 3,
+        "45-54 years old": 2,
+        "Prefer not to say": 2,
+        "Under 18 years old": 3
+    },
+    "Kyrgyzstan": {
+        "18-24 years old": 6,
+        "25-34 years old": 10,
+        "35-44 years old": 4,
+        "Under 18 years old": 1
+    },
+    "Lao People's Democratic Republic": {
+        "18-24 years old": 1,
+        "25-34 years old": 1,
+        "35-44 years old": 2
+    },
+    "Latvia": {
+        "18-24 years old": 26,
+        "25-34 years old": 45,
+        "35-44 years old": 21,
+        "45-54 years old": 5,
+        "Under 18 years old": 10
+    },
+    "Lebanon": {
+        "18-24 years old": 59,
+        "25-34 years old": 37,
+        "35-44 years old": 3,
+        "Under 18 years old": 13
+    },
+    "Lesotho": {
+        "18-24 years old": 1,
+        "25-34 years old": 3
+    },
+    "Liberia": {
+        "25-34 years old": 3
+    },
+    "Libyan Arab Jamahiriya": {
+        "18-24 years old": 6,
+        "25-34 years old": 2,
+        "35-44 years old": 2,
+        "Prefer not to say": 1
+    },
+    "Liechtenstein": {
+        "18-24 years old": 1
+    },
+    "Lithuania": {
+        "18-24 years old": 47,
+        "25-34 years old": 107,
+        "35-44 years old": 38,
+        "45-54 years old": 2,
+        "55-64 years old": 1,
+        "Prefer not to say": 2,
+        "Under 18 years old": 11
+    },
+    "Luxembourg": {
+        "18-24 years old": 2,
+        "25-34 years old": 23,
+        "35-44 years old": 13,
+        "45-54 years old": 5,
+        "55-64 years old": 3,
+        "Under 18 years old": 5
+    },
+    "Madagascar": {
+        "18-24 years old": 7,
+        "25-34 years old": 11
+    },
+    "Malawi": {
+        "18-24 years old": 3,
+        "25-34 years old": 7,
+        "Prefer not to say": 1
+    },
+    "Malaysia": {
+        "18-24 years old": 107,
+        "25-34 years old": 134,
+        "35-44 years old": 39,
+        "45-54 years old": 10,
+        "55-64 years old": 1,
+        "Prefer not to say": 6,
+        "Under 18 years old": 31
+    },
+    "Maldives": {
+        "18-24 years old": 1,
+        "25-34 years old": 7,
+        "35-44 years old": 3,
+        "Prefer not to say": 1,
+        "Under 18 years old": 4
+    },
+    "Mali": {
+        "18-24 years old": 1,
+        "25-34 years old": 1
+    },
+    "Malta": {
+        "18-24 years old": 10,
+        "25-34 years old": 20,
+        "35-44 years old": 8,
+        "45-54 years old": 1,
+        "Under 18 years old": 3
+    },
+    "Mauritania": {
+        "18-24 years old": 2,
+        "25-34 years old": 3
+    },
+    "Mauritius": {
+        "18-24 years old": 12,
+        "25-34 years old": 7,
+        "35-44 years old": 10,
+        "Under 18 years old": 1
+    },
+    "Mexico": {
+        "18-24 years old": 167,
+        "25-34 years old": 317,
+        "35-44 years old": 124,
+        "45-54 years old": 46,
+        "55-64 years old": 10,
+        "65 years or older": 2,
+        "Prefer not to say": 1,
+        "Under 18 years old": 26
+    },
+    "Micronesia, Federated States of...": {
+        "25-34 years old": 1,
+        "Prefer not to say": 1
+    },
+    "Monaco": {
+        "25-34 years old": 1,
+        "55-64 years old": 1
+    },
+    "Mongolia": {
+        "18-24 years old": 7,
+        "25-34 years old": 11,
+        "35-44 years old": 1,
+        "Under 18 years old": 2
+    },
+    "Montenegro": {
+        "18-24 years old": 2,
+        "25-34 years old": 8,
+        "35-44 years old": 6,
+        "55-64 years old": 1
+    },
+    "Morocco": {
+        "18-24 years old": 114,
+        "25-34 years old": 65,
+        "35-44 years old": 11,
+        "Prefer not to say": 2,
+        "Under 18 years old": 12
+    },
+    "Mozambique": {
+        "18-24 years old": 5,
+        "25-34 years old": 6,
+        "35-44 years old": 1
+    },
+    "Myanmar": {
+        "18-24 years old": 23,
+        "25-34 years old": 22,
+        "35-44 years old": 2,
+        "45-54 years old": 1,
+        "Prefer not to say": 1,
+        "Under 18 years old": 3
+    },
+    "Namibia": {
+        "18-24 years old": 2,
+        "25-34 years old": 4,
+        "35-44 years old": 4,
+        "45-54 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Nepal": {
+        "18-24 years old": 175,
+        "25-34 years old": 108,
+        "35-44 years old": 13,
+        "Prefer not to say": 2,
+        "Under 18 years old": 38
+    },
+    "Netherlands": {
+        "18-24 years old": 419,
+        "25-34 years old": 681,
+        "35-44 years old": 380,
+        "45-54 years old": 132,
+        "55-64 years old": 55,
+        "65 years or older": 13,
+        "Prefer not to say": 5,
+        "Under 18 years old": 75
+    },
+    "New Zealand": {
+        "18-24 years old": 93,
+        "25-34 years old": 171,
+        "35-44 years old": 109,
+        "45-54 years old": 76,
+        "55-64 years old": 20,
+        "65 years or older": 5,
+        "Prefer not to say": 2,
+        "Under 18 years old": 38
+    },
+    "Nicaragua": {
+        "18-24 years old": 4,
+        "25-34 years old": 6,
+        "35-44 years old": 5,
+        "45-54 years old": 1,
+        "55-64 years old": 1,
+        "Prefer not to say": 1
+    },
+    "Niger": {
+        "25-34 years old": 1,
+        "35-44 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Nigeria": {
+        "18-24 years old": 172,
+        "25-34 years old": 165,
+        "35-44 years old": 36,
+        "45-54 years old": 5,
+        "55-64 years old": 2,
+        "65 years or older": 1,
+        "Prefer not to say": 4,
+        "Under 18 years old": 19
+    },
+    "Nomadic": {
+        "18-24 years old": 5,
+        "25-34 years old": 15,
+        "35-44 years old": 7,
+        "45-54 years old": 6,
+        "55-64 years old": 2,
+        "65 years or older": 2,
+        "Prefer not to say": 9,
+        "Under 18 years old": 2
+    },
+    "North Korea": {
+        "18-24 years old": 1,
+        "25-34 years old": 1,
+        "Prefer not to say": 1,
+        "Under 18 years old": 1
+    },
+    "Norway": {
+        "18-24 years old": 88,
+        "25-34 years old": 263,
+        "35-44 years old": 139,
+        "45-54 years old": 73,
+        "55-64 years old": 11,
+        "65 years or older": 3,
+        "Prefer not to say": 3,
+        "Under 18 years old": 18
+    },
+    "Oman": {
+        "18-24 years old": 3,
+        "25-34 years old": 6,
+        "35-44 years old": 5,
+        "Under 18 years old": 5
+    },
+    "Pakistan": {
+        "18-24 years old": 377,
+        "25-34 years old": 349,
+        "35-44 years old": 48,
+        "45-54 years old": 3,
+        "Prefer not to say": 6,
+        "Under 18 years old": 47
+    },
+    "Palestine": {
+        "18-24 years old": 8,
+        "25-34 years old": 14,
+        "35-44 years old": 1,
+        "45-54 years old": 1,
+        "65 years or older": 1
+    },
+    "Panama": {
+        "18-24 years old": 7,
+        "25-34 years old": 9,
+        "35-44 years old": 11,
+        "45-54 years old": 1,
+        "55-64 years old": 3
+    },
+    "Papua New Guinea": {
+        "18-24 years old": 1
+    },
+    "Paraguay": {
+        "18-24 years old": 8,
+        "25-34 years old": 27,
+        "35-44 years old": 7,
+        "45-54 years old": 5
+    },
+    "Peru": {
+        "18-24 years old": 52,
+        "25-34 years old": 64,
+        "35-44 years old": 12,
+        "45-54 years old": 10,
+        "Prefer not to say": 2,
+        "Under 18 years old": 6
+    },
+    "Philippines": {
+        "18-24 years old": 139,
+        "25-34 years old": 147,
+        "35-44 years old": 34,
+        "45-54 years old": 10,
+        "55-64 years old": 4,
+        "Prefer not to say": 7,
+        "Under 18 years old": 36
+    },
+    "Poland": {
+        "18-24 years old": 506,
+        "25-34 years old": 804,
+        "35-44 years old": 313,
+        "45-54 years old": 37,
+        "55-64 years old": 6,
+        "65 years or older": 2,
+        "Prefer not to say": 6,
+        "Under 18 years old": 123
+    },
+    "Portugal": {
+        "18-24 years old": 138,
+        "25-34 years old": 221,
+        "35-44 years old": 118,
+        "45-54 years old": 23,
+        "55-64 years old": 6,
+        "65 years or older": 1,
+        "Prefer not to say": 2,
+        "Under 18 years old": 15
+    },
+    "Qatar": {
+        "18-24 years old": 9,
+        "25-34 years old": 8,
+        "35-44 years old": 6,
+        "Prefer not to say": 1,
+        "Under 18 years old": 5
+    },
+    "Republic of Korea": {
+        "18-24 years old": 14,
+        "25-34 years old": 30,
+        "35-44 years old": 3,
+        "45-54 years old": 2,
+        "Prefer not to say": 2,
+        "Under 18 years old": 2
+    },
+    "Republic of Moldova": {
+        "18-24 years old": 15,
+        "25-34 years old": 23,
+        "35-44 years old": 11,
+        "45-54 years old": 4,
+        "Under 18 years old": 2
+    },
+    "Romania": {
+        "18-24 years old": 182,
+        "25-34 years old": 274,
+        "35-44 years old": 113,
+        "45-54 years old": 26,
+        "55-64 years old": 4,
+        "Prefer not to say": 3,
+        "Under 18 years old": 44
+    },
+    "Russia": {
+        "18-24 years old": 373,
+        "25-34 years old": 639,
+        "35-44 years old": 294,
+        "45-54 years old": 67,
+        "55-64 years old": 12,
+        "65 years or older": 1,
+        "Prefer not to say": 4,
+        "Under 18 years old": 79
+    },
+    "Rwanda": {
+        "18-24 years old": 16,
+        "25-34 years old": 9,
+        "35-44 years old": 3,
+        "Prefer not to say": 1,
+        "Under 18 years old": 4
+    },
+    "Saint Kitts and Nevis": {
+        "18-24 years old": 1
+    },
+    "Saint Lucia": {
+        "25-34 years old": 1,
+        "Under 18 years old": 2
+    },
+    "Saint Vincent and the Grenadines": {
+        "18-24 years old": 1
+    },
+    "San Marino": {
+        "35-44 years old": 1,
+        "55-64 years old": 1
+    },
+    "Saudi Arabia": {
+        "18-24 years old": 30,
+        "25-34 years old": 54,
+        "35-44 years old": 21,
+        "45-54 years old": 5,
+        "55-64 years old": 1,
+        "Prefer not to say": 2,
+        "Under 18 years old": 22
+    },
+    "Senegal": {
+        "18-24 years old": 4,
+        "25-34 years old": 19,
+        "35-44 years old": 3,
+        "Under 18 years old": 2
+    },
+    "Serbia": {
+        "18-24 years old": 89,
+        "25-34 years old": 111,
+        "35-44 years old": 71,
+        "45-54 years old": 22,
+        "55-64 years old": 2,
+        "Prefer not to say": 1,
+        "Under 18 years old": 11
+    },
+    "Sierra Leone": {
+        "18-24 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Singapore": {
+        "18-24 years old": 82,
+        "25-34 years old": 127,
+        "35-44 years old": 51,
+        "45-54 years old": 15,
+        "55-64 years old": 5,
+        "Prefer not to say": 6,
+        "Under 18 years old": 43
+    },
+    "Slovakia": {
+        "18-24 years old": 70,
+        "25-34 years old": 107,
+        "35-44 years old": 44,
+        "45-54 years old": 14,
+        "55-64 years old": 2,
+        "Prefer not to say": 3,
+        "Under 18 years old": 10
+    },
+    "Slovenia": {
+        "18-24 years old": 62,
+        "25-34 years old": 97,
+        "35-44 years old": 39,
+        "45-54 years old": 22,
+        "55-64 years old": 4,
+        "Prefer not to say": 2,
+        "Under 18 years old": 7
+    },
+    "Somalia": {
+        "18-24 years old": 3,
+        "25-34 years old": 3,
+        "Under 18 years old": 1
+    },
+    "South Africa": {
+        "18-24 years old": 120,
+        "25-34 years old": 232,
+        "35-44 years old": 141,
+        "45-54 years old": 50,
+        "55-64 years old": 10,
+        "65 years or older": 2,
+        "Prefer not to say": 3,
+        "Under 18 years old": 9
+    },
+    "South Korea": {
+        "18-24 years old": 39,
+        "25-34 years old": 83,
+        "35-44 years old": 32,
+        "45-54 years old": 12,
+        "65 years or older": 1,
+        "Prefer not to say": 1,
+        "Under 18 years old": 19
+    },
+    "Spain": {
+        "18-24 years old": 290,
+        "25-34 years old": 544,
+        "35-44 years old": 398,
+        "45-54 years old": 160,
+        "55-64 years old": 34,
+        "65 years or older": 2,
+        "Prefer not to say": 3,
+        "Under 18 years old": 42
+    },
+    "Sri Lanka": {
+        "18-24 years old": 127,
+        "25-34 years old": 214,
+        "35-44 years old": 23,
+        "45-54 years old": 2,
+        "55-64 years old": 1,
+        "Prefer not to say": 2,
+        "Under 18 years old": 24
+    },
+    "Sudan": {
+        "18-24 years old": 13,
+        "25-34 years old": 14
+    },
+    "Suriname": {
+        "18-24 years old": 4,
+        "25-34 years old": 1
+    },
+    "Swaziland": {
+        "18-24 years old": 4,
+        "25-34 years old": 4,
+        "45-54 years old": 1,
+        "55-64 years old": 1
+    },
+    "Sweden": {
+        "18-24 years old": 170,
+        "25-34 years old": 467,
+        "35-44 years old": 328,
+        "45-54 years old": 140,
+        "55-64 years old": 29,
+        "65 years or older": 3,
+        "Prefer not to say": 3,
+        "Under 18 years old": 55
+    },
+    "Switzerland": {
+        "18-24 years old": 186,
+        "25-34 years old": 343,
+        "35-44 years old": 223,
+        "45-54 years old": 75,
+        "55-64 years old": 23,
+        "65 years or older": 1,
+        "Prefer not to say": 1,
+        "Under 18 years old": 59
+    },
+    "Syrian Arab Republic": {
+        "18-24 years old": 21,
+        "25-34 years old": 22,
+        "35-44 years old": 5,
+        "45-54 years old": 1,
+        "55-64 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Taiwan": {
+        "18-24 years old": 50,
+        "25-34 years old": 149,
+        "35-44 years old": 61,
+        "45-54 years old": 13,
+        "55-64 years old": 3,
+        "Prefer not to say": 2,
+        "Under 18 years old": 19
+    },
+    "Tajikistan": {
+        "18-24 years old": 3,
+        "25-34 years old": 2,
+        "35-44 years old": 1,
+        "Prefer not to say": 2,
+        "Under 18 years old": 1
+    },
+    "Thailand": {
+        "18-24 years old": 30,
+        "25-34 years old": 73,
+        "35-44 years old": 42,
+        "45-54 years old": 9,
+        "55-64 years old": 5,
+        "Prefer not to say": 3,
+        "Under 18 years old": 20
+    },
+    "The former Yugoslav Republic of Macedonia": {
+        "18-24 years old": 16,
+        "25-34 years old": 26,
+        "35-44 years old": 11,
+        "45-54 years old": 1
+    },
+    "Togo": {
+        "18-24 years old": 5,
+        "25-34 years old": 2
+    },
+    "Trinidad and Tobago": {
+        "18-24 years old": 6,
+        "25-34 years old": 6,
+        "35-44 years old": 4,
+        "45-54 years old": 2,
+        "55-64 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Tunisia": {
+        "18-24 years old": 55,
+        "25-34 years old": 72,
+        "35-44 years old": 10,
+        "Prefer not to say": 1,
+        "Under 18 years old": 9
+    },
+    "Turkey": {
+        "18-24 years old": 332,
+        "25-34 years old": 438,
+        "35-44 years old": 182,
+        "45-54 years old": 20,
+        "55-64 years old": 4,
+        "Prefer not to say": 3,
+        "Under 18 years old": 69
+    },
+    "Turkmenistan": {
+        "18-24 years old": 6,
+        "25-34 years old": 5,
+        "35-44 years old": 1,
+        "Under 18 years old": 1
+    },
+    "Tuvalu": {
+        "18-24 years old": 1
+    },
+    "Uganda": {
+        "18-24 years old": 16,
+        "25-34 years old": 41,
+        "35-44 years old": 4,
+        "Under 18 years old": 1
+    },
+    "Ukraine": {
+        "18-24 years old": 201,
+        "25-34 years old": 333,
+        "35-44 years old": 148,
+        "45-54 years old": 43,
+        "55-64 years old": 1,
+        "65 years or older": 1,
+        "Prefer not to say": 5,
+        "Under 18 years old": 36
+    },
+    "United Arab Emirates": {
+        "18-24 years old": 25,
+        "25-34 years old": 77,
+        "35-44 years old": 43,
+        "45-54 years old": 4,
+        "Prefer not to say": 2,
+        "Under 18 years old": 29
+    },
+    "United Kingdom": {
+        "18-24 years old": 737,
+        "25-34 years old": 1535,
+        "35-44 years old": 1061,
+        "45-54 years old": 507,
+        "55-64 years old": 183,
+        "65 years or older": 46,
+        "Prefer not to say": 30,
+        "Under 18 years old": 330
+    },
+    "United Republic of Tanzania": {
+        "18-24 years old": 8,
+        "25-34 years old": 28,
+        "35-44 years old": 3,
+        "65 years or older": 1,
+        "Under 18 years old": 2
+    },
+    "United States of America": {
+        "18-24 years old": 2280,
+        "25-34 years old": 5327,
+        "35-44 years old": 3505,
+        "45-54 years old": 1614,
+        "55-64 years old": 774,
+        "65 years or older": 223,
+        "Prefer not to say": 173,
+        "Under 18 years old": 1115
+    },
+    "Uruguay": {
+        "18-24 years old": 26,
+        "25-34 years old": 70,
+        "35-44 years old": 37,
+        "45-54 years old": 8,
+        "65 years or older": 1,
+        "Under 18 years old": 2
+    },
+    "Uzbekistan": {
+        "18-24 years old": 42,
+        "25-34 years old": 16,
+        "35-44 years old": 2,
+        "Under 18 years old": 7
+    },
+    "Venezuela, Bolivarian Republic of...": {
+        "18-24 years old": 42,
+        "25-34 years old": 29,
+        "35-44 years old": 16,
+        "45-54 years old": 11,
+        "55-64 years old": 1,
+        "65 years or older": 2,
+        "Under 18 years old": 3
+    },
+    "Viet Nam": {
+        "18-24 years old": 167,
+        "25-34 years old": 150,
+        "35-44 years old": 19,
+        "45-54 years old": 3,
+        "65 years or older": 1,
+        "Prefer not to say": 2,
+        "Under 18 years old": 40
+    },
+    "Yemen": {
+        "18-24 years old": 9,
+        "25-34 years old": 8,
+        "35-44 years old": 2,
+        "Under 18 years old": 1
+    },
+    "Zambia": {
+        "18-24 years old": 5,
+        "25-34 years old": 12,
+        "35-44 years old": 4,
+        "Prefer not to say": 1
+    },
+    "Zimbabwe": {
+        "18-24 years old": 16,
+        "25-34 years old": 11,
+        "35-44 years old": 5,
+        "Under 18 years old": 2
+    }
+}

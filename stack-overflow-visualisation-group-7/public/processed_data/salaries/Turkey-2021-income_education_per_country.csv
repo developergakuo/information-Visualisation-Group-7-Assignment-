@@ -1,0 +1,525 @@
+,Country,Monthly_Sal_EUR,EdLevel
+16,Turkey,899.475,Bachelor's degree
+33,Turkey,599.65,Bachelor's degree
+337,Turkey,1798.95,Bachelor's degree
+465,Turkey,999.4166666666666,Bachelor's degree
+532,Turkey,10993.583333333332,Master's degree
+708,Turkey,499.7083333333333,Bachelor's degree
+710,Turkey,599.65,Secondary school
+762,Turkey,3837.76,Bachelor's degree
+919,Turkey,235.8623333333333,college/university without bachelor's degree
+1180,Turkey,3198.133333333333,Master's degree
+1291,Turkey,1265.2615,Bachelor's degree
+1420,Turkey,5996.5,Bachelor's degree
+1550,Turkey,599.65,Bachelor's degree
+1781,Turkey,1399.1833333333334,Bachelor's degree
+1826,Turkey,1299.2416666666666,Bachelor's degree
+1965,Turkey,999.4166666666666,Associate degree
+2077,Turkey,299.825,Bachelor's degree
+2124,Turkey,2498.5416666666665,Master's degree
+2603,Turkey,3497.958333333333,Bachelor's degree
+2890,Turkey,249.85416666666666,Master's degree
+2960,Turkey,99.94166666666666,college/university without bachelor's degree
+3154,Turkey,4997.083333333333,Master's degree
+3240,Turkey,499.7083333333333,Master's degree
+3379,Turkey,1798.95,college/university without bachelor's degree
+3508,Turkey,1299.2416666666666,Bachelor's degree
+3599,Turkey,499.7083333333333,Bachelor's degree
+4219,Turkey,139.91833333333332,Bachelor's degree
+4364,Turkey,1998.8333333333333,Master's degree
+4397,Turkey,1099.3583333333333,Master's degree
+4427,Turkey,3997.6666666666665,Bachelor's degree
+4477,Turkey,109.93583333333333,Bachelor's degree
+4507,Turkey,5496.791666666666,Master's degree
+4513,Turkey,1998.8333333333333,Master's degree
+4516,Turkey,574.6645833333333,Bachelor's degree
+4572,Turkey,2298.6583333333333,Bachelor's degree
+4576,Turkey,929.4575,Bachelor's degree
+4578,Turkey,1599.0666666666666,Bachelor's degree
+4618,Turkey,8994.75,Master's degree
+4620,Turkey,349.79583333333335,Bachelor's degree
+4643,Turkey,1199.3,Bachelor's degree
+4674,Turkey,899.475,Bachelor's degree
+4685,Turkey,1299.2416666666666,Bachelor's degree
+4690,Turkey,999.4166666666666,college/university without bachelor's degree
+4713,Turkey,1299.2416666666666,Primary/elementary school
+4767,Turkey,374.78125,Bachelor's degree
+4789,Turkey,1199.3,Bachelor's degree
+4807,Turkey,2998.25,college/university without bachelor's degree
+4869,Turkey,899.475,Bachelor's degree
+4875,Turkey,1199.3,Bachelor's degree
+4878,Turkey,574.6645833333333,Bachelor's degree
+4898,Turkey,1049.3874999999998,Bachelor's degree
+4954,Turkey,749.5625,Bachelor's degree
+4973,Turkey,1599.0666666666666,Bachelor's degree
+5019,Turkey,639.6266666666667,Associate degree
+5054,Turkey,2298.6583333333333,Bachelor's degree
+5134,Turkey,499.7083333333333,college/university without bachelor's degree
+5161,Turkey,849.5041666666667,college/university without bachelor's degree
+5202,Turkey,2398.6,Bachelor's degree
+5259,Turkey,664.6120833333333,Bachelor's degree
+5360,Turkey,499.7083333333333,Bachelor's degree
+5510,Turkey,574.6645833333333,Bachelor's degree
+5525,Turkey,666.1112083333333,Bachelor's degree
+5547,Turkey,1199.3,Bachelor's degree
+5572,Turkey,474.72291666666666,Bachelor's degree
+5622,Turkey,1998.8333333333333,Master's degree
+5625,Turkey,749.5625,Bachelor's degree
+5675,Turkey,1199.3,Bachelor's degree
+5685,Turkey,999.4166666666666,Bachelor's degree
+5703,Turkey,999.4166666666666,Master's degree
+5725,Turkey,299.825,Bachelor's degree
+5902,Turkey,1499.125,Bachelor's degree
+5928,Turkey,799.5333333333333,Bachelor's degree
+5950,Turkey,1998.8333333333333,college/university without bachelor's degree
+6042,Turkey,13192.3,Bachelor's degree
+6322,Turkey,499.7083333333333,Bachelor's degree
+6365,Turkey,1249.2708333333333,Bachelor's degree
+6432,Turkey,1099.3583333333333,Bachelor's degree
+6743,Turkey,1599.0666666666666,Secondary school
+6997,Turkey,1599.0666666666666,Bachelor's degree
+7035,Turkey,2498.5416666666665,Bachelor's degree
+7072,Turkey,2098.7749999999996,Bachelor's degree
+7418,Turkey,699.5916666666667,Bachelor's degree
+7496,Turkey,299.825,Bachelor's degree
+7590,Turkey,1249.2708333333333,Bachelor's degree
+7605,Turkey,249.85416666666666,college/university without bachelor's degree
+7706,Turkey,1349.2125,Bachelor's degree
+7747,Turkey,999.4166666666666,Doctoral degree
+7826,Turkey,1599.0666666666666,Associate degree
+7902,Turkey,2498.5416666666665,Bachelor's degree
+8092,Turkey,2998.25,Bachelor's degree
+8271,Turkey,2498.5416666666665,Bachelor's degree
+8422,Turkey,1499.125,Bachelor's degree
+9199,Turkey,899.475,Bachelor's degree
+9345,Turkey,399.76666666666665,Bachelor's degree
+9377,Turkey,14991.25,college/university without bachelor's degree
+11410,Turkey,3997.6666666666665,Bachelor's degree
+11947,Turkey,649.6208333333333,Bachelor's degree
+11969,Turkey,279.83666666666664,Bachelor's degree
+12006,Turkey,1798.95,Bachelor's degree
+12118,Turkey,799.5333333333333,Bachelor's degree
+12168,Turkey,2498.5416666666665,Master's degree
+12172,Turkey,799.5333333333333,Bachelor's degree
+12366,Turkey,719.58,Bachelor's degree
+12371,Turkey,499.7083333333333,Bachelor's degree
+12521,Turkey,1199.3,Bachelor's degree
+12637,Turkey,1299.2416666666666,Bachelor's degree
+12694,Turkey,3497.958333333333,Bachelor's degree
+12804,Turkey,319.81333333333333,Master's degree
+12843,Turkey,439.74333333333334,Bachelor's degree
+12904,Turkey,2948.2791666666662,Bachelor's degree
+13041,Turkey,449.7375,Bachelor's degree
+13152,Turkey,599.65,Bachelor's degree
+13269,Turkey,999.4166666666666,Bachelor's degree
+13339,Turkey,499.7083333333333,Master's degree
+13356,Turkey,2498.5416666666665,Bachelor's degree
+13436,Turkey,1499.125,Bachelor's degree
+13494,Turkey,949.4458333333333,Bachelor's degree
+13864,Turkey,309.81916666666666,Bachelor's degree
+13944,Turkey,699.5916666666667,Bachelor's degree
+14019,Turkey,749.5625,college/university without bachelor's degree
+14180,Turkey,599.65,Bachelor's degree
+14445,Turkey,1599.0666666666666,Bachelor's degree
+14658,Turkey,1599.0666666666666,Associate degree
+15120,Turkey,1299.2416666666666,Bachelor's degree
+15139,Turkey,499.7083333333333,Bachelor's degree
+15141,Turkey,449.7375,Bachelor's degree
+15218,Turkey,2352.027183333333,Bachelor's degree
+15297,Turkey,3497.958333333333,college/university without bachelor's degree
+15317,Turkey,1099.3583333333333,Bachelor's degree
+15440,Turkey,2498.5416666666665,Bachelor's degree
+15675,Turkey,1599.0666666666666,Bachelor's degree
+15885,Turkey,899.475,Secondary school
+16151,Turkey,9994.166666666666,Bachelor's degree
+16385,Turkey,1199.3,Bachelor's degree
+16657,Turkey,1199.3,Bachelor's degree
+16702,Turkey,589.6558333333332,Bachelor's degree
+16856,Turkey,999.4166666666666,Master's degree
+17036,Turkey,699.5916666666667,Bachelor's degree
+17065,Turkey,799.5333333333333,Secondary school
+17092,Turkey,1599.0666666666666,Bachelor's degree
+17146,Turkey,339.8016666666666,Master's degree
+17319,Turkey,449.7375,Bachelor's degree
+17336,Turkey,1499.125,Bachelor's degree
+17414,Turkey,349.79583333333335,Master's degree
+17659,Turkey,374.78125,Bachelor's degree
+17744,Turkey,999.4166666666666,Bachelor's degree
+18119,Turkey,1798.95,Master's degree
+18656,Turkey,499.7083333333333,Doctoral degree
+19006,Turkey,2498.5416666666665,Master's degree
+19226,Turkey,149.9125,Bachelor's degree
+19386,Turkey,699.5916666666667,Master's degree
+19630,Turkey,3497.958333333333,Bachelor's degree
+19684,Turkey,1699.0083333333334,Bachelor's degree
+19712,Turkey,1299.2416666666666,Bachelor's degree
+19892,Turkey,1099.3583333333333,college/university without bachelor's degree
+20063,Turkey,1199.3,Bachelor's degree
+20134,Turkey,1649.0375,Master's degree
+20138,Turkey,349.79583333333335,Master's degree
+20688,Turkey,2898.3083333333334,Bachelor's degree
+20749,Turkey,1649.0375,Doctoral degree
+20809,Turkey,4197.549999999999,Bachelor's degree
+20914,Turkey,3997.6666666666665,Master's degree
+21048,Turkey,249.85416666666666,college/university without bachelor's degree
+21146,Turkey,1699.0083333333334,college/university without bachelor's degree
+21185,Turkey,819.5216666666666,college/university without bachelor's degree
+21387,Turkey,1998.8333333333333,Bachelor's degree
+21440,Turkey,1199.3,Master's degree
+22162,Turkey,0.9994166666666666,Something else
+22695,Turkey,999.4166666666666,Bachelor's degree
+22921,Turkey,1199.3,Master's degree
+23038,Turkey,949.4458333333333,Bachelor's degree
+23166,Turkey,299.825,Bachelor's degree
+23310,Turkey,1199.3,Bachelor's degree
+23348,Turkey,4197.549999999999,Master's degree
+23427,Turkey,999.4166666666666,Bachelor's degree
+23463,Turkey,679.6033333333332,Bachelor's degree
+23472,Turkey,299.825,Bachelor's degree
+23511,Turkey,7195.8,college/university without bachelor's degree
+23579,Turkey,1998.8333333333333,Bachelor's degree
+23675,Turkey,949.4458333333333,college/university without bachelor's degree
+23791,Turkey,1199.3,Bachelor's degree
+23801,Turkey,399.76666666666665,Bachelor's degree
+23958,Turkey,999.4166666666666,college/university without bachelor's degree
+24079,Turkey,549.6791666666667,Master's degree
+24139,Turkey,859.4983333333332,Bachelor's degree
+24248,Turkey,2498.5416666666665,Bachelor's degree
+24408,Turkey,1748.9791666666665,Bachelor's degree
+24436,Turkey,1599.0666666666666,Bachelor's degree
+24514,Turkey,139.91833333333332,Associate degree
+24554,Turkey,359.79,Bachelor's degree
+24569,Turkey,1848.9208333333331,Bachelor's degree
+24674,Turkey,899.475,Bachelor's degree
+24744,Turkey,1299.2416666666666,Master's degree
+24809,Turkey,899.475,Master's degree
+25103,Turkey,1399.1833333333334,Associate degree
+25302,Turkey,1798.95,Bachelor's degree
+25350,Turkey,2998.25,Bachelor's degree
+25716,Turkey,2498.5416666666665,Master's degree
+25772,Turkey,1099.3583333333333,Associate degree
+25784,Turkey,999.4166666666666,college/university without bachelor's degree
+25825,Turkey,1499.125,Bachelor's degree
+25846,Turkey,1249.2708333333333,Bachelor's degree
+25941,Turkey,1549.0958333333333,Master's degree
+26119,Turkey,899.475,Bachelor's degree
+26378,Turkey,599.65,Bachelor's degree
+26765,Turkey,149.9125,college/university without bachelor's degree
+27174,Turkey,2198.7166666666667,Bachelor's degree
+27298,Turkey,999.4166666666666,Associate degree
+27379,Turkey,2498.5416666666665,Associate degree
+27417,Turkey,819.5216666666666,Bachelor's degree
+27762,Turkey,149.9125,Secondary school
+28096,Turkey,2498.5416666666665,Master's degree
+28249,Turkey,999.4166666666666,Bachelor's degree
+28337,Turkey,299.825,Bachelor's degree
+28395,Turkey,5496.791666666666,Bachelor's degree
+28396,Turkey,5796.616666666667,Master's degree
+28573,Turkey,999.4166666666666,Bachelor's degree
+28893,Turkey,399.76666666666665,Associate degree
+28924,Turkey,1199.3,Bachelor's degree
+28932,Turkey,999.4166666666666,Master's degree
+28989,Turkey,2998.25,college/university without bachelor's degree
+29025,Turkey,599.65,Bachelor's degree
+29159,Turkey,3997.6666666666665,Master's degree
+29183,Turkey,4997.083333333333,Bachelor's degree
+29259,Turkey,199.88333333333333,Associate degree
+29496,Turkey,1499.125,Bachelor's degree
+29504,Turkey,559.6733333333333,college/university without bachelor's degree
+29909,Turkey,11993.0,Master's degree
+30374,Turkey,249.85416666666666,college/university without bachelor's degree
+30576,Turkey,279.83666666666664,college/university without bachelor's degree
+30685,Turkey,2098.7749999999996,Master's degree
+30929,Turkey,699.5916666666667,Bachelor's degree
+31668,Turkey,1798.95,Bachelor's degree
+31743,Turkey,229.8658333333333,college/university without bachelor's degree
+31876,Turkey,2498.5416666666665,Bachelor's degree
+32059,Turkey,1998.8333333333333,Master's degree
+32370,Turkey,349.79583333333335,Bachelor's degree
+32401,Turkey,14991.25,Bachelor's degree
+32565,Turkey,1998.8333333333333,Master's degree
+32852,Turkey,1998.8333333333333,Bachelor's degree
+32971,Turkey,1499.125,Doctoral degree
+33169,Turkey,2098.7749999999996,Master's degree
+33254,Turkey,699.5916666666667,Bachelor's degree
+33277,Turkey,1499.125,Bachelor's degree
+33297,Turkey,1499.125,Bachelor's degree
+33362,Turkey,97.94283333333334,college/university without bachelor's degree
+33419,Turkey,749.5625,Bachelor's degree
+33511,Turkey,379.7783333333333,Bachelor's degree
+33548,Turkey,749.5625,Bachelor's degree
+33549,Turkey,1948.8625000000002,Master's degree
+33663,Turkey,999.4166666666666,Bachelor's degree
+33693,Turkey,699.5916666666667,Master's degree
+33703,Turkey,199.88333333333333,Bachelor's degree
+33746,Turkey,2498.5416666666665,Bachelor's degree
+33747,Turkey,1798.95,Bachelor's degree
+33774,Turkey,399.76666666666665,Bachelor's degree
+33888,Turkey,1319.23,college/university without bachelor's degree
+34066,Turkey,799.5333333333333,college/university without bachelor's degree
+34084,Turkey,399.76666666666665,Master's degree
+34206,Turkey,15790.783333333333,Associate degree
+34484,Turkey,1998.8333333333333,Bachelor's degree
+34504,Turkey,149.9125,Associate degree
+34744,Turkey,1499.125,Professional degree
+35023,Turkey,2498.5416666666665,college/university without bachelor's degree
+35512,Turkey,449.7375,Primary/elementary school
+35705,Turkey,3997.6666666666665,Bachelor's degree
+35785,Turkey,1499.125,Master's degree
+35880,Turkey,1499.125,Bachelor's degree
+36060,Turkey,499.7083333333333,Bachelor's degree
+36100,Turkey,79.95333333333333,Primary/elementary school
+36725,Turkey,1399.1833333333334,Bachelor's degree
+36873,Turkey,899.475,Bachelor's degree
+37072,Turkey,1599.0666666666666,Bachelor's degree
+37099,Turkey,2498.5416666666665,Master's degree
+37121,Turkey,2198.7166666666667,Bachelor's degree
+37197,Turkey,1599.0666666666666,Bachelor's degree
+37198,Turkey,999.4166666666666,Bachelor's degree
+37302,Turkey,1499.125,Bachelor's degree
+37344,Turkey,349.79583333333335,Bachelor's degree
+37643,Turkey,599.65,Bachelor's degree
+37740,Turkey,799.5333333333333,Secondary school
+37854,Turkey,159.90666666666667,Secondary school
+37888,Turkey,339.8016666666666,college/university without bachelor's degree
+38169,Turkey,699.5916666666667,Master's degree
+38266,Turkey,1599.0666666666666,Master's degree
+38373,Turkey,999.4166666666666,Bachelor's degree
+38424,Turkey,3997.6666666666665,Bachelor's degree
+38460,Turkey,1199.3,Secondary school
+38479,Turkey,59.965,Bachelor's degree
+38560,Turkey,999.4166666666666,Secondary school
+38850,Turkey,2298.6583333333333,Master's degree
+38999,Turkey,11993.0,Bachelor's degree
+39013,Turkey,599.65,Bachelor's degree
+39388,Turkey,3128.1741666666667,Bachelor's degree
+39422,Turkey,44.97375,Bachelor's degree
+39447,Turkey,1699.0083333333334,Bachelor's degree
+39576,Turkey,635.1292916666666,Bachelor's degree
+39663,Turkey,499.7083333333333,Bachelor's degree
+39825,Turkey,4997.083333333333,Master's degree
+40048,Turkey,549.6791666666667,Secondary school
+40177,Turkey,549.6791666666667,Bachelor's degree
+40326,Turkey,1199.3,college/university without bachelor's degree
+40375,Turkey,1499.125,Bachelor's degree
+40439,Turkey,1798.95,Bachelor's degree
+40614,Turkey,207.87866666666665,college/university without bachelor's degree
+40846,Turkey,1499.125,Bachelor's degree
+40997,Turkey,449.7375,Bachelor's degree
+41094,Turkey,349.79583333333335,college/university without bachelor's degree
+41318,Turkey,429.7491666666666,Bachelor's degree
+41702,Turkey,1898.8916666666667,Bachelor's degree
+41724,Turkey,924.4604166666666,Bachelor's degree
+42121,Turkey,1499.125,college/university without bachelor's degree
+42273,Turkey,399.76666666666665,Bachelor's degree
+42354,Turkey,17989.5,Bachelor's degree
+42447,Turkey,2598.483333333333,Bachelor's degree
+42511,Turkey,2998.25,college/university without bachelor's degree
+42601,Turkey,624.6354166666666,Bachelor's degree
+42634,Turkey,2498.5416666666665,college/university without bachelor's degree
+43501,Turkey,349.79583333333335,Master's degree
+43929,Turkey,2798.366666666667,Associate degree
+44096,Turkey,2448.570833333333,Bachelor's degree
+44100,Turkey,599.65,Bachelor's degree
+44246,Turkey,239.86,Bachelor's degree
+44521,Turkey,199.88333333333333,college/university without bachelor's degree
+44655,Turkey,1099.3583333333333,Bachelor's degree
+44805,Turkey,1798.95,Bachelor's degree
+44807,Turkey,1099.3583333333333,Bachelor's degree
+45088,Turkey,449.7375,Bachelor's degree
+45154,Turkey,999.4166666666666,Bachelor's degree
+45238,Turkey,349.79583333333335,Bachelor's degree
+45397,Turkey,599.65,college/university without bachelor's degree
+45578,Turkey,1499.125,Bachelor's degree
+45612,Turkey,399.76666666666665,Master's degree
+45614,Turkey,649.6208333333333,Doctoral degree
+45662,Turkey,1359.2066666666665,Bachelor's degree
+45760,Turkey,2398.6,Bachelor's degree
+46212,Turkey,899.475,Bachelor's degree
+46220,Turkey,349.79583333333335,Associate degree
+46394,Turkey,149.9125,Secondary school
+46494,Turkey,349.79583333333335,college/university without bachelor's degree
+46580,Turkey,1299.2416666666666,Bachelor's degree
+47304,Turkey,749.5625,college/university without bachelor's degree
+47347,Turkey,749.5625,Bachelor's degree
+47876,Turkey,199.88333333333333,Master's degree
+48144,Turkey,349.79583333333335,Bachelor's degree
+48318,Turkey,1099.3583333333333,Master's degree
+48513,Turkey,199.88333333333333,Master's degree
+48577,Turkey,449.7375,Bachelor's degree
+48593,Turkey,1499.125,Bachelor's degree
+48815,Turkey,1699.0083333333334,Bachelor's degree
+48846,Turkey,549.6791666666667,Bachelor's degree
+49338,Turkey,13010.406166666668,Master's degree
+49339,Turkey,189.88916666666665,Bachelor's degree
+49436,Turkey,1199.3,Bachelor's degree
+49577,Turkey,749.5625,Bachelor's degree
+49619,Turkey,8994.75,Master's degree
+49638,Turkey,2998.25,Master's degree
+49877,Turkey,14991.25,Master's degree
+49910,Turkey,1199.3,Master's degree
+50003,Turkey,499.7083333333333,Bachelor's degree
+50389,Turkey,894.4779166666667,Bachelor's degree
+50575,Turkey,1699.0083333333334,Bachelor's degree
+50699,Turkey,499.7083333333333,Bachelor's degree
+50804,Turkey,1499.125,Bachelor's degree
+51981,Turkey,1449.1541666666667,Bachelor's degree
+52137,Turkey,199.88333333333333,Bachelor's degree
+53380,Turkey,1099.3583333333333,Bachelor's degree
+53550,Turkey,2198.7166666666667,Bachelor's degree
+53756,Turkey,879.4866666666667,Master's degree
+53787,Turkey,95.94399999999999,Bachelor's degree
+53869,Turkey,2298.6583333333333,Bachelor's degree
+53949,Turkey,1998.8333333333333,Master's degree
+54081,Turkey,284.83375,Bachelor's degree
+54315,Turkey,99.94166666666666,Bachelor's degree
+54416,Turkey,599.65,college/university without bachelor's degree
+54602,Turkey,2998.25,Bachelor's degree
+54615,Turkey,2258.6816666666664,Bachelor's degree
+54879,Turkey,1299.2416666666666,Bachelor's degree
+55358,Turkey,999.4166666666666,college/university without bachelor's degree
+55730,Turkey,1998.8333333333333,Bachelor's degree
+55767,Turkey,16990.083333333332,Bachelor's degree
+55769,Turkey,2498.5416666666665,Bachelor's degree
+55803,Turkey,449.7375,Bachelor's degree
+55909,Turkey,3148.1625000000004,Bachelor's degree
+55963,Turkey,1499.125,Bachelor's degree
+55968,Turkey,1299.2416666666666,Bachelor's degree
+56166,Turkey,1249.2708333333333,Bachelor's degree
+56396,Turkey,1499.125,Bachelor's degree
+56688,Turkey,1099.3583333333333,Bachelor's degree
+56789,Turkey,399.76666666666665,college/university without bachelor's degree
+57315,Turkey,749.5625,Bachelor's degree
+57578,Turkey,44.97375,Secondary school
+57608,Turkey,2998.25,Master's degree
+57637,Turkey,1499.125,Bachelor's degree
+57708,Turkey,899.475,college/university without bachelor's degree
+57764,Turkey,499.7083333333333,Bachelor's degree
+57963,Turkey,799.5333333333333,Bachelor's degree
+58121,Turkey,1049.3874999999998,Bachelor's degree
+58442,Turkey,399.76666666666665,Master's degree
+58733,Turkey,1299.2416666666666,Master's degree
+58937,Turkey,399.76666666666665,Master's degree
+59068,Turkey,599.65,Bachelor's degree
+59325,Turkey,899.475,Bachelor's degree
+59525,Turkey,799.5333333333333,Bachelor's degree
+59597,Turkey,3997.6666666666665,Bachelor's degree
+59772,Turkey,649.6208333333333,Bachelor's degree
+60007,Turkey,1199.3,Master's degree
+60099,Turkey,1099.3583333333333,Bachelor's degree
+60237,Turkey,1998.8333333333333,Master's degree
+60396,Turkey,999.4166666666666,Bachelor's degree
+60885,Turkey,649.6208333333333,Bachelor's degree
+60948,Turkey,11993.0,Bachelor's degree
+61047,Turkey,1998.8333333333333,Associate degree
+61530,Turkey,2398.6,Master's degree
+61839,Turkey,1499.125,Bachelor's degree
+61842,Turkey,374.78125,Associate degree
+62319,Turkey,1374.1979166666665,Bachelor's degree
+62536,Turkey,2498.5416666666665,Bachelor's degree
+63167,Turkey,399.76666666666665,Bachelor's degree
+63427,Turkey,569.6675,Bachelor's degree
+63505,Turkey,899.475,Bachelor's degree
+63579,Turkey,549.6791666666667,Bachelor's degree
+63622,Turkey,1199.3,Master's degree
+63923,Turkey,199.88333333333333,Bachelor's degree
+64003,Turkey,399.76666666666665,Bachelor's degree
+64523,Turkey,1499.125,college/university without bachelor's degree
+64691,Turkey,799.5333333333333,Bachelor's degree
+64808,Turkey,849.5041666666667,Doctoral degree
+64889,Turkey,1499.125,Bachelor's degree
+64925,Turkey,3497.958333333333,Bachelor's degree
+65069,Turkey,699.5916666666667,Bachelor's degree
+65103,Turkey,1499.125,Bachelor's degree
+65168,Turkey,349.79583333333335,Bachelor's degree
+65536,Turkey,1499.125,Bachelor's degree
+65615,Turkey,579.6616666666666,Bachelor's degree
+65622,Turkey,1998.8333333333333,Bachelor's degree
+65715,Turkey,549.6791666666667,Secondary school
+65812,Turkey,399.76666666666665,Master's degree
+65875,Turkey,499.7083333333333,Bachelor's degree
+65883,Turkey,824.51875,Bachelor's degree
+66177,Turkey,449.7375,Secondary school
+66588,Turkey,999.4166666666666,Bachelor's degree
+66980,Turkey,699.5916666666667,Associate degree
+67593,Turkey,1569.0841666666668,Bachelor's degree
+67604,Turkey,49.97083333333333,Primary/elementary school
+67669,Turkey,2098.7749999999996,college/university without bachelor's degree
+67702,Turkey,1998.8333333333333,Bachelor's degree
+67931,Turkey,2498.5416666666665,Master's degree
+68016,Turkey,699.5916666666667,Bachelor's degree
+68280,Turkey,299.825,Bachelor's degree
+68489,Turkey,799.5333333333333,Master's degree
+68860,Turkey,599.65,Bachelor's degree
+69323,Turkey,1599.0666666666666,Secondary school
+69565,Turkey,1399.1833333333334,Bachelor's degree
+69692,Turkey,2198.7166666666667,Master's degree
+70036,Turkey,499.7083333333333,college/university without bachelor's degree
+70450,Turkey,139.91833333333332,Master's degree
+70478,Turkey,1099.3583333333333,Bachelor's degree
+70495,Turkey,1599.0666666666666,Bachelor's degree
+70519,Turkey,3997.6666666666665,Bachelor's degree
+70632,Turkey,609.6441666666667,Primary/elementary school
+70712,Turkey,1199.3,Bachelor's degree
+70864,Turkey,999.4166666666666,Bachelor's degree
+71101,Turkey,3997.6666666666665,Bachelor's degree
+71211,Turkey,499.7083333333333,Bachelor's degree
+71301,Turkey,3398.016666666667,Bachelor's degree
+71717,Turkey,1798.95,Bachelor's degree
+72733,Turkey,3997.6666666666665,college/university without bachelor's degree
+73104,Turkey,2998.25,Bachelor's degree
+73145,Turkey,3997.6666666666665,Bachelor's degree
+73210,Turkey,1279.2533333333333,Bachelor's degree
+73352,Turkey,1599.0666666666666,Master's degree
+73395,Turkey,499.7083333333333,Associate degree
+73495,Turkey,1898.8916666666667,Bachelor's degree
+73524,Turkey,1699.0083333333334,Bachelor's degree
+73742,Turkey,999.4166666666666,Doctoral degree
+74229,Turkey,1798.95,Master's degree
+74528,Turkey,1499.125,Secondary school
+74730,Turkey,99.94166666666666,Bachelor's degree
+74996,Turkey,499.7083333333333,Master's degree
+75030,Turkey,1499.125,Master's degree
+75581,Turkey,1299.2416666666666,Master's degree
+75661,Turkey,2498.5416666666665,college/university without bachelor's degree
+75740,Turkey,3497.958333333333,Bachelor's degree
+75819,Turkey,999.4166666666666,Bachelor's degree
+75997,Turkey,1249.2708333333333,Bachelor's degree
+76157,Turkey,11593.233333333334,Master's degree
+76356,Turkey,829.5158333333334,Bachelor's degree
+76361,Turkey,999.4166666666666,Bachelor's degree
+76544,Turkey,1998.8333333333333,Bachelor's degree
+76552,Turkey,999.4166666666666,Associate degree
+76605,Turkey,1399.1833333333334,Bachelor's degree
+77202,Turkey,6496.208333333333,Bachelor's degree
+77283,Turkey,23.985999999999997,Bachelor's degree
+77414,Turkey,874.4895833333333,Bachelor's degree
+77458,Turkey,1998.8333333333333,Bachelor's degree
+78159,Turkey,1599.0666666666666,Bachelor's degree
+78419,Turkey,4997.083333333333,Master's degree
+78432,Turkey,464.72875,Bachelor's degree
+78703,Turkey,549.6791666666667,Bachelor's degree
+79198,Turkey,999.4166666666666,Something else
+79317,Turkey,949.4458333333333,Bachelor's degree
+79345,Turkey,679.6033333333332,Bachelor's degree
+79646,Turkey,499.7083333333333,Bachelor's degree
+79769,Turkey,699.5916666666667,Bachelor's degree
+79853,Turkey,1499.125,Bachelor's degree
+80311,Turkey,1499.125,Bachelor's degree
+80383,Turkey,799.5333333333333,Master's degree
+80440,Turkey,899.475,Bachelor's degree
+80634,Turkey,474.72291666666666,Bachelor's degree
+80870,Turkey,2298.6583333333333,Bachelor's degree
+80880,Turkey,4497.375,Bachelor's degree
+81361,Turkey,1699.0083333333334,Bachelor's degree
+81595,Turkey,525.6931666666667,Bachelor's degree
+81600,Turkey,7995.333333333333,Master's degree
+81846,Turkey,439.74333333333334,college/university without bachelor's degree
+82150,Turkey,999.4166666666666,Bachelor's degree
+82725,Turkey,279.83666666666664,college/university without bachelor's degree
+82736,Turkey,1299.2416666666666,college/university without bachelor's degree
+82832,Turkey,799.5333333333333,Bachelor's degree
+82834,Turkey,449.7375,college/university without bachelor's degree
+82879,Turkey,14991.25,Bachelor's degree
+82902,Turkey,439.74333333333334,Bachelor's degree
+82975,Turkey,699.5916666666667,Bachelor's degree

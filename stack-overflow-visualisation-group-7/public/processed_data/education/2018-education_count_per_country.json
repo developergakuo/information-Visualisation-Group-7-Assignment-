@@ -1,0 +1,1472 @@
+{
+    "Afghanistan": {
+        "Associate degree": 2,
+        "Bachelor's degree": 18,
+        "Doctoral degree": 2,
+        "Master's degree": 5,
+        "No formal education": 11,
+        "Primary/elementary school": 2,
+        "Secondary school": 10,
+        "college/university without bachelor's degree": 3
+    },
+    "Albania": {
+        "Bachelor's degree": 51,
+        "Doctoral degree": 1,
+        "Master's degree": 15,
+        "No formal education": 7,
+        "Primary/elementary school": 2,
+        "Professional degree": 1,
+        "Secondary school": 11,
+        "college/university without bachelor's degree": 11
+    },
+    "Algeria": {
+        "Associate degree": 6,
+        "Bachelor's degree": 25,
+        "Doctoral degree": 7,
+        "Master's degree": 50,
+        "No formal education": 4,
+        "Primary/elementary school": 3,
+        "Professional degree": 3,
+        "Secondary school": 5,
+        "college/university without bachelor's degree": 13
+    },
+    "Andorra": {
+        "Associate degree": 1,
+        "Bachelor's degree": 2,
+        "Doctoral degree": 2,
+        "Master's degree": 2,
+        "No formal education": 1,
+        "Primary/elementary school": 1,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 1
+    },
+    "Angola": {
+        "Bachelor's degree": 1,
+        "No formal education": 2,
+        "Primary/elementary school": 1,
+        "Secondary school": 3,
+        "college/university without bachelor's degree": 1
+    },
+    "Antigua and Barbuda": {
+        "Bachelor's degree": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Argentina": {
+        "Associate degree": 32,
+        "Bachelor's degree": 154,
+        "Doctoral degree": 6,
+        "Master's degree": 50,
+        "No formal education": 1,
+        "Primary/elementary school": 11,
+        "Professional degree": 33,
+        "Secondary school": 76,
+        "college/university without bachelor's degree": 234
+    },
+    "Armenia": {
+        "Associate degree": 4,
+        "Bachelor's degree": 43,
+        "Doctoral degree": 5,
+        "Master's degree": 36,
+        "No formal education": 2,
+        "Primary/elementary school": 2,
+        "Professional degree": 2,
+        "Secondary school": 6,
+        "college/university without bachelor's degree": 7
+    },
+    "Australia": {
+        "Associate degree": 46,
+        "Bachelor's degree": 1104,
+        "Doctoral degree": 63,
+        "Master's degree": 251,
+        "No formal education": 14,
+        "Primary/elementary school": 38,
+        "Professional degree": 9,
+        "Secondary school": 180,
+        "college/university without bachelor's degree": 240
+    },
+    "Austria": {
+        "Associate degree": 18,
+        "Bachelor's degree": 181,
+        "Doctoral degree": 29,
+        "Master's degree": 220,
+        "No formal education": 8,
+        "Primary/elementary school": 24,
+        "Professional degree": 5,
+        "Secondary school": 149,
+        "college/university without bachelor's degree": 116
+    },
+    "Azerbaijan": {
+        "Bachelor's degree": 44,
+        "Doctoral degree": 1,
+        "Master's degree": 16,
+        "No formal education": 2,
+        "Primary/elementary school": 3,
+        "Professional degree": 1,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 5
+    },
+    "Bahamas": {
+        "Bachelor's degree": 1,
+        "Master's degree": 2,
+        "college/university without bachelor's degree": 2
+    },
+    "Bahrain": {
+        "Bachelor's degree": 11,
+        "Master's degree": 3,
+        "Primary/elementary school": 1,
+        "Secondary school": 1
+    },
+    "Bangladesh": {
+        "Associate degree": 8,
+        "Bachelor's degree": 422,
+        "Doctoral degree": 4,
+        "Master's degree": 93,
+        "No formal education": 5,
+        "Primary/elementary school": 11,
+        "Professional degree": 1,
+        "Secondary school": 48,
+        "college/university without bachelor's degree": 55
+    },
+    "Barbados": {
+        "Associate degree": 1,
+        "Bachelor's degree": 3
+    },
+    "Belarus": {
+        "Associate degree": 12,
+        "Bachelor's degree": 134,
+        "Doctoral degree": 2,
+        "Master's degree": 59,
+        "No formal education": 2,
+        "Primary/elementary school": 14,
+        "Professional degree": 11,
+        "Secondary school": 21,
+        "college/university without bachelor's degree": 70
+    },
+    "Belgium": {
+        "Associate degree": 10,
+        "Bachelor's degree": 329,
+        "Doctoral degree": 19,
+        "Master's degree": 212,
+        "No formal education": 4,
+        "Primary/elementary school": 13,
+        "Professional degree": 3,
+        "Secondary school": 73,
+        "college/university without bachelor's degree": 66
+    },
+    "Belize": {
+        "Bachelor's degree": 1
+    },
+    "Benin": {
+        "Bachelor's degree": 3,
+        "Master's degree": 3,
+        "No formal education": 1,
+        "Secondary school": 2
+    },
+    "Bhutan": {
+        "Bachelor's degree": 5,
+        "Secondary school": 1
+    },
+    "Bolivia": {
+        "Bachelor's degree": 17,
+        "Master's degree": 4,
+        "No formal education": 1,
+        "Professional degree": 2,
+        "Secondary school": 3,
+        "college/university without bachelor's degree": 11
+    },
+    "Bosnia and Herzegovina": {
+        "Associate degree": 2,
+        "Bachelor's degree": 42,
+        "Master's degree": 24,
+        "No formal education": 2,
+        "Primary/elementary school": 2,
+        "Secondary school": 23,
+        "college/university without bachelor's degree": 29
+    },
+    "Botswana": {
+        "Bachelor's degree": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 2
+    },
+    "Brazil": {
+        "Associate degree": 97,
+        "Bachelor's degree": 1140,
+        "Doctoral degree": 26,
+        "Master's degree": 257,
+        "No formal education": 13,
+        "Primary/elementary school": 39,
+        "Professional degree": 70,
+        "Secondary school": 341,
+        "college/university without bachelor's degree": 444
+    },
+    "Brunei Darussalam": {
+        "Bachelor's degree": 1
+    },
+    "Bulgaria": {
+        "Associate degree": 4,
+        "Bachelor's degree": 151,
+        "Doctoral degree": 4,
+        "Master's degree": 98,
+        "No formal education": 2,
+        "Primary/elementary school": 9,
+        "Professional degree": 2,
+        "Secondary school": 68,
+        "college/university without bachelor's degree": 80
+    },
+    "Burkina Faso": {
+        "Bachelor's degree": 1,
+        "Master's degree": 1,
+        "No formal education": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Burundi": {
+        "Bachelor's degree": 1
+    },
+    "Cambodia": {
+        "Associate degree": 3,
+        "Bachelor's degree": 39,
+        "Doctoral degree": 1,
+        "Master's degree": 3,
+        "No formal education": 1,
+        "Primary/elementary school": 1,
+        "Professional degree": 1,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 4
+    },
+    "Cameroon": {
+        "Associate degree": 2,
+        "Bachelor's degree": 14,
+        "Doctoral degree": 1,
+        "Master's degree": 9,
+        "Professional degree": 1,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 3
+    },
+    "Canada": {
+        "Associate degree": 285,
+        "Bachelor's degree": 1615,
+        "Doctoral degree": 59,
+        "Master's degree": 394,
+        "No formal education": 19,
+        "Primary/elementary school": 90,
+        "Professional degree": 27,
+        "Secondary school": 271,
+        "college/university without bachelor's degree": 492
+    },
+    "Cape Verde": {
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 2
+    },
+    "Central African Republic": {
+        "Secondary school": 1
+    },
+    "Chile": {
+        "Associate degree": 20,
+        "Bachelor's degree": 73,
+        "Doctoral degree": 6,
+        "Master's degree": 22,
+        "No formal education": 3,
+        "Primary/elementary school": 2,
+        "Professional degree": 43,
+        "Secondary school": 18,
+        "college/university without bachelor's degree": 42
+    },
+    "China": {
+        "Associate degree": 41,
+        "Bachelor's degree": 485,
+        "Doctoral degree": 18,
+        "Master's degree": 203,
+        "No formal education": 11,
+        "Primary/elementary school": 19,
+        "Professional degree": 21,
+        "Secondary school": 36,
+        "college/university without bachelor's degree": 109
+    },
+    "Colombia": {
+        "Associate degree": 24,
+        "Bachelor's degree": 117,
+        "Doctoral degree": 1,
+        "Master's degree": 26,
+        "Primary/elementary school": 2,
+        "Professional degree": 44,
+        "Secondary school": 19,
+        "college/university without bachelor's degree": 93
+    },
+    "Congo, Republic of the...": {
+        "Bachelor's degree": 4,
+        "Professional degree": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Costa Rica": {
+        "Associate degree": 4,
+        "Bachelor's degree": 54,
+        "Master's degree": 9,
+        "Primary/elementary school": 1,
+        "Professional degree": 2,
+        "Secondary school": 6,
+        "college/university without bachelor's degree": 21
+    },
+    "Croatia": {
+        "Associate degree": 1,
+        "Bachelor's degree": 71,
+        "Doctoral degree": 3,
+        "Master's degree": 84,
+        "No formal education": 3,
+        "Primary/elementary school": 5,
+        "Professional degree": 2,
+        "Secondary school": 41,
+        "college/university without bachelor's degree": 27
+    },
+    "Cuba": {
+        "Associate degree": 2,
+        "Bachelor's degree": 37,
+        "Doctoral degree": 1,
+        "Master's degree": 3,
+        "Professional degree": 11,
+        "college/university without bachelor's degree": 10
+    },
+    "Cyprus": {
+        "Associate degree": 3,
+        "Bachelor's degree": 15,
+        "Doctoral degree": 3,
+        "Master's degree": 21,
+        "Professional degree": 1,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 2
+    },
+    "Czech Republic": {
+        "Associate degree": 6,
+        "Bachelor's degree": 173,
+        "Doctoral degree": 16,
+        "Master's degree": 272,
+        "No formal education": 5,
+        "Primary/elementary school": 31,
+        "Professional degree": 4,
+        "Secondary school": 168,
+        "college/university without bachelor's degree": 92
+    },
+    "CÃ´te d'Ivoire": {
+        "Bachelor's degree": 4,
+        "Master's degree": 2
+    },
+    "Democratic People's Republic of Korea": {
+        "Bachelor's degree": 1,
+        "Secondary school": 1
+    },
+    "Democratic Republic of the Congo": {
+        "Bachelor's degree": 4,
+        "No formal education": 1,
+        "Professional degree": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Denmark": {
+        "Associate degree": 55,
+        "Bachelor's degree": 200,
+        "Doctoral degree": 20,
+        "Master's degree": 193,
+        "No formal education": 10,
+        "Primary/elementary school": 18,
+        "Professional degree": 11,
+        "Secondary school": 74,
+        "college/university without bachelor's degree": 57
+    },
+    "Djibouti": {
+        "No formal education": 1
+    },
+    "Dominica": {
+        "Master's degree": 1,
+        "No formal education": 1
+    },
+    "Dominican Republic": {
+        "Associate degree": 12,
+        "Bachelor's degree": 42,
+        "Master's degree": 8,
+        "No formal education": 1,
+        "Professional degree": 9,
+        "Secondary school": 7,
+        "college/university without bachelor's degree": 33
+    },
+    "Ecuador": {
+        "Associate degree": 2,
+        "Bachelor's degree": 24,
+        "Master's degree": 8,
+        "No formal education": 1,
+        "Primary/elementary school": 1,
+        "Professional degree": 7,
+        "Secondary school": 7,
+        "college/university without bachelor's degree": 11
+    },
+    "Egypt": {
+        "Associate degree": 7,
+        "Bachelor's degree": 266,
+        "Master's degree": 13,
+        "No formal education": 4,
+        "Primary/elementary school": 18,
+        "Professional degree": 1,
+        "Secondary school": 51,
+        "college/university without bachelor's degree": 43
+    },
+    "El Salvador": {
+        "Associate degree": 1,
+        "Bachelor's degree": 20,
+        "Master's degree": 6,
+        "Primary/elementary school": 1,
+        "Professional degree": 2,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 8
+    },
+    "Eritrea": {
+        "Bachelor's degree": 1
+    },
+    "Estonia": {
+        "Associate degree": 4,
+        "Bachelor's degree": 63,
+        "Doctoral degree": 3,
+        "Master's degree": 35,
+        "No formal education": 2,
+        "Primary/elementary school": 4,
+        "Professional degree": 2,
+        "Secondary school": 32,
+        "college/university without bachelor's degree": 38
+    },
+    "Ethiopia": {
+        "Associate degree": 1,
+        "Bachelor's degree": 37,
+        "Master's degree": 4,
+        "Primary/elementary school": 2,
+        "Secondary school": 5,
+        "college/university without bachelor's degree": 8
+    },
+    "Fiji": {
+        "Bachelor's degree": 2,
+        "Doctoral degree": 1,
+        "No formal education": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 2
+    },
+    "Finland": {
+        "Associate degree": 3,
+        "Bachelor's degree": 195,
+        "Doctoral degree": 15,
+        "Master's degree": 138,
+        "No formal education": 4,
+        "Primary/elementary school": 19,
+        "Professional degree": 3,
+        "Secondary school": 55,
+        "college/university without bachelor's degree": 83
+    },
+    "France": {
+        "Associate degree": 56,
+        "Bachelor's degree": 443,
+        "Doctoral degree": 128,
+        "Master's degree": 1515,
+        "No formal education": 13,
+        "Primary/elementary school": 12,
+        "Professional degree": 97,
+        "Secondary school": 80,
+        "college/university without bachelor's degree": 140
+    },
+    "Gabon": {
+        "Associate degree": 1,
+        "Bachelor's degree": 1,
+        "Master's degree": 2
+    },
+    "Gambia": {
+        "Bachelor's degree": 1,
+        "Secondary school": 3,
+        "college/university without bachelor's degree": 1
+    },
+    "Georgia": {
+        "Associate degree": 2,
+        "Bachelor's degree": 36,
+        "Doctoral degree": 2,
+        "Master's degree": 11,
+        "No formal education": 2,
+        "Primary/elementary school": 3,
+        "Professional degree": 1,
+        "Secondary school": 6,
+        "college/university without bachelor's degree": 8
+    },
+    "Germany": {
+        "Associate degree": 202,
+        "Bachelor's degree": 1655,
+        "Doctoral degree": 240,
+        "Master's degree": 1845,
+        "No formal education": 21,
+        "Primary/elementary school": 68,
+        "Professional degree": 77,
+        "Secondary school": 1346,
+        "college/university without bachelor's degree": 701
+    },
+    "Ghana": {
+        "Associate degree": 1,
+        "Bachelor's degree": 44,
+        "Master's degree": 3,
+        "Professional degree": 1,
+        "Secondary school": 17,
+        "college/university without bachelor's degree": 7
+    },
+    "Greece": {
+        "Associate degree": 17,
+        "Bachelor's degree": 168,
+        "Doctoral degree": 19,
+        "Master's degree": 158,
+        "No formal education": 1,
+        "Primary/elementary school": 8,
+        "Professional degree": 8,
+        "Secondary school": 60,
+        "college/university without bachelor's degree": 66
+    },
+    "Grenada": {
+        "Bachelor's degree": 1
+    },
+    "Guatemala": {
+        "Associate degree": 1,
+        "Bachelor's degree": 16,
+        "Master's degree": 1,
+        "Professional degree": 2,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 28
+    },
+    "Guinea": {
+        "Associate degree": 1,
+        "Master's degree": 1
+    },
+    "Guinea-Bissau": {
+        "Doctoral degree": 1
+    },
+    "Guyana": {
+        "Bachelor's degree": 1
+    },
+    "Haiti": {
+        "Bachelor's degree": 3,
+        "Master's degree": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 3
+    },
+    "Honduras": {
+        "Associate degree": 2,
+        "Bachelor's degree": 9,
+        "Master's degree": 2,
+        "Professional degree": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 10
+    },
+    "Hong Kong (S.A.R.)": {
+        "Associate degree": 8,
+        "Bachelor's degree": 113,
+        "Doctoral degree": 4,
+        "Master's degree": 58,
+        "No formal education": 1,
+        "Professional degree": 1,
+        "Secondary school": 14,
+        "college/university without bachelor's degree": 12
+    },
+    "Hungary": {
+        "Associate degree": 7,
+        "Bachelor's degree": 133,
+        "Doctoral degree": 9,
+        "Master's degree": 128,
+        "No formal education": 3,
+        "Primary/elementary school": 9,
+        "Professional degree": 4,
+        "Secondary school": 71,
+        "college/university without bachelor's degree": 88
+    },
+    "Iceland": {
+        "Associate degree": 2,
+        "Bachelor's degree": 27,
+        "Master's degree": 6,
+        "No formal education": 1,
+        "Primary/elementary school": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 6
+    },
+    "India": {
+        "Associate degree": 57,
+        "Bachelor's degree": 8411,
+        "Doctoral degree": 23,
+        "Master's degree": 3050,
+        "No formal education": 56,
+        "Primary/elementary school": 113,
+        "Professional degree": 67,
+        "Secondary school": 721,
+        "college/university without bachelor's degree": 363
+    },
+    "Indonesia": {
+        "Associate degree": 35,
+        "Bachelor's degree": 303,
+        "Master's degree": 29,
+        "No formal education": 16,
+        "Primary/elementary school": 29,
+        "Professional degree": 1,
+        "Secondary school": 117,
+        "college/university without bachelor's degree": 65
+    },
+    "Iran, Islamic Republic of...": {
+        "Associate degree": 51,
+        "Bachelor's degree": 412,
+        "Doctoral degree": 9,
+        "Master's degree": 235,
+        "No formal education": 31,
+        "Primary/elementary school": 11,
+        "Professional degree": 5,
+        "Secondary school": 48,
+        "college/university without bachelor's degree": 81
+    },
+    "Iraq": {
+        "Associate degree": 2,
+        "Bachelor's degree": 18,
+        "Doctoral degree": 1,
+        "Master's degree": 7,
+        "Primary/elementary school": 3,
+        "Secondary school": 3,
+        "college/university without bachelor's degree": 5
+    },
+    "Ireland": {
+        "Associate degree": 10,
+        "Bachelor's degree": 250,
+        "Doctoral degree": 16,
+        "Master's degree": 150,
+        "No formal education": 4,
+        "Primary/elementary school": 10,
+        "Professional degree": 2,
+        "Secondary school": 42,
+        "college/university without bachelor's degree": 57
+    },
+    "Israel": {
+        "Associate degree": 22,
+        "Bachelor's degree": 460,
+        "Doctoral degree": 11,
+        "Master's degree": 131,
+        "No formal education": 19,
+        "Primary/elementary school": 48,
+        "Professional degree": 4,
+        "Secondary school": 120,
+        "college/university without bachelor's degree": 139
+    },
+    "Italy": {
+        "Associate degree": 24,
+        "Bachelor's degree": 370,
+        "Doctoral degree": 78,
+        "Master's degree": 344,
+        "No formal education": 5,
+        "Primary/elementary school": 16,
+        "Professional degree": 26,
+        "Secondary school": 366,
+        "college/university without bachelor's degree": 272
+    },
+    "Jamaica": {
+        "Associate degree": 2,
+        "Bachelor's degree": 11,
+        "Master's degree": 2,
+        "Primary/elementary school": 2,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Japan": {
+        "Associate degree": 6,
+        "Bachelor's degree": 164,
+        "Doctoral degree": 24,
+        "Master's degree": 95,
+        "No formal education": 2,
+        "Primary/elementary school": 6,
+        "Professional degree": 2,
+        "Secondary school": 26,
+        "college/university without bachelor's degree": 30
+    },
+    "Jordan": {
+        "Associate degree": 2,
+        "Bachelor's degree": 62,
+        "Master's degree": 9,
+        "Secondary school": 7,
+        "college/university without bachelor's degree": 2
+    },
+    "Kazakhstan": {
+        "Associate degree": 3,
+        "Bachelor's degree": 48,
+        "Doctoral degree": 1,
+        "Master's degree": 23,
+        "No formal education": 2,
+        "Primary/elementary school": 7,
+        "Professional degree": 1,
+        "Secondary school": 7,
+        "college/university without bachelor's degree": 13
+    },
+    "Kenya": {
+        "Associate degree": 3,
+        "Bachelor's degree": 110,
+        "Master's degree": 5,
+        "No formal education": 1,
+        "Secondary school": 30,
+        "college/university without bachelor's degree": 39
+    },
+    "Kuwait": {
+        "Associate degree": 1,
+        "Bachelor's degree": 11,
+        "Master's degree": 5,
+        "Primary/elementary school": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 3
+    },
+    "Kyrgyzstan": {
+        "Associate degree": 2,
+        "Bachelor's degree": 9,
+        "Master's degree": 6,
+        "Professional degree": 1,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 2
+    },
+    "Latvia": {
+        "Associate degree": 6,
+        "Bachelor's degree": 48,
+        "Doctoral degree": 4,
+        "Master's degree": 27,
+        "No formal education": 2,
+        "Primary/elementary school": 3,
+        "Professional degree": 5,
+        "Secondary school": 20,
+        "college/university without bachelor's degree": 28
+    },
+    "Lebanon": {
+        "Associate degree": 2,
+        "Bachelor's degree": 58,
+        "Doctoral degree": 1,
+        "Master's degree": 22,
+        "Primary/elementary school": 2,
+        "Professional degree": 1,
+        "Secondary school": 7,
+        "college/university without bachelor's degree": 9
+    },
+    "Lesotho": {
+        "Bachelor's degree": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Liberia": {
+        "Bachelor's degree": 2,
+        "college/university without bachelor's degree": 1
+    },
+    "Libyan Arab Jamahiriya": {
+        "Bachelor's degree": 5,
+        "Master's degree": 3,
+        "college/university without bachelor's degree": 1
+    },
+    "Liechtenstein": {
+        "Associate degree": 1,
+        "Bachelor's degree": 3,
+        "Secondary school": 1
+    },
+    "Lithuania": {
+        "Associate degree": 3,
+        "Bachelor's degree": 105,
+        "Master's degree": 56,
+        "No formal education": 1,
+        "Primary/elementary school": 5,
+        "Professional degree": 1,
+        "Secondary school": 47,
+        "college/university without bachelor's degree": 30
+    },
+    "Luxembourg": {
+        "Associate degree": 3,
+        "Bachelor's degree": 16,
+        "Doctoral degree": 5,
+        "Master's degree": 21,
+        "Primary/elementary school": 1,
+        "Professional degree": 1,
+        "Secondary school": 7,
+        "college/university without bachelor's degree": 3
+    },
+    "Madagascar": {
+        "Bachelor's degree": 6,
+        "Master's degree": 8,
+        "Primary/elementary school": 1,
+        "Professional degree": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Malawi": {
+        "Bachelor's degree": 2,
+        "college/university without bachelor's degree": 5
+    },
+    "Malaysia": {
+        "Associate degree": 8,
+        "Bachelor's degree": 228,
+        "Doctoral degree": 2,
+        "Master's degree": 39,
+        "No formal education": 2,
+        "Primary/elementary school": 8,
+        "Professional degree": 1,
+        "Secondary school": 22,
+        "college/university without bachelor's degree": 36
+    },
+    "Maldives": {
+        "Bachelor's degree": 3,
+        "Master's degree": 3,
+        "Primary/elementary school": 1,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 1
+    },
+    "Mali": {
+        "Primary/elementary school": 1
+    },
+    "Malta": {
+        "Associate degree": 2,
+        "Bachelor's degree": 28,
+        "Master's degree": 14,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 16
+    },
+    "Marshall Islands": {
+        "Associate degree": 1,
+        "Bachelor's degree": 1
+    },
+    "Mauritania": {
+        "Bachelor's degree": 1,
+        "Doctoral degree": 1,
+        "No formal education": 1
+    },
+    "Mauritius": {
+        "Bachelor's degree": 16,
+        "Master's degree": 5,
+        "Secondary school": 8,
+        "college/university without bachelor's degree": 2
+    },
+    "Mexico": {
+        "Associate degree": 24,
+        "Bachelor's degree": 369,
+        "Doctoral degree": 3,
+        "Master's degree": 73,
+        "No formal education": 1,
+        "Primary/elementary school": 2,
+        "Professional degree": 64,
+        "Secondary school": 52,
+        "college/university without bachelor's degree": 134
+    },
+    "Micronesia, Federated States of...": {
+        "Master's degree": 1
+    },
+    "Monaco": {
+        "Bachelor's degree": 1,
+        "Doctoral degree": 1,
+        "Secondary school": 2
+    },
+    "Mongolia": {
+        "Associate degree": 2,
+        "Bachelor's degree": 12,
+        "Doctoral degree": 1,
+        "Master's degree": 2,
+        "No formal education": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 2
+    },
+    "Montenegro": {
+        "Associate degree": 1,
+        "Bachelor's degree": 5,
+        "Master's degree": 3,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 2
+    },
+    "Morocco": {
+        "Associate degree": 11,
+        "Bachelor's degree": 57,
+        "Doctoral degree": 3,
+        "Master's degree": 87,
+        "No formal education": 2,
+        "Primary/elementary school": 4,
+        "Professional degree": 14,
+        "Secondary school": 5,
+        "college/university without bachelor's degree": 18
+    },
+    "Mozambique": {
+        "Associate degree": 2,
+        "Bachelor's degree": 12,
+        "Master's degree": 2,
+        "Professional degree": 1,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 3
+    },
+    "Myanmar": {
+        "Associate degree": 2,
+        "Bachelor's degree": 41,
+        "Master's degree": 2,
+        "No formal education": 2,
+        "Secondary school": 1,
+        "college/university without bachelor's degree": 4
+    },
+    "Namibia": {
+        "Bachelor's degree": 4,
+        "Primary/elementary school": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Nauru": {
+        "No formal education": 1
+    },
+    "Nepal": {
+        "Associate degree": 10,
+        "Bachelor's degree": 198,
+        "Master's degree": 14,
+        "No formal education": 4,
+        "Primary/elementary school": 2,
+        "Professional degree": 1,
+        "Secondary school": 33,
+        "college/university without bachelor's degree": 19
+    },
+    "Netherlands": {
+        "Associate degree": 94,
+        "Bachelor's degree": 716,
+        "Doctoral degree": 43,
+        "Master's degree": 416,
+        "No formal education": 11,
+        "Primary/elementary school": 34,
+        "Professional degree": 13,
+        "Secondary school": 239,
+        "college/university without bachelor's degree": 223
+    },
+    "New Zealand": {
+        "Associate degree": 6,
+        "Bachelor's degree": 280,
+        "Doctoral degree": 22,
+        "Master's degree": 84,
+        "No formal education": 7,
+        "Primary/elementary school": 16,
+        "Professional degree": 1,
+        "Secondary school": 43,
+        "college/university without bachelor's degree": 80
+    },
+    "Nicaragua": {
+        "Bachelor's degree": 12,
+        "Master's degree": 2,
+        "Professional degree": 6,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 6
+    },
+    "Niger": {
+        "Master's degree": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Nigeria": {
+        "Associate degree": 13,
+        "Bachelor's degree": 211,
+        "Master's degree": 21,
+        "No formal education": 1,
+        "Primary/elementary school": 1,
+        "Professional degree": 4,
+        "Secondary school": 68,
+        "college/university without bachelor's degree": 45
+    },
+    "North Korea": {
+        "Primary/elementary school": 1,
+        "Professional degree": 1,
+        "Secondary school": 2
+    },
+    "Norway": {
+        "Associate degree": 3,
+        "Bachelor's degree": 191,
+        "Doctoral degree": 12,
+        "Master's degree": 211,
+        "No formal education": 5,
+        "Primary/elementary school": 20,
+        "Professional degree": 6,
+        "Secondary school": 49,
+        "college/university without bachelor's degree": 58
+    },
+    "Oman": {
+        "Bachelor's degree": 9,
+        "Doctoral degree": 1,
+        "Master's degree": 5,
+        "Secondary school": 4
+    },
+    "Other Country (Not Listed Above)": {
+        "Bachelor's degree": 37,
+        "Doctoral degree": 3,
+        "Master's degree": 14,
+        "No formal education": 1,
+        "Primary/elementary school": 2,
+        "Professional degree": 1,
+        "Secondary school": 7,
+        "college/university without bachelor's degree": 7
+    },
+    "Pakistan": {
+        "Associate degree": 18,
+        "Bachelor's degree": 689,
+        "Doctoral degree": 2,
+        "Master's degree": 137,
+        "No formal education": 5,
+        "Primary/elementary school": 12,
+        "Professional degree": 5,
+        "Secondary school": 62,
+        "college/university without bachelor's degree": 54
+    },
+    "Palau": {
+        "Doctoral degree": 1
+    },
+    "Panama": {
+        "Bachelor's degree": 15,
+        "Master's degree": 3,
+        "Professional degree": 3,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 7
+    },
+    "Paraguay": {
+        "Associate degree": 1,
+        "Bachelor's degree": 16,
+        "Master's degree": 4,
+        "Primary/elementary school": 1,
+        "Professional degree": 3,
+        "Secondary school": 8,
+        "college/university without bachelor's degree": 13
+    },
+    "Peru": {
+        "Associate degree": 7,
+        "Bachelor's degree": 53,
+        "Master's degree": 9,
+        "No formal education": 1,
+        "Primary/elementary school": 2,
+        "Professional degree": 13,
+        "Secondary school": 11,
+        "college/university without bachelor's degree": 31
+    },
+    "Philippines": {
+        "Associate degree": 18,
+        "Bachelor's degree": 378,
+        "Master's degree": 11,
+        "No formal education": 5,
+        "Primary/elementary school": 4,
+        "Professional degree": 2,
+        "Secondary school": 36,
+        "college/university without bachelor's degree": 42
+    },
+    "Poland": {
+        "Associate degree": 22,
+        "Bachelor's degree": 578,
+        "Doctoral degree": 23,
+        "Master's degree": 837,
+        "No formal education": 6,
+        "Primary/elementary school": 28,
+        "Professional degree": 13,
+        "Secondary school": 253,
+        "college/university without bachelor's degree": 302
+    },
+    "Portugal": {
+        "Associate degree": 17,
+        "Bachelor's degree": 160,
+        "Doctoral degree": 9,
+        "Master's degree": 191,
+        "No formal education": 2,
+        "Primary/elementary school": 1,
+        "Professional degree": 20,
+        "Secondary school": 46,
+        "college/university without bachelor's degree": 65
+    },
+    "Qatar": {
+        "Bachelor's degree": 13,
+        "Master's degree": 4,
+        "No formal education": 1,
+        "Primary/elementary school": 2,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 1
+    },
+    "Republic of Korea": {
+        "Associate degree": 6,
+        "Bachelor's degree": 16,
+        "Doctoral degree": 1,
+        "Master's degree": 8,
+        "No formal education": 3,
+        "Primary/elementary school": 3,
+        "Secondary school": 11,
+        "college/university without bachelor's degree": 9
+    },
+    "Republic of Moldova": {
+        "Associate degree": 2,
+        "Bachelor's degree": 32,
+        "Master's degree": 16,
+        "No formal education": 1,
+        "Primary/elementary school": 3,
+        "Professional degree": 4,
+        "Secondary school": 6,
+        "college/university without bachelor's degree": 7
+    },
+    "Romania": {
+        "Associate degree": 4,
+        "Bachelor's degree": 338,
+        "Doctoral degree": 8,
+        "Master's degree": 190,
+        "No formal education": 1,
+        "Primary/elementary school": 13,
+        "Professional degree": 4,
+        "Secondary school": 84,
+        "college/university without bachelor's degree": 131
+    },
+    "Russian Federation": {
+        "Associate degree": 82,
+        "Bachelor's degree": 712,
+        "Doctoral degree": 75,
+        "Master's degree": 835,
+        "No formal education": 48,
+        "Primary/elementary school": 122,
+        "Professional degree": 220,
+        "Secondary school": 198,
+        "college/university without bachelor's degree": 454
+    },
+    "Rwanda": {
+        "Associate degree": 1,
+        "Bachelor's degree": 9,
+        "Master's degree": 3,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 1
+    },
+    "Saint Lucia": {
+        "Bachelor's degree": 1
+    },
+    "San Marino": {
+        "Bachelor's degree": 1
+    },
+    "Saudi Arabia": {
+        "Associate degree": 10,
+        "Bachelor's degree": 75,
+        "Doctoral degree": 1,
+        "Master's degree": 13,
+        "No formal education": 4,
+        "Primary/elementary school": 3,
+        "Secondary school": 13,
+        "college/university without bachelor's degree": 3
+    },
+    "Senegal": {
+        "Bachelor's degree": 1,
+        "Doctoral degree": 1,
+        "Master's degree": 6,
+        "college/university without bachelor's degree": 2
+    },
+    "Serbia": {
+        "Associate degree": 4,
+        "Bachelor's degree": 115,
+        "Doctoral degree": 5,
+        "Master's degree": 85,
+        "No formal education": 5,
+        "Primary/elementary school": 7,
+        "Professional degree": 2,
+        "Secondary school": 65,
+        "college/university without bachelor's degree": 61
+    },
+    "Sierra Leone": {
+        "Bachelor's degree": 1
+    },
+    "Singapore": {
+        "Associate degree": 8,
+        "Bachelor's degree": 185,
+        "Doctoral degree": 8,
+        "Master's degree": 90,
+        "Primary/elementary school": 2,
+        "Professional degree": 2,
+        "Secondary school": 37,
+        "college/university without bachelor's degree": 24
+    },
+    "Slovakia": {
+        "Associate degree": 2,
+        "Bachelor's degree": 33,
+        "Doctoral degree": 6,
+        "Master's degree": 111,
+        "No formal education": 1,
+        "Primary/elementary school": 13,
+        "Professional degree": 1,
+        "Secondary school": 46,
+        "college/university without bachelor's degree": 18
+    },
+    "Slovenia": {
+        "Associate degree": 1,
+        "Bachelor's degree": 98,
+        "Doctoral degree": 7,
+        "Master's degree": 39,
+        "Primary/elementary school": 7,
+        "Secondary school": 41,
+        "college/university without bachelor's degree": 42
+    },
+    "Solomon Islands": {
+        "Bachelor's degree": 1
+    },
+    "Somalia": {
+        "Bachelor's degree": 6,
+        "Professional degree": 1,
+        "Secondary school": 2
+    },
+    "South Africa": {
+        "Associate degree": 24,
+        "Bachelor's degree": 281,
+        "Doctoral degree": 8,
+        "Master's degree": 50,
+        "No formal education": 5,
+        "Primary/elementary school": 9,
+        "Professional degree": 2,
+        "Secondary school": 73,
+        "college/university without bachelor's degree": 146
+    },
+    "South Korea": {
+        "Associate degree": 8,
+        "Bachelor's degree": 89,
+        "Doctoral degree": 4,
+        "Master's degree": 18,
+        "No formal education": 1,
+        "Primary/elementary school": 4,
+        "Secondary school": 21,
+        "college/university without bachelor's degree": 20
+    },
+    "Spain": {
+        "Associate degree": 68,
+        "Bachelor's degree": 525,
+        "Doctoral degree": 52,
+        "Master's degree": 439,
+        "No formal education": 3,
+        "Primary/elementary school": 14,
+        "Professional degree": 193,
+        "Secondary school": 125,
+        "college/university without bachelor's degree": 281
+    },
+    "Sri Lanka": {
+        "Associate degree": 21,
+        "Bachelor's degree": 299,
+        "Master's degree": 31,
+        "No formal education": 12,
+        "Primary/elementary school": 2,
+        "Professional degree": 2,
+        "Secondary school": 14,
+        "college/university without bachelor's degree": 46
+    },
+    "Sudan": {
+        "Bachelor's degree": 17,
+        "Master's degree": 3,
+        "Primary/elementary school": 1,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 1
+    },
+    "Suriname": {
+        "Associate degree": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Swaziland": {
+        "Associate degree": 1,
+        "Bachelor's degree": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Sweden": {
+        "Associate degree": 34,
+        "Bachelor's degree": 327,
+        "Doctoral degree": 32,
+        "Master's degree": 330,
+        "No formal education": 13,
+        "Primary/elementary school": 29,
+        "Professional degree": 6,
+        "Secondary school": 132,
+        "college/university without bachelor's degree": 227
+    },
+    "Switzerland": {
+        "Associate degree": 46,
+        "Bachelor's degree": 265,
+        "Doctoral degree": 63,
+        "Master's degree": 282,
+        "No formal education": 2,
+        "Primary/elementary school": 20,
+        "Professional degree": 28,
+        "Secondary school": 158,
+        "college/university without bachelor's degree": 86
+    },
+    "Syrian Arab Republic": {
+        "Associate degree": 2,
+        "Bachelor's degree": 30,
+        "Doctoral degree": 2,
+        "Master's degree": 2,
+        "Primary/elementary school": 2,
+        "Professional degree": 1,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 10
+    },
+    "Taiwan": {
+        "Associate degree": 1,
+        "Bachelor's degree": 72,
+        "Doctoral degree": 1,
+        "Master's degree": 97,
+        "No formal education": 2,
+        "Primary/elementary school": 6,
+        "Professional degree": 2,
+        "Secondary school": 5,
+        "college/university without bachelor's degree": 12
+    },
+    "Tajikistan": {
+        "Bachelor's degree": 2,
+        "Master's degree": 2
+    },
+    "Thailand": {
+        "Associate degree": 9,
+        "Bachelor's degree": 114,
+        "Doctoral degree": 5,
+        "Master's degree": 35,
+        "No formal education": 8,
+        "Primary/elementary school": 7,
+        "Secondary school": 12,
+        "college/university without bachelor's degree": 15
+    },
+    "The former Yugoslav Republic of Macedonia": {
+        "Bachelor's degree": 35,
+        "Master's degree": 5,
+        "No formal education": 4,
+        "Primary/elementary school": 2,
+        "Secondary school": 4,
+        "college/university without bachelor's degree": 2
+    },
+    "Timor-Leste": {
+        "Bachelor's degree": 1
+    },
+    "Togo": {
+        "Associate degree": 1,
+        "Bachelor's degree": 1,
+        "Master's degree": 3
+    },
+    "Trinidad and Tobago": {
+        "Associate degree": 2,
+        "Bachelor's degree": 11,
+        "Master's degree": 4,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 1
+    },
+    "Tunisia": {
+        "Associate degree": 5,
+        "Bachelor's degree": 56,
+        "Doctoral degree": 2,
+        "Master's degree": 56,
+        "No formal education": 2,
+        "Primary/elementary school": 1,
+        "Professional degree": 12,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 8
+    },
+    "Turkey": {
+        "Associate degree": 44,
+        "Bachelor's degree": 566,
+        "Doctoral degree": 11,
+        "Master's degree": 138,
+        "No formal education": 15,
+        "Primary/elementary school": 22,
+        "Professional degree": 7,
+        "Secondary school": 74,
+        "college/university without bachelor's degree": 93
+    },
+    "Turkmenistan": {
+        "Associate degree": 1,
+        "Bachelor's degree": 3,
+        "Primary/elementary school": 1
+    },
+    "Uganda": {
+        "Associate degree": 2,
+        "Bachelor's degree": 43,
+        "Primary/elementary school": 1,
+        "Secondary school": 5,
+        "college/university without bachelor's degree": 12
+    },
+    "Ukraine": {
+        "Associate degree": 34,
+        "Bachelor's degree": 361,
+        "Doctoral degree": 20,
+        "Master's degree": 495,
+        "No formal education": 21,
+        "Primary/elementary school": 41,
+        "Professional degree": 19,
+        "Secondary school": 87,
+        "college/university without bachelor's degree": 152
+    },
+    "United Arab Emirates": {
+        "Associate degree": 4,
+        "Bachelor's degree": 120,
+        "Master's degree": 37,
+        "Primary/elementary school": 1,
+        "Secondary school": 15,
+        "college/university without bachelor's degree": 12
+    },
+    "United Kingdom": {
+        "Associate degree": 94,
+        "Bachelor's degree": 2727,
+        "Doctoral degree": 297,
+        "Master's degree": 1316,
+        "No formal education": 29,
+        "Primary/elementary school": 76,
+        "Professional degree": 26,
+        "Secondary school": 559,
+        "college/university without bachelor's degree": 930
+    },
+    "United Republic of Tanzania": {
+        "Associate degree": 2,
+        "Bachelor's degree": 29,
+        "Master's degree": 3,
+        "Primary/elementary school": 1,
+        "Professional degree": 1,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 7
+    },
+    "United States": {
+        "Associate degree": 901,
+        "Bachelor's degree": 10446,
+        "Doctoral degree": 577,
+        "Master's degree": 3613,
+        "No formal education": 112,
+        "Primary/elementary school": 336,
+        "Professional degree": 76,
+        "Secondary school": 1097,
+        "college/university without bachelor's degree": 2781
+    },
+    "Uruguay": {
+        "Associate degree": 5,
+        "Bachelor's degree": 34,
+        "Master's degree": 5,
+        "No formal education": 3,
+        "Primary/elementary school": 2,
+        "Professional degree": 7,
+        "Secondary school": 8,
+        "college/university without bachelor's degree": 35
+    },
+    "Uzbekistan": {
+        "Associate degree": 2,
+        "Bachelor's degree": 29,
+        "Master's degree": 6,
+        "No formal education": 1,
+        "Primary/elementary school": 1,
+        "Secondary school": 6,
+        "college/university without bachelor's degree": 7
+    },
+    "Venezuela, Bolivarian Republic of...": {
+        "Associate degree": 6,
+        "Bachelor's degree": 36,
+        "Doctoral degree": 3,
+        "Master's degree": 5,
+        "Primary/elementary school": 5,
+        "Professional degree": 10,
+        "Secondary school": 22,
+        "college/university without bachelor's degree": 32
+    },
+    "Viet Nam": {
+        "Associate degree": 15,
+        "Bachelor's degree": 170,
+        "Doctoral degree": 3,
+        "Master's degree": 16,
+        "No formal education": 12,
+        "Primary/elementary school": 7,
+        "Professional degree": 1,
+        "Secondary school": 26,
+        "college/university without bachelor's degree": 59
+    },
+    "Yemen": {
+        "Bachelor's degree": 11,
+        "No formal education": 1,
+        "college/university without bachelor's degree": 1
+    },
+    "Zambia": {
+        "Bachelor's degree": 6,
+        "Secondary school": 2,
+        "college/university without bachelor's degree": 1
+    },
+    "Zimbabwe": {
+        "Associate degree": 1,
+        "Bachelor's degree": 15,
+        "Professional degree": 1,
+        "Secondary school": 6,
+        "college/university without bachelor's degree": 11
+    }
+}

@@ -1,0 +1,925 @@
+,Country,Monthly_Sal_EUR,EdLevel
+294,Netherlands,4036.8437999999996,Bachelor's degree
+435,Netherlands,4403.8296,Master's degree
+436,Netherlands,5137.8012,Bachelor's degree
+447,Netherlands,4110.0010999999995,college/university without bachelor's degree
+508,Netherlands,6018.0874,Master's degree
+664,Netherlands,7950.559466666667,Master's degree
+736,Netherlands,4403.8296,Bachelor's degree
+753,Netherlands,4110.0010999999995,Secondary school
+768,Netherlands,2446.3721166666664,college/university without bachelor's degree
+773,Netherlands,5504.287291666666,Bachelor's degree
+848,Netherlands,3669.858,Master's degree
+933,Netherlands,6458.2305,Master's degree
+977,Netherlands,660.8143,Secondary school
+1066,Netherlands,5137.301491666667,Bachelor's degree
+1152,Netherlands,2753.3929166666667,Associate degree
+1300,Netherlands,4843.9727,Bachelor's degree
+1315,Netherlands,4892.6442916666665,college/university without bachelor's degree
+1333,Netherlands,19570.577166666666,Master's degree
+1349,Netherlands,6164.402,Bachelor's degree
+1761,Netherlands,3522.3441000000003,Associate degree
+1799,Netherlands,5284.1158,Bachelor's degree
+1884,Netherlands,3260.8967,Master's degree
+2152,Netherlands,6018.0874,Bachelor's degree
+2198,Netherlands,4403.429833333334,Master's degree
+2257,Netherlands,733.9716,Bachelor's degree
+2276,Netherlands,8806.4599,Doctoral degree
+2341,Netherlands,5993.50175,Professional degree
+2394,Netherlands,6727.373408333333,Master's degree
+2417,Netherlands,4892.6442916666665,college/university without bachelor's degree
+2446,Netherlands,2877.1207,Master's degree
+2481,Netherlands,4439.8086,Bachelor's degree
+2651,Netherlands,7645.537499999999,Secondary school
+2937,Netherlands,3082.201,Bachelor's degree
+3130,Netherlands,4110.0010999999995,college/university without bachelor's degree
+3152,Netherlands,5871.7728,Bachelor's degree
+3421,Netherlands,4550.1442,Master's degree
+3545,Netherlands,3962.4872,Bachelor's degree
+3616,Netherlands,5137.8012,Bachelor's degree
+3633,Netherlands,4403.8296,college/university without bachelor's degree
+3638,Netherlands,6238.158949999999,Bachelor's degree
+3744,Netherlands,6727.373408333333,Bachelor's degree
+3876,Netherlands,2595.2852,college/university without bachelor's degree
+3967,Netherlands,7338.5167,Master's degree
+3986,Netherlands,4990.2873,college/university without bachelor's degree
+4024,Netherlands,8806.4599,Master's degree
+4049,Netherlands,3816.1726,Bachelor's degree
+4081,Netherlands,6348.194724999999,Bachelor's degree
+4210,Netherlands,11864.6749,Bachelor's degree
+4325,Netherlands,1027.8001,Bachelor's degree
+4552,Netherlands,3229.7149,college/university without bachelor's degree
+4827,Netherlands,3522.3441000000003,Bachelor's degree
+4868,Netherlands,4892.6442916666665,Bachelor's degree
+4927,Netherlands,2935.8864,college/university without bachelor's degree
+4971,Netherlands,3057.915175,Bachelor's degree
+5019,Netherlands,4403.8296,Bachelor's degree
+5021,Netherlands,2568.9006,Master's degree
+5027,Netherlands,9296.074125,Professional degree
+5289,Netherlands,8562.102524999998,Bachelor's degree
+5306,Netherlands,4403.8296,Bachelor's degree
+5446,Netherlands,7338.5167,Secondary school
+5545,Netherlands,5724.258900000001,Bachelor's degree
+5592,Netherlands,5284.1158,Secondary school
+5692,Netherlands,3302.8722,Bachelor's degree
+5709,Netherlands,2201.9148,Bachelor's degree
+5780,Netherlands,2642.0579,Bachelor's degree
+5787,Netherlands,3229.7149,Bachelor's degree
+5890,Netherlands,4597.116783333333,Bachelor's degree
+5996,Netherlands,7999.331,Bachelor's degree
+6034,Netherlands,263.846,Secondary school
+6049,Netherlands,7300.538866666667,Master's degree
+6210,Netherlands,6727.373408333333,Bachelor's degree
+6235,Netherlands,7950.559466666667,Master's degree
+6238,Netherlands,4843.9727,Master's degree
+6360,Netherlands,3743.0153,Bachelor's degree
+6655,Netherlands,5785.523141666667,Bachelor's degree
+6669,Netherlands,4183.1584,Bachelor's degree
+7013,Netherlands,7221.8847749999995,Bachelor's degree
+7051,Netherlands,4077.2202333333335,Master's degree
+7189,Netherlands,4329.473,college/university without bachelor's degree
+7354,Netherlands,3229.7149,Bachelor's degree
+7418,Netherlands,3669.858,Master's degree
+7434,Netherlands,733.9716,Secondary school
+7506,Netherlands,8072.488299999999,Master's degree
+7656,Netherlands,11993.0,Bachelor's degree
+7742,Netherlands,5577.9443,Bachelor's degree
+7812,Netherlands,5626.515949999999,Master's degree
+7844,Netherlands,733.9716,Secondary school
+7849,Netherlands,3596.7007,Associate degree
+7945,Netherlands,4501.272725,Master's degree
+7983,Netherlands,4281.101233333333,Bachelor's degree
+7999,Netherlands,4183.1584,Bachelor's degree
+8012,Netherlands,7338.5167,Doctoral degree
+8080,Netherlands,3229.7149,college/university without bachelor's degree
+8122,Netherlands,3180.243775,Bachelor's degree
+8224,Netherlands,3816.1726,Bachelor's degree
+8339,Netherlands,7926.073758333333,Bachelor's degree
+8589,Netherlands,5871.7728,Bachelor's degree
+8662,Netherlands,5871.7728,Bachelor's degree
+8778,Netherlands,4843.9727,Associate degree
+9016,Netherlands,8256.380966666666,Master's degree
+9066,Netherlands,6311.9159,Bachelor's degree
+9192,Netherlands,4623.3015,college/university without bachelor's degree
+9280,Netherlands,9394.116899999999,Master's degree
+9287,Netherlands,3715.4314,Secondary school
+9359,Netherlands,8317.545266666666,Master's degree
+9399,Netherlands,2935.8864,Associate degree
+9595,Netherlands,7705.902266666666,Bachelor's degree
+9620,Netherlands,6091.2447,Bachelor's degree
+9674,Netherlands,8562.102524999998,Doctoral degree
+9729,Netherlands,2935.8864,Bachelor's degree
+9913,Netherlands,2773.9808999999996,Secondary school
+9990,Netherlands,6385.0732,Bachelor's degree
+10001,Netherlands,10763.817441666666,Bachelor's degree
+10275,Netherlands,5137.8012,college/university without bachelor's degree
+10281,Netherlands,17124.304991666664,Bachelor's degree
+10413,Netherlands,5504.287291666666,Secondary school
+10469,Netherlands,2348.2294,Master's degree
+10522,Netherlands,4403.8296,college/university without bachelor's degree
+10607,Netherlands,3229.7149,Bachelor's degree
+10634,Netherlands,5350.0773,Master's degree
+10636,Netherlands,7339.016408333333,Master's degree
+10657,Netherlands,4892.6442916666665,Bachelor's degree
+10682,Netherlands,3889.3298999999997,Bachelor's degree
+10980,Netherlands,5014.972891666666,Bachelor's degree
+11059,Netherlands,3816.1726,Associate degree
+11069,Netherlands,3401.2148,college/university without bachelor's degree
+11078,Netherlands,5504.287291666666,Master's degree
+11107,Netherlands,5137.301491666667,Bachelor's degree
+11125,Netherlands,4892.6442916666665,Master's degree
+11245,Netherlands,7950.559466666667,Doctoral degree
+11287,Netherlands,3499.5574,Bachelor's degree
+11297,Netherlands,8562.102524999998,Master's degree
+11450,Netherlands,5504.287291666666,college/university without bachelor's degree
+11604,Netherlands,7705.902266666666,Doctoral degree
+11921,Netherlands,3874.9383000000003,Master's degree
+12054,Netherlands,4256.3157,Master's degree
+12073,Netherlands,3669.858,Secondary school
+12263,Netherlands,2201.714916666667,Bachelor's degree
+12333,Netherlands,4550.1442,No formal education
+12487,Netherlands,5328.4899,Bachelor's degree
+12518,Netherlands,3185.3408,college/university without bachelor's degree
+12690,Netherlands,5871.7728,Bachelor's degree
+12849,Netherlands,3229.7149,Master's degree
+12854,Netherlands,5137.301491666667,Bachelor's degree
+12935,Netherlands,7339.016408333333,Bachelor's degree
+12943,Netherlands,5504.287291666666,Bachelor's degree
+13224,Netherlands,5748.84455,Master's degree
+13277,Netherlands,4403.429833333334,college/university without bachelor's degree
+13304,Netherlands,4329.473,college/university without bachelor's degree
+13337,Netherlands,6238.158949999999,Bachelor's degree
+13515,Netherlands,7339.016408333333,Bachelor's degree
+13567,Netherlands,4403.8296,Master's degree
+13581,Netherlands,5626.515949999999,Master's degree
+13697,Netherlands,5871.7728,college/university without bachelor's degree
+13771,Netherlands,3743.0153,Bachelor's degree
+13815,Netherlands,4403.429833333334,Bachelor's degree
+13892,Netherlands,6385.0732,college/university without bachelor's degree
+13992,Netherlands,4696.4588,Bachelor's degree
+14072,Netherlands,4892.6442916666665,Master's degree
+14076,Netherlands,7601.962933333333,Master's degree
+14118,Netherlands,4036.8437999999996,Bachelor's degree
+14235,Netherlands,8562.102524999998,Master's degree
+14374,Netherlands,5577.9443,Bachelor's degree
+14488,Netherlands,4403.8296,Master's degree
+14532,Netherlands,7339.016408333333,Master's degree
+14635,Netherlands,4403.8296,Master's degree
+14657,Netherlands,6164.701825,Master's degree
+14659,Netherlands,4550.1442,Bachelor's degree
+14860,Netherlands,7339.016408333333,college/university without bachelor's degree
+15005,Netherlands,6164.701825,Bachelor's degree
+15126,Netherlands,6115.83035,Master's degree
+15127,Netherlands,6972.030608333333,Master's degree
+15241,Netherlands,4968.400075,Master's degree
+15412,Netherlands,5284.1158,Associate degree
+15449,Netherlands,7265.359399999999,Master's degree
+15521,Netherlands,5430.430399999999,Bachelor's degree
+15580,Netherlands,5394.151575,Bachelor's degree
+15611,Netherlands,8439.873866666667,Doctoral degree
+15734,Netherlands,489.71416666666664,Associate degree
+15736,Netherlands,7461.345008333334,Bachelor's degree
+15783,Netherlands,5871.7728,Professional degree
+15830,Netherlands,1761.7716999999998,Bachelor's degree
+15875,Netherlands,6604.5451,college/university without bachelor's degree
+15965,Netherlands,5724.258900000001,Master's degree
+16179,Netherlands,5137.8012,Secondary school
+16188,Netherlands,2788.3725,Associate degree
+16261,Netherlands,5430.430399999999,Bachelor's degree
+16271,Netherlands,4256.3157,Bachelor's degree
+16382,Netherlands,4755.624266666667,Bachelor's degree
+16398,Netherlands,1761.7716999999998,Primary/elementary school
+16432,Netherlands,4550.1442,Bachelor's degree
+16501,Netherlands,5958.522166666667,Bachelor's degree
+16556,Netherlands,4403.8296,Master's degree
+16561,Netherlands,7338.5167,Master's degree
+16568,Netherlands,6164.402,Bachelor's degree
+16615,Netherlands,6604.5451,Bachelor's degree
+16626,Netherlands,4129.889491666667,Bachelor's degree
+16699,Netherlands,7950.559466666667,Master's degree
+16956,Netherlands,6115.83035,Bachelor's degree
+16968,Netherlands,6115.83035,Bachelor's degree
+17027,Netherlands,6311.9159,Bachelor's degree
+17116,Netherlands,2773.9808999999996,Associate degree
+17139,Netherlands,5871.17315,Bachelor's degree
+17186,Netherlands,4256.3157,Bachelor's degree
+17211,Netherlands,3522.3441000000003,Bachelor's degree
+17640,Netherlands,14066.389816666666,Bachelor's degree
+17741,Netherlands,2421.3867,Bachelor's degree
+17753,Netherlands,2348.2294,Bachelor's degree
+17811,Netherlands,5871.7728,Master's degree
+17922,Netherlands,7339.016408333333,Master's degree
+18034,Netherlands,4403.8296,Master's degree
+18050,Netherlands,7339.016408333333,Bachelor's degree
+18130,Netherlands,5724.358841666666,Bachelor's degree
+18142,Netherlands,3013.8408999999997,college/university without bachelor's degree
+18203,Netherlands,2935.8864,college/university without bachelor's degree
+18209,Netherlands,880.2862,college/university without bachelor's degree
+18235,Netherlands,5871.7728,Bachelor's degree
+18307,Netherlands,13454.846758333333,Bachelor's degree
+18368,Netherlands,4843.9727,Bachelor's degree
+18398,Netherlands,5871.17315,Master's degree
+18531,Netherlands,8562.102524999998,Bachelor's degree
+18543,Netherlands,6115.83035,college/university without bachelor's degree
+18610,Netherlands,28.7832,Secondary school
+18666,Netherlands,7926.1737,Master's degree
+18882,Netherlands,5381.958691666667,Bachelor's degree
+18889,Netherlands,4036.8437999999996,Master's degree
+18915,Netherlands,4696.4588,Bachelor's degree
+19020,Netherlands,4892.6442916666665,Master's degree
+19035,Netherlands,7339.016408333333,Master's degree
+19099,Netherlands,5137.8012,Bachelor's degree
+19176,Netherlands,5797.4162,Bachelor's degree
+19279,Netherlands,5014.972891666666,Bachelor's degree
+19318,Netherlands,2348.2294,Bachelor's degree
+19323,Netherlands,5626.515949999999,Bachelor's degree
+19406,Netherlands,6605.044808333333,Master's degree
+19687,Netherlands,11008.474641666668,Master's degree
+19993,Netherlands,6605.044808333333,Bachelor's degree
+20064,Netherlands,5871.7728,Bachelor's degree
+20261,Netherlands,4990.2873,Bachelor's degree
+20539,Netherlands,6311.9159,Bachelor's degree
+20627,Netherlands,5932.9371,Bachelor's degree
+20636,Netherlands,7583.573666666667,Bachelor's degree
+20707,Netherlands,4036.8437999999996,Bachelor's degree
+20714,Netherlands,6115.83035,Bachelor's degree
+20766,Netherlands,6482.81615,Bachelor's degree
+20820,Netherlands,5577.9443,Bachelor's degree
+20853,Netherlands,4110.0010999999995,Master's degree
+21283,Netherlands,6018.0874,Bachelor's degree
+21367,Netherlands,5137.8012,Associate degree
+21395,Netherlands,3522.3441000000003,Bachelor's degree
+21696,Netherlands,6115.83035,Bachelor's degree
+21751,Netherlands,4411.0253999999995,Bachelor's degree
+21848,Netherlands,4403.8296,Bachelor's degree
+21974,Netherlands,6816.421433333333,Bachelor's degree
+22037,Netherlands,9173.745524999998,Master's degree
+22278,Netherlands,6898.673424999999,Master's degree
+22578,Netherlands,4403.429833333334,Bachelor's degree
+22582,Netherlands,3816.1726,Bachelor's degree
+22601,Netherlands,4990.2873,Bachelor's degree
+22739,Netherlands,880.2862,Bachelor's degree
+22740,Netherlands,6115.83035,Bachelor's degree
+22927,Netherlands,4402.430416666666,Bachelor's degree
+23069,Netherlands,7950.559466666667,college/university without bachelor's degree
+23131,Netherlands,4696.4588,Master's degree
+23193,Netherlands,3816.1726,Bachelor's degree
+23263,Netherlands,4158.772633333333,Master's degree
+23411,Netherlands,4892.6442916666665,Bachelor's degree
+23588,Netherlands,5724.258900000001,Master's degree
+23696,Netherlands,6727.373408333333,Bachelor's degree
+23853,Netherlands,4892.6442916666665,college/university without bachelor's degree
+23937,Netherlands,4550.1442,Bachelor's degree
+24149,Netherlands,7338.5167,Bachelor's degree
+24186,Netherlands,2642.0579,Secondary school
+24249,Netherlands,7339.016408333333,Bachelor's degree
+24287,Netherlands,7101.0553,Master's degree
+24448,Netherlands,4647.987091666666,Master's degree
+24539,Netherlands,6311.9159,Master's degree
+24671,Netherlands,8867.924025,Master's degree
+24711,Netherlands,5871.7728,college/university without bachelor's degree
+24750,Netherlands,3962.4872,Bachelor's degree
+24765,Netherlands,5137.8012,Bachelor's degree
+24839,Netherlands,4036.8437999999996,Secondary school
+24992,Netherlands,3449.1868,Bachelor's degree
+25076,Netherlands,6115.83035,Master's degree
+25093,Netherlands,3302.572375,Secondary school
+25159,Netherlands,6311.9159,Bachelor's degree
+25213,Netherlands,12231.6607,Bachelor's degree
+25292,Netherlands,3057.915175,Secondary school
+25327,Netherlands,3816.1726,Master's degree
+25585,Netherlands,2495.7433,college/university without bachelor's degree
+25664,Netherlands,6604.5451,Bachelor's degree
+26249,Netherlands,4256.3157,Bachelor's degree
+26285,Netherlands,7339.016408333333,Bachelor's degree
+26479,Netherlands,611.5430583333333,Secondary school
+26619,Netherlands,7950.559466666667,Bachelor's degree
+26630,Netherlands,6972.030608333333,Master's degree
+26772,Netherlands,675.2058999999999,Secondary school
+26889,Netherlands,7950.559466666667,Bachelor's degree
+26903,Netherlands,3816.1726,Master's degree
+26922,Netherlands,3302.8722,Associate degree
+27213,Netherlands,7015.905,college/university without bachelor's degree
+27408,Netherlands,8512.6314,Master's degree
+27412,Netherlands,4425.4169999999995,Bachelor's degree
+27464,Netherlands,8072.888066666666,Bachelor's degree
+27561,Netherlands,7705.902266666666,college/university without bachelor's degree
+27603,Netherlands,6727.373408333333,Bachelor's degree
+27906,Netherlands,5137.8012,Master's degree
+27927,Netherlands,8806.759725,Master's degree
+27954,Netherlands,8806.759725,Bachelor's degree
+27961,Netherlands,6360.48755,Bachelor's degree
+28144,Netherlands,733.8716583333332,college/university without bachelor's degree
+28314,Netherlands,7338.5167,Master's degree
+28352,Netherlands,6727.373408333333,Master's degree
+28392,Netherlands,7461.345008333334,Bachelor's degree
+28411,Netherlands,7094.359208333333,Master's degree
+28460,Netherlands,7635.243508333333,Secondary school
+28463,Netherlands,4525.658491666667,Master's degree
+28487,Netherlands,880.2862,Associate degree
+28604,Netherlands,6727.373408333333,Bachelor's degree
+28810,Netherlands,1908.0863,college/university without bachelor's degree
+28820,Netherlands,3155.3583,Bachelor's degree
+29047,Netherlands,6727.373408333333,college/university without bachelor's degree
+29150,Netherlands,9785.288583333333,Master's degree
+29279,Netherlands,5577.9443,Bachelor's degree
+29286,Netherlands,5871.7728,Bachelor's degree
+29420,Netherlands,8195.216666666667,Master's degree
+29493,Netherlands,8195.216666666667,Primary/elementary school
+29601,Netherlands,3669.858,Master's degree
+29628,Netherlands,5379.560091666666,Master's degree
+29923,Netherlands,5137.8012,Master's degree
+29990,Netherlands,3376.0294999999996,Master's degree
+29993,Netherlands,4036.444033333333,Bachelor's degree
+30019,Netherlands,6898.3736,Master's degree
+30038,Netherlands,2935.8864,Master's degree
+30054,Netherlands,7950.559466666667,Master's degree
+30073,Netherlands,5137.8012,Bachelor's degree
+30187,Netherlands,3669.4582333333333,Master's degree
+30205,Netherlands,4696.4588,Master's degree
+30372,Netherlands,1712.4005166666666,Bachelor's degree
+30477,Netherlands,3449.286741666667,college/university without bachelor's degree
+30568,Netherlands,8072.888066666666,Bachelor's degree
+30869,Netherlands,5137.8012,Associate degree
+30891,Netherlands,3669.858,Master's degree
+30893,Netherlands,11008.474641666668,Master's degree
+31037,Netherlands,3669.4582333333333,Associate degree
+31040,Netherlands,5748.84455,college/university without bachelor's degree
+31141,Netherlands,8562.102524999998,Associate degree
+31467,Netherlands,13454.846758333333,college/university without bachelor's degree
+31526,Netherlands,5626.515949999999,Secondary school
+31538,Netherlands,4892.6442916666665,Master's degree
+31778,Netherlands,4608.110366666667,Bachelor's degree
+31857,Netherlands,7995.333333333333,Primary/elementary school
+31891,Netherlands,5745.846299999999,Secondary school
+31898,Netherlands,5137.8012,Bachelor's degree
+31991,Netherlands,7705.902266666666,Master's degree
+32119,Netherlands,2348.2294,college/university without bachelor's degree
+32238,Netherlands,5381.958691666667,Bachelor's degree
+32250,Netherlands,5577.9443,Bachelor's degree
+32363,Netherlands,8562.102524999998,Bachelor's degree
+32672,Netherlands,587.6569999999999,Associate degree
+32862,Netherlands,6752.058999999999,Professional degree
+32863,Netherlands,11008.474641666668,Master's degree
+33010,Netherlands,5883.465975,Master's degree
+33096,Netherlands,4281.101233333333,Master's degree
+33141,Netherlands,9418.402725,Bachelor's degree
+33205,Netherlands,3522.3441000000003,Bachelor's degree
+33272,Netherlands,6115.83035,Master's degree
+33293,Netherlands,5577.9443,Master's degree
+33607,Netherlands,4403.429833333334,Master's degree
+33688,Netherlands,440.1431,Secondary school
+33956,Netherlands,8385.405658333333,college/university without bachelor's degree
+34042,Netherlands,4464.594133333333,Master's degree
+34164,Netherlands,5871.7728,college/university without bachelor's degree
+34210,Netherlands,4110.0010999999995,Bachelor's degree
+34345,Netherlands,6482.81615,Bachelor's degree
+34409,Netherlands,3155.3583,Master's degree
+34414,Netherlands,4888.346799999999,Bachelor's degree
+34610,Netherlands,5724.258900000001,Secondary school
+34677,Netherlands,3669.858,Bachelor's degree
+34745,Netherlands,6229.1642,Bachelor's degree
+34821,Netherlands,8072.888066666666,Master's degree
+34931,Netherlands,2495.7433,college/university without bachelor's degree
+34968,Netherlands,2436.9776,Associate degree
+34987,Netherlands,8317.545266666666,Bachelor's degree
+35046,Netherlands,440.1431,Secondary school
+35134,Netherlands,4256.3157,Bachelor's degree
+35268,Netherlands,10029.945783333333,Master's degree
+35465,Netherlands,7339.016408333333,Bachelor's degree
+35491,Netherlands,5504.287291666666,Bachelor's degree
+35658,Netherlands,6727.373408333333,Bachelor's degree
+35722,Netherlands,3522.3441000000003,Master's degree
+35741,Netherlands,5357.2731,Bachelor's degree
+35768,Netherlands,5430.430399999999,Master's degree
+35797,Netherlands,7339.016408333333,Bachelor's degree
+35824,Netherlands,4403.8296,Bachelor's degree
+35870,Netherlands,7094.359208333333,Master's degree
+35876,Netherlands,6849.702008333334,Bachelor's degree
+35905,Netherlands,3229.7149,Bachelor's degree
+35943,Netherlands,16023.447533333334,Secondary school
+36072,Netherlands,2715.2151999999996,No formal education
+36116,Netherlands,5137.8012,Bachelor's degree
+36149,Netherlands,4110.0010999999995,Bachelor's degree
+36163,Netherlands,5504.287291666666,college/university without bachelor's degree
+36446,Netherlands,4770.315691666667,Master's degree
+36674,Netherlands,3058.215,Bachelor's degree
+36782,Netherlands,7950.559466666667,Master's degree
+36783,Netherlands,10396.931583333333,Bachelor's degree
+36807,Netherlands,3522.3441000000003,Bachelor's degree
+37283,Netherlands,587.6569999999999,Secondary school
+37289,Netherlands,8317.545266666666,Master's degree
+37300,Netherlands,4623.3015,Secondary school
+37372,Netherlands,5137.8012,Bachelor's degree
+37530,Netherlands,7339.016408333333,Master's degree
+37720,Netherlands,6115.83035,Bachelor's degree
+37785,Netherlands,8072.488299999999,Secondary school
+37813,Netherlands,4256.3157,Bachelor's degree
+37824,Netherlands,2935.8864,Bachelor's degree
+38017,Netherlands,12231.6607,Master's degree
+38039,Netherlands,4653.284,Bachelor's degree
+38114,Netherlands,6849.702008333334,Bachelor's degree
+38178,Netherlands,7926.1737,Associate degree
+38182,Netherlands,8195.216666666667,Master's degree
+38352,Netherlands,5430.430399999999,Bachelor's degree
+38372,Netherlands,3669.858,Secondary school
+38485,Netherlands,1174.1147,Associate degree
+38543,Netherlands,8195.216666666667,Bachelor's degree
+38557,Netherlands,1590.0719166666668,Secondary school
+38617,Netherlands,9606.692825,Master's degree
+38856,Netherlands,3302.8722,college/university without bachelor's degree
+38874,Netherlands,10029.945783333333,Bachelor's degree
+38912,Netherlands,6727.373408333333,Bachelor's degree
+39190,Netherlands,6360.48755,Master's degree
+39292,Netherlands,6115.83035,Master's degree
+39516,Netherlands,4990.2873,Bachelor's degree
+39517,Netherlands,1174.1147,Secondary school
+39544,Netherlands,4403.8296,Master's degree
+39625,Netherlands,7853.0164,Master's degree
+39702,Netherlands,4403.429833333334,college/university without bachelor's degree
+39728,Netherlands,7338.5167,Master's degree
+39811,Netherlands,3434.5953166666663,Bachelor's degree
+39891,Netherlands,4721.444216666667,Bachelor's degree
+39907,Netherlands,8072.888066666666,Bachelor's degree
+39991,Netherlands,7461.345008333334,Master's degree
+40026,Netherlands,5137.301491666667,Bachelor's degree
+40383,Netherlands,3057.915175,Master's degree
+40453,Netherlands,10519.160241666666,Master's degree
+40485,Netherlands,7397.6821666666665,Bachelor's degree
+40826,Netherlands,4403.429833333334,Bachelor's degree
+40896,Netherlands,5504.287291666666,college/university without bachelor's degree
+40911,Netherlands,7045.387791666666,college/university without bachelor's degree
+41007,Netherlands,8806.759725,Master's degree
+41180,Netherlands,4403.8296,Associate degree
+41282,Netherlands,2818.355,Secondary school
+41301,Netherlands,7583.573666666667,Bachelor's degree
+41304,Netherlands,11008.474641666668,Bachelor's degree
+41378,Netherlands,8562.102524999998,Master's degree
+41561,Netherlands,3816.1726,Bachelor's degree
+41633,Netherlands,9173.745524999998,Bachelor's degree
+41649,Netherlands,5748.84455,Master's degree
+41654,Netherlands,9173.745524999998,Master's degree
+41748,Netherlands,4158.772633333333,college/university without bachelor's degree
+41805,Netherlands,3962.4872,Master's degree
+41828,Netherlands,8072.488299999999,college/university without bachelor's degree
+41952,Netherlands,4110.0010999999995,college/university without bachelor's degree
+41994,Netherlands,3603.8965,Bachelor's degree
+42100,Netherlands,4529.15645,college/university without bachelor's degree
+42159,Netherlands,7339.016408333333,Doctoral degree
+42360,Netherlands,7338.5167,Master's degree
+42411,Netherlands,2935.8864,Associate degree
+42425,Netherlands,6115.83035,Doctoral degree
+42445,Netherlands,4403.8296,college/university without bachelor's degree
+42453,Netherlands,4403.8296,Bachelor's degree
+42565,Netherlands,4403.8296,Master's degree
+43052,Netherlands,8072.888066666666,Bachelor's degree
+43101,Netherlands,6458.2305,Master's degree
+43276,Netherlands,3522.3441000000003,Master's degree
+43418,Netherlands,5381.958691666667,Master's degree
+43517,Netherlands,5993.50175,Master's degree
+43559,Netherlands,5063.4446,Master's degree
+43668,Netherlands,3816.1726,Bachelor's degree
+43743,Netherlands,4110.0010999999995,Bachelor's degree
+43856,Netherlands,4403.8296,Bachelor's degree
+44199,Netherlands,1614.2577999999999,Secondary school
+44210,Netherlands,5871.7728,Bachelor's degree
+44472,Netherlands,3587.1063,Bachelor's degree
+44525,Netherlands,5381.958691666667,Bachelor's degree
+44636,Netherlands,9785.288583333333,Master's degree
+44751,Netherlands,5137.301491666667,Master's degree
+44787,Netherlands,5014.972891666666,Bachelor's degree
+44790,Netherlands,13454.846758333333,Master's degree
+44979,Netherlands,3778.9943000000003,Bachelor's degree
+45022,Netherlands,3449.1868,Secondary school
+45038,Netherlands,5748.84455,Bachelor's degree
+45104,Netherlands,4990.2873,Master's degree
+45141,Netherlands,3596.7007,Bachelor's degree
+45304,Netherlands,4696.958508333333,Bachelor's degree
+45402,Netherlands,3376.0294999999996,college/university without bachelor's degree
+45404,Netherlands,6604.5451,Bachelor's degree
+45441,Netherlands,3962.4872,Bachelor's degree
+45468,Netherlands,8806.4599,Bachelor's degree
+45815,Netherlands,7339.016408333333,Bachelor's degree
+45817,Netherlands,8366.3168,college/university without bachelor's degree
+45913,Netherlands,587.6569999999999,Bachelor's degree
+45928,Netherlands,9785.288583333333,Master's degree
+45930,Netherlands,7950.559466666667,Master's degree
+45986,Netherlands,2935.8864,Master's degree
+46236,Netherlands,6727.373408333333,Secondary school
+46255,Netherlands,4770.8153999999995,Bachelor's degree
+46271,Netherlands,5993.50175,Master's degree
+46286,Netherlands,4525.658491666667,Master's degree
+46306,Netherlands,9785.288583333333,Master's degree
+46382,Netherlands,7339.016408333333,Master's degree
+46421,Netherlands,7448.8523,college/university without bachelor's degree
+46555,Netherlands,5381.958691666667,Secondary school
+46571,Netherlands,3669.4582333333333,Master's degree
+46644,Netherlands,8684.431125,Master's degree
+46648,Netherlands,6123.6258,college/university without bachelor's degree
+46691,Netherlands,7338.5167,college/university without bachelor's degree
+46778,Netherlands,6311.9159,Bachelor's degree
+46928,Netherlands,4345.0639,Bachelor's degree
+46965,Netherlands,5944.9301,Master's degree
+47060,Netherlands,7559.187900000001,Bachelor's degree
+47069,Netherlands,9353.3407,college/university without bachelor's degree
+47193,Netherlands,5137.8012,Bachelor's degree
+47212,Netherlands,10274.4031,Bachelor's degree
+47301,Netherlands,11008.3747,Bachelor's degree
+47305,Netherlands,6482.81615,Master's degree
+47503,Netherlands,7339.016408333333,Master's degree
+47545,Netherlands,7779.8591,Bachelor's degree
+47567,Netherlands,5504.287291666666,Associate degree
+47751,Netherlands,4281.101233333333,Bachelor's degree
+47787,Netherlands,7950.559466666667,Bachelor's degree
+47835,Netherlands,4329.473,college/university without bachelor's degree
+47839,Netherlands,5284.1158,Bachelor's degree
+47842,Netherlands,3669.858,Bachelor's degree
+47908,Netherlands,6604.5451,college/university without bachelor's degree
+47996,Netherlands,5284.1158,Bachelor's degree
+48034,Netherlands,7950.559466666667,Master's degree
+48117,Netherlands,3522.3441000000003,Bachelor's degree
+48193,Netherlands,4990.2873,Master's degree
+48316,Netherlands,3852.951133333333,Bachelor's degree
+48375,Netherlands,7339.016408333333,Bachelor's degree
+48405,Netherlands,5504.787,Bachelor's degree
+48682,Netherlands,7094.359208333333,college/university without bachelor's degree
+48827,Netherlands,11008.474641666668,Bachelor's degree
+48922,Netherlands,5284.1158,Master's degree
+48931,Netherlands,7265.559283333333,Bachelor's degree
+48935,Netherlands,2935.8864,Bachelor's degree
+49194,Netherlands,2788.3725,college/university without bachelor's degree
+49242,Netherlands,6311.9159,Bachelor's degree
+49318,Netherlands,3999.6655,Bachelor's degree
+49364,Netherlands,4623.3015,Master's degree
+49540,Netherlands,5871.7728,Bachelor's degree
+49593,Netherlands,10396.931583333333,college/university without bachelor's degree
+49656,Netherlands,4220.3367,Bachelor's degree
+49675,Netherlands,5194.867891666667,Bachelor's degree
+50046,Netherlands,6605.044808333333,Bachelor's degree
+50089,Netherlands,4525.658491666667,Master's degree
+50146,Netherlands,5547.961799999999,Bachelor's degree
+50267,Netherlands,4696.4588,Bachelor's degree
+50386,Netherlands,4403.429833333334,college/university without bachelor's degree
+50448,Netherlands,4110.0010999999995,Bachelor's degree
+50526,Netherlands,3229.7149,college/university without bachelor's degree
+50808,Netherlands,5871.7728,Master's degree
+50813,Netherlands,8562.102524999998,Bachelor's degree
+50830,Netherlands,6678.501933333333,Master's degree
+50896,Netherlands,4183.1584,Master's degree
+51196,Netherlands,6727.373408333333,Master's degree
+51216,Netherlands,15289.575874999999,Doctoral degree
+51236,Netherlands,3229.7149,Bachelor's degree
+51291,Netherlands,12687.894408333334,Master's degree
+51384,Netherlands,3082.201,Associate degree
+51571,Netherlands,8562.102524999998,Master's degree
+51778,Netherlands,4403.8296,Associate degree
+51848,Netherlands,3229.7149,Associate degree
+51884,Netherlands,8317.545266666666,Bachelor's degree
+51912,Netherlands,6898.3736,Bachelor's degree
+52144,Netherlands,5504.287291666666,Master's degree
+52244,Netherlands,13087.860958333333,college/university without bachelor's degree
+52258,Netherlands,4623.3015,Bachelor's degree
+52278,Netherlands,10029.945783333333,Bachelor's degree
+52356,Netherlands,8562.102524999998,Master's degree
+52433,Netherlands,3082.201,college/university without bachelor's degree
+52767,Netherlands,6018.0874,college/university without bachelor's degree
+52882,Netherlands,4110.0010999999995,Bachelor's degree
+52991,Netherlands,8806.4599,Master's degree
+53034,Netherlands,6531.3878,Master's degree
+53068,Netherlands,7559.187900000001,Bachelor's degree
+53281,Netherlands,6727.373408333333,Master's degree
+53335,Netherlands,3082.201,Master's degree
+53458,Netherlands,8562.102524999998,Master's degree
+53704,Netherlands,2495.7433,Secondary school
+54006,Netherlands,6972.030608333333,Master's degree
+54110,Netherlands,3669.858,Associate degree
+54174,Netherlands,5284.1158,Master's degree
+54213,Netherlands,3743.0153,Secondary school
+54367,Netherlands,5137.8012,Master's degree
+54402,Netherlands,4843.9727,Bachelor's degree
+54413,Netherlands,2054.4008999999996,Secondary school
+54494,Netherlands,4696.4588,college/university without bachelor's degree
+54517,Netherlands,3522.3441000000003,college/university without bachelor's degree
+54900,Netherlands,5284.1158,Bachelor's degree
+55082,Netherlands,8562.102524999998,college/university without bachelor's degree
+55091,Netherlands,6360.48755,Bachelor's degree
+55228,Netherlands,9173.745524999998,Bachelor's degree
+55515,Netherlands,3404.8126999999995,college/university without bachelor's degree
+55641,Netherlands,5871.7728,Master's degree
+55692,Netherlands,3082.201,Bachelor's degree
+56220,Netherlands,3912.71625,Secondary school
+56568,Netherlands,3522.3441000000003,college/university without bachelor's degree
+56591,Netherlands,12231.6607,Master's degree
+56607,Netherlands,8317.545266666666,Secondary school
+56622,Netherlands,7950.559466666667,college/university without bachelor's degree
+56676,Netherlands,3287.2812999999996,Secondary school
+56865,Netherlands,513.3004,college/university without bachelor's degree
+56953,Netherlands,733.9716,college/university without bachelor's degree
+57084,Netherlands,5430.430399999999,Master's degree
+57203,Netherlands,4403.429833333334,Bachelor's degree
+57207,Netherlands,660.8143,Secondary school
+57549,Netherlands,3816.1726,Bachelor's degree
+57593,Netherlands,8684.431125,Bachelor's degree
+57813,Netherlands,8562.102524999998,Bachelor's degree
+57845,Netherlands,4281.101233333333,Bachelor's degree
+58092,Netherlands,3669.858,college/university without bachelor's degree
+58143,Netherlands,5871.7728,college/university without bachelor's degree
+58303,Netherlands,6605.044808333333,Associate degree
+58415,Netherlands,8317.545266666666,Bachelor's degree
+58537,Netherlands,7632.3452,Master's degree
+58725,Netherlands,5577.9443,Associate degree
+58859,Netherlands,6605.044808333333,college/university without bachelor's degree
+58893,Netherlands,4403.8296,Bachelor's degree
+58911,Netherlands,8562.102524999998,college/university without bachelor's degree
+58986,Netherlands,6385.0732,Bachelor's degree
+59071,Netherlands,6115.83035,Bachelor's degree
+59090,Netherlands,5504.287291666666,Bachelor's degree
+59185,Netherlands,7339.016408333333,Doctoral degree
+59204,Netherlands,4110.0010999999995,Master's degree
+59321,Netherlands,3302.572375,Bachelor's degree
+59327,Netherlands,3889.3298999999997,Bachelor's degree
+59383,Netherlands,14677.932875,Primary/elementary school
+59467,Netherlands,7339.016408333333,Doctoral degree
+59572,Netherlands,5548.261625,Master's degree
+59673,Netherlands,3376.0294999999996,Bachelor's degree
+59786,Netherlands,6727.373408333333,Associate degree
+59840,Netherlands,8562.102524999998,Master's degree
+59844,Netherlands,9051.416925,Bachelor's degree
+59885,Netherlands,6604.5451,college/university without bachelor's degree
+59928,Netherlands,5225.3501,college/university without bachelor's degree
+59974,Netherlands,4843.9727,Master's degree
+60043,Netherlands,2531.7223,Associate degree
+60163,Netherlands,4892.6442916666665,Master's degree
+60270,Netherlands,2348.2294,Associate degree
+60302,Netherlands,6164.402,No formal education
+60326,Netherlands,4403.8296,Bachelor's degree
+60337,Netherlands,7094.359208333333,Bachelor's degree
+60365,Netherlands,3529.5399,Bachelor's degree
+60446,Netherlands,4256.3157,Bachelor's degree
+60472,Netherlands,2495.7433,Associate degree
+60503,Netherlands,5076.137191666667,Bachelor's degree
+60538,Netherlands,5577.9443,Bachelor's degree
+60614,Netherlands,3302.8722,Secondary school
+60679,Netherlands,9785.288583333333,Bachelor's degree
+60751,Netherlands,11742.3463,Bachelor's degree
+60761,Netherlands,6849.702008333334,Master's degree
+60843,Netherlands,4183.1584,Bachelor's degree
+60868,Netherlands,6164.402,Bachelor's degree
+60947,Netherlands,3376.0294999999996,Associate degree
+61152,Netherlands,6796.433099999999,college/university without bachelor's degree
+61262,Netherlands,4403.429833333334,Master's degree
+61367,Netherlands,8806.4599,Master's degree
+61414,Netherlands,7339.016408333333,Bachelor's degree
+61487,Netherlands,3229.11525,Bachelor's degree
+61495,Netherlands,7339.016408333333,Bachelor's degree
+61623,Netherlands,2877.1207,Bachelor's degree
+61752,Netherlands,1833.929583333333,Secondary school
+62007,Netherlands,7339.016408333333,Master's degree
+62144,Netherlands,7338.5167,Master's degree
+62538,Netherlands,5137.8012,Bachelor's degree
+62544,Netherlands,3106.187,Associate degree
+62601,Netherlands,6727.373408333333,Bachelor's degree
+62987,Netherlands,4256.3157,Bachelor's degree
+62998,Netherlands,4403.429833333334,Bachelor's degree
+63046,Netherlands,4990.2873,Bachelor's degree
+63119,Netherlands,2935.8864,Associate degree
+63124,Netherlands,11742.3463,Master's degree
+63170,Netherlands,6604.5451,Associate degree
+63246,Netherlands,5137.301491666667,Bachelor's degree
+63584,Netherlands,6314.614325,Master's degree
+63595,Netherlands,6971.5309,college/university without bachelor's degree
+63697,Netherlands,7635.243508333333,Bachelor's degree
+63751,Netherlands,7559.187900000001,Bachelor's degree
+63774,Netherlands,6605.044808333333,Associate degree
+63842,Netherlands,5797.815966666666,Bachelor's degree
+63871,Netherlands,3669.858,Bachelor's degree
+64001,Netherlands,5284.1158,Master's degree
+64060,Netherlands,5993.50175,Master's degree
+64245,Netherlands,3904.9208,Bachelor's degree
+64338,Netherlands,4403.8296,Secondary school
+64374,Netherlands,3962.4872,Bachelor's degree
+64555,Netherlands,8195.216666666667,Bachelor's degree
+64577,Netherlands,4403.8296,Bachelor's degree
+64649,Netherlands,10274.4031,Secondary school
+64672,Netherlands,8562.102524999998,Master's degree
+64710,Netherlands,6360.48755,Bachelor's degree
+64780,Netherlands,4403.8296,Bachelor's degree
+64796,Netherlands,1262.8629,Primary/elementary school
+65156,Netherlands,4872.7559,Master's degree
+65305,Netherlands,3962.4872,Bachelor's degree
+65388,Netherlands,7950.559466666667,college/university without bachelor's degree
+65404,Netherlands,880.2862,Bachelor's degree
+65454,Netherlands,8745.595425,Master's degree
+65474,Netherlands,4403.8296,college/university without bachelor's degree
+65484,Netherlands,4403.429833333334,Master's degree
+65518,Netherlands,7045.887500000001,college/university without bachelor's degree
+65555,Netherlands,4158.772633333333,Bachelor's degree
+65643,Netherlands,8562.102524999998,Master's degree
+65672,Netherlands,5504.287291666666,Bachelor's degree
+65680,Netherlands,3669.858,Secondary school
+65739,Netherlands,3962.4872,Bachelor's degree
+65838,Netherlands,6849.702008333334,college/university without bachelor's degree
+65967,Netherlands,7950.559466666667,college/university without bachelor's degree
+66115,Netherlands,4696.4588,Primary/elementary school
+66161,Netherlands,6214.7726,Bachelor's degree
+66233,Netherlands,6164.402,Associate degree
+66359,Netherlands,5198.4657916666665,Bachelor's degree
+66402,Netherlands,7767.066566666666,Master's degree
+66414,Netherlands,9173.745524999998,Bachelor's degree
+66419,Netherlands,7950.559466666667,Master's degree
+66436,Netherlands,3522.3441000000003,Associate degree
+66559,Netherlands,4843.9727,Secondary school
+66644,Netherlands,6604.5451,Master's degree
+66681,Netherlands,5748.84455,Bachelor's degree
+66694,Netherlands,6972.030608333333,Master's degree
+66778,Netherlands,7632.3452,Master's degree
+66929,Netherlands,3522.3441000000003,Bachelor's degree
+67014,Netherlands,1761.7716999999998,Bachelor's degree
+67030,Netherlands,6752.058999999999,college/university without bachelor's degree
+67098,Netherlands,4403.429833333334,Master's degree
+67211,Netherlands,733.9716,college/university without bachelor's degree
+67298,Netherlands,8317.545266666666,Master's degree
+67306,Netherlands,8195.216666666667,Bachelor's degree
+67338,Netherlands,9381.624191666666,Secondary school
+67361,Netherlands,4696.4588,Bachelor's degree
+67404,Netherlands,4525.658491666667,Master's degree
+67546,Netherlands,2348.2294,Bachelor's degree
+67758,Netherlands,587.6569999999999,Secondary school
+67891,Netherlands,5654.6995,Master's degree
+68092,Netherlands,4903.9377,Master's degree
+68222,Netherlands,6091.2447,Bachelor's degree
+68241,Netherlands,6115.83035,Bachelor's degree
+68566,Netherlands,5589.837358333332,Bachelor's degree
+68633,Netherlands,7705.902266666666,college/university without bachelor's degree
+68899,Netherlands,5137.8012,Doctoral degree
+68928,Netherlands,9785.288583333333,Master's degree
+68956,Netherlands,3816.1726,college/university without bachelor's degree
+69017,Netherlands,2550.9111,Bachelor's degree
+69085,Netherlands,14677.932875,Bachelor's degree
+69115,Netherlands,5284.1158,Doctoral degree
+69202,Netherlands,7559.187900000001,Bachelor's degree
+69233,Netherlands,5871.7728,Bachelor's degree
+69262,Netherlands,3229.7149,Master's degree
+69335,Netherlands,6482.81615,college/university without bachelor's degree
+69346,Netherlands,7950.559466666667,Master's degree
+69512,Netherlands,3376.0294999999996,Master's degree
+69583,Netherlands,5748.84455,Master's degree
+69693,Netherlands,1467.9432,Bachelor's degree
+69745,Netherlands,7047.386625,Master's degree
+69789,Netherlands,8929.088325,Secondary school
+69962,Netherlands,6752.058999999999,Master's degree
+69965,Netherlands,9173.745524999998,college/university without bachelor's degree
+70028,Netherlands,6214.7726,No formal education
+70117,Netherlands,2568.9006,college/university without bachelor's degree
+70304,Netherlands,3962.4872,Bachelor's degree
+70391,Netherlands,8072.888066666666,Secondary school
+70447,Netherlands,8929.088325,Bachelor's degree
+70465,Netherlands,8562.102524999998,Bachelor's degree
+70646,Netherlands,2935.8864,Master's degree
+70754,Netherlands,4281.101233333333,college/university without bachelor's degree
+70760,Netherlands,4183.1584,college/university without bachelor's degree
+70806,Netherlands,4696.4588,Associate degree
+71076,Netherlands,9540.631383333333,Master's degree
+71179,Netherlands,3632.6796999999997,Master's degree
+71234,Netherlands,5504.287291666666,Master's degree
+71274,Netherlands,7950.559466666667,Bachelor's degree
+71321,Netherlands,3376.0294999999996,Bachelor's degree
+71365,Netherlands,6238.158949999999,Master's degree
+71432,Netherlands,3057.915175,college/university without bachelor's degree
+71451,Netherlands,5504.287291666666,Bachelor's degree
+71539,Netherlands,18347.491049999997,Master's degree
+71546,Netherlands,9785.288583333333,college/university without bachelor's degree
+71575,Netherlands,8562.102524999998,Bachelor's degree
+71605,Netherlands,14677.932875,Master's degree
+71723,Netherlands,12231.6607,Bachelor's degree
+71736,Netherlands,1056.5833,Associate degree
+71888,Netherlands,587.6569999999999,Secondary school
+71919,Netherlands,10519.160241666666,Master's degree
+72013,Netherlands,1467.9432,college/university without bachelor's degree
+72016,Netherlands,4892.6442916666665,Bachelor's degree
+72110,Netherlands,4403.8296,college/university without bachelor's degree
+72162,Netherlands,1467.9432,Master's degree
+72252,Netherlands,8806.4599,Bachelor's degree
+72290,Netherlands,4403.429833333334,Bachelor's degree
+72550,Netherlands,7529.2054,Associate degree
+72572,Netherlands,6115.83035,Bachelor's degree
+72620,Netherlands,11008.474641666668,Bachelor's degree
+72781,Netherlands,3669.4582333333333,Master's degree
+72853,Netherlands,12231.6607,Bachelor's degree
+73130,Netherlands,9394.116899999999,college/university without bachelor's degree
+73188,Netherlands,4843.9727,Doctoral degree
+73196,Netherlands,2446.3721166666664,Master's degree
+73236,Netherlands,2642.0579,Associate degree
+73350,Netherlands,12231.6607,Associate degree
+73452,Netherlands,440.1431,Secondary school
+73537,Netherlands,220.6712,Secondary school
+73567,Netherlands,611.5430583333333,Associate degree
+73585,Netherlands,9785.288583333333,Doctoral degree
+73612,Netherlands,10396.931583333333,college/university without bachelor's degree
+73649,Netherlands,9173.745524999998,Bachelor's degree
+73716,Netherlands,9785.288583333333,college/university without bachelor's degree
+73800,Netherlands,6115.83035,Master's degree
+73869,Netherlands,14677.932875,Master's degree
+73935,Netherlands,979.4283333333333,Secondary school
+73941,Netherlands,5651.1016,college/university without bachelor's degree
+74320,Netherlands,18347.491049999997,college/university without bachelor's degree
+74392,Netherlands,18594.147083333333,Doctoral degree
+74641,Netherlands,12231.6607,Master's degree
+74776,Netherlands,880.2862,Secondary school
+74929,Netherlands,14678.2327,Master's degree
+74945,Netherlands,12231.6607,college/university without bachelor's degree
+75124,Netherlands,10274.4031,college/university without bachelor's degree
+75396,Netherlands,4892.6442916666665,college/university without bachelor's degree
+75481,Netherlands,12231.6607,Master's degree
+75604,Netherlands,19080.862999999998,Master's degree
+75621,Netherlands,6604.5451,Master's degree
+75736,Netherlands,9785.288583333333,Master's degree
+75789,Netherlands,5577.9443,college/university without bachelor's degree
+76107,Netherlands,2935.8864,Master's degree
+76154,Netherlands,1027.8001,Secondary school
+76165,Netherlands,11898.85495,Bachelor's degree
+76174,Netherlands,14678.2327,No formal education
+76192,Netherlands,19080.862999999998,Master's degree
+76195,Netherlands,7339.016408333333,Secondary school
+76203,Netherlands,4403.429833333334,Bachelor's degree
+76344,Netherlands,5626.515949999999,college/university without bachelor's degree
+76348,Netherlands,3962.4872,Doctoral degree
+76573,Netherlands,7094.359208333333,college/university without bachelor's degree
+76624,Netherlands,5284.1158,Bachelor's degree
+76830,Netherlands,5342.781558333333,Bachelor's degree
+77007,Netherlands,6385.0732,Master's degree
+77010,Netherlands,880.2862,Secondary school
+77073,Netherlands,5871.7728,Master's degree
+77144,Netherlands,11008.474641666668,Master's degree
+77219,Netherlands,7338.5167,Bachelor's degree
+77321,Netherlands,18347.491049999997,Bachelor's degree
+77359,Netherlands,13212.288333333332,Bachelor's degree
+77383,Netherlands,8806.4599,Master's degree
+77496,Netherlands,9785.288583333333,Secondary school
+77504,Netherlands,4892.6442916666665,college/university without bachelor's degree
+77549,Netherlands,11008.474641666668,Bachelor's degree
+77584,Netherlands,7950.559466666667,Master's degree
+77809,Netherlands,4281.101233333333,Master's degree
+77863,Netherlands,954.6428000000001,Secondary school
+78260,Netherlands,5259.630091666666,Bachelor's degree
+78419,Netherlands,6727.373408333333,Bachelor's degree
+78543,Netherlands,5871.7728,college/university without bachelor's degree
+78572,Netherlands,12231.6607,Doctoral degree
+78595,Netherlands,2935.8864,Bachelor's degree
+78656,Netherlands,4892.6442916666665,Bachelor's degree
+78677,Netherlands,8072.488299999999,Bachelor's degree
+78719,Netherlands,15289.575874999999,Master's degree
+78816,Netherlands,12231.6607,Bachelor's degree
+78843,Netherlands,1834.7291166666666,Doctoral degree
+78936,Netherlands,7339.016408333333,college/university without bachelor's degree
+79114,Netherlands,4990.2873,college/university without bachelor's degree
+79131,Netherlands,6898.3736,Master's degree
+79317,Netherlands,5137.301491666667,Bachelor's degree
+79333,Netherlands,8562.102524999998,Master's degree
+79506,Netherlands,14678.2327,Master's degree
+79508,Netherlands,11620.017699999999,Associate degree
+79536,Netherlands,14066.789583333333,Secondary school
+79575,Netherlands,15412.2043,Master's degree
+79621,Netherlands,6115.83035,Doctoral degree
+79663,Netherlands,4892.6442916666665,Bachelor's degree
+79708,Netherlands,12231.6607,Bachelor's degree
+79731,Netherlands,17614.1191,Bachelor's degree
+79759,Netherlands,10685.563116666666,college/university without bachelor's degree
+79797,Netherlands,4281.101233333333,Master's degree
+79995,Netherlands,2935.8864,college/university without bachelor's degree
+80078,Netherlands,2935.8864,Bachelor's degree
+80117,Netherlands,15901.118933333333,Bachelor's degree
+80144,Netherlands,16635.290416666667,Bachelor's degree
+80185,Netherlands,322.6117,Primary/elementary school
+80198,Netherlands,7.295741666666666,No formal education
+80202,Netherlands,6164.402,Bachelor's degree
+80229,Netherlands,9174.645,Master's degree
+80361,Netherlands,14677.932875,Bachelor's degree
+80388,Netherlands,9051.416925,Doctoral degree
+81192,Netherlands,733.9716,Bachelor's degree
+81402,Netherlands,4696.4588,Secondary school
+81495,Netherlands,244.6572,Secondary school
+81982,Netherlands,1761.7716999999998,college/university without bachelor's degree
+82163,Netherlands,366.9858,Secondary school
+82493,Netherlands,880.2862,Primary/elementary school
+82523,Netherlands,2935.8864,Bachelor's degree
+82797,Netherlands,144.91541666666666,Primary/elementary school
+83092,Netherlands,660.8143,Secondary school
+83135,Netherlands,528.8913,Secondary school
+84314,Netherlands,1100.9574,Master's degree
+84389,Netherlands,2935.8864,Primary/elementary school
+84813,Netherlands,1761.7716999999998,Master's degree
+85194,Netherlands,1795.3521,Bachelor's degree
+85546,Netherlands,6604.5451,college/university without bachelor's degree
+85576,Netherlands,7339.016408333333,Secondary school
+85796,Netherlands,7094.359208333333,Bachelor's degree
+85887,Netherlands,4403.8296,college/university without bachelor's degree
+86347,Netherlands,1174.1147,Secondary school
+86721,Netherlands,122.3286,Bachelor's degree
+86930,Netherlands,2958.273333333333,Bachelor's degree
+87951,Netherlands,440.1431,Secondary school
+87985,Netherlands,122.3286,Secondary school
+88008,Netherlands,660.8143,college/university without bachelor's degree
+88993,Netherlands,440.1431,Secondary school
+89461,Netherlands,1761.7716999999998,Secondary school
+89898,Netherlands,454.5347,Bachelor's degree

@@ -33,6 +33,7 @@ function fetchJSONFile(dataPathDataSetter) {
       });
   });
 }
+
 const handleCheckBoxChangeDataFethcer = (
   loadSateSetter,
   state,

@@ -3,6 +3,7 @@ import * as d3 from "d3";
 import React from "react";
 import VisaulisationWrapper from "../ui_components/visualisationWrapper/visualisationWrapper";
 
+// code reference => Borgen, P. H. (2019, September 12). Learn to create a bar chart with D3 - A tutorial for beginners. freeCodeCamp.Org. https://www.freecodecamp.org/news/how-to-create-your-first-bar-chart-with-d3-js-a0e8ea2df386/
 const AgeVisualisation = ({ data }) => {
   const ref = React.useRef();
 

@@ -320,7 +320,7 @@ const WorldMap = ({
       <br/>
       <a href="https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-1822023714.1648566697"
       style={{color: 'white'}}>
-        Stack Overflow Annual Developer Survey, 2021, https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-1822023714.1648566697
+        Datasets from Stack Overflow Annual Developer Survey: https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-1822023714.1648566697
         </a>
     </div>
   );

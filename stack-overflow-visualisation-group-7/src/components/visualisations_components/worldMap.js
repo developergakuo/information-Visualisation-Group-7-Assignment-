@@ -316,6 +316,12 @@ const WorldMap = ({
           Hover over country to see exact average income
         </text>
       </svg>
+      {/*Dataset source*/}
+      <br/>
+      <a href="https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-1822023714.1648566697"
+      style={{color: 'white'}}>
+        Stack Overflow Annual Developer Survey, 2021, https://insights.stackoverflow.com/survey?_ga=2.93265432.465840662.1648566697-1822023714.1648566697
+        </a>
     </div>
   );
 };

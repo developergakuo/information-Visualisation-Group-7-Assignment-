@@ -106,7 +106,7 @@ const EducationVsExperience = ({ country, year }) => {
             .append("text")
             .attr("class", "axis-label")
             .attr("transform", "rotate(-90)")
-            .text("Number of developers");
+            .text("Income (Euros per Month)");
 
           // Add Y axis
           var y = d3

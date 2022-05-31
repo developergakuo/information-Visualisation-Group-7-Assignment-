@@ -103,7 +103,7 @@ const IncomeVsExperience = ({ country, year }) => {
             .attr("class", "axis-label")
             .append("text")
             .attr("transform", "rotate(-90)")
-            .text("Number of developers");
+            .text("Income (Euros per Month)");
 
           //html Tooltip
           var tooltip = d3
